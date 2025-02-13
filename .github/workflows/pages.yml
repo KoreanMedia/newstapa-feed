@@ -10,7 +10,6 @@ on:
 
 env:
   CI: true
-
 jobs:
   publish-feeds:
     runs-on: ubuntu-20.04
@@ -31,32 +30,14 @@ jobs:
 
       - name: Deploy to GitHub Pages
         run: |
-          # Git 사용자 설정
           git config user.name "$GITHUB_ACTOR"
           git config user.email "$GITHUB_ACTOR@users.noreply.github.com"
-
-          # 원격 저장소 추가 및 최신 내용 가져오기
-          git remote add gh-pages-remote https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
+          git remote add gh-pages-remote https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
           git fetch --no-recurse-submodules
-
-          # 오래된 worktree 정보 정리
-          git worktree prune
-
-          # 기존에 './gh-pages' 디렉토리가 존재하면 강제로 제거합니다.
-          if [ -d "./gh-pages" ]; then
-            echo "기존의 ./gh-pages 디렉토리가 존재하므로 강제로 제거합니다."
-            git worktree remove -f ./gh-pages || rm -rf ./gh-pages
-          fi
-
-          # gh-pages worktree 추가
-          git worktree add ./gh-pages gh-pages
-
-          # gh-pages 디렉토리로 이동 후 파일 업데이트
+          git worktree add ./gh-pages gh-pages || (git worktree remove ./gh-pages && git worktree add ./gh-pages gh-pages)
           cd gh-pages
           git rm -r .
           cp -r ../public/. .
           git add .
           git commit --message="Deploying to GitHub Pages from $GITHUB_SHA"
           git push gh-pages-remote gh-pages:gh-pages
-        env:
-          GITHUB_REPOSITORY: ${{ github.repository }}
