@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 07:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 08:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] TK매체 내란보도 분석①: 극우 유튜브 같은 매일신문 칼럼 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/8-EQq</link>
+            <guid>http://newstapa.org/article/8-EQq</guid>
+            <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] TK매체 내란보도 분석①: 극우 유튜브 같은 매일신문 칼럼]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/17165618-A2A7-D914-6533-2ANEDKMMAKBM9ZD6Y0B3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["윤석열, 국방·안보 현안 다룬 유튜브 보내" 최측근 신원식 검찰 진술 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/_V8KK</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검경, 윤석열 핵심 측근 이상민 조준... 내란 관여 정황]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/07180100-A543-3662-16B5-C087SX2QHBAC5SDJFRO5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] ‘우리법 재판소’라는 프레임이 불러올 결과 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/F38ho</link>
-            <guid>http://newstapa.org/article/F38ho</guid>
-            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] ‘우리법 재판소’라는 프레임이 불러올 결과]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/04110641-10A6-106A-D8AA-UWB8Y3F8LU5SUR90Y5PN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["윤석열, 국방·안보 현안 다룬 유튜브 보내" 최측근 신원식 검찰 진술 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/07171926-E7C6-688C-2764-EBEYVWJJNG1IA89CXJRL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] TK매체 내란보도 분석①: 극우 유튜브 같은 매일신문 칼럼 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/8-EQq</link>
+            <guid>http://newstapa.org/article/8-EQq</guid>
+            <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] TK매체 내란보도 분석①: 극우 유튜브 같은 매일신문 칼럼]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/17165618-A2A7-D914-6533-2ANEDKMMAKBM9ZD6Y0B3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN]내란과 일본언론4: 주간후지, 공수처는 한국판 ‘게슈타포’ (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/-o_iM</link>
             <guid>http://newstapa.org/article/-o_iM</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 조선일보의 ‘신종 돈벌이’…‘조선몰’ 제품 광고 기사]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/18113156-15A8-B892-0ABA-ZU2ZZQYPNAVS1SPGT1CH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBC 고발 시민단체, 대통령실 김대남이 만들고 관리했다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/rkKmr</link>
-            <guid>http://newstapa.org/article/rkKmr</guid>
-            <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 고발 시민단체, 대통령실 김대남이 만들고 관리했다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/17223648-7A43-01EA-02C7-B8PP7HHD447IJRHY8806.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열의 내란 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3396,6 +3396,14 @@
             <content:encoded><![CDATA[지난해 12월 29일 발생한 '제주항공 여객기 참사'를 취재하기 위해 수많은 기자들이 무안국제공항에 모였습니다. 그동안 언론은 재난참사 현장에서 경쟁에 매몰돼 피해자의 인권을 무시하는 등 여러 비윤리적 행태를 보이며 비판받아 왔습니다.<br><br>이번에는 어떨까요. 무안공항에서 이번 참사를 취재하며 유가족 대표단과 언론의 모습을 바로 옆에서 지켜본 현장 취재기자는 ‘아직 부족하지만, 분명 나아진 점이 있다'고 평가했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/3M2Rx</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[KINN] TK매체 내란보도 분석①: 극우 유튜브 같은 매일신문 칼럼 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250217170505843</link>
+            <guid>https://v.daum.net/v/20250217170505843</guid>
+            <pubDate>Mon, 17 Feb 2025 08:27:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250217170505843" class="link_column" data-tiara-layer="[KINN]_TK매체_내란보도_분석①:_극우_유튜브_같은_매일신문_칼럼_alltab"><div class="cont_thumb"><strong class="tit_txt">[KINN] TK매체 내란보도 분석①: 극우 유튜브 같은 매일신문 칼럼</strong><span class="info_txt"><span class="txt_info">21분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F17%2Fnewstapa%2F20250217170507374mxvd.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F17%2Fnewstapa%2F20250217170507374mxvd.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA["윤석열, 국방·안보 현안 다룬 유튜브 보내" 최측근 신원식 검찰 진술 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250216093503726</link>
             <guid>https://v.daum.net/v/20250216093503726</guid>
@@ -3431,7 +3439,7 @@
             <link>https://v.daum.net/v/20250214170004206</link>
             <guid>https://v.daum.net/v/20250214170004206</guid>
             <pubDate>Fri, 14 Feb 2025 08:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250214170004206" class="link_column" data-tiara-layer="[변화]_뉴스타파X참여연대,_'대통령실_직원_명단_공개소송'_최종_승소..._첫_판례_확립_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화] 뉴스타파X참여연대, '대통령실 직원 명단 공개소송' 최종 승소... 첫 판례 확립</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F14%2Fnewstapa%2F20250214170005739srgy.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250214170004206" class="link_column" data-tiara-layer="[변화]_뉴스타파X참여연대,_'대통령실_직원_명단_공개소송'_최종_승소..._첫_판례_확립_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화] 뉴스타파X참여연대, '대통령실 직원 명단 공개소송' 최종 승소... 첫 판례 확립</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F14%2Fnewstapa%2F20250214170005739srgy.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F14%2Fnewstapa%2F20250214170005739srgy.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3495,7 +3503,7 @@
             <link>https://v.daum.net/v/20250212163503281</link>
             <guid>https://v.daum.net/v/20250212163503281</guid>
             <pubDate>Thu, 13 Feb 2025 10:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250212163503281" class="link_column" data-tiara-layer="[변화]_명품시계_밀수_면세점_전_대표,_법정_구속...뉴스타파_보도_5년_8개월만_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화] 명품시계 밀수 면세점 전 대표, 법정 구속...뉴스타파 보도 5년 8개월만</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250212163503281" class="link_column" data-tiara-layer="[변화]_명품시계_밀수_면세점_전_대표,_법정_구속...뉴스타파_보도_5년_8개월만_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화] 명품시계 밀수 면세점 전 대표, 법정 구속...뉴스타파 보도 5년 8개월만</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[윤석열 정권의 대통령기록을 온전하게 이관하자 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3620,14 +3628,6 @@
             <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250120131005556" class="link_column" data-tiara-layer="다가온_'쿠팡_청문회'..._핵심은_'야간노동'이다_alltab"><div class="cont_thumb"><strong class="tit_txt">다가온 '쿠팡 청문회'... 핵심은 '야간노동'이다</strong><span class="info_txt"><span class="txt_info">2025. 1. 20.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F20%2Fnewstapa%2F20250120131007066ndko.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F20%2Fnewstapa%2F20250120131007066ndko.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 구속, 파괴된 헌정 회복 첫 걸음 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250119131003658</link>
-            <guid>https://v.daum.net/v/20250119131003658</guid>
-            <pubDate>Sun, 19 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250119131003658" class="link_column" data-tiara-layer="윤석열_구속,_파괴된_헌정_회복_첫_걸음_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 구속, 파괴된 헌정 회복 첫 걸음</strong><span class="info_txt"><span class="txt_info">2025. 1. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F19%2Fnewstapa%2F20250119131015979lwel.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F19%2Fnewstapa%2F20250119131015979lwel.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
