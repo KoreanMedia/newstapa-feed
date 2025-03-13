@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-03-13T01:26:27.476Z</updated>
+    <updated>2025-03-13T03:00:03.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/949946c/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탄핵 불복 노리는 국민의힘… ‘제2 내란’ 우려]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/108703251</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/108703251"/>
+        <updated>2025-03-13T02:59:01.278Z</updated>
+        <content type="html"><![CDATA[국민의힘 의원 82명이 헌법재판소에 탄핵 심판을 각하해달라는 탄원서를 제출했습니다. 재적 국회의원 10명 중 7명이 동조한 것으로 사실상 당 차원의 결의라는 해석이 나옵니다. 국민의힘 지도부는 헌재의 탄핵 심판 절차도 문제삼으며, 헌재에 대한 압박 수위를 높이고 있습니다. 윤석열 대통령의 구속 취소 결정과 맞물려 국민의힘이 헌재 결정에 불복할 것이란 우려가 증폭되고 있습니다. 당 내부에서도 제2의 내란이 발생할 수 있다는 경고가 나옵니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://www.newstapa.org/article/JXoTY</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[180도 뒤집힌 '세비 반띵'… 두 달 만에 '정상 월급→공천 대가']]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/108681908</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/108554904"/>
         <updated>2025-02-27T11:17:49.869Z</updated>
         <content type="html"><![CDATA[그동안 명태균 게이트를 추적해 온 뉴스타파는 외압을 행사한 윤석열 부부와 당 안 에서 명씨와 호흠을 맞춘 이준석 의원이 공천 개입의 양대 축이었다는 결론에 도달했습니다. 명태균의 공천 로비가 성공한 2022년 5월 9일을 전후로 무슨 일이 있었는지 기사에서 확인하세요.  <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/56WV5zWzMKc</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/w8GVt</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명태균 마지막 통화기록에 등장한 의원님들]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/108543447</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/108543447"/>
-        <updated>2025-02-27T01:23:48.158Z</updated>
-        <content type="html"><![CDATA[지난해 9월, 명태균 게이트가 세상에 알려진 뒤 명 씨가 사용한 휴대전화에는 어떤 이름들이 등장할까요.<br>검찰이 명 씨의 휴대전화 두 대를 압수했는데, 여기에는 현직 국회의원, 대학교수, 지자체장들의 이름이 수두룩합니다.<br><br>김영선 의원뿐 아니라 신성범, 주호영, 조은희 국민의힘 의원과 이준석, 천하람 개혁신당 의원, 김진태 강원지사 등도 등장합니다.<br><br>이밖에도 명 씨의 인사 청탁을 국민의힘 의원들이나 김건희 여사 등에게 전달하는 메신저 역할을 한 교수와, 명 씨를 ‘공명 선생’이라 부르며 명 씨의 딸에게 수백만 원 상당의 그림을 선물한 전직 보좌관도 명 씨와 100여 차례 통화한 것으로 확인됐습니다. <br><br>명태균 게이트가 불거진 뒤 누가 어떤 목적으로 명 씨와 통화했는지 기사에서 확인하세요.<br><br>🎬 더 자세한 내용을 영상으로 확인하세요 : <span class="link_url">https://youtu.be/YS9ug4wt4j4</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/eGCYL</span>]]></content>
     </entry>
 </feed>
