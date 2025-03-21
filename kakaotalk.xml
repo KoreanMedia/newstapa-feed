@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-03-21T11:18:58.542Z</updated>
+    <updated>2025-03-21T12:39:12.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/1a04e23/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내란 수사기록으로 본 '정치인 체포'의 진실 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/108801098</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/108801098"/>
+        <updated>2025-03-21T12:39:02.501Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령의 탄핵심판 선고가 이르면 다음주로 예정된 가운데 대통령의 파면 여부를 가를 핵심 쟁점으로 ‘정치인 체포조’ 운영이 꼽히고 있습니다. 윤 대통령은 지난 11차례의 탄핵심판 변론에서 정치인 체포조와 관련한 모든 의혹을 부인해 왔습니다.<br><br>뉴스타파는 검찰 공소장을 포함한 ‘윤석열 내란 사건 수사기록’을 통해 12·3 비상계엄 당일 ‘정치인 체포조’가 어떻게 운영됐는지 확인했습니다. 그 결과, 윤 대통령의 지시나 승인 없이 체포조가 운영됐을 가능성은 거의 없다는 결론에 이르렀습니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/_4ifeSxmwPM</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/9JQzx</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 대통령실의 직원 명단 '불법 은폐'... 끝까지 간다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/108787032</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/108703251"/>
         <updated>2025-03-13T02:59:01.278Z</updated>
         <content type="html"><![CDATA[국민의힘 의원 82명이 헌법재판소에 탄핵 심판을 각하해달라는 탄원서를 제출했습니다. 재적 국회의원 10명 중 7명이 동조한 것으로 사실상 당 차원의 결의라는 해석이 나옵니다. 국민의힘 지도부는 헌재의 탄핵 심판 절차도 문제삼으며, 헌재에 대한 압박 수위를 높이고 있습니다. 윤석열 대통령의 구속 취소 결정과 맞물려 국민의힘이 헌재 결정에 불복할 것이란 우려가 증폭되고 있습니다. 당 내부에서도 제2의 내란이 발생할 수 있다는 경고가 나옵니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://www.newstapa.org/article/JXoTY</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[180도 뒤집힌 '세비 반띵'… 두 달 만에 '정상 월급→공천 대가']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/108681908</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/108681908"/>
-        <updated>2025-03-11T08:26:41.176Z</updated>
-        <content type="html"><![CDATA[검찰이 ‘명태균 게이트’ 실체 규명의 핵심 단초인 속칭 ‘세비 반띵’ 사건을 아무 문제 없는 ‘정상적인 월급’으로 결론 지었다가, 불과 두 달 만에 범죄 혐의와 직결된 ‘국회의원 공천 대가’로, 수사 결과를 완전히 뒤바꾼 사실이 뉴스타파의 검찰 수사기록 검증 결과, 확인됐습니다.<br><br>늑장 압수수색 등을 통해 당초 ‘세비 반띵’ 사건을 뭉개려던 검찰이, 정치권의 윤석열 대통령 공천 개입 육성 공개 등으로 인해 ‘명태균 게이트’의 실체를 은폐하기 어려운 상황이 되자, 급하게 ‘세비 반띵’의 수사 결과를 뒤집은 것 아니냐는 의혹이 나옵니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/btzsAtAhK7o</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/lvZc7</span>]]></content>
     </entry>
 </feed>
