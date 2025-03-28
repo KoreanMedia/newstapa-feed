@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 07:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 08:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령실이 불법 은폐한 직원 명단... 대통령기록관은 이미 '공개' 결정 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/9936r</link>
+            <guid>http://newstapa.org/article/9936r</guid>
+            <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령실이 불법 은폐한 직원 명단... 대통령기록관은 이미 '공개' 결정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/28165114-95AD-F1D0-20EB-FS9AISWTD9DVY7MH73LH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/74aqg</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/20182312-2014-4BEF-E5F3-WIM4645KYI7BSOHNCPGG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현장에서] 윤석열의 망상과 12·3 그날 대한민국의 진짜 풍경 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/VdLoj</link>
-            <guid>http://newstapa.org/article/VdLoj</guid>
-            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 윤석열의 망상과 12·3 그날 대한민국의 진짜 풍경]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/20113527-4FBF-2293-1B11-8HORGC9Y1SCB4UT67EME.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[대통령실이 불법 은폐한 직원 명단... 대통령기록관은 이미 '공개' 결정 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/9936r</link>
+            <guid>http://newstapa.org/article/9936r</guid>
+            <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령실이 불법 은폐한 직원 명단... 대통령기록관은 이미 '공개' 결정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/28165114-95AD-F1D0-20EB-FS9AISWTD9DVY7MH73LH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오세훈 압수수색 결정타는 '명태균 서울행 항공' 티켓 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[명태균 육성파일에 등장한 현대차그룹 회장님과 사장님]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/18162613-6888-BC8D-858B-MLECYJJEFXB5QK8KD8HI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 코트워치 '재판 업데이트' 페이지 신설...첫 소식은 '윤석열 탄핵심판' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/5BJHJ</link>
-            <guid>http://newstapa.org/article/5BJHJ</guid>
-            <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 코트워치 '재판 업데이트' 페이지 신설...첫 소식은 '윤석열 탄핵심판']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/17163922-DC94-0335-9EFA-ASQ6G2UIBRWLXJAJ7LTB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 한덕수 탄핵 기각 결정을 읽는 세 가지 방법 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3396,11 +3396,19 @@
             <content:encoded><![CDATA[‘뉴스타파저널리즘스쿨’이 배출한 독립언론 &lt;코트워치&gt;가 '재판 업데이트' 특별페이지를 제작해 선보입니다. 주요 재판 소식을 빠르고 쉽게 확인할 수 있습니다. <br><br>첫 시작은 '대통령 윤석열 탄핵심판'입니다. 1차 변론부터 11차 변론까지 탄핵심판 장면을 간결하게 정리했습니다. ‘12·3 내란' 사태 형사재판도 곧 정리해 업데이트할 예정입니다.<br><br>🔥 코트워치 '대통령 윤석열 탄핵심판' 특별페이지 보러가기: <span class="link_url">https://c-watch.org/archives/3567</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[대통령실이 불법 은폐한 직원 명단... 대통령기록관은 이미 '공개' 결정 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250328165503064</link>
+            <guid>https://v.daum.net/v/20250328165503064</guid>
+            <pubDate>Fri, 28 Mar 2025 08:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250328165503064" class="link_column" data-tiara-layer="대통령실이_불법_은폐한_직원_명단..._대통령기록관은_이미_'공개'_결정_alltab"><div class="cont_thumb"><strong class="tit_txt">대통령실이 불법 은폐한 직원 명단... 대통령기록관은 이미 '공개' 결정</strong><span class="info_txt"><span class="txt_info">32분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F28%2Fnewstapa%2F20250328165505387rutq.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F28%2Fnewstapa%2F20250328165505387rutq.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250327200003357</link>
             <guid>https://v.daum.net/v/20250327200003357</guid>
             <pubDate>Thu, 27 Mar 2025 11:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250327200003357" class="link_column" data-tiara-layer="[주간_뉴스타파]_딥페이크의_공범들②_학교_딥페이크,_가해자가_돌아왔다_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F27%2Fnewstapa%2F20250327200019104ozyo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250327200003357" class="link_column" data-tiara-layer="[주간_뉴스타파]_딥페이크의_공범들②_학교_딥페이크,_가해자가_돌아왔다_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F27%2Fnewstapa%2F20250327200019104ozyo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F27%2Fnewstapa%2F20250327200019104ozyo.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3626,14 +3634,6 @@
             <pubDate>Fri, 14 Mar 2025 03:31:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250314120003800" class="link_column" data-tiara-layer="[현장에서]_윤석열의_내란,_검찰의_내란_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 윤석열의 내란, 검찰의 내란</strong><span class="info_txt"><span class="txt_info">2025. 3. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F14%2Fnewstapa%2F20250314120004447knhi.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F14%2Fnewstapa%2F20250314120004447knhi.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 7천억대 정부 계약에 명태균과 'VIP' 등장 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250313200524276</link>
-            <guid>https://v.daum.net/v/20250313200524276</guid>
-            <pubDate>Thu, 13 Mar 2025 11:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250313200524276" class="link_column" data-tiara-layer="[주간_뉴스타파]_7천억대_정부_계약에_명태균과_'VIP'_등장_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 7천억대 정부 계약에 명태균과 'VIP' 등장</strong><span class="info_txt"><span class="txt_info">2025. 3. 13.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F13%2Fnewstapa%2F20250313200532987idtt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F13%2Fnewstapa%2F20250313200532987idtt.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
