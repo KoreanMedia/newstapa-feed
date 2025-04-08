@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 04:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 05:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/FLyiu</link>
+            <guid>http://newstapa.org/article/FLyiu</guid>
+            <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/08140352-0D95-1BDC-2689-T5BIL47IQC693GLVIJ6S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['김영선 일정표'에 현대로템 사장 미팅...정치후원금 기부도 첫 확인 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/MVHBu</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 윤석열 탄핵 임박, 그리고 국민의 삶]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/02111316-EA5C-5396-AB81-1BSH6JKD2PRDI6KAGW0L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/snDBh</link>
-            <guid>http://newstapa.org/article/snDBh</guid>
-            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/31140513-06B3-A08A-CCDA-LU8WLK6SUK5CY8FUROIQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['김영선 일정표'에 현대로템 사장 미팅...정치후원금 기부도 첫 확인 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/31202756-307B-6A2B-7CD8-ZD04KM0U9HTCJVQ37N9N.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/FLyiu</link>
+            <guid>http://newstapa.org/article/FLyiu</guid>
+            <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/08140352-0D95-1BDC-2689-T5BIL47IQC693GLVIJ6S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제주항공 참사 유가족 인터뷰 : 하루하루 버티고 있다 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/pQNx5</link>
             <guid>http://newstapa.org/article/pQNx5</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[이태원 참사 미규명 진실] ⑩ 정부는 피해자 '2차 가해' 왜 방치했나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/26094836-23E6-E2F8-F95E-5W9P4AK1HD9AVHWAHRP4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이태원 참사 미규명 진실]⑧ 1조 원 재난안전통신망 활용하지 못한 이유 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/nBuPc</link>
-            <guid>http://newstapa.org/article/nBuPc</guid>
-            <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이태원 참사 미규명 진실]⑧ 1조 원 재난안전통신망 활용하지 못한 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/24101336-948F-9E0C-65E4-M04EEP3LSQD9REQSR38P.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -2311,9 +2311,9 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/12/24125332-EBD6-EAB6-A060-P1JJML6DDE4GMR7IHXNY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[녹색강의 습격 (뉴스타파 ─ 프로젝트)]]></title>
-            <link>https://newstapa.org/tags/%EB%85%B9%EC%83%89%EA%B0%95%EC%9D%98%20%EC%8A%B5%EA%B2%A9</link>
-            <guid>https://newstapa.org/tags/%EB%85%B9%EC%83%89%EA%B0%95%EC%9D%98%20%EC%8A%B5%EA%B2%A9</guid>
+            <title><![CDATA[4대강과 녹조 (뉴스타파 ─ 프로젝트)]]></title>
+            <link>https://newstapa.org/tags/4%EB%8C%80%EA%B0%95%EA%B3%BC%20%EB%85%B9%EC%A1%B0</link>
+            <guid>https://newstapa.org/tags/4%EB%8C%80%EA%B0%95%EA%B3%BC%20%EB%85%B9%EC%A1%B0</guid>
             <pubDate>Tue, 21 Jul 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[4대강의 복원은 생태계의 복원 뿐만 아니라 인간의 생명과 안전과도 직결됩니다. 막아놓은 보 때문에 창궐하는 녹조는 먹이사슬을 타고 인간에게 향합니다. 이제 '녹색강의 습격'에 맞서 해법을 찾아야 합니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/02164744-9BD1-8429-0EE8-ZO8BGL344KPH7UIHGFOQ.jpg" length="0" type="image/jpg"/>
@@ -3256,6 +3256,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/108991056</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/108991056</guid>
+            <pubDate>Tue, 08 Apr 2025 05:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[세월호 선체 인양 이후 조사를 벌인 국가기관으로는 처음으로 세월호가 선체 자체의 결함으로 침몰했다는 ‘내인설’을 공식 인정했습니다. 해양사고를 조사·심판하는 상설 국가기관인 해양안전심판원이 세월호는 복원성 불량과 조타장치 고장, 화물 쏠림으로 급선회 및 급경사 이후 전복됐으며, 외력은 선체 흔적 등 타당한 증거가 없어 검토 대상이 되지 않는다고 최종 결론내린 사실이 뒤늦게 확인됐습니다.  하지만 세월호의 선사인 청해진해운은 이에 불복하고 재심을 청구했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/FLyiu</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['김영선 일정표'에 현대로템 사장 미팅...정치후원금 기부도 첫 확인 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/108982300</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/108982300</guid>
@@ -3389,18 +3396,19 @@
             <content:encoded><![CDATA[경북 구미에는 화재로 전소된 공장 옥상에서 오늘(25일)로 443일을 보내고 있는 두 명의 여성 노동자가 있습니다.<br><br>'한국옵티칼하이테크'에서 2023년 2월 해고된 노동자 박정혜, 소현숙 씨입니다.<br><br>한국옵티칼은 일본 기업 '니토덴코'가 100% 지분을 가진 자회사인데요. <br>2003년 구미 외국인투자지역에 입주해 토지 무상임대, 법인세 감면 등 각종 혜택을 받고 해매다 수백억 원의 이익과 배당금을 챙겼습니다.<br><br>그런데 2022년 10월 4일 화재가 발생하자, 법인 청산을 결정하고 노동자들을 해고했습니다.<br><br>박정혜, 소현숙 씨는 니토덴코의 다른 자회사로 고용승계를 요구하며 작년 1월 공장 옥상에 올랐는데요. 그 기간이 길어져 국내 '최장기 고공농성'이라는 기록을 세웠습니다.<br><br>물도, 전기도 없는 공장 옥상에서 두 노동자가 1년 3개월을 버티며 꼭 하고 싶었던 말은 무엇이었을까요? <br><br>뉴스타파가 그 이야기를 들어봤습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/6FA5rL4TX1g</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/38P3t</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서울의대 교수 3인 인터뷰... "의대생 복귀 방해는 파시즘" (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/108834946</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/108834946</guid>
-            <pubDate>Tue, 25 Mar 2025 10:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[지난 17일 서울의대 교수 4명(하은진 오주환 한세원 강희경)은 윤석열 정부의 일방적인 의대증원 통보에 반발하며 사직한 전공의와 집단 휴학 중인 의대생을 비판하는 성명을 냈습니다. 의료계 내부에서 비판의 목소리가 나온 건 이례적입니다.<br><br>서울의대 교수들은 1년 전만 해도 윤석열 정권이 밀어붙인 의대증원 정책에 반대했고, 한국 의료의 ‘미래’를 위한 심도 깊은 논의를 지지하고자 총파업을 결의하기도 했습니다. 하지만 서울의대 교수들은 자신들이 작심하고 의료계 내부를 비판하는 성명을 내게된 건 ‘대의는 잊고 동료들의 자유를 가로막는 전체주의적 지도부’를 더는 용인할 수 없어서라고 밝혔습니다.<br><br>그들의 생각을 자세히 묻고자 뉴스타파는 지난 19일 성명에 이름을 올린 서울의대 교수 3명을 인터뷰했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/ozoIONfkB0w</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/wOl6l</span>]]></content:encoded>
+            <title><![CDATA[해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250408140504650</link>
+            <guid>https://v.daum.net/v/20250408140504650</guid>
+            <pubDate>Tue, 08 Apr 2025 05:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250408140504650" class="link_column" data-tiara-layer="해심,_세월호_사고_원인_‘내인설’_공식_결론…청해진해운_불복·재심_청구_alltab"><div class="cont_thumb"><strong class="tit_txt">해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구</strong><span class="info_txt"><span class="txt_info">16분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F08%2Fnewstapa%2F20250408140506924iyws.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F08%2Fnewstapa%2F20250408140506924iyws.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA['김영선 일정표'에 현대로템 사장 미팅...정치후원금 기부도 첫 확인 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250407175504750</link>
             <guid>https://v.daum.net/v/20250407175504750</guid>
             <pubDate>Mon, 07 Apr 2025 09:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250407175504750" class="link_column" data-tiara-layer="'김영선_일정표'에_현대로템_사장_미팅...정치후원금_기부도_첫_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">'김영선 일정표'에 현대로템 사장 미팅...정치후원금 기부도 첫 확인</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F07%2Fnewstapa%2F20250407175512024ysqc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250407175504750" class="link_column" data-tiara-layer="'김영선_일정표'에_현대로템_사장_미팅...정치후원금_기부도_첫_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">'김영선 일정표'에 현대로템 사장 미팅...정치후원금 기부도 첫 확인</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F07%2Fnewstapa%2F20250407175512024ysqc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F07%2Fnewstapa%2F20250407175512024ysqc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3446,7 +3454,7 @@
             <link>https://v.daum.net/v/20250404134503922</link>
             <guid>https://v.daum.net/v/20250404134503922</guid>
             <pubDate>Fri, 04 Apr 2025 05:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250404134503922" class="link_column" data-tiara-layer="윤석열의_‘12월_3일’,_그리고_명태균_게이트_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열의 ‘12월 3일’, 그리고 명태균 게이트</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F04%2Fnewstapa%2F20250404134504835rvdu.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250404134503922" class="link_column" data-tiara-layer="윤석열의_‘12월_3일’,_그리고_명태균_게이트_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열의 ‘12월 3일’, 그리고 명태균 게이트</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F04%2Fnewstapa%2F20250404134504835rvdu.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F04%2Fnewstapa%2F20250404134504835rvdu.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3486,7 +3494,7 @@
             <link>https://v.daum.net/v/20250403134505699</link>
             <guid>https://v.daum.net/v/20250403134505699</guid>
             <pubDate>Thu, 03 Apr 2025 05:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250403134505699" class="link_column" data-tiara-layer="탄핵선고_D-1,_부역자_기록_‘싫어요’_누적_8만_건_alltab"><div class="cont_thumb"><strong class="tit_txt">탄핵선고 D-1, 부역자 기록 ‘싫어요’ 누적 8만 건</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403134506530onax.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250403134505699" class="link_column" data-tiara-layer="탄핵선고_D-1,_부역자_기록_‘싫어요’_누적_8만_건_alltab"><div class="cont_thumb"><strong class="tit_txt">탄핵선고 D-1, 부역자 기록 ‘싫어요’ 누적 8만 건</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403134506530onax.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403134506530onax.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3623,14 +3631,6 @@
             <pubDate>Tue, 25 Mar 2025 07:23:38 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250325155504260" class="link_column" data-tiara-layer="[현장에서]_윤석열의_국무위원,_전두환의_국무위원_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 윤석열의 국무위원, 전두환의 국무위원</strong><span class="info_txt"><span class="txt_info">2025. 3. 25.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F25%2Fnewstapa%2F20250325155506573sqrm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F25%2Fnewstapa%2F20250325155506573sqrm.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열 내란] 방첩사 수사기록 ① “사령관, 계엄 해제되지 않은 것처럼 행동” (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250321210527002</link>
-            <guid>https://v.daum.net/v/20250321210527002</guid>
-            <pubDate>Fri, 21 Mar 2025 12:39:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250321210527002" class="link_column" data-tiara-layer="[윤석열_내란]_방첩사_수사기록_①_“사령관,_계엄_해제되지_않은_것처럼_행동”_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열 내란] 방첩사 수사기록 ① “사령관, 계엄 해제되지 않은 것처럼 행동”</strong><span class="info_txt"><span class="txt_info">2025. 3. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F21%2Fnewstapa%2F20250321210528717whkz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F21%2Fnewstapa%2F20250321210528717whkz.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
