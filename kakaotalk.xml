@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-04-15T01:31:02.373Z</updated>
+    <updated>2025-04-15T03:07:45.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/1a04e23/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 유정복 인천시장, 탄핵 찬반 표명한 적 없다?]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/109062509</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/109062509"/>
+        <updated>2025-04-15T03:07:35.227Z</updated>
+        <content type="html"><![CDATA[대선 출마를 선언한 유정복 시장은 "나는 탄핵에 찬성이나 반대를 표명한 적이 없다"고 말했습니다. 그러나 유 시장은 탄핵 국면에서 자신의 정치적 책임을 피하고자 오락가락하는 행보를 보여왔습니다. 한국독립언론네트워크 소속 인천지역 독립언론인 '뉴스하다'가 팩트체크했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/9vU0Y</span><br>📰 이 기사는 '뉴스하다' 홈페이지에서도 보실 수 있습니다 : <span class="link_url">https://newshada.org/3490</span>/<br>📰 한국독립언론네트워크 KINN에 대한 정보는 여기서 확인하세요 : <span class="link_url">https://withnewstapa.org/kinn</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스타파, '명태균 PC' 추가 확보...  대선 후보들과 '검은 커넥션' 공개]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/109057295</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/108960753"/>
         <updated>2025-04-14T08:30:33.248Z</updated>
         <content type="html"><![CDATA[“주문, 피청구인 대통령 윤석열을 파면한다.” 12·3 내란의 수괴가 끝내 대통령직에서 쫓겨났습니다.<br><br>헌법재판소는 4일 재판관 8명 전원의 일치된 의견으로 윤석열의 대통령직 파면을 선고했습니다. 헌재는 윤석열이 국민의 신임을 배반하고, 헌법 수호 관점에서 용납할 수 없는 중대한 법 위반 행위를 했다고 판단했습니다.<br><br>국민의 신임을 배반하는 대통령의 위헌·위법적인 권한 오남용, 친위쿠데타는 대한민국에서 절대 용인될 수 없다는 점이 헌재의 오늘 결정으로 다시 한 번 확인된 겁니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/w2I7l1n7-bw</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/mx9uw</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 외신, 윤석열은 "무모한 도박에서 패배한 지도자"]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/108960520</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/108960520"/>
-        <updated>2025-04-14T08:30:33.249Z</updated>
-        <content type="html"><![CDATA[세계 주요 외신들도 윤석열 전 대통령의 파면 결정을 긴급 속보로 타전하며, 12·3 비상계엄에 따른 한국의 정치적 혼란 상황을 비중 있게 다뤘습니다. <br><br>우방국으로 분류되는 미국과 일본뿐 아니라, 중국, 독일, 영국 등에서도 윤 전 대통령의 파면 결정이 주요 뉴스로 소개됐습니다. <br>그 중엔 윤석열 정부의 실책과 윤 전 대통령 부부를 둘러싼 의혹을 비판하는 보도도 있었습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/oiOmt</span>]]></content>
     </entry>
 </feed>
