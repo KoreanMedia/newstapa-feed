@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Apr 2025 08:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Apr 2025 09:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[다시 쓰는 공소장] 그들은 합참의장의 부대를 강탈했다]]></title>
+            <link>http://newstapa.org/article/Zbwyp</link>
+            <guid>http://newstapa.org/article/Zbwyp</guid>
+            <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다시 쓰는 공소장] 그들은 합참의장의 부대를 강탈했다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/16182009-9E20-FDA7-1A97-OYIJFXRUK585BMNC2XU2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권성동 국민의힘 원내대표, 취재중인 뉴스타파 기자 폭행]]></title>
+            <link>http://newstapa.org/article/Yj-k9</link>
+            <guid>http://newstapa.org/article/Yj-k9</guid>
+            <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[권성동 국민의힘 원내대표, 취재중인 뉴스타파 기자 폭행]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/16181134-D820-1993-4E55-OPJM6JQ4O637DZ04FW7L.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['대구 수성못 파스쿠찌'...홍준표 복당 '3자 회동' 카톡 공개]]></title>
             <link>http://newstapa.org/article/O0Xto</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] '명태균 PC'가 들춰낸 윤석열 정권의 민낯]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10183825-BAB1-A6E0-DACA-DQMANQI5NGRGHCB9XP1U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“명태균 박사님!”...채용 청탁하고 아부한 국민의힘 의원들]]></title>
-            <link>http://newstapa.org/article/xyBjc</link>
-            <guid>http://newstapa.org/article/xyBjc</guid>
-            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“명태균 박사님!”...채용 청탁하고 아부한 국민의힘 의원들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10180918-6C35-AF2E-81FA-U3OBN8AK7O18UXIZ1GYS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창원산단 정보 빼낸 명태균 "국힘 김종양·박완수 측도 땅 샀다"]]></title>
-            <link>http://newstapa.org/article/Vhypy</link>
-            <guid>http://newstapa.org/article/Vhypy</guid>
-            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[창원산단 정보 빼낸 명태균 "국힘 김종양·박완수 측도 땅 샀다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10170442-7EC5-6DB1-9EC9-JLT8VLFK211W6YTQHN6Y.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
