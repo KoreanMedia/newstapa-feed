@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Apr 2025 23:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Apr 2025 01:28:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 진주의료원은 강성 노조의 놀이터였다? (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/gfXeu</link>
+            <guid>http://newstapa.org/article/gfXeu</guid>
+            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 진주의료원은 강성 노조의 놀이터였다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/17180836-F73F-CAD7-DC92-0AZI6QNDM0PPRKW7QBQY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 12·3 비상계엄, “그들에게 반란죄를 적용하라” (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/QatlG</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/14153526-95AC-DAC4-B842-7M5PJN236IOUPC2FUI65.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[홍준표가 명태균의 '진짜 고객'… 입증할 카톡 나왔다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Lc526</link>
-            <guid>http://newstapa.org/article/Lc526</guid>
-            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[홍준표가 명태균의 '진짜 고객'… 입증할 카톡 나왔다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/14153431-6009-2859-A72C-17WIM9SDO5Q3BUQQZ8SH.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[팩트체크] 진주의료원은 강성 노조의 놀이터였다? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/gfXeu</link>
+            <guid>http://newstapa.org/article/gfXeu</guid>
+            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 진주의료원은 강성 노조의 놀이터였다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/17180836-F73F-CAD7-DC92-0AZI6QNDM0PPRKW7QBQY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 12·3 비상계엄, “그들에게 반란죄를 적용하라” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[홍준표-명태균, 여론조사 '대면 보고' 정황 최초 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/14153526-95AC-DAC4-B842-7M5PJN236IOUPC2FUI65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍준표가 명태균의 '진짜 고객'… 입증할 카톡 나왔다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/Lc526</link>
-            <guid>http://newstapa.org/article/Lc526</guid>
-            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[홍준표가 명태균의 '진짜 고객'… 입증할 카톡 나왔다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/14153431-6009-2859-A72C-17WIM9SDO5Q3BUQQZ8SH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰, “뉴스타파 영화 <압수수색> 상영 제지해 달라” 법원에 요청 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1544,6 +1544,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/05155253-D9ED-36E5-44A4-Q3SG6H6VJHVK7ZGED5FB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[팩트체크] 진주의료원은 강성 노조의 놀이터였다? (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/gfXeu</link>
+            <guid>http://newstapa.org/article/gfXeu</guid>
+            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 진주의료원은 강성 노조의 놀이터였다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/17180836-F73F-CAD7-DC92-0AZI6QNDM0PPRKW7QBQY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화]진실화해위, 해외입양 진실규명 결정...한계도 드러내 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
             <link>http://newstapa.org/article/3fZTu</link>
             <guid>http://newstapa.org/article/3fZTu</guid>
@@ -1662,14 +1670,6 @@
             <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 세상이 청년에게 말하지 않는, 진짜 연금개혁 이야기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30170430-395D-F04C-3735-1SU7AX0NKMYSIRE28SML.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
-            <link>http://newstapa.org/article/cY_0S</link>
-            <guid>http://newstapa.org/article/cY_0S</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/15161246-C5C1-61AC-B91C-3TY2EEAOGBKGMVM8A0NG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[특집 기획] 한일 극우의 데칼코마니 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
@@ -3256,6 +3256,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[팩트체크] 진주의료원은 강성 노조의 놀이터였다? (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/109101905</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/109101905</guid>
+            <pubDate>Fri, 18 Apr 2025 01:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 대선후보 경선에 출마한 홍준표 전 대구시장은 경남도지사 시절 자신이 폐업시킨 진주의료원이 '강성노조의 놀이터'로 전락하면서 방만하게 운영돼 부득이하게 폐업하게 됐다고 주장했습니다. 정말 진주의료원의 적자와 수익성 악화가 '강성노조'때문이었을까요? 2013년 당시 새누리당(현 국민의힘 전신)측이 위원장을 맡았던 국회국정조사특위 보고서에 그 답이 나와 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/gfXeu</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이진우 진술 공개, 수방사가 '반란군'인 이유’ (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/109097749</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/109097749</guid>
@@ -3389,18 +3396,19 @@
             <content:encoded><![CDATA[뉴스타파가 21대 대선 기간 동안 한국독립언론네트워크(KINN) 소속 언론사 6곳과 함께 팩트체크 협업을 시작했습니다. <br><br>참여하는 한국독립언론네트워크 소속 언론사는 미디어 감시 전문 매체인 뉴스어디, 법원 취재 전문 매체인 코트워치, 인천경기 지역언론 뉴스하다, 충북 지역언론 미디어 날, 대구경북 지역언론 뉴스민, 종교권력 감시 매체인 뉴스앤조이 등 6개사 입니다.<br><br>대선 기간 동안 뉴스타파와 이들 6개사는 자신의 지역과 전문 분야에서 대선 후보를 검증하는 팩트체크를 수행한 뒤 기사를 공유하고 출판도 공동으로 할 예정입니다.<br><br>그 첫 결실로 ‘사형 집행 안 하면 흉악 범죄 반복된다?-뉴스타파(10일) , ‘임기 일치시켜 ‘알박기’ 막자 제안…대구시 조례가 모범사례?-뉴스민(11일)’ 기사가 출판됐습니다.<br><br>이번 대선 기간 동안 거짓이 사실로, 사실이 거짓으로 둔갑하지 않도록 감시자로서의 언론 역할을 잘 수행해 건강한 공론의 장이 마련될 수 있도록 노력하겠습니다.<br><br>권력과 자본으로부터 자유로운 독립언론사들 간의 첫 공동 프로젝트, 지켜봐 주시고 응원해 주세요.<br><br><br>📰한국독립언론네트워크 KINN : <span class="link_url">https://withnewstapa.org/kinn</span><br>📰미디어 감시 전문 매체 '뉴스어디' : <span class="link_url">https://newswhere.org</span><br>📰법원 취재 전문 매체 '코트워치' : <span class="link_url">https://c-watch.org</span><br>📰인천경기 지역언론 '뉴스하다' : <span class="link_url">https://newshada.org</span><br>📰충북 지역언론 '미디어 날' : <span class="link_url">https://www.medianal.org</span><br>📰대구경북 지역언론 '뉴스민' : <span class="link_url">https://www.newsmin.co.kr/news</span><br>📰종교권력 감시 매체 '뉴스앤조이' : <span class="link_url">https://www.newsnjoy.or.kr</span><br><br>👉사형 집행 안 하면 흉악 범죄 반복된다?-뉴스타파(10일) : <span class="link_url">https://newstapa.org/article/eHBKq</span><br>👉‘임기 일치시켜 ‘알박기’ 막자 제안…대구시 조례가 모범사례?-뉴스민(11일) : <span class="link_url">https://newstapa.org/article/euzeu</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 임기 일치시켜 ‘알박기’ 막자 제안 …대구시 조례가 모범사례? (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/109026393</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/109026393</guid>
-            <pubDate>Fri, 11 Apr 2025 03:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[홍준표 대구시장은 자신의 저서에서 "대통령이 인사권을 행사하는 자리에 대한 임기를 분명히 하는 법률제정이 필요하다"고 말했습니다. 그래야 이전 정권에서 임명된 인사들을 교체하기 위한 편법적인 수단이나 권력 남용을 없앨 수 있다는 겁니다. 그러면서 대구시에서 자신이 시장일 때 제정한  '임기 일치 조례'를 사례로 들었습니다. <br><br>과연 대구시 조례가 이른바 '알박기'를 막기 위한 모범사례였을까요? 한국독립언론네트워크 KINN 소속 '뉴스민'의 팩트체크 기사입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/euzeu</span><br>📰 이 기사는 뉴스민 홈페이지에서도 보실 수 있습니다 : <span class="link_url">https://www.newsmin.co.kr/news/117264</span><br>📰 한국독립언론네트워크 KINN에 대한 정보는 여기서 확인하세요 : <span class="link_url">https://withnewstapa.org/kinn</span>]]></content:encoded>
+            <title><![CDATA[[팩트체크] 진주의료원은 강성 노조의 놀이터였다? (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250418090003025</link>
+            <guid>https://v.daum.net/v/20250418090003025</guid>
+            <pubDate>Fri, 18 Apr 2025 01:28:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250418090003025" class="link_column" data-tiara-layer="[팩트체크]_진주의료원은_강성_노조의_놀이터였다?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크] 진주의료원은 강성 노조의 놀이터였다?</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F18%2Fnewstapa%2F20250418090005401fcso.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F18%2Fnewstapa%2F20250418090005401fcso.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 12·3 비상계엄, “그들에게 반란죄를 적용하라” (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250417183506145</link>
             <guid>https://v.daum.net/v/20250417183506145</guid>
             <pubDate>Thu, 17 Apr 2025 10:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250417183506145" class="link_column" data-tiara-layer="[주간_뉴스타파]_12·3_비상계엄,_“그들에게_반란죄를_적용하라”_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 12·3 비상계엄, “그들에게 반란죄를 적용하라”</strong><span class="info_txt"><span class="txt_info">13시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F17%2Fnewstapa%2F20250417183508553xbii.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250417183506145" class="link_column" data-tiara-layer="[주간_뉴스타파]_12·3_비상계엄,_“그들에게_반란죄를_적용하라”_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 12·3 비상계엄, “그들에게 반란죄를 적용하라”</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F17%2Fnewstapa%2F20250417183508553xbii.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F17%2Fnewstapa%2F20250417183508553xbii.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3408,14 +3416,14 @@
             <link>https://v.daum.net/v/20250417183504144</link>
             <guid>https://v.daum.net/v/20250417183504144</guid>
             <pubDate>Thu, 17 Apr 2025 10:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250417183504144" class="link_column" data-tiara-layer="[다시_쓰는_공소장]_이진우_진술_공개,_수방사가_'반란군'인_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">[다시 쓰는 공소장] 이진우 진술 공개, 수방사가 '반란군'인 이유</strong><span class="info_txt"><span class="txt_info">13시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250417183504144" class="link_column" data-tiara-layer="[다시_쓰는_공소장]_이진우_진술_공개,_수방사가_'반란군'인_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">[다시 쓰는 공소장] 이진우 진술 공개, 수방사가 '반란군'인 이유</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뉴스타파, '기자 폭행' 권성동 국민의힘 원내대표 형사 고소 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250417172003738</link>
             <guid>https://v.daum.net/v/20250417172003738</guid>
             <pubDate>Thu, 17 Apr 2025 08:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250417172003738" class="link_column" data-tiara-layer="뉴스타파,_'기자_폭행'_권성동_국민의힘_원내대표_형사_고소_alltab"><div class="cont_thumb"><strong class="tit_txt">뉴스타파, '기자 폭행' 권성동 국민의힘 원내대표 형사 고소</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F17%2Fnewstapa%2F20250417172004525zvuo.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250417172003738" class="link_column" data-tiara-layer="뉴스타파,_'기자_폭행'_권성동_국민의힘_원내대표_형사_고소_alltab"><div class="cont_thumb"><strong class="tit_txt">뉴스타파, '기자 폭행' 권성동 국민의힘 원내대표 형사 고소</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F17%2Fnewstapa%2F20250417172004525zvuo.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F17%2Fnewstapa%2F20250417172004525zvuo.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3423,7 +3431,7 @@
             <link>https://v.daum.net/v/20250417110003052</link>
             <guid>https://v.daum.net/v/20250417110003052</guid>
             <pubDate>Thu, 17 Apr 2025 03:06:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250417110003052" class="link_column" data-tiara-layer="[팩트체크]재테크_안_했다는_유정복,_부동산⋅주식⋅코인_다_가졌다_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크]재테크 안 했다는 유정복, 부동산⋅주식⋅코인 다 가졌다</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F17%2Fnewstapa%2F20250417110004986uisl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250417110003052" class="link_column" data-tiara-layer="[팩트체크]재테크_안_했다는_유정복,_부동산⋅주식⋅코인_다_가졌다_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크]재테크 안 했다는 유정복, 부동산⋅주식⋅코인 다 가졌다</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F17%2Fnewstapa%2F20250417110004986uisl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F17%2Fnewstapa%2F20250417110004986uisl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3625,14 +3633,6 @@
             <pubDate>Tue, 08 Apr 2025 07:22:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250408160003397" class="link_column" data-tiara-layer="'김건희_통화폰'_알고도_놓친_검찰...김영선_폰_11대_중_4대만_압수_alltab"><div class="cont_thumb"><strong class="tit_txt">'김건희 통화폰' 알고도 놓친 검찰...김영선 폰 11대 중 4대만 압수</strong><span class="info_txt"><span class="txt_info">2025. 4. 8.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F08%2Fnewstapa%2F20250408160004547loed.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F08%2Fnewstapa%2F20250408160004547loed.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250408140504650</link>
-            <guid>https://v.daum.net/v/20250408140504650</guid>
-            <pubDate>Tue, 08 Apr 2025 05:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250408140504650" class="link_column" data-tiara-layer="해심,_세월호_사고_원인_‘내인설’_공식_결론…청해진해운_불복·재심_청구_alltab"><div class="cont_thumb"><strong class="tit_txt">해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구</strong><span class="info_txt"><span class="txt_info">2025. 4. 8.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F08%2Fnewstapa%2F20250408140506924iyws.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F08%2Fnewstapa%2F20250408140506924iyws.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
