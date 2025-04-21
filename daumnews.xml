@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Apr 2025 03:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Apr 2025 04:26:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크]강성 노조가 판치는 나라에 외국 제조업은 오지 않는다?]]></title>
+            <link>https://v.daum.net/v/20250421130003785</link>
+            <guid>https://v.daum.net/v/20250421130003785</guid>
+            <pubDate>Mon, 21 Apr 2025 04:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250421130003785" class="link_column" data-tiara-layer="[팩트체크]강성_노조가_판치는_나라에_외국_제조업은_오지_않는다?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크]강성 노조가 판치는 나라에 외국 제조업은 오지 않는다?</strong><span class="info_txt"><span class="txt_info">26분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F21%2Fnewstapa%2F20250421130004495agmm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F21%2Fnewstapa%2F20250421130004495agmm.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[건진법사, '권성동'에게 봉화군수 '공천 청탁' 정황]]></title>
             <link>https://v.daum.net/v/20250418182503187</link>
@@ -237,14 +245,6 @@
             <pubDate>Wed, 09 Apr 2025 08:30:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250409172502936" class="link_column" data-tiara-layer="검찰,_“뉴스타파_영화_<압수수색>_상영_제지해_달라”_법원에_요청_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰, “뉴스타파 영화 &lt;압수수색&gt; 상영 제지해 달라” 법원에 요청</strong><span class="info_txt"><span class="txt_info">2025. 4. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F09%2Fnewstapa%2F20250409172504619gslv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F09%2Fnewstapa%2F20250409172504619gslv.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] '윤석열 파면'으로 드러난 대통령기록물법의 사각지대]]></title>
-            <link>https://v.daum.net/v/20250409163004781</link>
-            <guid>https://v.daum.net/v/20250409163004781</guid>
-            <pubDate>Wed, 09 Apr 2025 08:30:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250409163004781" class="link_column" data-tiara-layer="[현장에서]_'윤석열_파면'으로_드러난_대통령기록물법의_사각지대_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] '윤석열 파면'으로 드러난 대통령기록물법의 사각지대</strong><span class="info_txt"><span class="txt_info">2025. 4. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F09%2Fnewstapa%2F20250409163006288lpom.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F09%2Fnewstapa%2F20250409163006288lpom.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
