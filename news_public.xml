@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Apr 2025 01:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Apr 2025 03:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<기고> 언론은 정치 세탁소가 아니다]]></title>
+            <link>http://newstapa.org/article/PpyyR</link>
+            <guid>http://newstapa.org/article/PpyyR</guid>
+            <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;기고&gt; 언론은 정치 세탁소가 아니다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/22111353-B31B-42C9-F7EC-WEFQB0GO0HN7G104ZNS4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] ‘청부민원’ 뒷북 조사에 류희림은 '선거심의'로 대선 개입]]></title>
             <link>http://newstapa.org/article/27Its</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 유정복 인천시장, 탄핵 찬반 표명한 적 없다?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/15101953-182D-EE5F-3F6B-WIDVSS39L9R1DTIZO0SU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, '명태균 PC' 추가 확보... 대선 후보들과 '검은 커넥션' 공개]]></title>
-            <link>http://newstapa.org/article/O2kDW</link>
-            <guid>http://newstapa.org/article/O2kDW</guid>
-            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파, '명태균 PC' 추가 확보... 대선 후보들과 '검은 커넥션' 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/14182344-A9E9-2C5C-C9C3-EW9OIEXHIVOXPGOKSLNC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
