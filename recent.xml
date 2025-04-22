@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Apr 2025 04:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Apr 2025 05:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] '깜깜이 예산 집행' 감사원... 뉴스타파, 정보공개 소송 '2심도 승소']]></title>
+            <link>http://newstapa.org/article/flwWp</link>
+            <guid>http://newstapa.org/article/flwWp</guid>
+            <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] '깜깜이 예산 집행' 감사원... 뉴스타파, 정보공개 소송 '2심도 승소']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/22141455-7C27-5470-BD91-J475O28LWUQ7TW3H0AIQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<기고> 언론은 정치 세탁소가 아니다]]></title>
             <link>http://newstapa.org/article/PpyyR</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[다시 쓰는 공소장] 국민을 배신한 군대, '노상원의 반란군']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/15162542-4A68-0CD5-4970-Z428G18SYTDHWJRRE2A4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비화폰 서버 등 대통령기록 한 건이라도 더 찾아 이관해야]]></title>
-            <link>http://newstapa.org/article/HLutc</link>
-            <guid>http://newstapa.org/article/HLutc</guid>
-            <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[비화폰 서버 등 대통령기록 한 건이라도 더 찾아 이관해야]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/15140924-FCE9-4E9B-6BE3-01YE94K3ZLVSWLJNGVSI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-04-22T04:25:08.283Z</updated>
+    <updated>2025-04-22T05:25:07.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/1a04e23/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] '깜깜이 예산 집행' 감사원... 뉴스타파, 정보공개 소송 '2심도 승소']]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/109143049</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/109143049"/>
+        <updated>2025-04-22T05:24:55.795Z</updated>
+        <content type="html"><![CDATA[뉴스타파가 감사원을 상대로 제기한 특수활동비·특정업무경비·업무추진비·출장비 집행내역 정보공개 행정소송에서 2심도 승소했습니다. 1심의 '정보공개' 판결에 불복해 감사원이 항소했지만, 지난 17일 서울고등법원은 항소 기각 판결을 내렸습니다. <br><br>감사원은 2심 과정에서 '예산을 낭비했다는 구체적 사정을 대야 정보를 공개할 수 있다'는 정보공개법 취지에 정면으로 반하는 주장까지 펼쳤습니다. 당연히 2심은 이런 '비상식적 주장'을 받아들이지 않았습니다. <br><br>2심 판결에 대해 감사원은 "현재 상고 여부를 논의 중"이라고 밝혔습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/flwWp</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<기고> 언론은 정치 세탁소가 아니다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/109141527</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/109057295"/>
         <updated>2025-04-14T10:25:36.570Z</updated>
         <content type="html"><![CDATA[뉴스타파가 '명태균 PC'를 추가로 입수했습니다. <br>명 씨가 실질 소유한 미래한국연구소에서 사용하던 PC 하드디스크 3개입니다. 2차로 확보한 '명태균 PC'에는 지금까지 공개되지 않았던 대선 후보 주자와 그 측근들이 명 씨와 나눈 미공개 카톡 대화가 다수 포함됐습니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/F4sB9GCos1U</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/O2kDW</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제 기록과 심판의 시간…뉴스타파, '다시 쓰는 공소장' 프로젝트 시작]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/109056693</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/109056693"/>
-        <updated>2025-04-14T09:24:36.090Z</updated>
-        <content type="html"><![CDATA[군사 독재 이후 45년 만에 비상계엄을 선포한 윤석열 전 대통령은 집권 1,060일 만에 파면됐습니다. 그러나 윤 전 대통령은 여전히 자신의 잘못을 인정하지 않고 있으며, 오늘(14일) 내란 우두머리 혐의로 첫 재판을 맞이했습니다. 한국 민주주의의 근간을 흔든 이 사건의 실체적 진실을 규명하고 책임자들에게 합당한 법적 책임을 물어야 한다는 목소리가 높습니다.<br><br>뉴스타파는 방대한 수사 기록과 검찰 공소장, 사건 관련자들의 진술을 바탕으로 '12.3 내란 - 다시 쓰는 공소장' 프로젝트를 시작합니다. 이번 프로젝트를 통해 국군의 반란 모의, 비정상적 국무회의, 증거 인멸, 대북 도발 의혹 등 아직 밝혀지지 않은 비상계엄의 심층부를 파헤칠 예정입니다.<br><br>다시는 우리 사회에서 동일한 비극이 반복되지 않도록 역사를 기록하고, 법적 책임을 묻는 탐사 기획을 내일(15일)부터 공개합니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/Uhi-l-CjI9c</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/Pzse4</span>]]></content>
     </entry>
 </feed>
