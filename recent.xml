@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Apr 2025 06:30:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Apr 2025 07:26:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<뉴스타파 v. 윤석열> 사건 기록 페이지 제작·공개, ‘윤석열 명예훼손’ 재판은 진행 중]]></title>
+            <link>http://newstapa.org/article/c0hVk</link>
+            <guid>http://newstapa.org/article/c0hVk</guid>
+            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; 사건 기록 페이지 제작·공개, ‘윤석열 명예훼손’ 재판은 진행 중]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23154626-0132-1A47-E4B7-EPL3OVW3S4DD4TV8QA6X.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["녹조 키우고 메탄 내뿜는 보와 하굿둑, 온실가스 공장으로 전락"]]></title>
             <link>http://newstapa.org/article/b_2Qh</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[다시 쓰는 공소장] 이진우 진술 공개, 수방사가 '반란군'인 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/17182140-0353-8726-B87C-UF769D70KAL8O6XC89ZR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, '기자 폭행' 권성동 국민의힘 원내대표 형사 고소]]></title>
-            <link>http://newstapa.org/article/JGFLf</link>
-            <guid>http://newstapa.org/article/JGFLf</guid>
-            <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파, '기자 폭행' 권성동 국민의힘 원내대표 형사 고소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/17161914-682C-2158-D99F-R5EUNXE9P12UKXY3FD98.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
