@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Apr 2025 04:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Apr 2025 05:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크]전광훈 목사, "대선 출마하겠다"...법적으로 가능?]]></title>
+            <link>http://newstapa.org/article/ZgMM_</link>
+            <guid>http://newstapa.org/article/ZgMM_</guid>
+            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크]전광훈 목사, "대선 출마하겠다"...법적으로 가능?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23140756-A5C3-66D6-CF2B-8X2MJ7IC0DTDU2BTV1M0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[라이브] '검사 한동훈' 카톡으로 대선 후보자 자질 검증]]></title>
             <link>http://newstapa.org/article/V-CK0</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] ‘청백리’ 자처한 유정복, 상가⋅주식⋅코인 다 가졌다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/17105445-61B9-A2B1-F537-UMMJFER1GKJO4B64QYNQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다시 쓰는 공소장] 그들은 합참의장의 부대를 강탈했다]]></title>
-            <link>http://newstapa.org/article/Zbwyp</link>
-            <guid>http://newstapa.org/article/Zbwyp</guid>
-            <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다시 쓰는 공소장] 그들은 합참의장의 부대를 강탈했다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/16182009-9E20-FDA7-1A97-OYIJFXRUK585BMNC2XU2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
