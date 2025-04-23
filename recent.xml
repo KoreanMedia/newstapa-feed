@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Apr 2025 07:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Apr 2025 08:29:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[다시 쓰는 공소장] 윤석열과 국무위원 '불법 회의'의 재구성]]></title>
+            <link>http://newstapa.org/article/hjoj-</link>
+            <guid>http://newstapa.org/article/hjoj-</guid>
+            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다시 쓰는 공소장] 윤석열과 국무위원 '불법 회의'의 재구성]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23164840-B5D8-9A6C-FF70-I1D71XPDWBD4Z357MYIZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<뉴스타파 v. 윤석열> 사건 기록 페이지 제작·공개, ‘윤석열 명예훼손’ 재판은 진행 중]]></title>
             <link>http://newstapa.org/article/c0hVk</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 12·3 비상계엄, “그들에게 반란죄를 적용하라”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/17182847-B1D1-D70A-3713-WSF7ESQCEPW7QYRY0JMA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다시 쓰는 공소장] 이진우 진술 공개, 수방사가 '반란군'인 이유]]></title>
-            <link>http://newstapa.org/article/Vtmqy</link>
-            <guid>http://newstapa.org/article/Vtmqy</guid>
-            <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다시 쓰는 공소장] 이진우 진술 공개, 수방사가 '반란군'인 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/17182140-0353-8726-B87C-UF769D70KAL8O6XC89ZR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
