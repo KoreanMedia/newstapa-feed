@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Apr 2025 08:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Apr 2025 09:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파 v. 윤석열 사건, 압수수색 : 내란의 시작]]></title>
+            <link>https://pages.newstapa.org/2025/crackdown/</link>
+            <guid>https://pages.newstapa.org/2025/crackdown/</guid>
+            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파 김용진·한상진·봉지욱 기자는 ‘윤석열 명예훼손 혐의’로 재판을 받고 있습니다. 뉴스타파는 ‘뉴스타파 v. 윤석열’ 재판이 마무리될 때까지 그 진행 과정을 특별페이지에 기록해 나갈 예정입니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23174626-92B0-5450-0AA7-4GTG8NY24U41AI7S6TRF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파 데이터포털]]></title>
             <link>https://data.newstapa.org/</link>
