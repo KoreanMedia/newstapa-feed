@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Apr 2025 01:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2025 03:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 홍준표, 해고가 자유로워야 고용이 늘어난다? (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/9iuU5</link>
+            <guid>http://newstapa.org/article/9iuU5</guid>
+            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 홍준표, 해고가 자유로워야 고용이 늘어난다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/24112617-BCB6-1C68-38DF-1T9FMR0CYRDS9JXDV0XJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다시 쓰는 공소장] 윤석열과 국무위원 '불법 회의'의 재구성 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/hjoj-</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/17180836-F73F-CAD7-DC92-0AZI6QNDM0PPRKW7QBQY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 뉴스타파] 12·3 비상계엄, “그들에게 반란죄를 적용하라” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/QatlG</link>
-            <guid>http://newstapa.org/article/QatlG</guid>
-            <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 12·3 비상계엄, “그들에게 반란죄를 적용하라”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/17182847-B1D1-D70A-3713-WSF7ESQCEPW7QYRY0JMA.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[팩트체크] 홍준표, 해고가 자유로워야 고용이 늘어난다? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/9iuU5</link>
+            <guid>http://newstapa.org/article/9iuU5</guid>
+            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 홍준표, 해고가 자유로워야 고용이 늘어난다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/24112617-BCB6-1C68-38DF-1T9FMR0CYRDS9JXDV0XJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[다시 쓰는 공소장] 윤석열과 국무위원 '불법 회의'의 재구성 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[다시 쓰는 공소장] 이진우 진술 공개, 수방사가 '반란군'인 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/17182140-0353-8726-B87C-UF769D70KAL8O6XC89ZR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, '기자 폭행' 권성동 국민의힘 원내대표 형사 고소 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/JGFLf</link>
-            <guid>http://newstapa.org/article/JGFLf</guid>
-            <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파, '기자 폭행' 권성동 국민의힘 원내대표 형사 고소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/17161914-682C-2158-D99F-R5EUNXE9P12UKXY3FD98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[다시 쓰는 공소장] 윤석열과 국무위원 '불법 회의'의 재구성 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/13181623-B502-4900-ADE8-P5MN3G9D74DBVGY2RCZM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[팩트체크] 홍준표, 해고가 자유로워야 고용이 늘어난다? (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/9iuU5</link>
+            <guid>http://newstapa.org/article/9iuU5</guid>
+            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 홍준표, 해고가 자유로워야 고용이 늘어난다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/24112617-BCB6-1C68-38DF-1T9FMR0CYRDS9JXDV0XJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] '윤석열 파면'으로 드러난 대통령기록물법의 사각지대 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/xCqmT</link>
             <guid>http://newstapa.org/article/xCqmT</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다가온 '쿠팡 청문회'... 핵심은 '야간노동'이다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/20093311-587C-EF4B-03C8-XCEFYQC59IZ2BURJ480P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 무안공항에 모인 기자들... 언론의 '조별 과제'가 시험대에 오르다 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/3M2Rx</link>
-            <guid>http://newstapa.org/article/3M2Rx</guid>
-            <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 무안공항에 모인 기자들... 언론의 '조별 과제'가 시험대에 오르다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/10160401-8A04-34A3-C17A-9U8SMS130U70ICT5TARQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["녹조 키우고 메탄 내뿜는 보와 하굿둑, 온실가스 공장으로 전락" (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -3404,11 +3404,19 @@
             <content:encoded><![CDATA[뉴스타파와 윤석열의 7년 전쟁을 다룬 영화 &lt;압수수색: 내란의 시작&gt;이 영화 담당 기자와 평론가 등을 대상으로 한 언론배급 시사회를 통해 처음 공개됐습니다. <br><br>14일 오후 서울 CGV 왕십리에서 언론배급 시사회가 뜨거운 관심속 기자와 PD, 영화평론가 등 40여명이 참석한 간담회도 진행했습니다. 이날 시사회에 참석한 한 기자는 “현실이라고는 믿기 힘든 충격적인 상황들과 긴장감 넘치는 연출로 극영화를 넘어서는 몰입감”이라고 감상평을 남겼습니다.<br><br>이날 연출은 맡은 김용진 감독은 “검찰과 정권에 당하고 그에 대응하는 것, 조사받고 재판 받는 것도 취재를 겸하면서 빠짐없이 기록했다"며 "12월 3일 밤 계엄 상황을 겪고 나서, 2년 전 뉴스타파가 압수수색을 당했던 것과 매우 유사하다고 생각해 본격적으로 영화를 만들어야겠다는 생각했다”고 영화 제작 계기를 밝혔습니다. <br><br>영화 주인공인 한상진 기자는 검찰의 뉴스타파를 겨냥한 수사는 언론 전체에 대한 도발이라며 “이 영화가 언론이 무엇을 해야 하는 기관인지, 언론이 우리 사회에 어떤 역할을 해야 한 발 나아갈 수 있을지 고민하는 기회가 되길 바란다”고 말했습니다.<br><br>또 다른 주인공인 봉지욱 기자는 “그동안 남이 압수수색 당하는 기사를 감정 없이 썼는데 막상 당해보니까 압수수색에 대한 것을 너무 몰랐다는 생각이 들었다”며 압수수색의 민낯을 영화에서 확인할 수 있다고 덧붙였습니다.<br><br>검찰이 개봉을 두려워하는 영화 &lt;압수수색: 내란의 시작&gt;은 다음주 수요일, 4월 23일 전국 개봉합니다. 벌써 몇몇 독립영화관에서는 예매가 시작됐습니다. 예매처는 네이버에서 ‘영화 압수수색’을 검색하시면 확인하실 수 있습니다. 시민 여러분의 뜨거운 관심 부탁드립니다. <br><br>🙌 뉴스타파필름 응원하기: <span class="link_url">https://withnewstapa.org/support</span>/<br>👉 메인예고편 보기: <span class="link_url">https://youtu.be/iMcS-ikeyBo?si=sK-LdzoSFptVeKob</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[팩트체크] 홍준표, 해고가 자유로워야 고용이 늘어난다? (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250424120003772</link>
+            <guid>https://v.daum.net/v/20250424120003772</guid>
+            <pubDate>Thu, 24 Apr 2025 03:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250424120003772" class="link_column" data-tiara-layer="[팩트체크]_홍준표,_해고가_자유로워야_고용이_늘어난다?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크] 홍준표, 해고가 자유로워야 고용이 늘어난다?</strong><span class="info_txt"><span class="txt_info">8분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424120006278gchh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424120006278gchh.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[다시 쓰는 공소장] 윤석열과 국무위원 '불법 회의'의 재구성 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250423165010793</link>
             <guid>https://v.daum.net/v/20250423165010793</guid>
             <pubDate>Wed, 23 Apr 2025 08:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250423165010793" class="link_column" data-tiara-layer="[다시_쓰는_공소장]_윤석열과_국무위원_'불법_회의'의_재구성_alltab"><div class="cont_thumb"><strong class="tit_txt">[다시 쓰는 공소장] 윤석열과 국무위원 '불법 회의'의 재구성</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F23%2Fnewstapa%2F20250423165022792rlyl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250423165010793" class="link_column" data-tiara-layer="[다시_쓰는_공소장]_윤석열과_국무위원_'불법_회의'의_재구성_alltab"><div class="cont_thumb"><strong class="tit_txt">[다시 쓰는 공소장] 윤석열과 국무위원 '불법 회의'의 재구성</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F23%2Fnewstapa%2F20250423165022792rlyl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F23%2Fnewstapa%2F20250423165022792rlyl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3416,7 +3424,7 @@
             <link>https://v.daum.net/v/20250423155002350</link>
             <guid>https://v.daum.net/v/20250423155002350</guid>
             <pubDate>Wed, 23 Apr 2025 07:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250423155002350" class="link_column" data-tiara-layer="<뉴스타파_v._윤석열>_사건_기록_페이지_제작·공개,_‘윤석열_명예훼손’_재판은_진행_중_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;뉴스타파 v. 윤석열&gt; 사건 기록 페이지 제작·공개, ‘윤석열 명예훼손’ 재판은 진행 중</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F23%2Fnewstapa%2F20250423155003827xgdr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250423155002350" class="link_column" data-tiara-layer="<뉴스타파_v._윤석열>_사건_기록_페이지_제작·공개,_‘윤석열_명예훼손’_재판은_진행_중_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;뉴스타파 v. 윤석열&gt; 사건 기록 페이지 제작·공개, ‘윤석열 명예훼손’ 재판은 진행 중</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F23%2Fnewstapa%2F20250423155003827xgdr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F23%2Fnewstapa%2F20250423155003827xgdr.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3424,7 +3432,7 @@
             <link>https://v.daum.net/v/20250423151003472</link>
             <guid>https://v.daum.net/v/20250423151003472</guid>
             <pubDate>Wed, 23 Apr 2025 06:30:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250423151003472" class="link_column" data-tiara-layer="&quot;녹조_키우고_메탄_내뿜는_보와_하굿둑,_온실가스_공장으로_전락&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">"녹조 키우고 메탄 내뿜는 보와 하굿둑, 온실가스 공장으로 전락"</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F23%2Fnewstapa%2F20250423151004761dbpt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250423151003472" class="link_column" data-tiara-layer="&quot;녹조_키우고_메탄_내뿜는_보와_하굿둑,_온실가스_공장으로_전락&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">"녹조 키우고 메탄 내뿜는 보와 하굿둑, 온실가스 공장으로 전락"</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F23%2Fnewstapa%2F20250423151004761dbpt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F23%2Fnewstapa%2F20250423151004761dbpt.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3432,7 +3440,7 @@
             <link>https://v.daum.net/v/20250423141001559</link>
             <guid>https://v.daum.net/v/20250423141001559</guid>
             <pubDate>Thu, 24 Apr 2025 01:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250423141001559" class="link_column" data-tiara-layer="[팩트체크]전광훈_목사,_&quot;대선_출마하겠다&quot;...법적으로_가능?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크]전광훈 목사, "대선 출마하겠다"...법적으로 가능?</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424100725159xxzl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250423141001559" class="link_column" data-tiara-layer="[팩트체크]전광훈_목사,_&quot;대선_출마하겠다&quot;...법적으로_가능?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크]전광훈 목사, "대선 출마하겠다"...법적으로 가능?</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424100725159xxzl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424100725159xxzl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3480,7 +3488,7 @@
             <link>https://v.daum.net/v/20250422111503255</link>
             <guid>https://v.daum.net/v/20250422111503255</guid>
             <pubDate>Tue, 22 Apr 2025 03:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250422111503255" class="link_column" data-tiara-layer="<기고>_언론은_정치_세탁소가_아니다_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;기고&gt; 언론은 정치 세탁소가 아니다</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F22%2Fnewstapa%2F20250422111505520murv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250422111503255" class="link_column" data-tiara-layer="<기고>_언론은_정치_세탁소가_아니다_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;기고&gt; 언론은 정치 세탁소가 아니다</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F22%2Fnewstapa%2F20250422111505520murv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F22%2Fnewstapa%2F20250422111505520murv.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3512,7 +3520,7 @@
             <link>https://v.daum.net/v/20250418112003304</link>
             <guid>https://v.daum.net/v/20250418112003304</guid>
             <pubDate>Fri, 18 Apr 2025 03:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250418112003304" class="link_column" data-tiara-layer="국제_정치가_남극크릴_새우에_미치는_영향_alltab"><div class="cont_thumb"><strong class="tit_txt">국제 정치가 남극크릴 새우에 미치는 영향</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F18%2Fnewstapa%2F20250418112005500kkob.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250418112003304" class="link_column" data-tiara-layer="국제_정치가_남극크릴_새우에_미치는_영향_alltab"><div class="cont_thumb"><strong class="tit_txt">국제 정치가 남극크릴 새우에 미치는 영향</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F18%2Fnewstapa%2F20250418112005500kkob.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F18%2Fnewstapa%2F20250418112005500kkob.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3551,7 +3559,7 @@
             <link>https://v.daum.net/v/20250417110003052</link>
             <guid>https://v.daum.net/v/20250417110003052</guid>
             <pubDate>Thu, 17 Apr 2025 03:06:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250417110003052" class="link_column" data-tiara-layer="[팩트체크]재테크_안_했다는_유정복,_부동산⋅주식⋅코인_다_가졌다_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크]재테크 안 했다는 유정복, 부동산⋅주식⋅코인 다 가졌다</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F17%2Fnewstapa%2F20250417110004986uisl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250417110003052" class="link_column" data-tiara-layer="[팩트체크]재테크_안_했다는_유정복,_부동산⋅주식⋅코인_다_가졌다_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크]재테크 안 했다는 유정복, 부동산⋅주식⋅코인 다 가졌다</strong><span class="info_txt"><span class="txt_info">2025. 4. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F17%2Fnewstapa%2F20250417110004986uisl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F17%2Fnewstapa%2F20250417110004986uisl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3633,14 +3641,6 @@
             <pubDate>Mon, 14 Apr 2025 08:30:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250414164003332" class="link_column" data-tiara-layer="[특집방송]_'명태균PC'에_홍준표_아들_및_측근들_'카톡_수두룩'_alltab"><div class="cont_thumb"><strong class="tit_txt">[특집방송] '명태균PC'에 홍준표 아들 및 측근들 '카톡 수두룩'</strong><span class="info_txt"><span class="txt_info">2025. 4. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414164010489wxbf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414164010489wxbf.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[홍준표-명태균, 여론조사 '대면 보고' 정황 최초 확인 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250414163528132</link>
-            <guid>https://v.daum.net/v/20250414163528132</guid>
-            <pubDate>Mon, 14 Apr 2025 08:30:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250414163528132" class="link_column" data-tiara-layer="홍준표-명태균,_여론조사_'대면_보고'_정황_최초_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">홍준표-명태균, 여론조사 '대면 보고' 정황 최초 확인</strong><span class="info_txt"><span class="txt_info">2025. 4. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414163529611ywwt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414163529611ywwt.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
