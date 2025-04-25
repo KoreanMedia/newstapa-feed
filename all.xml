@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Apr 2025 06:30:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Apr 2025 07:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["4시에 같은 장소에서"... 홍준표-명태균 '추가 만남' 입증 카톡 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/lxC_v</link>
+            <guid>http://newstapa.org/article/lxC_v</guid>
+            <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["4시에 같은 장소에서"... 홍준표-명태균 '추가 만남' 입증 카톡]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/25151135-98FA-3DDA-E660-SWR95MBP07FMDRBKY3IX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 이준석 '거짓말'과 명태균 '카카오톡' (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Q3eJi</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/22141455-7C27-5470-BD91-J475O28LWUQ7TW3H0AIQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<기고> 언론은 정치 세탁소가 아니다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/PpyyR</link>
-            <guid>http://newstapa.org/article/PpyyR</guid>
-            <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;기고&gt; 언론은 정치 세탁소가 아니다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/22111353-B31B-42C9-F7EC-WEFQB0GO0HN7G104ZNS4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["4시에 같은 장소에서"... 홍준표-명태균 '추가 만남' 입증 카톡 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/lxC_v</link>
+            <guid>http://newstapa.org/article/lxC_v</guid>
+            <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["4시에 같은 장소에서"... 홍준표-명태균 '추가 만남' 입증 카톡]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/25151135-98FA-3DDA-E660-SWR95MBP07FMDRBKY3IX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 이준석 '거짓말'과 명태균 '카카오톡' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;기고&gt; 언론은 정치 세탁소가 아니다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/22111353-B31B-42C9-F7EC-WEFQB0GO0HN7G104ZNS4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] ‘청부민원’ 뒷북 조사에 류희림은 '선거심의'로 대선 개입 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/27Its</link>
-            <guid>http://newstapa.org/article/27Its</guid>
-            <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] ‘청부민원’ 뒷북 조사에 류희림은 '선거심의'로 대선 개입]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/21165739-B235-C108-9DC8-MBFU2SKT7SUPIWS50E6N.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[다시 쓰는 공소장] 검찰 출신 대통령실 직원들의 내란 연루 의혹 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3404,11 +3404,19 @@
             <content:encoded><![CDATA[지난 12년. 뉴스타파는 회원님과 함께 앞만 보고 달려왔습니다. 문득 이런 생각이 듭니다. ‘우리는 어떤 모습일까? 딱딱하고 틀에 박힌 이미지로 굳어진 건 아닐까? 젊은 세대는 우리를 어떻게 생각할까?’ 아니, 우리를 알고는 있을까?’ <br><br>뉴스타파의 이미지는 곧 뉴스 콘텐츠의 영향력과 연결됩니다. 뉴스를 더 효과적으로 더 멀리, 더 많은 분들에게 전달하기 위해, 회원님과 함께 고민하고 싶습니다. 회원님이 생각하는 뉴스타파는 어떤 모습일까요? 또 어떤 모습으로 나아가야 할까요? <br><br>회원님의 소중한 상상력이 뉴스타파의 미래를 그립니다. 그림, 캐릭터, 단어, 슬로건, 캐치프레이즈, 색깔, 조형물, 노래, 춤 등등 그 어떤 형태도 좋습니다. 회원님들의 자유로운 의견을 들려주세요. <br><br>자세한 참여 방법은 아래 링크를 통해 확인해 주세요! <br><br>👉 참여 방법 확인 : <span class="link_url">https://kcij.org/notice/u/-ojpU</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA["4시에 같은 장소에서"... 홍준표-명태균 '추가 만남' 입증 카톡 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250425161503918</link>
+            <guid>https://v.daum.net/v/20250425161503918</guid>
+            <pubDate>Fri, 25 Apr 2025 07:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250425161503918" class="link_column" data-tiara-layer="&quot;4시에_같은_장소에서&quot;..._홍준표-명태균_'추가_만남'_입증_카톡_alltab"><div class="cont_thumb"><strong class="tit_txt">"4시에 같은 장소에서"... 홍준표-명태균 '추가 만남' 입증 카톡</strong><span class="info_txt"><span class="txt_info">6분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F25%2Fnewstapa%2F20250425161515726near.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F25%2Fnewstapa%2F20250425161515726near.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 이준석 '거짓말'과 명태균 '카카오톡' (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250424182002135</link>
             <guid>https://v.daum.net/v/20250424182002135</guid>
             <pubDate>Thu, 24 Apr 2025 09:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250424182002135" class="link_column" data-tiara-layer="[주간_뉴스타파]_이준석_'거짓말'과_명태균_'카카오톡'_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 이준석 '거짓말'과 명태균 '카카오톡'</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424182005542uvqe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250424182002135" class="link_column" data-tiara-layer="[주간_뉴스타파]_이준석_'거짓말'과_명태균_'카카오톡'_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 이준석 '거짓말'과 명태균 '카카오톡'</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424182005542uvqe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424182005542uvqe.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3416,7 +3424,7 @@
             <link>https://v.daum.net/v/20250424181038757</link>
             <guid>https://v.daum.net/v/20250424181038757</guid>
             <pubDate>Thu, 24 Apr 2025 09:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250424181038757" class="link_column" data-tiara-layer="명태균PC로_'이준석_거짓말'_확인...여론조사_의뢰_'최소_두_번'_alltab"><div class="cont_thumb"><strong class="tit_txt">명태균PC로 '이준석 거짓말' 확인...여론조사 의뢰 '최소 두 번'</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424181053789lwch.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250424181038757" class="link_column" data-tiara-layer="명태균PC로_'이준석_거짓말'_확인...여론조사_의뢰_'최소_두_번'_alltab"><div class="cont_thumb"><strong class="tit_txt">명태균PC로 '이준석 거짓말' 확인...여론조사 의뢰 '최소 두 번'</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424181053789lwch.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424181053789lwch.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3424,7 +3432,7 @@
             <link>https://v.daum.net/v/20250424181028749</link>
             <guid>https://v.daum.net/v/20250424181028749</guid>
             <pubDate>Thu, 24 Apr 2025 09:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250424181028749" class="link_column" data-tiara-layer="'이준석_돌풍'_명태균_여론조사,_조사비_'대납자'_찾았다_alltab"><div class="cont_thumb"><strong class="tit_txt">'이준석 돌풍' 명태균 여론조사, 조사비 '대납자' 찾았다</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424181037645mkyd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250424181028749" class="link_column" data-tiara-layer="'이준석_돌풍'_명태균_여론조사,_조사비_'대납자'_찾았다_alltab"><div class="cont_thumb"><strong class="tit_txt">'이준석 돌풍' 명태균 여론조사, 조사비 '대납자' 찾았다</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424181037645mkyd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424181037645mkyd.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3432,7 +3440,7 @@
             <link>https://v.daum.net/v/20250424181003727</link>
             <guid>https://v.daum.net/v/20250424181003727</guid>
             <pubDate>Thu, 24 Apr 2025 09:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250424181003727" class="link_column" data-tiara-layer="'명태균PC'에_이준석_카톡...고비_때마다_명태균에게_'읍소'_alltab"><div class="cont_thumb"><strong class="tit_txt">'명태균PC'에 이준석 카톡...고비 때마다 명태균에게 '읍소'</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424181025751qlgo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250424181003727" class="link_column" data-tiara-layer="'명태균PC'에_이준석_카톡...고비_때마다_명태균에게_'읍소'_alltab"><div class="cont_thumb"><strong class="tit_txt">'명태균PC'에 이준석 카톡...고비 때마다 명태균에게 '읍소'</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424181025751qlgo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424181025751qlgo.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3440,7 +3448,7 @@
             <link>https://v.daum.net/v/20250424170003201</link>
             <guid>https://v.daum.net/v/20250424170003201</guid>
             <pubDate>Thu, 24 Apr 2025 08:29:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250424170003201" class="link_column" data-tiara-layer="[다시_쓰는_공소장]_검찰_출신_대통령실_직원들의_내란_연루_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">[다시 쓰는 공소장] 검찰 출신 대통령실 직원들의 내란 연루 의혹</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424170005582pkjo.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250424170003201" class="link_column" data-tiara-layer="[다시_쓰는_공소장]_검찰_출신_대통령실_직원들의_내란_연루_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">[다시 쓰는 공소장] 검찰 출신 대통령실 직원들의 내란 연루 의혹</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424170005582pkjo.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424170005582pkjo.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3464,7 +3472,7 @@
             <link>https://v.daum.net/v/20250423155002350</link>
             <guid>https://v.daum.net/v/20250423155002350</guid>
             <pubDate>Wed, 23 Apr 2025 07:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250423155002350" class="link_column" data-tiara-layer="<뉴스타파_v._윤석열>_사건_기록_페이지_제작·공개,_‘윤석열_명예훼손’_재판은_진행_중_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;뉴스타파 v. 윤석열&gt; 사건 기록 페이지 제작·공개, ‘윤석열 명예훼손’ 재판은 진행 중</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F23%2Fnewstapa%2F20250423155003827xgdr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250423155002350" class="link_column" data-tiara-layer="<뉴스타파_v._윤석열>_사건_기록_페이지_제작·공개,_‘윤석열_명예훼손’_재판은_진행_중_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;뉴스타파 v. 윤석열&gt; 사건 기록 페이지 제작·공개, ‘윤석열 명예훼손’ 재판은 진행 중</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F23%2Fnewstapa%2F20250423155003827xgdr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F23%2Fnewstapa%2F20250423155003827xgdr.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3633,14 +3641,6 @@
             <pubDate>Tue, 15 Apr 2025 08:30:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250415170003959" class="link_column" data-tiara-layer="[팩트체크]국민연금이_중국_등_외국인_노동자들의_노후_대책?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크]국민연금이 중국 등 외국인 노동자들의 노후 대책?</strong><span class="info_txt"><span class="txt_info">2025. 4. 15.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F15%2Fnewstapa%2F20250415170005106jbyi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F15%2Fnewstapa%2F20250415170005106jbyi.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[다시 쓰는 공소장] 국민을 배신한 군대, '노상원의 반란군' (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250415163004823</link>
-            <guid>https://v.daum.net/v/20250415163004823</guid>
-            <pubDate>Tue, 15 Apr 2025 08:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250415163004823" class="link_column" data-tiara-layer="[다시_쓰는_공소장]_국민을_배신한_군대,_'노상원의_반란군'_alltab"><div class="cont_thumb"><strong class="tit_txt">[다시 쓰는 공소장] 국민을 배신한 군대, '노상원의 반란군'</strong><span class="info_txt"><span class="txt_info">2025. 4. 15.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F15%2Fnewstapa%2F20250415163019712qmcc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F15%2Fnewstapa%2F20250415163019712qmcc.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
