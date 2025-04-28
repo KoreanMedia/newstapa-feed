@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 교육</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Apr 2025 07:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2025 09:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 감사원 "교과서 검정 취소 사유 해당"...뉴스타파 보도 8개월만]]></title>
+            <link>http://newstapa.org/article/Qk_bj</link>
+            <guid>http://newstapa.org/article/Qk_bj</guid>
+            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 감사원 "교과서 검정 취소 사유 해당"...뉴스타파 보도 8개월만]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28172624-3391-4F2F-0D6B-69LGM5KD3QVOX5T4WOA0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다]]></title>
             <link>http://newstapa.org/article/74aqg</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스포츠혁신 4년③ 스포츠 혁신의 시간은 거꾸로 간다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/23150615-4A0F-CFFE-ECAB-9UE92YZN8LCHHZURN7HY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다]]></title>
-            <link>http://newstapa.org/article/vwc1o</link>
-            <guid>http://newstapa.org/article/vwc1o</guid>
-            <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/16151904-6C9C-B02C-4014-0NKUMOJK8NTAH9WQDMHF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Apr 2025 07:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2025 09:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 감사원 "교과서 검정 취소 사유 해당"...뉴스타파 보도 8개월만]]></title>
+            <link>http://newstapa.org/article/Qk_bj</link>
+            <guid>http://newstapa.org/article/Qk_bj</guid>
+            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 감사원 "교과서 검정 취소 사유 해당"...뉴스타파 보도 8개월만]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28172624-3391-4F2F-0D6B-69LGM5KD3QVOX5T4WOA0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건진법사가 '양재동 캠프' 만들어 '불법 선거운동' 지휘]]></title>
             <link>http://newstapa.org/article/1zYI0</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[라이브] '검사 한동훈' 카톡으로 대선 후보자 자질 검증]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/22185431-380F-4A98-174F-W9BVGMYTRZY9E3RH638W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한동훈 검사 카카오톡 입수..."김건희 주가조작 보도는 공작"]]></title>
-            <link>http://newstapa.org/article/5NoL4</link>
-            <guid>http://newstapa.org/article/5NoL4</guid>
-            <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한동훈 검사 카카오톡 입수..."김건희 주가조작 보도는 공작"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/22152535-7C36-3DAE-4C81-WHTV03BCK4PQSIYZD004.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

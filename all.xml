@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Apr 2025 07:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2025 09:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 감사원 "교과서 검정 취소 사유 해당"...뉴스타파 보도 8개월만 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Qk_bj</link>
+            <guid>http://newstapa.org/article/Qk_bj</guid>
+            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 감사원 "교과서 검정 취소 사유 해당"...뉴스타파 보도 8개월만]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28172624-3391-4F2F-0D6B-69LGM5KD3QVOX5T4WOA0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건진법사가 '양재동 캠프' 만들어 '불법 선거운동' 지휘 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/1zYI0</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[라이브] '검사 한동훈' 카톡으로 대선 후보자 자질 검증]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/22185431-380F-4A98-174F-W9BVGMYTRZY9E3RH638W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한동훈 검사 카카오톡 입수..."김건희 주가조작 보도는 공작" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/5NoL4</link>
-            <guid>http://newstapa.org/article/5NoL4</guid>
-            <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한동훈 검사 카카오톡 입수..."김건희 주가조작 보도는 공작"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/22152535-7C36-3DAE-4C81-WHTV03BCK4PQSIYZD004.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[건진법사가 '양재동 캠프' 만들어 '불법 선거운동' 지휘 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1288,6 +1288,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/07102816-3213-4EFA-3CDF-4V906KBISBH5NBKREWES.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 감사원 "교과서 검정 취소 사유 해당"...뉴스타파 보도 8개월만 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/Qk_bj</link>
+            <guid>http://newstapa.org/article/Qk_bj</guid>
+            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 감사원 "교과서 검정 취소 사유 해당"...뉴스타파 보도 8개월만]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28172624-3391-4F2F-0D6B-69LGM5KD3QVOX5T4WOA0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
             <link>http://newstapa.org/article/74aqg</link>
             <guid>http://newstapa.org/article/74aqg</guid>
@@ -1406,14 +1414,6 @@
             <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스포츠혁신 4년③ 스포츠 혁신의 시간은 거꾸로 간다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/23150615-4A0F-CFFE-ECAB-9UE92YZN8LCHHZURN7HY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/vwc1o</link>
-            <guid>http://newstapa.org/article/vwc1o</guid>
-            <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/16151904-6C9C-B02C-4014-0NKUMOJK8NTAH9WQDMHF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["자유언론실천은 끝나지 않은 여정입니다" 동아투위 50주년 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
@@ -3008,6 +3008,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2013/11/6cbb751a4db37991158e8f9a8ee86eefb32e2b32dac18e01e824e3e6d8c9c667475b2ebcc4b58045e1d556f226efc15e7e477fc9209d8f1b106b82e4073e8b32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 감사원 "교과서 검정 취소 사유 해당"...뉴스타파 보도 8개월만 (뉴스타파 ─ 변화)]]></title>
+            <link>https://www.newstapa.org/article/Qk_bj</link>
+            <guid>https://www.newstapa.org/article/Qk_bj</guid>
+            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.28]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28172624-3391-4F2F-0D6B-69LGM5KD3QVOX5T4WOA0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개” (뉴스타파 ─ 변화)]]></title>
             <link>https://www.newstapa.org/article/snDBh</link>
             <guid>https://www.newstapa.org/article/snDBh</guid>
@@ -3126,14 +3134,6 @@
             <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.22]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22153720-1966-A378-8A27-7K4597P034NHFK18GQBD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]관광학회 '논문 조작' 교수들, '임용 취소', '정직' 등 무더기 중징계 (뉴스타파 ─ 변화)]]></title>
-            <link>https://www.newstapa.org/article/c-NiQ</link>
-            <guid>https://www.newstapa.org/article/c-NiQ</guid>
-            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.22]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/21032345-D1E1-CADA-C241-L9WMFU2SG0RHZLSEIQYJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도시재생 10년, 길을 잃었나③ 도시재생은 지역맞춤으로…사후관리도 중요 (뉴스타파 ─ 참여)]]></title>
@@ -3262,6 +3262,13 @@
             <pubDate>Thu, 06 Aug 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2020.08.06]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 감사원 "교과서 검정 취소 사유 해당"...뉴스타파 보도 8개월만 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/109214218</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/109214218</guid>
+            <pubDate>Mon, 28 Apr 2025 09:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 8월, 뉴스타파 보도로 세상에 드러난 한 출판사의 한국사 교과서 검정 비위 사건을 기억하시나요. 이른바 '표지갈이 문제집' 사건으로도 알려져 있는데요.<br><br>감사원이 오늘 문제의 출판사 ‘한국학력평가원’의 한국사 교과서에 대해 ‘검정 합격 취소 사유에 해당한다’며 교육부에 조치를 요구하는 감사 결과를 내놨습니다. 뉴스타파가 해당 사건을 보도한 지 8개월 만의 일입니다.<br><br>교육부는 해당 출판사의 부정 행위를 알게된 뒤로도 규정 위반에 해당하지 않는다며 제재가 어렵다고 책임을 회피해왔습니다. 그러나 감사원은 이러한 교육부의 입장도 '변명'이라고 결론내렸습니다.<br><br>홍우람 기자의 보도로 이끌어낸 작은 변화를 후원회원, 시민 여러분께 전해드립니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/Qk_bj</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[건진법사가 '양재동 캠프' 만들어 '불법 선거운동' 지휘 (뉴스타파 ─ 카카오톡 채널)]]></title>
@@ -3397,18 +3404,18 @@
             <content:encoded><![CDATA[국민의힘 대선후보 경선에 출마한 홍준표 전 대구시장은 경남도지사 시절 자신이 폐업시킨 진주의료원이 '강성노조의 놀이터'로 전락하면서 방만하게 운영돼 부득이하게 폐업하게 됐다고 주장했습니다. 정말 진주의료원의 적자와 수익성 악화가 '강성노조'때문이었을까요? 2013년 당시 새누리당(현 국민의힘 전신)측이 위원장을 맡았던 국회국정조사특위 보고서에 그 답이 나와 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/gfXeu</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이진우 진술 공개, 수방사가 '반란군'인 이유’ (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/109097749</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/109097749</guid>
-            <pubDate>Thu, 17 Apr 2025 10:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파는 [다시 쓰는 공소장] 프로젝트에서 12·3 내란의날, 우리 군의 불법적인 작전의 실체를 '반란'으로 재규정하는 작업을 하고 있습니다.<br><br>취재팀이 수사 기록을 검토한 결과, 당시 국방장관 김용현의 하수인이 된 특전, 수방사령관 가운데 적어도 이진우 수방사령관은 합동참모본부의 지휘통제 없이는 병력을 출동시킬 수 없다는 점을 명확히 알고 있었던 것으로 확인됐습니다.<br><br>현재 이 전 사령관은 군사법원 재판에서 '무죄'를 주장하고 있습니다. 정당한 주장일까요? 그는 자신의 주장을 스스로 반박하는 검찰 조사에서 수두룩하게 남겼습니다. 오늘 보도에서 공개합니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/fxP_yKL_nE8</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/Vtmqy</span>]]></content:encoded>
+            <title><![CDATA[[변화] 감사원 "교과서 검정 취소 사유 해당"...뉴스타파 보도 8개월만 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250428173003643</link>
+            <guid>https://v.daum.net/v/20250428173003643</guid>
+            <pubDate>Mon, 28 Apr 2025 09:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250428173003643" class="link_column" data-tiara-layer="[변화]_감사원_&quot;교과서_검정_취소_사유_해당&quot;...뉴스타파_보도_8개월만_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화] 감사원 "교과서 검정 취소 사유 해당"...뉴스타파 보도 8개월만</strong><span class="info_txt"><span class="txt_info">40분 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[건진법사가 '양재동 캠프' 만들어 '불법 선거운동' 지휘 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250428150003120</link>
             <guid>https://v.daum.net/v/20250428150003120</guid>
             <pubDate>Mon, 28 Apr 2025 06:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250428150003120" class="link_column" data-tiara-layer="건진법사가_'양재동_캠프'_만들어_'불법_선거운동'_지휘_alltab"><div class="cont_thumb"><strong class="tit_txt">건진법사가 '양재동 캠프' 만들어 '불법 선거운동' 지휘</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F28%2Fnewstapa%2F20250428150005145oecw.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250428150003120" class="link_column" data-tiara-layer="건진법사가_'양재동_캠프'_만들어_'불법_선거운동'_지휘_alltab"><div class="cont_thumb"><strong class="tit_txt">건진법사가 '양재동 캠프' 만들어 '불법 선거운동' 지휘</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F28%2Fnewstapa%2F20250428150005145oecw.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F28%2Fnewstapa%2F20250428150005145oecw.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3416,7 +3423,7 @@
             <link>https://v.daum.net/v/20250428144002154</link>
             <guid>https://v.daum.net/v/20250428144002154</guid>
             <pubDate>Mon, 28 Apr 2025 06:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250428144002154" class="link_column" data-tiara-layer="“8년_전,_건진법사_법당에서_윤석열·김건희_봤다”_alltab"><div class="cont_thumb"><strong class="tit_txt">“8년 전, 건진법사 법당에서 윤석열·김건희 봤다”</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F28%2Fnewstapa%2F20250428144004167errt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250428144002154" class="link_column" data-tiara-layer="“8년_전,_건진법사_법당에서_윤석열·김건희_봤다”_alltab"><div class="cont_thumb"><strong class="tit_txt">“8년 전, 건진법사 법당에서 윤석열·김건희 봤다”</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F28%2Fnewstapa%2F20250428144004167errt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F28%2Fnewstapa%2F20250428144004167errt.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3424,7 +3431,7 @@
             <link>https://v.daum.net/v/20250425174004185</link>
             <guid>https://v.daum.net/v/20250425174004185</guid>
             <pubDate>Fri, 25 Apr 2025 09:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250425174004185" class="link_column" data-tiara-layer="이진우_녹취록_확인…_계엄군_선정_거짓말_alltab"><div class="cont_thumb"><strong class="tit_txt">이진우 녹취록 확인… 계엄군 선정 거짓말</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F25%2Fnewstapa%2F20250425174007281viid.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250425174004185" class="link_column" data-tiara-layer="이진우_녹취록_확인…_계엄군_선정_거짓말_alltab"><div class="cont_thumb"><strong class="tit_txt">이진우 녹취록 확인… 계엄군 선정 거짓말</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F25%2Fnewstapa%2F20250425174007281viid.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F25%2Fnewstapa%2F20250425174007281viid.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3464,7 +3471,7 @@
             <link>https://v.daum.net/v/20250424181003727</link>
             <guid>https://v.daum.net/v/20250424181003727</guid>
             <pubDate>Thu, 24 Apr 2025 09:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250424181003727" class="link_column" data-tiara-layer="'명태균PC'에_이준석_카톡...고비_때마다_명태균에게_'읍소'_alltab"><div class="cont_thumb"><strong class="tit_txt">'명태균PC'에 이준석 카톡...고비 때마다 명태균에게 '읍소'</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424181025751qlgo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250424181003727" class="link_column" data-tiara-layer="'명태균PC'에_이준석_카톡...고비_때마다_명태균에게_'읍소'_alltab"><div class="cont_thumb"><strong class="tit_txt">'명태균PC'에 이준석 카톡...고비 때마다 명태균에게 '읍소'</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424181025751qlgo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424181025751qlgo.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3472,7 +3479,7 @@
             <link>https://v.daum.net/v/20250424170003201</link>
             <guid>https://v.daum.net/v/20250424170003201</guid>
             <pubDate>Thu, 24 Apr 2025 08:29:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250424170003201" class="link_column" data-tiara-layer="[다시_쓰는_공소장]_검찰_출신_대통령실_직원들의_내란_연루_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">[다시 쓰는 공소장] 검찰 출신 대통령실 직원들의 내란 연루 의혹</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424170005582pkjo.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250424170003201" class="link_column" data-tiara-layer="[다시_쓰는_공소장]_검찰_출신_대통령실_직원들의_내란_연루_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">[다시 쓰는 공소장] 검찰 출신 대통령실 직원들의 내란 연루 의혹</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424170005582pkjo.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F24%2Fnewstapa%2F20250424170005582pkjo.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3568,7 +3575,7 @@
             <link>https://v.daum.net/v/20250421170004575</link>
             <guid>https://v.daum.net/v/20250421170004575</guid>
             <pubDate>Mon, 21 Apr 2025 08:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250421170004575" class="link_column" data-tiara-layer="[현장에서]_‘청부민원’_뒷북_조사에_류희림은_'선거심의'로_대선_개입_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] ‘청부민원’ 뒷북 조사에 류희림은 '선거심의'로 대선 개입</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F21%2Fnewstapa%2F20250421170006240lgoc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250421170004575" class="link_column" data-tiara-layer="[현장에서]_‘청부민원’_뒷북_조사에_류희림은_'선거심의'로_대선_개입_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] ‘청부민원’ 뒷북 조사에 류희림은 '선거심의'로 대선 개입</strong><span class="info_txt"><span class="txt_info">2025. 4. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F21%2Fnewstapa%2F20250421170006240lgoc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F21%2Fnewstapa%2F20250421170006240lgoc.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3633,14 +3640,6 @@
             <pubDate>Thu, 17 Apr 2025 03:06:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250417110003052" class="link_column" data-tiara-layer="[팩트체크]재테크_안_했다는_유정복,_부동산⋅주식⋅코인_다_가졌다_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크]재테크 안 했다는 유정복, 부동산⋅주식⋅코인 다 가졌다</strong><span class="info_txt"><span class="txt_info">2025. 4. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F17%2Fnewstapa%2F20250417110004986uisl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F17%2Fnewstapa%2F20250417110004986uisl.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[다시 쓰는 공소장] 그들은 합참의장의 부대를 강탈했다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250416182503846</link>
-            <guid>https://v.daum.net/v/20250416182503846</guid>
-            <pubDate>Wed, 16 Apr 2025 10:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250416182503846" class="link_column" data-tiara-layer="[다시_쓰는_공소장]_그들은_합참의장의_부대를_강탈했다_alltab"><div class="cont_thumb"><strong class="tit_txt">[다시 쓰는 공소장] 그들은 합참의장의 부대를 강탈했다</strong><span class="info_txt"><span class="txt_info">2025. 4. 16.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F16%2Fnewstapa%2F20250416182515290ukeo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F16%2Fnewstapa%2F20250416182515290ukeo.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
