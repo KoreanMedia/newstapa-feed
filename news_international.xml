@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 국제협업</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Apr 2025 09:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2025 11:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국, 정부 주도로 '비밀경찰' 통해 반체제인사 탄압 의혹]]></title>
+            <link>http://newstapa.org/article/hRbdT</link>
+            <guid>http://newstapa.org/article/hRbdT</guid>
+            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중국, 정부 주도로 '비밀경찰' 통해 반체제인사 탄압 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28170840-F7A2-272E-E69A-44RTLI3Z8EPR0NB41QC5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국이 외국으로 망명한 반체제인사를 탄압하는 법]]></title>
+            <link>http://newstapa.org/article/lJer6</link>
+            <guid>http://newstapa.org/article/lJer6</guid>
+            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중국이 외국으로 망명한 반체제인사를 탄압하는 법]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28184957-FC06-6C6F-5166-7Q64JENZZWUQXEG4WASL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국제 정치가 남극크릴 새우에 미치는 영향]]></title>
             <link>http://newstapa.org/article/8kgX_</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[전세계 탐사보도 기자들, 뉴스타파 지지에 한목소리]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/27140608-611D-DF74-53B4-ADADP9AW8YCPWC9M43N9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]피지 정부, 은혜로교회 지도부 6명 추방 결정...대표는 법적 다툼]]></title>
-            <link>http://newstapa.org/article/dZhnx</link>
-            <guid>http://newstapa.org/article/dZhnx</guid>
-            <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화]피지 정부, 은혜로교회 지도부 6명 추방 결정...대표는 법적 다툼]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/08185227-E797-2D8E-8FF9-6O1II38HXIEAGTKGOWIX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유]]></title>
-            <link>http://newstapa.org/article/DFXRl</link>
-            <guid>http://newstapa.org/article/DFXRl</guid>
-            <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/26171959-B6F0-E302-42D9-3KJG51PHRWR0RWWC9XM6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,31 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Apr 2025 09:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2025 11:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[변화] 감사원 "교과서 검정 취소 사유 해당"...뉴스타파 보도 8개월만]]></title>
+            <title><![CDATA[중국, 정부 주도로 '비밀경찰' 통해 반체제인사 탄압 의혹]]></title>
+            <link>http://newstapa.org/article/hRbdT</link>
+            <guid>http://newstapa.org/article/hRbdT</guid>
+            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중국, 정부 주도로 '비밀경찰' 통해 반체제인사 탄압 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28170840-F7A2-272E-E69A-44RTLI3Z8EPR0NB41QC5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국이 외국으로 망명한 반체제인사를 탄압하는 법]]></title>
+            <link>http://newstapa.org/article/lJer6</link>
+            <guid>http://newstapa.org/article/lJer6</guid>
+            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중국이 외국으로 망명한 반체제인사를 탄압하는 법]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28184957-FC06-6C6F-5166-7Q64JENZZWUQXEG4WASL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 감사원 "교과서 발행정지·합격취소 사유 해당"...뉴스타파 보도 8개월만]]></title>
             <link>http://newstapa.org/article/Qk_bj</link>
             <guid>http://newstapa.org/article/Qk_bj</guid>
             <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 감사원 "교과서 검정 취소 사유 해당"...뉴스타파 보도 8개월만]]></content:encoded>
+            <content:encoded><![CDATA[[변화] 감사원 "교과서 발행정지·합격취소 사유 해당"...뉴스타파 보도 8개월만]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28172624-3391-4F2F-0D6B-69LGM5KD3QVOX5T4WOA0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["녹조 키우고 메탄 내뿜는 보와 하굿둑, 온실가스 공장으로 전락"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23150604-0542-4688-5AB8-845KFQKY4SW6NQBCJL7R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크]전광훈 목사, "대선 출마하겠다"...법적으로 가능?]]></title>
-            <link>http://newstapa.org/article/ZgMM_</link>
-            <guid>http://newstapa.org/article/ZgMM_</guid>
-            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크]전광훈 목사, "대선 출마하겠다"...법적으로 가능?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23140756-A5C3-66D6-CF2B-8X2MJ7IC0DTDU2BTV1M0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[라이브] '검사 한동훈' 카톡으로 대선 후보자 자질 검증]]></title>
-            <link>http://newstapa.org/article/V-CK0</link>
-            <guid>http://newstapa.org/article/V-CK0</guid>
-            <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[라이브] '검사 한동훈' 카톡으로 대선 후보자 자질 검증]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/22185431-380F-4A98-174F-W9BVGMYTRZY9E3RH638W.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
