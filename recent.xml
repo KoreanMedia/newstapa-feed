@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Apr 2025 05:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2025 06:40:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건진법사가 '양재동 캠프' 만들어 '불법 선거운동' 지휘]]></title>
+            <link>http://newstapa.org/article/1zYI0</link>
+            <guid>http://newstapa.org/article/1zYI0</guid>
+            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[건진법사가 '양재동 캠프' 만들어 '불법 선거운동' 지휘]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28145830-AC35-6159-8ACA-HW8REV5UU586Q2HCLC67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“8년 전, 건진법사 법당에서 윤석열·김건희 봤다”]]></title>
+            <link>http://newstapa.org/article/0JK1m</link>
+            <guid>http://newstapa.org/article/0JK1m</guid>
+            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“8년 전, 건진법사 법당에서 윤석열·김건희 봤다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28143923-FA84-119F-4481-8AFTLKJGMNTCY9IIRX3H.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이진우 녹취록 확인… 계엄군 선정 거짓말]]></title>
             <link>http://newstapa.org/article/WxMfE</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한동훈 검사 카카오톡 입수..."김건희 주가조작 보도는 공작"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/22152535-7C36-3DAE-4C81-WHTV03BCK4PQSIYZD004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['한동훈-기자' 카톡에 '언론플레이 및 질문 사주’ 흔적들]]></title>
-            <link>http://newstapa.org/article/fCKhu</link>
-            <guid>http://newstapa.org/article/fCKhu</guid>
-            <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['한동훈-기자' 카톡에 '언론플레이 및 질문 사주’ 흔적들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/22152636-8A64-A201-B00C-GKE92JH34N9HZYAUAIKY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판결문에 적힌 '윤석열의 직권남용'...최대 수혜자는 '한동훈']]></title>
-            <link>http://newstapa.org/article/NSlcx</link>
-            <guid>http://newstapa.org/article/NSlcx</guid>
-            <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[판결문에 적힌 '윤석열의 직권남용'...최대 수혜자는 '한동훈']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/22152708-8234-02EA-2EEA-AQQH6D7KPDM5LBVLGR4F.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
