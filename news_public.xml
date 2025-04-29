@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Apr 2025 07:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Apr 2025 08:30:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<뉴스타파 v. 윤석열> 검찰, 대검 예규 제 1311호 근거로 수사개시 주장... 봉지욱 기자 2차 준비기일]]></title>
+            <link>http://newstapa.org/article/LSIb0</link>
+            <guid>http://newstapa.org/article/LSIb0</guid>
+            <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; 검찰, 대검 예규 제 1311호 근거로 수사개시 주장... 봉지욱 기자 2차 준비기일]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/29171028-C088-224F-4F15-IC6YTZGUS5ZDQZ2HL4K7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[건진법사가 숨긴 '관봉 5천만원'...윤석열 정부 '특수활동비'였다]]></title>
+            <link>http://newstapa.org/article/cWWXZ</link>
+            <guid>http://newstapa.org/article/cWWXZ</guid>
+            <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[건진법사가 숨긴 '관봉 5천만원'...윤석열 정부 '특수활동비'였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/29164200-D786-E963-AAD2-1C3YS5W1OP8QQ1BV14PX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건진법사가 '양재동 캠프' 만들어 '불법 선거운동' 지휘]]></title>
             <link>http://newstapa.org/article/1zYI0</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[라이브] '검사 한동훈' 카톡으로 대선 후보자 자질 검증]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/22185431-380F-4A98-174F-W9BVGMYTRZY9E3RH638W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한동훈 검사 카카오톡 입수..."김건희 주가조작 보도는 공작"]]></title>
-            <link>http://newstapa.org/article/5NoL4</link>
-            <guid>http://newstapa.org/article/5NoL4</guid>
-            <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한동훈 검사 카카오톡 입수..."김건희 주가조작 보도는 공작"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/22152535-7C36-3DAE-4C81-WHTV03BCK4PQSIYZD004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['한동훈-기자' 카톡에 '언론플레이 및 질문 사주’ 흔적들]]></title>
-            <link>http://newstapa.org/article/fCKhu</link>
-            <guid>http://newstapa.org/article/fCKhu</guid>
-            <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['한동훈-기자' 카톡에 '언론플레이 및 질문 사주’ 흔적들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/22152636-8A64-A201-B00C-GKE92JH34N9HZYAUAIKY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

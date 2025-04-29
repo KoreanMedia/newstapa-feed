@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Apr 2025 07:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Apr 2025 08:30:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<뉴스타파 v. 윤석열> 검찰, 대검 예규 제 1311호 근거로 수사개시 주장... 봉지욱 기자 2차 준비기일]]></title>
+            <link>http://newstapa.org/article/LSIb0</link>
+            <guid>http://newstapa.org/article/LSIb0</guid>
+            <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; 검찰, 대검 예규 제 1311호 근거로 수사개시 주장... 봉지욱 기자 2차 준비기일]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/29171028-C088-224F-4F15-IC6YTZGUS5ZDQZ2HL4K7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[건진법사가 숨긴 '관봉 5천만원'...윤석열 정부 '특수활동비'였다]]></title>
+            <link>http://newstapa.org/article/cWWXZ</link>
+            <guid>http://newstapa.org/article/cWWXZ</guid>
+            <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[건진법사가 숨긴 '관봉 5천만원'...윤석열 정부 '특수활동비'였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/29164200-D786-E963-AAD2-1C3YS5W1OP8QQ1BV14PX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국, 정부 주도로 '비밀경찰' 통해 반체제인사 탄압 의혹]]></title>
             <link>http://newstapa.org/article/hRbdT</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[다시 쓰는 공소장] 윤석열과 국무위원 '불법 회의'의 재구성]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23164840-B5D8-9A6C-FF70-I1D71XPDWBD4Z357MYIZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뉴스타파 v. 윤석열> 사건 기록 페이지 제작·공개, ‘윤석열 명예훼손’ 재판은 진행 중]]></title>
-            <link>http://newstapa.org/article/c0hVk</link>
-            <guid>http://newstapa.org/article/c0hVk</guid>
-            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; 사건 기록 페이지 제작·공개, ‘윤석열 명예훼손’ 재판은 진행 중]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23154626-0132-1A47-E4B7-EPL3OVW3S4DD4TV8QA6X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["녹조 키우고 메탄 내뿜는 보와 하굿둑, 온실가스 공장으로 전락"]]></title>
-            <link>http://newstapa.org/article/b_2Qh</link>
-            <guid>http://newstapa.org/article/b_2Qh</guid>
-            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["녹조 키우고 메탄 내뿜는 보와 하굿둑, 온실가스 공장으로 전락"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23150604-0542-4688-5AB8-845KFQKY4SW6NQBCJL7R.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
