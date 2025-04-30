@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Apr 2025 07:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 08:29:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['대권 도전' 한덕수의 계엄 행적...사라진 1시간]]></title>
+            <link>http://newstapa.org/article/eXBuD</link>
+            <guid>http://newstapa.org/article/eXBuD</guid>
+            <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['대권 도전' 한덕수의 계엄 행적...사라진 1시간]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/30162448-7254-E824-847A-KWLWHFZLVYQSKC7EJ5WK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[용산 대통령실, '유튜브 전담 행정관' 두고 '유튜버 관리']]></title>
+            <link>http://newstapa.org/article/Riiqq</link>
+            <guid>http://newstapa.org/article/Riiqq</guid>
+            <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[용산 대통령실, '유튜브 전담 행정관' 두고 '유튜버 관리']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/30165233-96C1-695D-FD41-4FQYB3Y1CDYOISWCM85Z.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 한동훈, 모병제 도입하면 ‘없는 집’에서만 군대 간다?]]></title>
             <link>http://newstapa.org/article/hIDII</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[다시 쓰는 공소장] 윤석열과 국무위원 '불법 회의'의 재구성]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23164840-B5D8-9A6C-FF70-I1D71XPDWBD4Z357MYIZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뉴스타파 v. 윤석열> 사건 기록 페이지 제작·공개, ‘윤석열 명예훼손’ 재판은 진행 중]]></title>
-            <link>http://newstapa.org/article/c0hVk</link>
-            <guid>http://newstapa.org/article/c0hVk</guid>
-            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; 사건 기록 페이지 제작·공개, ‘윤석열 명예훼손’ 재판은 진행 중]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23154626-0132-1A47-E4B7-EPL3OVW3S4DD4TV8QA6X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크]전광훈 목사, "대선 출마하겠다"...법적으로 가능?]]></title>
-            <link>http://newstapa.org/article/ZgMM_</link>
-            <guid>http://newstapa.org/article/ZgMM_</guid>
-            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크]전광훈 목사, "대선 출마하겠다"...법적으로 가능?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23140756-A5C3-66D6-CF2B-8X2MJ7IC0DTDU2BTV1M0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

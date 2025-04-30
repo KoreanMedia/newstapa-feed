@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Apr 2025 07:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 08:29:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['대권 도전' 한덕수의 계엄 행적...사라진 1시간]]></title>
+            <link>http://newstapa.org/article/eXBuD</link>
+            <guid>http://newstapa.org/article/eXBuD</guid>
+            <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['대권 도전' 한덕수의 계엄 행적...사라진 1시간]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/30162448-7254-E824-847A-KWLWHFZLVYQSKC7EJ5WK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[용산 대통령실, '유튜브 전담 행정관' 두고 '유튜버 관리']]></title>
+            <link>http://newstapa.org/article/Riiqq</link>
+            <guid>http://newstapa.org/article/Riiqq</guid>
+            <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[용산 대통령실, '유튜브 전담 행정관' 두고 '유튜버 관리']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/30165233-96C1-695D-FD41-4FQYB3Y1CDYOISWCM85Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파]망상자들, 내란은 끝나지 않았다]]></title>
+            <link>http://newstapa.org/article/zN5cd</link>
+            <guid>http://newstapa.org/article/zN5cd</guid>
+            <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파]망상자들, 내란은 끝나지 않았다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/30154732-F840-D05F-5EDF-57H7QR4R6EW4612UG32V.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 한동훈, 모병제 도입하면 ‘없는 집’에서만 군대 간다?]]></title>
             <link>http://newstapa.org/article/hIDII</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['이준석 돌풍' 명태균 여론조사, 조사비 '대납자' 찾았다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/24171818-9D80-999C-8460-0SGK9KZDAL2GLLY21LZM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['명태균PC'에 이준석 카톡...고비 때마다 명태균에게 '읍소']]></title>
-            <link>http://newstapa.org/article/_0BsS</link>
-            <guid>http://newstapa.org/article/_0BsS</guid>
-            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['명태균PC'에 이준석 카톡...고비 때마다 명태균에게 '읍소']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/24171849-39F5-9F03-32A6-VHZTPZOUUDRUR8JGTOQD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다시 쓰는 공소장] 검찰 출신 대통령실 직원들의 내란 연루 의혹]]></title>
-            <link>http://newstapa.org/article/4BQby</link>
-            <guid>http://newstapa.org/article/4BQby</guid>
-            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다시 쓰는 공소장] 검찰 출신 대통령실 직원들의 내란 연루 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/24165748-6174-80AD-3500-KOV3T8SDXWB53FBJV6TO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 홍준표, 해고가 자유로워야 고용이 늘어난다?]]></title>
-            <link>http://newstapa.org/article/9iuU5</link>
-            <guid>http://newstapa.org/article/9iuU5</guid>
-            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 홍준표, 해고가 자유로워야 고용이 늘어난다?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/24112617-BCB6-1C68-38DF-1T9FMR0CYRDS9JXDV0XJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
