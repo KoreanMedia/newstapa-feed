@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 May 2025 08:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 May 2025 09:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 국토부 “항공 전문성 강화 위해 항공안전 조직 개편 검토”]]></title>
+            <link>http://newstapa.org/article/llLs1</link>
+            <guid>http://newstapa.org/article/llLs1</guid>
+            <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 국토부 “항공 전문성 강화 위해 항공안전 조직 개편 검토”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/02171902-F71C-6012-1991-1WHS7F9QLHL76CQIN5VL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["녹조 키우고 메탄 내뿜는 보와 하굿둑, 온실가스 공장으로 전락"]]></title>
             <link>http://newstapa.org/article/b_2Qh</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 환경부는 낙동강 주민들을 상대로 녹조 생체실험을 하려는 것인가?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/11144904-713B-4781-F71F-EE7WX38C2G5K49YHG8J3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4대강 녹색 독, 콧속에 스며들다]]></title>
-            <link>http://newstapa.org/article/u4464</link>
-            <guid>http://newstapa.org/article/u4464</guid>
-            <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4대강 녹색 독, 콧속에 스며들다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/07102816-3213-4EFA-3CDF-4V906KBISBH5NBKREWES.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
