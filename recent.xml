@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 May 2025 10:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 May 2025 11:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딥페이크의 공범들 ③ 유포는 끝나지 않는다]]></title>
+            <link>http://newstapa.org/article/jJneo</link>
+            <guid>http://newstapa.org/article/jJneo</guid>
+            <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[딥페이크의 공범들 ③ 유포는 끝나지 않는다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/02182530-8624-1CFE-F430-9GNMB60VYH6LDFSTRRSW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한덕수 대선 출마 선언 첫날...쪽방촌 주민들의 일침]]></title>
+            <link>http://newstapa.org/article/4LsXv</link>
+            <guid>http://newstapa.org/article/4LsXv</guid>
+            <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한덕수 대선 출마 선언 첫날...쪽방촌 주민들의 일침]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/02192351-464D-FE02-BF7F-SPNDICU7Q73RYOWEJRD7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 국토부 “항공 전문성 강화 위해 항공안전 조직 개편 검토”]]></title>
             <link>http://newstapa.org/article/llLs1</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이진우 녹취록 확인… 계엄군 선정 거짓말]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/25160016-014B-121A-A543-ZXOP8OT06VN4E6NQZ7BN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＂4시에 같은 장소에서＂... 홍준표-명태균 '추가 만남' 입증 카톡]]></title>
-            <link>http://newstapa.org/article/lxC_v</link>
-            <guid>http://newstapa.org/article/lxC_v</guid>
-            <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[＂4시에 같은 장소에서＂... 홍준표-명태균 '추가 만남' 입증 카톡]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/25151135-98FA-3DDA-E660-SWR95MBP07FMDRBKY3IX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 이준석 '거짓말'과 명태균 '카카오톡']]></title>
-            <link>http://newstapa.org/article/Q3eJi</link>
-            <guid>http://newstapa.org/article/Q3eJi</guid>
-            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 이준석 '거짓말'과 명태균 '카카오톡']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/24181633-B656-F2F3-987D-FTHKJUMFEI66X6G17YW8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
