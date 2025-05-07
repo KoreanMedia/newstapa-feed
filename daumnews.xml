@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 May 2025 01:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 May 2025 03:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크]여성 교감·교장 절반 넘었듯 ‘유리천장’은 시간 지나면 해소?]]></title>
+            <link>https://v.daum.net/v/20250507113004480</link>
+            <guid>https://v.daum.net/v/20250507113004480</guid>
+            <pubDate>Wed, 07 May 2025 03:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250507113004480" class="link_column" data-tiara-layer="[팩트체크]여성_교감·교장_절반_넘었듯_‘유리천장’은_시간_지나면_해소?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크]여성 교감·교장 절반 넘었듯 ‘유리천장’은 시간 지나면 해소?</strong><span class="info_txt"><span class="txt_info">42분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F07%2Fnewstapa%2F20250507113005432oghz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F07%2Fnewstapa%2F20250507113005432oghz.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[[칼럼] 이재명을 핑계로 국민 위에 올라서려 하지 말라]]></title>
             <link>https://v.daum.net/v/20250505174503426</link>
@@ -236,14 +244,6 @@
             <pubDate>Tue, 22 Apr 2025 10:23:28 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250422190003318" class="link_column" data-tiara-layer="[라이브]_'검사_한동훈'_카톡으로_대선_후보자_자질_검증_alltab"><div class="cont_thumb"><strong class="tit_txt">[라이브] '검사 한동훈' 카톡으로 대선 후보자 자질 검증</strong><span class="info_txt"><span class="txt_info">2025. 4. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F22%2Fnewstapa%2F20250422190007800nenm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F22%2Fnewstapa%2F20250422190007800nenm.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[한동훈 검사 카카오톡 입수..."김건희 주가조작 보도는 공작"]]></title>
-            <link>https://v.daum.net/v/20250422184524915</link>
-            <guid>https://v.daum.net/v/20250422184524915</guid>
-            <pubDate>Tue, 22 Apr 2025 10:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250422184524915" class="link_column" data-tiara-layer="한동훈_검사_카카오톡_입수...&quot;김건희_주가조작_보도는_공작&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">한동훈 검사 카카오톡 입수..."김건희 주가조작 보도는 공작"</strong><span class="info_txt"><span class="txt_info">2025. 4. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F22%2Fnewstapa%2F20250422184536389upjc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F22%2Fnewstapa%2F20250422184536389upjc.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
