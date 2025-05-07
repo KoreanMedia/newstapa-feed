@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 May 2025 08:31:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 May 2025 09:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이진우 “합참 훈련 소집”, 조성현 단장도 속였다]]></title>
+            <link>http://newstapa.org/article/8b6Js</link>
+            <guid>http://newstapa.org/article/8b6Js</guid>
+            <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이진우 “합참 훈련 소집”, 조성현 단장도 속였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/07180440-0EDD-E3D9-F877-P8MPWU5IK3S1AV86G2FB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크]여성 교감·교장 절반 넘었듯 ‘유리천장’은 시간 지나면 해소?]]></title>
             <link>http://newstapa.org/article/H-t7_</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 감사원 "교과서 발행정지·합격취소 사유 해당"...뉴스타파 보도 8개월만]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28172624-3391-4F2F-0D6B-69LGM5KD3QVOX5T4WOA0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건진법사가 '양재동 캠프' 만들어 '불법 선거운동' 지휘]]></title>
-            <link>http://newstapa.org/article/1zYI0</link>
-            <guid>http://newstapa.org/article/1zYI0</guid>
-            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[건진법사가 '양재동 캠프' 만들어 '불법 선거운동' 지휘]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28145830-AC35-6159-8ACA-HW8REV5UU586Q2HCLC67.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
