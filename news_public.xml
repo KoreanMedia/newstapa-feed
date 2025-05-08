@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 May 2025 07:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 May 2025 08:29:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 국민의힘 정치브로커들]]></title>
+            <link>http://newstapa.org/article/8uhf7</link>
+            <guid>http://newstapa.org/article/8uhf7</guid>
+            <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 국민의힘 정치브로커들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/08170745-5629-AEBD-2165-CFRINHEVL7IZGI0FQRAZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 캠프 ‘여론공작팀장’ 이영수, 김문수 캠프에서 ‘중책’]]></title>
+            <link>http://newstapa.org/article/opbfV</link>
+            <guid>http://newstapa.org/article/opbfV</guid>
+            <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤 캠프 ‘여론공작팀장’ 이영수, 김문수 캠프에서 ‘중책’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/08170940-A497-145C-EBC0-6TNB83WLNC3YGPAUOC3T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['명태균-이영수' 미팅 주선자, '건진법사' 카톡에 등장]]></title>
+            <link>http://newstapa.org/article/VkOta</link>
+            <guid>http://newstapa.org/article/VkOta</guid>
+            <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['명태균-이영수' 미팅 주선자, '건진법사' 카톡에 등장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/08170810-FBC4-F298-3472-QXMMEWHPSJJP8XITNIIC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다시 쓰는 공소장] 이진우 “합참 훈련 소집”, 조성현 단장도 속였다]]></title>
             <link>http://newstapa.org/article/8b6Js</link>
@@ -110,30 +134,6 @@
             <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[＂4시에 같은 장소에서＂... 홍준표-명태균 '추가 만남' 입증 카톡]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/25151135-98FA-3DDA-E660-SWR95MBP07FMDRBKY3IX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 이준석 '거짓말'과 명태균 '카카오톡']]></title>
-            <link>http://newstapa.org/article/Q3eJi</link>
-            <guid>http://newstapa.org/article/Q3eJi</guid>
-            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 이준석 '거짓말'과 명태균 '카카오톡']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/24181633-B656-F2F3-987D-FTHKJUMFEI66X6G17YW8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명태균PC로 '이준석 거짓말' 확인...여론조사 의뢰 '최소 두 번']]></title>
-            <link>http://newstapa.org/article/yzpQi</link>
-            <guid>http://newstapa.org/article/yzpQi</guid>
-            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[명태균PC로 '이준석 거짓말' 확인...여론조사 의뢰 '최소 두 번']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/24171324-E72A-4088-AC64-AA025D026N6IC1DYMOKO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이준석 돌풍' 명태균 여론조사, 조사비 '대납자' 찾았다]]></title>
-            <link>http://newstapa.org/article/Xz7cw</link>
-            <guid>http://newstapa.org/article/Xz7cw</guid>
-            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이준석 돌풍' 명태균 여론조사, 조사비 '대납자' 찾았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/24171818-9D80-999C-8460-0SGK9KZDAL2GLLY21LZM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
