@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 종교</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 May 2025 08:29:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 09:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<종교권력> 65개 사찰에 지원된 4천억 대 국민 세금]]></title>
+            <link>http://newstapa.org/article/l0xPx</link>
+            <guid>http://newstapa.org/article/l0xPx</guid>
+            <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;종교권력&gt; 65개 사찰에 지원된 4천억 대 국민 세금]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/09173418-A691-9177-3C89-EN8BKI2Y7VEHQA3NAMKT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹]]></title>
             <link>http://newstapa.org/article/bkeAq</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 21 Dec 2017 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[박문서 국제성모병원 부원장, 10억대 계약업체 주식 보유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2017/12/84e5680ff1b39f963854d09acf023524da055f0b3f5fbb4be1d164a2a42d2ff23a9545d84a2cd83f2f2173414e2c4398659344fee1a975d0a1a402e260c1fa39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조용기 목사님, 세금 내셨나요?]]></title>
-            <link>http://newstapa.org/article/ypDgC</link>
-            <guid>http://newstapa.org/article/ypDgC</guid>
-            <pubDate>Thu, 21 Sep 2017 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조용기 목사님, 세금 내셨나요?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2017/09/326e5971009b2f261075bcc7b68f8c988893d6c8a5029d466f7580bae13e9741077829d58ca57f3b331958295240c9defa10346d40905e97ec7b6c1cb022649b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
