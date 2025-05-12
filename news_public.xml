@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 May 2025 01:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 May 2025 03:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오사카 총영사도 시민사회수석실도 '건진법사 라인']]></title>
+            <link>http://newstapa.org/article/-evQo</link>
+            <guid>http://newstapa.org/article/-evQo</guid>
+            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오사카 총영사도 시민사회수석실도 '건진법사 라인']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/11013929-03E6-07DA-EE34-GOEYE8K0L0TIU2UKWFDM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["큰 그림 만들자" 통일교 2인자, 건진법사에 문자 후 캄보디아 총리 미팅]]></title>
+            <link>http://newstapa.org/article/m4rFA</link>
+            <guid>http://newstapa.org/article/m4rFA</guid>
+            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["큰 그림 만들자" 통일교 2인자, 건진법사에 문자 후 캄보디아 총리 미팅]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/10235125-3D19-F4CC-11AC-I193CX4RIBYKWLLEJQNS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주미대사 한덕수의 ‘대미 로비’ 실태]]></title>
             <link>http://newstapa.org/article/YjVjU</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[건진법사가 숨긴 '관봉 5천만원'...윤석열 정부 '특수활동비'였다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/29164200-D786-E963-AAD2-1C3YS5W1OP8QQ1BV14PX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건진법사가 '양재동 캠프' 만들어 '불법 선거운동' 지휘]]></title>
-            <link>http://newstapa.org/article/1zYI0</link>
-            <guid>http://newstapa.org/article/1zYI0</guid>
-            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[건진법사가 '양재동 캠프' 만들어 '불법 선거운동' 지휘]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28145830-AC35-6159-8ACA-HW8REV5UU586Q2HCLC67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“8년 전, 건진법사 법당에서 윤석열·김건희 봤다”]]></title>
-            <link>http://newstapa.org/article/0JK1m</link>
-            <guid>http://newstapa.org/article/0JK1m</guid>
-            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“8년 전, 건진법사 법당에서 윤석열·김건희 봤다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28143923-FA84-119F-4481-8AFTLKJGMNTCY9IIRX3H.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
