@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 May 2025 06:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 May 2025 07:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 제주도 해녀와 후쿠시마 여성 활동가가 만났다]]></title>
+            <link>http://newstapa.org/article/s76rx</link>
+            <guid>http://newstapa.org/article/s76rx</guid>
+            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 제주도 해녀와 후쿠시마 여성 활동가가 만났다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/14155350-342C-9364-3B64-V8QFKBIR1S5U1S2H0B1C.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 헌재는 검사에게 ‘민주주의 파괴 면허’를 주지 말라]]></title>
             <link>http://newstapa.org/article/X8xgv</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한덕수 대선 출마 선언 첫날...쪽방촌 주민들의 일침]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/02192351-464D-FE02-BF7F-SPNDICU7Q73RYOWEJRD7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 국토부 “항공 전문성 강화 위해 항공안전 조직 개편 검토”]]></title>
-            <link>http://newstapa.org/article/llLs1</link>
-            <guid>http://newstapa.org/article/llLs1</guid>
-            <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 국토부 “항공 전문성 강화 위해 항공안전 조직 개편 검토”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/02171902-F71C-6012-1991-1WHS7F9QLHL76CQIN5VL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

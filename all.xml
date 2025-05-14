@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 May 2025 06:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 May 2025 07:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 제주도 해녀와 후쿠시마 여성 활동가가 만났다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/s76rx</link>
+            <guid>http://newstapa.org/article/s76rx</guid>
+            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 제주도 해녀와 후쿠시마 여성 활동가가 만났다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/14155350-342C-9364-3B64-V8QFKBIR1S5U1S2H0B1C.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 헌재는 검사에게 ‘민주주의 파괴 면허’를 주지 말라 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/X8xgv</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한덕수 대선 출마 선언 첫날...쪽방촌 주민들의 일침]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/02192351-464D-FE02-BF7F-SPNDICU7Q73RYOWEJRD7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 국토부 “항공 전문성 강화 위해 항공안전 조직 개편 검토” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/llLs1</link>
-            <guid>http://newstapa.org/article/llLs1</guid>
-            <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 국토부 “항공 전문성 강화 위해 항공안전 조직 개편 검토”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/02171902-F71C-6012-1991-1WHS7F9QLHL76CQIN5VL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 헌재는 검사에게 ‘민주주의 파괴 면허’를 주지 말라 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/13181623-B502-4900-ADE8-P5MN3G9D74DBVGY2RCZM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 제주도 해녀와 후쿠시마 여성 활동가가 만났다 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/s76rx</link>
+            <guid>http://newstapa.org/article/s76rx</guid>
+            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 제주도 해녀와 후쿠시마 여성 활동가가 만났다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/14155350-342C-9364-3B64-V8QFKBIR1S5U1S2H0B1C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[딥페이크의 공범들 ③ 유포는 끝나지 않는다 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/jJneo</link>
             <guid>http://newstapa.org/article/jJneo</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 영풍제련소 '백혈병' 하청노동자...1심 이어 2심도 '산업재해' 인정]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/03175937-B3E9-954E-5953-BPRSM3NU4GEQTRM4NBTR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡, 노동자 사망 "책임 없다"더니... 국회 청문회 앞두고 '합의' (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/aY3VR</link>
-            <guid>http://newstapa.org/article/aY3VR</guid>
-            <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡, 노동자 사망 "책임 없다"더니... 국회 청문회 앞두고 '합의']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/23123333-45D5-170F-5B0D-WKXMY6QV75CWDLLOKAPG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딥페이크의 공범들 ③ 유포는 끝나지 않는다 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -3264,6 +3264,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 제주도 해녀와 후쿠시마 여성 활동가가 만났다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/109389536</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/109389536</guid>
+            <pubDate>Wed, 14 May 2025 07:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[한국독립언론네트워크 KINN과 교류하는 일본 비영리 독립매체 &lt;생활뉴스커먼즈&gt;가 일본의 후쿠시마 오염수 투기 반대 활동가와 제주 해녀의 만남을 다룬 장문의 기사를 보도했습니다. KINN은 한일 간 독립언론 연대 일환으로 지난 3월 소개한 “오가와라 씨는 왜 후쿠시마에 돌아갔나”에 이어 오카모토 유카(岡本 有佳) 기자가 취재 보도한 이 기사를 번역 게재합니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/s76rx</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 헌재는 검사에게 ‘민주주의 파괴 면허’를 주지 말라 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/109388827</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/109388827</guid>
@@ -3397,18 +3404,19 @@
             <content:encoded><![CDATA[한덕수 전 국무총리가 오늘(2일) 대선 출마를 선언했습니다. 그리고 첫 공개 일정으로 서울시 종로구 돈의동의 쪽방촌을 방문했습니다. 민생을 제대로 지키는 대통령이 되겠다며 선택한 장소입니다. <br>하지만 정작 쪽방촌 주민들을 직접 만나지 않은 채 금방 자리를 떠났습니다.<br><br>불법 비상계엄을 막지 못했던 한덕수 전 총리가 국민의 민생을 지키는 대통령이 되겠다고 나선 첫날, 뉴스타파 취재진이 한 전 총리를 직접 만나 12.3 내란에 대한 입장을 물었습니다. 그리고 한 전 총리가 지나친 쪽방촌 골목에서 주민들이 한 전 총리에게 전하는 이야기를 영상에 담았습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/ikhXr6IpMuQ</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/4LsXv</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[<압수수색: 내란의 시작> 가장 보고 싶은 영화 3위에 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/109279332</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/109279332</guid>
-            <pubDate>Fri, 02 May 2025 09:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[탐사보도매체 뉴스타파와 윤석열의 숙명적 7년 전쟁을 그린 영화 &lt;압수수색: 내란의 시작&gt;이 다습음 주 가장 보고 싶은 영화 3위에 올랐습니다.<br><br>데이터 컨설팅 회사인 피앰아이(PM)가 오늘(5월 2일) 발표한 4월 5주차  조사(20-50대 남녀 5000명 대상) 결과에 따르면 ‘승부’가 다음 주 가장 보고 싶은 영화 1위에 올랐습니다. 승부를 선택한 비율은 12,5%에 이르렀고요, 2위는 ‘거룩한 밤: 데몬헌터스’로 10.4%의 선택을 받았다고 하네요.<br><br>그리고 3위는 바로 뉴스타파필름이 제작한 &lt;압수수색: 내란의 시작&gt;입니다. 조사에 참여한 시민 8.2%가 이 영화를 다음 주에 보고싶은 영화로 지목했다고 합니다.<br><br>&lt;압수수색: 내란의 시작&gt;은 독립예술영화 박스오피스도 1위를 달리고 있습니다. &lt;압수수색: 내란의 시작&gt;은 개봉 둘째 주에 접어들면서 상영관이 줄어들기는 했으나 여전히 뜨거운 관심을 받고 있습니다.<br><br>⏱️ 영화 예매 실시간 상영 정보 <span class="link_url">https://bit.ly/3GkrJJC</span><br>🙌 뉴스타파필름 응원하기: <span class="link_url">https://withnewstapa.org/support/</span>]]></content:encoded>
+            <title><![CDATA[[KINN] 제주도 해녀와 후쿠시마 여성 활동가가 만났다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250514160502910</link>
+            <guid>https://v.daum.net/v/20250514160502910</guid>
+            <pubDate>Wed, 14 May 2025 07:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250514160502910" class="link_column" data-tiara-layer="[KINN]_제주도_해녀와_후쿠시마_여성_활동가가_만났다_alltab"><div class="cont_thumb"><strong class="tit_txt">[KINN] 제주도 해녀와 후쿠시마 여성 활동가가 만났다</strong><span class="info_txt"><span class="txt_info">17분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F14%2Fnewstapa%2F20250514160504623nhef.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F14%2Fnewstapa%2F20250514160504623nhef.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 헌재는 검사에게 ‘민주주의 파괴 면허’를 주지 말라 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250514151503406</link>
             <guid>https://v.daum.net/v/20250514151503406</guid>
             <pubDate>Wed, 14 May 2025 06:32:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250514151503406" class="link_column" data-tiara-layer="[현장에서]_헌재는_검사에게_‘민주주의_파괴_면허’를_주지_말라_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 헌재는 검사에게 ‘민주주의 파괴 면허’를 주지 말라</strong><span class="info_txt"><span class="txt_info">16분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F14%2Fnewstapa%2F20250514151504770kuye.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250514151503406" class="link_column" data-tiara-layer="[현장에서]_헌재는_검사에게_‘민주주의_파괴_면허’를_주지_말라_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 헌재는 검사에게 ‘민주주의 파괴 면허’를 주지 말라</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F14%2Fnewstapa%2F20250514151504770kuye.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F14%2Fnewstapa%2F20250514151504770kuye.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3632,14 +3640,6 @@
             <pubDate>Fri, 25 Apr 2025 09:23:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250425174004185" class="link_column" data-tiara-layer="이진우_녹취록_확인…_계엄군_선정_거짓말_alltab"><div class="cont_thumb"><strong class="tit_txt">이진우 녹취록 확인… 계엄군 선정 거짓말</strong><span class="info_txt"><span class="txt_info">2025. 4. 25.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F25%2Fnewstapa%2F20250425174007281viid.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F25%2Fnewstapa%2F20250425174007281viid.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA["4시에 같은 장소에서"... 홍준표-명태균 '추가 만남' 입증 카톡 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250425161503918</link>
-            <guid>https://v.daum.net/v/20250425161503918</guid>
-            <pubDate>Fri, 25 Apr 2025 07:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250425161503918" class="link_column" data-tiara-layer="&quot;4시에_같은_장소에서&quot;..._홍준표-명태균_'추가_만남'_입증_카톡_alltab"><div class="cont_thumb"><strong class="tit_txt">"4시에 같은 장소에서"... 홍준표-명태균 '추가 만남' 입증 카톡</strong><span class="info_txt"><span class="txt_info">2025. 4. 25.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F25%2Fnewstapa%2F20250425161515726near.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F25%2Fnewstapa%2F20250425161515726near.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
