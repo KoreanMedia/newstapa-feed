@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-05-15T09:24:54.781Z</updated>
+    <updated>2025-05-15T10:24:50.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/edf73fc/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이준석 여론조사' 조작 최초 확인...나경원 1등에서 오차범위 박빙으로]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/109404699</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/109404699"/>
+        <updated>2025-05-15T10:24:41.391Z</updated>
+        <content type="html"><![CDATA[2021년 국민의힘 당대표 선거 과정에서 명태균 씨가 운영한 ‘미래한국연구소’가 비공표 여론조사 결과를 조작한 사실이 확인됐습니다.<br><br>가짜 응답자를 만들어낸 방식으로 1위 후보였던 나경원 전 의원의 지지율을 낮추고, 2위였던 이준석 당시 후보의 지지율을 높였습니다. <br><br>이준석 개혁신당 대선 후보는 “명 씨에게 여론조사를 의뢰한 적도, 비용을 지불한 적도 없다”고 밝혀왔지만, 명 씨가 이 후보에게 유리한 방향으로 여론조사를 조작한 정황이 드러나면서 두 사람 사이에 부적절한 연결이 있었던 것 아니냐는 의혹에 더욱 힘이 실릴 것으로 보입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/R6DibuBLooU</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/nSsv_</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이준석-대납자' 투샷 사진..."이준석이 고령군수님이라 불러"]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/109404593</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/109296288"/>
         <updated>2025-05-05T11:19:13.088Z</updated>
         <content type="html"><![CDATA[조희대 대법원장이 이재명 대통령 선거 후보의 선거법 사건을, 사실상 절차를 위반해 자기 사건으로 만들어, 유례가 없는 속도로 유죄를 확정 지으려 하고 있습니다. 이런 이례적인 판결을 내리면서 대법원은 지연된 정의는 정의가 아니라고 주장합니다. <br><br>그러나 오히려 최고 법관들의 이러한 사건 처리는 법의 지배를 법관의 지배로 변질시킨다고, 헌법학 박사인 이범준 객원기자는 지적합니다. 조희대 대법원장과 대법관들이 선거법 위반 사범 이재명을 핑계로 국민 위에 올라서려 한다는 것입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/3vCxV</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <압수수색: 내란의 시작> 서울 마지막 GV]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/109283390</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/109283390"/>
-        <updated>2025-05-03T03:07:16.828Z</updated>
-        <content type="html"><![CDATA[[스페셜 GV 안내] 영화 &lt;압수수색: 내란의 시작&gt; 서울 마지막 GV(관객과의 대화)가 열립니다. <br><br>개봉 일주일 만에 관객 5만 명을 돌파하며 돌풍을 일으키고 있는 영화&lt;압수수색: 내란의 시작&gt;이 용산CGV에서 스페셜GV를 엽니다.<br><br>압수수색 당사자이자 이 영화의 주인공인인 김용진 감독, 한상진 기자, 봉지욱 기자가 직접 무대에 오릅니다. 상영이 끝난 후 관객과 마주 앉아, 영화에 다 담지 못한 압수수색 뒷이야기는 물론 언론개혁과 검찰개혁에 대한 세 기자의 생각을 나눕니다. <br><br>다음주 마지막 스페셜 GV와 함께 해주세요. <br><br>🔸 일시: 2025년 5월 6일(화) 저녁 7시<br>🔸 장소: CGV 용산아이파크몰<br>🔸 참석: 김용진 감독, 한상진 기자, 봉지욱 기자<br><br>🎥 [스페셜 GV] 예매 바로가기: <span class="link_url">https://bit.ly/3ERYBcn</span><br>⏱️ 영화 예매 실시간 상영 정보 <span class="link_url">https://bit.ly/3GkrJJC</span><br>🙌 뉴스타파필름 응원하기: <span class="link_url">https://withnewstapa.org/support/</span>]]></content>
     </entry>
 </feed>
