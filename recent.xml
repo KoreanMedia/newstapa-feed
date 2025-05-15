@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 May 2025 10:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2025 11:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인니, 전 세계 스마트폰에 ‘불법 광물’ 공급]]></title>
+            <link>http://newstapa.org/article/YzbJF</link>
+            <guid>http://newstapa.org/article/YzbJF</guid>
+            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[인니, 전 세계 스마트폰에 ‘불법 광물’ 공급]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/15193816-3D28-6798-A289-RI2G2VSQCMMSIRBCETJ8.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] '이준석 돌풍' 명태균 여론조사는 '조작']]></title>
             <link>http://newstapa.org/article/PdA9g</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[다시 쓰는 공소장] 이진우 “합참 훈련 소집”, 조성현 단장도 속였다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/07180440-0EDD-E3D9-F877-P8MPWU5IK3S1AV86G2FB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크]여성 교감·교장 절반 넘었듯 ‘유리천장’은 시간 지나면 해소?]]></title>
-            <link>http://newstapa.org/article/H-t7_</link>
-            <guid>http://newstapa.org/article/H-t7_</guid>
-            <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크]여성 교감·교장 절반 넘었듯 ‘유리천장’은 시간 지나면 해소?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/07110903-3804-93DE-2323-IXN4JSUF5FHIQZTPXDTE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
