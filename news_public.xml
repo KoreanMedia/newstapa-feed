@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 May 2025 08:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2025 09:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] '이준석 돌풍' 명태균 여론조사는 '조작']]></title>
+            <link>http://newstapa.org/article/PdA9g</link>
+            <guid>http://newstapa.org/article/PdA9g</guid>
+            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] '이준석 돌풍' 명태균 여론조사는 '조작']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/15174104-A9ED-A1A7-8E2E-PENM2WLMXU7SCQE9JQKW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이준석 여론조사' 조작 첫 확인...1위 나경원 내리고, 2위 이준석 올리고]]></title>
+            <link>http://newstapa.org/article/nSsv_</link>
+            <guid>http://newstapa.org/article/nSsv_</guid>
+            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['이준석 여론조사' 조작 첫 확인...1위 나경원 내리고, 2위 이준석 올리고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/13132319-1BF5-6F2B-618F-CJA4FJD0NE9HIKRFQER9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이준석-대납자' 투샷 사진..."이준석이 고령군수님이라 불러"]]></title>
             <link>http://newstapa.org/article/9ZAIy</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[다시 쓰는 공소장] '대권 도전' 한덕수의 계엄 행적...사라진 1시간]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/30162448-7254-E824-847A-KWLWHFZLVYQSKC7EJ5WK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용산 대통령실, '유튜브 전담 행정관' 두고 '유튜버 관리']]></title>
-            <link>http://newstapa.org/article/Riiqq</link>
-            <guid>http://newstapa.org/article/Riiqq</guid>
-            <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[용산 대통령실, '유튜브 전담 행정관' 두고 '유튜버 관리']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/30165233-96C1-695D-FD41-4FQYB3Y1CDYOISWCM85Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 한동훈, 모병제 도입하면 ‘없는 집’에서만 군대 간다?]]></title>
-            <link>http://newstapa.org/article/hIDII</link>
-            <guid>http://newstapa.org/article/hIDII</guid>
-            <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 한동훈, 모병제 도입하면 ‘없는 집’에서만 군대 간다?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/30102832-189D-74F1-57B1-DUXB9DFUIWYP57L7UHGT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
