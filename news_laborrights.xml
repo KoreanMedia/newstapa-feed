@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 May 2025 05:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 May 2025 06:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 하루 8시간 일하고 세계적 반도체 기술 앞설 수 없다?]]></title>
+            <link>http://newstapa.org/article/GiABU</link>
+            <guid>http://newstapa.org/article/GiABU</guid>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 하루 8시간 일하고 세계적 반도체 기술 앞설 수 없다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16124657-FFDE-B07F-59C3-DBWZK4UAP10J6FP8Q9EG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 반도체 업종 ‘주 64시간’ 특별연장근로 6개월 연장, 문제 없다?]]></title>
+            <link>http://newstapa.org/article/SFghF</link>
+            <guid>http://newstapa.org/article/SFghF</guid>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 반도체 업종 ‘주 64시간’ 특별연장근로 6개월 연장, 문제 없다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16144121-3FB2-9ED3-A23E-8M9GQQRUNJKA4FHG0RD2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 제주도 해녀와 후쿠시마 여성 활동가가 만났다]]></title>
             <link>http://newstapa.org/article/s76rx</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[명태균 녹음 속 '대우조선 파업 보고서' 입수...거짓·과장 수두룩]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/18215229-1BAB-0DEC-7B3E-BTN6OBOXVZETQPTZJU73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[반론보도] <[쿠팡은 바뀌지 않는다 2] ① <잠입취재> '로켓배송' 종착지에서 본 '쿠팡의 거짓말'> 관련]]></title>
-            <link>http://newstapa.org/article/lSmNY</link>
-            <guid>http://newstapa.org/article/lSmNY</guid>
-            <pubDate>Sat, 15 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[반론보도] &lt;[쿠팡은 바뀌지 않는다 2] ① &lt;잠입취재&gt; '로켓배송' 종착지에서 본 '쿠팡의 거짓말'&gt; 관련]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/15105255-9398-36A7-4561-HIQ7RPPQKZ8JR59FMTHG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 영풍제련소 '백혈병' 하청노동자...1심 이어 2심도 '산업재해' 인정]]></title>
-            <link>http://newstapa.org/article/awkfg</link>
-            <guid>http://newstapa.org/article/awkfg</guid>
-            <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 영풍제련소 '백혈병' 하청노동자...1심 이어 2심도 '산업재해' 인정]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/03175937-B3E9-954E-5953-BPRSM3NU4GEQTRM4NBTR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
