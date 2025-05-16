@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 May 2025 08:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 May 2025 09:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<5·18 45주년 특집> 다시 보는 5공 청문회 ‘과거가 현재를 도울 수 있는가’]]></title>
+            <link>http://newstapa.org/article/aZo11</link>
+            <guid>http://newstapa.org/article/aZo11</guid>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;5·18 45주년 특집&gt; 다시 보는 5공 청문회 ‘과거가 현재를 도울 수 있는가’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16142250-7A5A-EEFF-5413-NNDAWKAKFUA1PAIECMA9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파 '2025 대선 팩트체크' 특별페이지 공개]]></title>
+            <link>http://newstapa.org/article/-iQyT</link>
+            <guid>http://newstapa.org/article/-iQyT</guid>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파 '2025 대선 팩트체크' 특별페이지 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16161329-423C-2C53-8992-GH1TMFWJRI72BI5E2WRW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다시 쓰는 공소장] '언론사 단전·단수 의혹'의 진실, 이상민 거짓말에 있다]]></title>
+            <link>http://newstapa.org/article/H-JSW</link>
+            <guid>http://newstapa.org/article/H-JSW</guid>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다시 쓰는 공소장] '언론사 단전·단수 의혹'의 진실, 이상민 거짓말에 있다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16133410-3B2C-ABF9-C637-A85RKOQ3OGEN6GLIL5DK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 하루 8시간 일하고 세계적 반도체 기술 앞설 수 없다?]]></title>
             <link>http://newstapa.org/article/GiABU</link>
@@ -110,30 +134,6 @@
             <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘친환경’ 전기차 산업의 역설…발암물질 오염된 섬마을]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/13101608-7BE8-1C94-2E9C-UW4Z01FZ2DUN78437G39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오사카 총영사도 시민사회수석실도 '건진법사 라인']]></title>
-            <link>http://newstapa.org/article/-evQo</link>
-            <guid>http://newstapa.org/article/-evQo</guid>
-            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오사카 총영사도 시민사회수석실도 '건진법사 라인']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/11013929-03E6-07DA-EE34-GOEYE8K0L0TIU2UKWFDM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["큰 그림 만들자" 통일교 2인자, 건진법사에 문자 후 캄보디아 총리 미팅]]></title>
-            <link>http://newstapa.org/article/m4rFA</link>
-            <guid>http://newstapa.org/article/m4rFA</guid>
-            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["큰 그림 만들자" 통일교 2인자, 건진법사에 문자 후 캄보디아 총리 미팅]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/10235125-3D19-F4CC-11AC-I193CX4RIBYKWLLEJQNS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주미대사 한덕수의 ‘대미 로비’ 실태]]></title>
-            <link>http://newstapa.org/article/YjVjU</link>
-            <guid>http://newstapa.org/article/YjVjU</guid>
-            <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[주미대사 한덕수의 ‘대미 로비’ 실태]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/09195319-9010-8986-4D9A-8363AB489EUUCDC5XR1I.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

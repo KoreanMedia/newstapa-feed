@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 May 2025 08:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 May 2025 09:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파 '2025 대선 팩트체크' 특별페이지 공개]]></title>
+            <link>http://newstapa.org/article/-iQyT</link>
+            <guid>http://newstapa.org/article/-iQyT</guid>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파 '2025 대선 팩트체크' 특별페이지 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16161329-423C-2C53-8992-GH1TMFWJRI72BI5E2WRW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다시 쓰는 공소장] '언론사 단전·단수 의혹'의 진실, 이상민 거짓말에 있다]]></title>
+            <link>http://newstapa.org/article/H-JSW</link>
+            <guid>http://newstapa.org/article/H-JSW</guid>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다시 쓰는 공소장] '언론사 단전·단수 의혹'의 진실, 이상민 거짓말에 있다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16133410-3B2C-ABF9-C637-A85RKOQ3OGEN6GLIL5DK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 하루 8시간 일하고 세계적 반도체 기술 앞설 수 없다?]]></title>
             <link>http://newstapa.org/article/GiABU</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 국민의힘 정치브로커들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/08170745-5629-AEBD-2165-CFRINHEVL7IZGI0FQRAZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 캠프 ‘여론공작팀장’ 이영수, 김문수 캠프에서 ‘중책’]]></title>
-            <link>http://newstapa.org/article/opbfV</link>
-            <guid>http://newstapa.org/article/opbfV</guid>
-            <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤 캠프 ‘여론공작팀장’ 이영수, 김문수 캠프에서 ‘중책’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/08170940-A497-145C-EBC0-6TNB83WLNC3YGPAUOC3T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['명태균-이영수' 미팅 주선자, '건진법사' 카톡에 등장]]></title>
-            <link>http://newstapa.org/article/VkOta</link>
-            <guid>http://newstapa.org/article/VkOta</guid>
-            <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['명태균-이영수' 미팅 주선자, '건진법사' 카톡에 등장]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/08170810-FBC4-F298-3472-QXMMEWHPSJJP8XITNIIC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
