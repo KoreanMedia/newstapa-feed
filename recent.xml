@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 May 2025 23:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 May 2025 01:39:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크]김문수, 민주화운동 보상금 10억 원 수령 거부했다?]]></title>
+            <link>http://newstapa.org/article/l14BG</link>
+            <guid>http://newstapa.org/article/l14BG</guid>
+            <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크]김문수, 민주화운동 보상금 10억 원 수령 거부했다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16180606-5C46-3F99-5355-CPG8JE8R4OH6HXR63BZW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<5·18 45주년 특집> 다시 보는 5공 청문회 ‘과거가 현재를 도울 수 있는가’]]></title>
             <link>http://newstapa.org/article/aZo11</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 헌재는 검사에게 ‘민주주의 파괴 면허’를 주지 말라]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/14145720-F401-F2BE-DA7F-EQXSH134O7ADXW83YYDR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘친환경’ 전기차 산업의 역설…발암물질 오염된 섬마을]]></title>
-            <link>http://newstapa.org/article/WZLrC</link>
-            <guid>http://newstapa.org/article/WZLrC</guid>
-            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘친환경’ 전기차 산업의 역설…발암물질 오염된 섬마을]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/13101608-7BE8-1C94-2E9C-UW4Z01FZ2DUN78437G39.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
