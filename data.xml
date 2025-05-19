@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 May 2025 03:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 May 2025 04:30:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 대선 팩트체크]]></title>
+            <link>https://pages.newstapa.org/2025/factcheck2025/</link>
+            <guid>https://pages.newstapa.org/2025/factcheck2025/</guid>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 대선에 출마한 후보들의 발언은 과연 사실일까요? 뉴스타파와 한국독립언론네트워크(KINN)가 팩트체크를 위해 뭉쳤습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16161329-423C-2C53-8992-GH1TMFWJRI72BI5E2WRW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파 v. 윤석열 사건, 압수수색 : 내란의 시작]]></title>
             <link>https://pages.newstapa.org/2025/crackdown/</link>

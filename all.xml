@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 May 2025 03:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 May 2025 04:30:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2629,6 +2629,14 @@
             <pubDate>Sat, 31 Mar 2012 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국민성공 시대를 열겠다던 이명박 17대 대통령. 그러나 그의 퇴임 이후 한국 사회 곳곳에서 부정부패의 흔적이 발견됩니다. 이명박 전 대통령이 남기고 간 유산을 뉴스타파가 추적했습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/12/0ccb53b3868b610ea74f4898980f0cd198e611ae493c2341e1a50c831de9d7509263d37525c00e95221870cefc4f3f3d73cdd3704b05d5f7eeb64014f502e913.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 대선 팩트체크 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://pages.newstapa.org/2025/factcheck2025/</link>
+            <guid>https://pages.newstapa.org/2025/factcheck2025/</guid>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 대선에 출마한 후보들의 발언은 과연 사실일까요? 뉴스타파와 한국독립언론네트워크(KINN)가 팩트체크를 위해 뭉쳤습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16161329-423C-2C53-8992-GH1TMFWJRI72BI5E2WRW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파 v. 윤석열 사건, 압수수색 : 내란의 시작 (뉴스타파 ─ 데이터)]]></title>
