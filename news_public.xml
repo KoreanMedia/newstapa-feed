@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 May 2025 01:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 May 2025 03:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건진법사 전성배 인맥, 윤석열 대통령 취임식 참석 확인]]></title>
+            <link>http://newstapa.org/article/7fIPY</link>
+            <guid>http://newstapa.org/article/7fIPY</guid>
+            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[건진법사 전성배 인맥, 윤석열 대통령 취임식 참석 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/20112516-AF79-3967-2149-1GRWLM2YNFTUUKQETLAI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 중대재해법은 아무것도 모르는 사장·회장 무조건 구속하는 악법?]]></title>
+            <link>http://newstapa.org/article/xND_U</link>
+            <guid>http://newstapa.org/article/xND_U</guid>
+            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 중대재해법은 아무것도 모르는 사장·회장 무조건 구속하는 악법?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/19175304-DFA6-2E96-2213-1S9IBS7X0EGQ37CGYN7C.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김문수, 경기도지사 시절 '3억 불법 후원금' 추가 확인]]></title>
             <link>http://newstapa.org/article/eh3r5</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 헌재는 검사에게 ‘민주주의 파괴 면허’를 주지 말라]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/14145720-F401-F2BE-DA7F-EQXSH134O7ADXW83YYDR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오사카 총영사도 시민사회수석실도 '건진법사 라인']]></title>
-            <link>http://newstapa.org/article/-evQo</link>
-            <guid>http://newstapa.org/article/-evQo</guid>
-            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오사카 총영사도 시민사회수석실도 '건진법사 라인']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/11013929-03E6-07DA-EE34-GOEYE8K0L0TIU2UKWFDM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["큰 그림 만들자" 통일교 2인자, 건진법사에 문자 후 캄보디아 총리 미팅]]></title>
-            <link>http://newstapa.org/article/m4rFA</link>
-            <guid>http://newstapa.org/article/m4rFA</guid>
-            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["큰 그림 만들자" 통일교 2인자, 건진법사에 문자 후 캄보디아 총리 미팅]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/10235125-3D19-F4CC-11AC-I193CX4RIBYKWLLEJQNS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
