@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 May 2025 06:32:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 07:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<5·18 45주년 특집> 윤석열의 계엄과 전두환의 계엄... 45년 후 반복된 말말말]]></title>
+            <link>http://newstapa.org/article/4_S8I</link>
+            <guid>http://newstapa.org/article/4_S8I</guid>
+            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;5·18 45주년 특집&gt; 윤석열의 계엄과 전두환의 계엄... 45년 후 반복된 말말말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/21133318-9434-F04E-FF4D-28ELERONW4BGU5C1K2XY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<5·18 45주년 특집> 다시 보는 5공 청문회 ‘과거가 현재를 도울 수 있는가’]]></title>
             <link>http://newstapa.org/article/aZo11</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년㉓]"명예 회복? 난 불명예스러웠던 적 없습니다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/20150825-9DA4-CA72-E807-4780E3GS2UWKBOWWD3O8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 대통령과 뉴라이트 그리고 아스팔트 보수]]></title>
-            <link>http://newstapa.org/article/iA5QS</link>
-            <guid>http://newstapa.org/article/iA5QS</guid>
-            <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 대통령과 뉴라이트 그리고 아스팔트 보수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/19185453-2325-DB32-A1D5-CNPF31O2F2DPXENGKCRY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

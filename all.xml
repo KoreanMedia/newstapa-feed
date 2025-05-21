@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 May 2025 06:32:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 07:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<5·18 45주년 특집> 윤석열의 계엄과 전두환의 계엄... 45년 후 반복된 말말말 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/4_S8I</link>
+            <guid>http://newstapa.org/article/4_S8I</guid>
+            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;5·18 45주년 특집&gt; 윤석열의 계엄과 전두환의 계엄... 45년 후 반복된 말말말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/21133318-9434-F04E-FF4D-28ELERONW4BGU5C1K2XY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크]이재명, 호주에서는 투표하는 사람한테 인센티브를 준다? (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/7-KPo</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 하루 8시간 일하고 세계적 반도체 기술 앞설 수 없다?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16124657-FFDE-B07F-59C3-DBWZK4UAP10J6FP8Q9EG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 반도체 업종 ‘주 64시간’ 특별연장근로 6개월 연장, 문제 없다? (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/SFghF</link>
-            <guid>http://newstapa.org/article/SFghF</guid>
-            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 반도체 업종 ‘주 64시간’ 특별연장근로 6개월 연장, 문제 없다?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16144121-3FB2-9ED3-A23E-8M9GQQRUNJKA4FHG0RD2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]이재명, 호주에서는 투표하는 사람한테 인센티브를 준다? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/23150615-4A0F-CFFE-ECAB-9UE92YZN8LCHHZURN7HY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<5·18 45주년 특집> 윤석열의 계엄과 전두환의 계엄... 45년 후 반복된 말말말 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/4_S8I</link>
+            <guid>http://newstapa.org/article/4_S8I</guid>
+            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;5·18 45주년 특집&gt; 윤석열의 계엄과 전두환의 계엄... 45년 후 반복된 말말말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/21133318-9434-F04E-FF4D-28ELERONW4BGU5C1K2XY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<5·18 45주년 특집> 다시 보는 5공 청문회 ‘과거가 현재를 도울 수 있는가’ (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/aZo11</link>
             <guid>http://newstapa.org/article/aZo11</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년㉓]"명예 회복? 난 불명예스러웠던 적 없습니다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/20150825-9DA4-CA72-E807-4780E3GS2UWKBOWWD3O8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 대통령과 뉴라이트 그리고 아스팔트 보수 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/iA5QS</link>
-            <guid>http://newstapa.org/article/iA5QS</guid>
-            <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 대통령과 뉴라이트 그리고 아스팔트 보수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/19185453-2325-DB32-A1D5-CNPF31O2F2DPXENGKCRY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 진주의료원은 강성 노조의 놀이터였다? (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -3272,6 +3272,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<5·18 45주년 특집> 윤석열의 계엄과 전두환의 계엄... 45년 후 반복된 말말말 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/109465470</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/109465470</guid>
+            <pubDate>Wed, 21 May 2025 07:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[1980년, 수많은 시민들이 광주에서 희생되었는데 진상규명은 8년이 지나서야 시작되었습니다. 1988년 광주 청문회에서 내란을 부정하고, 야당 정치인을 탓하고, 양심고백 증인들을 공격하는 등 진상규명을 방해하는 국회의원들이 있었습니다. <br><br>45년 전 국회의원들의 모습은 현재 국회의원들의 모습과 닮았습니다. 윤석열 내란 진상규명은 아직 끝나지 않았습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/tVpA86CGVIs</span><br>👉 더 상세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/4_S8I</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크]이재명, 호주에서는 투표하는 사람한테 인센티브를 준다? (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/109465145</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/109465145</guid>
+            <pubDate>Wed, 21 May 2025 07:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 더불어민주당 대선 후보는 지난 20일 유튜브에서 성남시장 시절 투표 수당을 도입하려다 못했다면서 "호주에서는 투표하는 사람한테 인센티브를 준다"고 말했습니다. 호주는 보통 투표율이 90%를 상회하는데 인센티브 때문이었을까요?  뉴스타파가 검증했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/7-KPo</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[다시 쓰는 공소장] 합참의장의 '직무유기' 5시간…여인형의 항변 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/109461102</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/109461102</guid>
@@ -3398,25 +3412,19 @@
             <content:encoded><![CDATA[손준성 검사장에 대한 탄핵심판이 재개됐습니다. 다수 언론이 손 검사장이 고발사주 형사재판에서 무죄를 받았기 때문에 탄핵소추도 기각될 것이란 전망을 내놓고 있습니다.<br><br>그러나 손 검사장에게 무죄를 판결한 법원은 그가 고발사주 고발장 작성과 정보수집에 검사의 지위를 이용했다고 판시했습니다. 고발장의 피고발인은 윤석열, 김건희, 한동훈을 비판한 정치인들과 언론인들이었습니다. 검찰청법은 검사는 직무 수행 시 정치적 중립을 지켜야 하고 주어진 권한을 남용해서는 안 된다고 규정하고 있습니다.<br><br>헌재가 헌법을 토대로 제대로 심리한다면 형사재판과 다른 결과가 나올 수 있습니다. 헌재가 탄핵소추를 기각한다면, 검찰권을 남용해도 처벌받지 않는 '민주주의 파괴 면허'를 검사들에게 내주는 꼴이 될 것입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/X8xgv</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘친환경’ 전기차 산업의 역설…발암물질 오염된 섬마을 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/109373807</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/109373807</guid>
-            <pubDate>Tue, 13 May 2025 05:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[인도네시아 대기업 하리타 그룹이 운영하는 니켈 광산이 독성 물질을 배출해 섬마을을 오염시키고, 주민들의 건강까지 위협한 사실이 확인됐습니다. 하지만 하리타 그룹은 이를 10년 가까이 은폐해 온 것으로 드러났습니다.<br><br>뉴스타파와 OCCRP(조직범죄와 부패 보도 프로젝트), 영국 일간지 가디언, 독일 방송사 도이체벨레, 환경매체 ‘게코 프로젝트’는 협업취재팀을 구성해 500GB 규모의 하리타 내부 문서를 분석했습니다.<br><br>10여년 간의 수질 오염으로 채굴 및 제련된 니켈은 중국과 한국 등 글로벌 배터리 공급망을 통해 완성차 기업에 납품됐으며, 배터리 산업에 사활을 걸고 있는 국내 기업들도 이 공급망에서 자유롭지 않습니다.<br><br>전 세계 배터리, 완성차 기업이 배터리 소재 원재료인 니켈의 채취 과정까지 관리해야 하는 이유는 바로 공급망 실사 의무 때문입니다. 유럽을 중심으로 공급망 실사 법제화가 확대되고 있지만, 이에 대한 국내 기업들의 대응은 여전히 미흡하다는 지적이 나옵니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/WZLrC</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<압수수색: 내란의 시작> 주말 4연전… “이기는 역사 쓰자” (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/109365504</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/109365504</guid>
-            <pubDate>Mon, 12 May 2025 09:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[조기 대선이 20여 일 앞으로 다가오면서 “이기는 역사를 쓰자”는 영화 &lt;압수수색: 내란의 시작&gt; 속 대사가 큰 호응을 얻고 있습니다. <br><br>&lt;압수수색: 내란의 시작&gt;을 제작한 뉴스타파필름은 지난 금요일과 토요일(5월 9,10일) 양일간 일반 상영 외에 공동체 상영과 특별상영회를 각각 두차례씩 열었습니다. 코엑스메가박스에서 열린 두 차례 상영회에서는 4백석 안팎의 상영관이 모두 꽉습니다.<br><br>관객들은 영화가 끝난 뒤 관객과의 대화 자리에서 제작진이 영화 속 대화를 인용하며 “오는 대선 때 이기는 역사를 만들어 가자”고 하자 큰 박수로 호응했습니다.<br><br>개봉 4주차에 접어든 이번 주 &lt;압수수색: 내란의 시작&gt;은 오늘 월요일 현재 전국 57개 상영관, 61개 스크린에서 만날 수 있습니다. <br><br>뉴스타파필름은 6월 3일 선거일까지 20일 정도 남은 대선 기간에 김용진 감독과 한상진, 봉지욱 두 주연 배우가 참여하는 관객과의 대화 특별상영회를 지속하기로 하고 공동체 상영회 신청을 받습니다.4<br><br>✋ 공동체 상영 신청하기: withnewstapa@newstapa.org<br>⏱️ 영화 예매 실시간 상영 정보: <span class="link_url">https://bit.ly/3GkrJJC</span><br>🙌 뉴스타파필름 응원하기: <span class="link_url">https://withnewstapa.org/support/</span>]]></content:encoded>
+            <title><![CDATA[<5·18 45주년 특집> 윤석열의 계엄과 전두환의 계엄... 45년 후 반복된 말말말 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250521160503871</link>
+            <guid>https://v.daum.net/v/20250521160503871</guid>
+            <pubDate>Wed, 21 May 2025 07:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250521160503871" class="link_column" data-tiara-layer="<5·18_45주년_특집>_윤석열의_계엄과_전두환의_계엄..._45년_후_반복된_말말말_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;5·18 45주년 특집&gt; 윤석열의 계엄과 전두환의 계엄... 45년 후 반복된 말말말</strong><span class="info_txt"><span class="txt_info">17분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F21%2Fnewstapa%2F20250521160512482nlzt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F21%2Fnewstapa%2F20250521160512482nlzt.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]이재명, 호주에서는 투표하는 사람한테 인센티브를 준다? (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250521150003600</link>
             <guid>https://v.daum.net/v/20250521150003600</guid>
             <pubDate>Wed, 21 May 2025 06:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250521150003600" class="link_column" data-tiara-layer="[팩트체크]이재명,_호주에서는_투표하는_사람한테_인센티브를_준다?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크]이재명, 호주에서는 투표하는 사람한테 인센티브를 준다?</strong><span class="info_txt"><span class="txt_info">32분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F21%2Fnewstapa%2F20250521150007157qhat.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250521150003600" class="link_column" data-tiara-layer="[팩트체크]이재명,_호주에서는_투표하는_사람한테_인센티브를_준다?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크]이재명, 호주에서는 투표하는 사람한테 인센티브를 준다?</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F21%2Fnewstapa%2F20250521150007157qhat.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F21%2Fnewstapa%2F20250521150007157qhat.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3432,7 +3440,7 @@
             <link>https://v.daum.net/v/20250521090003143</link>
             <guid>https://v.daum.net/v/20250521090003143</guid>
             <pubDate>Wed, 21 May 2025 01:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250521090003143" class="link_column" data-tiara-layer="[팩트체크]이준석,_풍력발전은_중국_위한_것이다?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크]이준석, 풍력발전은 중국 위한 것이다?</strong><span class="info_txt"><span class="txt_info">6시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F21%2Fnewstapa%2F20250521090005422yrqg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250521090003143" class="link_column" data-tiara-layer="[팩트체크]이준석,_풍력발전은_중국_위한_것이다?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크]이준석, 풍력발전은 중국 위한 것이다?</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F21%2Fnewstapa%2F20250521090005422yrqg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F21%2Fnewstapa%2F20250521090005422yrqg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3608,7 +3616,7 @@
             <link>https://v.daum.net/v/20250514160502910</link>
             <guid>https://v.daum.net/v/20250514160502910</guid>
             <pubDate>Wed, 14 May 2025 07:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250514160502910" class="link_column" data-tiara-layer="[KINN]_제주도_해녀와_후쿠시마_여성_활동가가_만났다_alltab"><div class="cont_thumb"><strong class="tit_txt">[KINN] 제주도 해녀와 후쿠시마 여성 활동가가 만났다</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F14%2Fnewstapa%2F20250514160504623nhef.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250514160502910" class="link_column" data-tiara-layer="[KINN]_제주도_해녀와_후쿠시마_여성_활동가가_만났다_alltab"><div class="cont_thumb"><strong class="tit_txt">[KINN] 제주도 해녀와 후쿠시마 여성 활동가가 만났다</strong><span class="info_txt"><span class="txt_info">2025. 5. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F14%2Fnewstapa%2F20250514160504623nhef.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F14%2Fnewstapa%2F20250514160504623nhef.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3642,14 +3650,6 @@
             <pubDate>Mon, 12 May 2025 03:17:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250512104503075" class="link_column" data-tiara-layer="&quot;큰_그림_만들자&quot;_통일교_2인자,_건진법사에_문자_후_캄보디아_총리_미팅_alltab"><div class="cont_thumb"><strong class="tit_txt">"큰 그림 만들자" 통일교 2인자, 건진법사에 문자 후 캄보디아 총리 미팅</strong><span class="info_txt"><span class="txt_info">2025. 5. 12.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F12%2Fnewstapa%2F20250512104504783lvcs.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F12%2Fnewstapa%2F20250512104504783lvcs.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[주미대사 한덕수의 ‘대미 로비’ 실태 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250509200004939</link>
-            <guid>https://v.daum.net/v/20250509200004939</guid>
-            <pubDate>Fri, 09 May 2025 11:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250509200004939" class="link_column" data-tiara-layer="주미대사_한덕수의_‘대미_로비’_실태_alltab"><div class="cont_thumb"><strong class="tit_txt">주미대사 한덕수의 ‘대미 로비’ 실태</strong><span class="info_txt"><span class="txt_info">2025. 5. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F09%2Fnewstapa%2F20250509200005643fwbz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F09%2Fnewstapa%2F20250509200005643fwbz.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
