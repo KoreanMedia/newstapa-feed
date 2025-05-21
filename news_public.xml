@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 May 2025 08:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 09:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['부정선거' 영화 본 윤석열에게 12·3 내란의 책임을 물었다]]></title>
+            <link>http://newstapa.org/article/Idw9t</link>
+            <guid>http://newstapa.org/article/Idw9t</guid>
+            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['부정선거' 영화 본 윤석열에게 12·3 내란의 책임을 물었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/21181146-F82D-3644-B0C1-CQWDT04MYYD8S20YAOC2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크]이재명, 호주에서는 투표하는 사람한테 인센티브를 준다?]]></title>
             <link>http://newstapa.org/article/7-KPo</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 반도체 업종 ‘주 64시간’ 특별연장근로 6개월 연장, 문제 없다?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16144121-3FB2-9ED3-A23E-8M9GQQRUNJKA4FHG0RD2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크]이준석, 여성가족부 주 업무가 게임 산업 규제?]]></title>
-            <link>http://newstapa.org/article/ExUZQ</link>
-            <guid>http://newstapa.org/article/ExUZQ</guid>
-            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크]이준석, 여성가족부 주 업무가 게임 산업 규제?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16145049-C014-277D-5733-ZOUN0XQVBZTEHJESDQDM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
