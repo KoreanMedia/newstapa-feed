@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 May 2025 23:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 01:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크]이준석, 풍력발전은 중국 위한 것이다?]]></title>
+            <link>http://newstapa.org/article/PHQ7c</link>
+            <guid>http://newstapa.org/article/PHQ7c</guid>
+            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크]이준석, 풍력발전은 중국 위한 것이다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/20180422-64FE-403A-F945-1HEHYJICTBWQE024D2IG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김문수 캠프가 퍼뜨린 '준우 아빠' 정체는 EDM페스티벌 크루]]></title>
             <link>http://newstapa.org/article/-xEPl</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크]경기도 연천군 청산면, 농촌기본소득 지급했더니 인구가 늘었다?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16122857-D33F-8F4C-AF67-BP56UX556IFZTQ6JRMNF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '이준석 돌풍' 명태균 여론조사는 '조작']]></title>
-            <link>http://newstapa.org/article/PdA9g</link>
-            <guid>http://newstapa.org/article/PdA9g</guid>
-            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] '이준석 돌풍' 명태균 여론조사는 '조작']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/15174104-A9ED-A1A7-8E2E-PENM2WLMXU7SCQE9JQKW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
