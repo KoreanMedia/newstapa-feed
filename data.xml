@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 May 2025 01:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 03:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김대중 증언록]]></title>
+            <link>https://pages.newstapa.org/2025/dj_518hearing/</link>
+            <guid>https://pages.newstapa.org/2025/dj_518hearing/</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1988년 11월 18일 열린 제7차 ‘5·18 광주민주화운동의 진상규명을 위한 청문회’ 영상 중 김대중 당시 평화민주당 총재의 증언 부분을 특별페이지로 제작·공개합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23112649-E6BA-C8FE-C361-IKB530YGO3O9H43MSU27.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2025 대선 팩트체크]]></title>
             <link>https://pages.newstapa.org/2025/factcheck2025/</link>

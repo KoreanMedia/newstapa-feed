@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 May 2025 01:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 03:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김대중 증언록... 과거가 보낸 ‘내란 극복 해답지’]]></title>
+            <link>http://newstapa.org/article/0d0ky</link>
+            <guid>http://newstapa.org/article/0d0ky</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김대중 증언록... 과거가 보낸 ‘내란 극복 해답지’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23112816-6444-0C57-D3BD-E4J8L5WJ3OPRJJZK3NHO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] <5·18 45주년 특집> 1980년 광주, 죽은 자가 살렸다]]></title>
+            <link>http://newstapa.org/article/9gF24</link>
+            <guid>http://newstapa.org/article/9gF24</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파] &lt;5·18 45주년 특집&gt; 1980년 광주, 죽은 자가 살렸다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23103338-47DF-6DEA-054F-FQQ0WJSTQ43H0K961D0Z.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<5·18 45주년 특집> 윤석열의 계엄과 전두환의 계엄... 45년 후 반복된 말말말]]></title>
             <link>http://newstapa.org/article/4_S8I</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['이해충돌 방지 규정' 지운 평가원, 교과서 부실 검정 자인하나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/20140247-5681-314C-314E-9WS5494OUCJLGOJN1WYL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년㉔] 나의 별, 독립운동가 선친 앞에도 떳떳하다]]></title>
-            <link>http://newstapa.org/article/w2bgt</link>
-            <guid>http://newstapa.org/article/w2bgt</guid>
-            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년㉔] 나의 별, 독립운동가 선친 앞에도 떳떳하다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/07110503-3727-392D-28BF-AIGIRSVYY6ASGWO6B49C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년㉓]"명예 회복? 난 불명예스러웠던 적 없습니다"]]></title>
-            <link>http://newstapa.org/article/lmCA6</link>
-            <guid>http://newstapa.org/article/lmCA6</guid>
-            <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년㉓]"명예 회복? 난 불명예스러웠던 적 없습니다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/20150825-9DA4-CA72-E807-4780E3GS2UWKBOWWD3O8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

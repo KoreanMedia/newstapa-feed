@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 May 2025 01:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 03:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김대중 증언록... 과거가 보낸 ‘내란 극복 해답지’]]></title>
+            <link>http://newstapa.org/article/0d0ky</link>
+            <guid>http://newstapa.org/article/0d0ky</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김대중 증언록... 과거가 보낸 ‘내란 극복 해답지’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23112816-6444-0C57-D3BD-E4J8L5WJ3OPRJJZK3NHO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] <5·18 45주년 특집> 1980년 광주, 죽은 자가 살렸다]]></title>
+            <link>http://newstapa.org/article/9gF24</link>
+            <guid>http://newstapa.org/article/9gF24</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파] &lt;5·18 45주년 특집&gt; 1980년 광주, 죽은 자가 살렸다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23103338-47DF-6DEA-054F-FQQ0WJSTQ43H0K961D0Z.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 김건희 집사 게이트 : 의문의 184억 투자와 사라진 46억]]></title>
             <link>http://newstapa.org/article/VHtS4</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['평택카페 준우아빠' 조작 댓글 퍼뜨리는 김문수 캠프]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/20144252-BE4D-70D2-6E3C-ECJLU7PO9L3VOU023AYL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김문수 '불법 쪼개기' 후원 2500만원 추가...후원자는 "선배이자 스승"]]></title>
-            <link>http://newstapa.org/article/Wl26W</link>
-            <guid>http://newstapa.org/article/Wl26W</guid>
-            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김문수 '불법 쪼개기' 후원 2500만원 추가...후원자는 "선배이자 스승"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/20134020-2E6A-55F3-397B-RT2DBWQG2F12II0PJZAP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건진법사 전성배 인맥, 윤석열 대통령 취임식 참석 확인]]></title>
-            <link>http://newstapa.org/article/7fIPY</link>
-            <guid>http://newstapa.org/article/7fIPY</guid>
-            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[건진법사 전성배 인맥, 윤석열 대통령 취임식 참석 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/20112516-AF79-3967-2149-1GRWLM2YNFTUUKQETLAI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

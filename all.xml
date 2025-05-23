@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 May 2025 01:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 03:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김대중 증언록... 과거가 보낸 ‘내란 극복 해답지’ (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/0d0ky</link>
+            <guid>http://newstapa.org/article/0d0ky</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김대중 증언록... 과거가 보낸 ‘내란 극복 해답지’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23112816-6444-0C57-D3BD-E4J8L5WJ3OPRJJZK3NHO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] <5·18 45주년 특집> 1980년 광주, 죽은 자가 살렸다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/9gF24</link>
+            <guid>http://newstapa.org/article/9gF24</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파] &lt;5·18 45주년 특집&gt; 1980년 광주, 죽은 자가 살렸다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23103338-47DF-6DEA-054F-FQQ0WJSTQ43H0K961D0Z.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 김건희 집사 게이트 : 의문의 184억 투자와 사라진 46억 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/VHtS4</link>
@@ -120,20 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/20144252-BE4D-70D2-6E3C-ECJLU7PO9L3VOU023AYL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김문수 '불법 쪼개기' 후원 2500만원 추가...후원자는 "선배이자 스승" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Wl26W</link>
-            <guid>http://newstapa.org/article/Wl26W</guid>
-            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김문수 '불법 쪼개기' 후원 2500만원 추가...후원자는 "선배이자 스승"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/20134020-2E6A-55F3-397B-RT2DBWQG2F12II0PJZAP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건진법사 전성배 인맥, 윤석열 대통령 취임식 참석 확인 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/7fIPY</link>
-            <guid>http://newstapa.org/article/7fIPY</guid>
-            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[건진법사 전성배 인맥, 윤석열 대통령 취임식 참석 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/20112516-AF79-3967-2149-1GRWLM2YNFTUUKQETLAI.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[다큐 뉴스타파] <5·18 45주년 특집> 1980년 광주, 죽은 자가 살렸다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/9gF24</link>
+            <guid>http://newstapa.org/article/9gF24</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파] &lt;5·18 45주년 특집&gt; 1980년 광주, 죽은 자가 살렸다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23103338-47DF-6DEA-054F-FQQ0WJSTQ43H0K961D0Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 김건희 집사 게이트 : 의문의 184억 투자와 사라진 46억 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 중대재해법은 아무것도 모르는 사장·회장 무조건 구속하는 악법?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/19175304-DFA6-2E96-2213-1S9IBS7X0EGQ37CGYN7C.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김문수, 경기도지사 시절 '3억 불법 후원금' 추가 확인 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/eh3r5</link>
-            <guid>http://newstapa.org/article/eh3r5</guid>
-            <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김문수, 경기도지사 시절 '3억 불법 후원금' 추가 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/19141651-1535-626C-FF71-05A4ATO6YTRAUGATWVG1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[불법압색] 한상진 또는 이건웅, 올가을 한 사람은 죽는다 ③ (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1416,6 +1416,22 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/23150615-4A0F-CFFE-ECAB-9UE92YZN8LCHHZURN7HY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김대중 증언록... 과거가 보낸 ‘내란 극복 해답지’ (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/0d0ky</link>
+            <guid>http://newstapa.org/article/0d0ky</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김대중 증언록... 과거가 보낸 ‘내란 극복 해답지’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23112816-6444-0C57-D3BD-E4J8L5WJ3OPRJJZK3NHO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] <5·18 45주년 특집> 1980년 광주, 죽은 자가 살렸다 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/9gF24</link>
+            <guid>http://newstapa.org/article/9gF24</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파] &lt;5·18 45주년 특집&gt; 1980년 광주, 죽은 자가 살렸다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23103338-47DF-6DEA-054F-FQQ0WJSTQ43H0K961D0Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<5·18 45주년 특집> 윤석열의 계엄과 전두환의 계엄... 45년 후 반복된 말말말 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/4_S8I</link>
             <guid>http://newstapa.org/article/4_S8I</guid>
@@ -1526,22 +1542,6 @@
             <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['이해충돌 방지 규정' 지운 평가원, 교과서 부실 검정 자인하나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/20140247-5681-314C-314E-9WS5494OUCJLGOJN1WYL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년㉔] 나의 별, 독립운동가 선친 앞에도 떳떳하다 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/w2bgt</link>
-            <guid>http://newstapa.org/article/w2bgt</guid>
-            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년㉔] 나의 별, 독립운동가 선친 앞에도 떳떳하다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/07110503-3727-392D-28BF-AIGIRSVYY6ASGWO6B49C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년㉓]"명예 회복? 난 불명예스러웠던 적 없습니다" (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/lmCA6</link>
-            <guid>http://newstapa.org/article/lmCA6</guid>
-            <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년㉓]"명예 회복? 난 불명예스러웠던 적 없습니다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/20150825-9DA4-CA72-E807-4780E3GS2UWKBOWWD3O8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 진주의료원은 강성 노조의 놀이터였다? (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -2631,6 +2631,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/12/0ccb53b3868b610ea74f4898980f0cd198e611ae493c2341e1a50c831de9d7509263d37525c00e95221870cefc4f3f3d73cdd3704b05d5f7eeb64014f502e913.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김대중 증언록 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://pages.newstapa.org/2025/dj_518hearing/</link>
+            <guid>https://pages.newstapa.org/2025/dj_518hearing/</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1988년 11월 18일 열린 제7차 ‘5·18 광주민주화운동의 진상규명을 위한 청문회’ 영상 중 김대중 당시 평화민주당 총재의 증언 부분을 특별페이지로 제작·공개합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23112649-E6BA-C8FE-C361-IKB530YGO3O9H43MSU27.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2025 대선 팩트체크 (뉴스타파 ─ 데이터)]]></title>
             <link>https://pages.newstapa.org/2025/factcheck2025/</link>
             <guid>https://pages.newstapa.org/2025/factcheck2025/</guid>
@@ -3272,6 +3280,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[5·18 45주년 특집] 1980년 광주, 죽은 자가 살렸다 〈다큐 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/109487627</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/109487627</guid>
+            <pubDate>Fri, 23 May 2025 03:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[12·3 윤석열의 내란을 겪으며 많은 국민들이 80년 5월 광주를 떠올렸습니다. 윤석열의 내란과 1980년 전두환의 내란이 너무도 비슷했기 때문입니다. <br><br>비상계엄과 윤석열 파면, 그리고 다시 대통령 선거. 혼란의 와중에 뉴스타파는 1988년 국회 광주특위 청문회 영상을 입수해 살펴봤습니다. 1980년 5월을 살펴보는 이유는 오늘 대한민국의 민주주의는 45년 전 광주의 희생 위에 싹을 틔우고, 성장해 왔기 때문입니다. <br><br>5·18 45주년을 맞아, 뉴스타파는 특집 다큐 〈1980년 광주, 죽은 자가 살렸다〉를 준비했습니다. <br><br>또 국회 광주특위 청문회에서의 김대중 전 대통령의 증언을 그대로 소개합니다.<br><br>🎬 다큐 뉴스타파 〈1980년 광주, 죽은 자가 살렸다〉 보러가기 : <span class="link_url">https://youtu.be/wJt7XMiwjJ4</span><br>👉 〈김대중 증언록〉 특별 페이지 바로가기 : <span class="link_url">https://pages.newstapa.org/2025/dj_518hearing</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/9gF24</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[김건희 집사 게이트 : 의문의 184억 투자와 사라진 46억 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/109481729</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/109481729</guid>
@@ -3405,18 +3420,27 @@
             <content:encoded><![CDATA[지난 4월23일 개봉한 영화 &lt;압수수색: 내란의 시작&gt;을 영화관 스크린으로 보고 싶다는 분들의 요청이 이어지고 있습니다. <br><br>50명 이상이면 전국 어디든 극장 상영이 가능합니다. 김용진 감독, 한상진 봉지욱 기자 등 제작진과의 대화 시간도 마련할 수 있습니다. 아래 링크나 QR코드를 통해 신청해주세요. <br><br>영화 &lt;압수수색: 내란의 시작&gt;은 뉴스타파와 윤석열의 7년 전쟁을 다룬 다큐멘터리로, 우리 사회의 최우선 과제가 검찰개혁과 언론개혁임을 생생하게 보여줍니다. <br><br>우리가 지금 ‘이기는 역사’를 쓰고 있는 것인지, 이 영화를 함께 보며 우리 사회의 각종 부조리를 들여다 보는 시간을 갖는 건 어떨까요.<br><br>📌단체관람 신청하기 <span class="link_url">https://forms.gle/vBmqgu5akrcRGvki7</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김문수, 경기도지사 시절 '3억 불법 후원금' 추가 확인 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/109437416</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/109437416</guid>
-            <pubDate>Mon, 19 May 2025 06:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[김문수 국민의힘 대선 후보가 경기도지사 재선에 도전할 당시 경기 지역 버스 노조로부터 3억 원 가량의 불법 정치후원금을 받은 사실이 법원 판결문으로 확인됐습니다. 쪼개기 후원금을 주도한 노조위원장은 2차 입금 당일, 김문수 경기도지사 캠프 특별보좌역으로 임명됐습니다. <br><br>불법 후원금을 건네 노조원들은 법적 처벌을 받았지만, 김 후보는 이번에도 재판에 넘겨지지 않았습니다. 지금까지 뉴스타파가 확인한 김 후보의 불법 후원금 사례는 총 3건, 3억 8500만 원에 이릅니다. 모두 조직적인 불법 쪼개기 후원금이었고, 김 후보는 "나는 몰랐다"고 주장해 처벌받지 않았습니다. 그러나 판결문에는 노조와 캠프가 소통한 사실이 적혀 있었습니다.&nbsp;<br><br>김 후보의 이 같은 쪼개기 후원금 수수는 허술한 법망을 반복적으로 악용한 사례로, 횟수나 금액 면에서 볼 때 자신의 '청렴' 주장과는 거리가 멀었습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/eh3r5</span>]]></content:encoded>
+            <title><![CDATA[김대중 증언록... 과거가 보낸 ‘내란 극복 해답지’ (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250523113002375</link>
+            <guid>https://v.daum.net/v/20250523113002375</guid>
+            <pubDate>Fri, 23 May 2025 03:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250523113002375" class="link_column" data-tiara-layer="김대중_증언록..._과거가_보낸_‘내란_극복_해답지’_alltab"><div class="cont_thumb"><strong class="tit_txt">김대중 증언록... 과거가 보낸 ‘내란 극복 해답지’</strong><span class="info_txt"><span class="txt_info">44분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F23%2Fnewstapa%2F20250523113004428mgqc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F23%2Fnewstapa%2F20250523113004428mgqc.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] <5·18 45주년 특집> 1980년 광주, 죽은 자가 살렸다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250523110004105</link>
+            <guid>https://v.daum.net/v/20250523110004105</guid>
+            <pubDate>Fri, 23 May 2025 03:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250523110004105" class="link_column" data-tiara-layer="[다큐_뉴스타파]_<5·18_45주년_특집>_1980년_광주,_죽은_자가_살렸다_alltab"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파] &lt;5·18 45주년 특집&gt; 1980년 광주, 죽은 자가 살렸다</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F23%2Fnewstapa%2F20250523110749314koye.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F23%2Fnewstapa%2F20250523110749314koye.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 김건희 집사 게이트 : 의문의 184억 투자와 사라진 46억 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250522183521970</link>
             <guid>https://v.daum.net/v/20250522183521970</guid>
             <pubDate>Thu, 22 May 2025 10:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250522183521970" class="link_column" data-tiara-layer="[주간_뉴스타파]_김건희_집사_게이트_:_의문의_184억_투자와_사라진_46억_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 김건희 집사 게이트 : 의문의 184억 투자와 사라진 46억</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F22%2Fnewstapa%2F20250522183525838hiuv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250522183521970" class="link_column" data-tiara-layer="[주간_뉴스타파]_김건희_집사_게이트_:_의문의_184억_투자와_사라진_46억_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 김건희 집사 게이트 : 의문의 184억 투자와 사라진 46억</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F22%2Fnewstapa%2F20250522183525838hiuv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F22%2Fnewstapa%2F20250522183525838hiuv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3424,7 +3448,7 @@
             <link>https://v.daum.net/v/20250522183503960</link>
             <guid>https://v.daum.net/v/20250522183503960</guid>
             <pubDate>Thu, 22 May 2025 10:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250522183503960" class="link_column" data-tiara-layer="김건희_집사_게이트_①__김건희_집사,_부실_벤처_앞세워_46억_챙겼다_alltab"><div class="cont_thumb"><strong class="tit_txt">김건희 집사 게이트 ①  김건희 집사, 부실 벤처 앞세워 46억 챙겼다</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F22%2Fnewstapa%2F20250522183520877ldxs.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250522183503960" class="link_column" data-tiara-layer="김건희_집사_게이트_①__김건희_집사,_부실_벤처_앞세워_46억_챙겼다_alltab"><div class="cont_thumb"><strong class="tit_txt">김건희 집사 게이트 ①  김건희 집사, 부실 벤처 앞세워 46억 챙겼다</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F22%2Fnewstapa%2F20250522183520877ldxs.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F22%2Fnewstapa%2F20250522183520877ldxs.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3432,7 +3456,7 @@
             <link>https://v.daum.net/v/20250522183003807</link>
             <guid>https://v.daum.net/v/20250522183003807</guid>
             <pubDate>Thu, 22 May 2025 10:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250522183003807" class="link_column" data-tiara-layer="김건희_집사_게이트_②_'밑_빠진_독에_물_붓기'_부실은_덮고_180억_졸속_투자_alltab"><div class="cont_thumb"><strong class="tit_txt">김건희 집사 게이트 ② '밑 빠진 독에 물 붓기' 부실은 덮고 180억 졸속 투자</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F22%2Fnewstapa%2F20250522183017344icrk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250522183003807" class="link_column" data-tiara-layer="김건희_집사_게이트_②_'밑_빠진_독에_물_붓기'_부실은_덮고_180억_졸속_투자_alltab"><div class="cont_thumb"><strong class="tit_txt">김건희 집사 게이트 ② '밑 빠진 독에 물 붓기' 부실은 덮고 180억 졸속 투자</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F22%2Fnewstapa%2F20250522183017344icrk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F22%2Fnewstapa%2F20250522183017344icrk.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3440,7 +3464,7 @@
             <link>https://v.daum.net/v/20250522143002070</link>
             <guid>https://v.daum.net/v/20250522143002070</guid>
             <pubDate>Thu, 22 May 2025 06:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250522143002070" class="link_column" data-tiara-layer="[불법압색]_한상진_또는_이건웅,_올가을_한_사람은_죽는다_③_alltab"><div class="cont_thumb"><strong class="tit_txt">[불법압색] 한상진 또는 이건웅, 올가을 한 사람은 죽는다 ③</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F22%2Fnewstapa%2F20250522143004160mtkh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250522143002070" class="link_column" data-tiara-layer="[불법압색]_한상진_또는_이건웅,_올가을_한_사람은_죽는다_③_alltab"><div class="cont_thumb"><strong class="tit_txt">[불법압색] 한상진 또는 이건웅, 올가을 한 사람은 죽는다 ③</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F22%2Fnewstapa%2F20250522143004160mtkh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F22%2Fnewstapa%2F20250522143004160mtkh.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3448,7 +3472,7 @@
             <link>https://v.daum.net/v/20250522141005177</link>
             <guid>https://v.daum.net/v/20250522141005177</guid>
             <pubDate>Thu, 22 May 2025 05:23:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250522141005177" class="link_column" data-tiara-layer="[현장에서]_'언론_장악'_돌격대_김대남은_어떻게_이재명_캠프로_갔나_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] '언론 장악' 돌격대 김대남은 어떻게 이재명 캠프로 갔나</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F22%2Fnewstapa%2F20250522141006995wlyf.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250522141005177" class="link_column" data-tiara-layer="[현장에서]_'언론_장악'_돌격대_김대남은_어떻게_이재명_캠프로_갔나_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] '언론 장악' 돌격대 김대남은 어떻게 이재명 캠프로 갔나</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F22%2Fnewstapa%2F20250522141006995wlyf.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F22%2Fnewstapa%2F20250522141006995wlyf.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3520,7 @@
             <link>https://v.daum.net/v/20250521112503183</link>
             <guid>https://v.daum.net/v/20250521112503183</guid>
             <pubDate>Wed, 21 May 2025 03:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250521112503183" class="link_column" data-tiara-layer="[다시_쓰는_공소장]_합참의장의_'직무유기'_5시간…여인형의_항변_alltab"><div class="cont_thumb"><strong class="tit_txt">[다시 쓰는 공소장] 합참의장의 '직무유기' 5시간…여인형의 항변</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F21%2Fnewstapa%2F20250521112507636ekap.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250521112503183" class="link_column" data-tiara-layer="[다시_쓰는_공소장]_합참의장의_'직무유기'_5시간…여인형의_항변_alltab"><div class="cont_thumb"><strong class="tit_txt">[다시 쓰는 공소장] 합참의장의 '직무유기' 5시간…여인형의 항변</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F21%2Fnewstapa%2F20250521112507636ekap.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F21%2Fnewstapa%2F20250521112507636ekap.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3536,7 +3560,7 @@
             <link>https://v.daum.net/v/20250520113002727</link>
             <guid>https://v.daum.net/v/20250520113002727</guid>
             <pubDate>Tue, 20 May 2025 03:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250520113002727" class="link_column" data-tiara-layer="건진법사_전성배_인맥,_윤석열_대통령_취임식_참석_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">건진법사 전성배 인맥, 윤석열 대통령 취임식 참석 확인</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F20%2Fnewstapa%2F20250520113004331lsnq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250520113002727" class="link_column" data-tiara-layer="건진법사_전성배_인맥,_윤석열_대통령_취임식_참석_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">건진법사 전성배 인맥, 윤석열 대통령 취임식 참석 확인</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F20%2Fnewstapa%2F20250520113004331lsnq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F20%2Fnewstapa%2F20250520113004331lsnq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3544,7 +3568,7 @@
             <link>https://v.daum.net/v/20250520110003112</link>
             <guid>https://v.daum.net/v/20250520110003112</guid>
             <pubDate>Tue, 20 May 2025 03:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250520110003112" class="link_column" data-tiara-layer="[팩트체크]_중대재해법은_아무것도_모르는_사장·회장_무조건_구속하는_악법?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크] 중대재해법은 아무것도 모르는 사장·회장 무조건 구속하는 악법?</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F20%2Fnewstapa%2F20250520110004684jldd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250520110003112" class="link_column" data-tiara-layer="[팩트체크]_중대재해법은_아무것도_모르는_사장·회장_무조건_구속하는_악법?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크] 중대재해법은 아무것도 모르는 사장·회장 무조건 구속하는 악법?</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F20%2Fnewstapa%2F20250520110004684jldd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F20%2Fnewstapa%2F20250520110004684jldd.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3634,22 +3658,6 @@
             <pubDate>Fri, 16 May 2025 06:32:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250516144002735" class="link_column" data-tiara-layer="[팩트체크]_반도체_업종_‘주_64시간’_특별연장근로_6개월_연장,_문제_없다?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크] 반도체 업종 ‘주 64시간’ 특별연장근로 6개월 연장, 문제 없다?</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F16%2Fnewstapa%2F20250516144004158jlbb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F16%2Fnewstapa%2F20250516144004158jlbb.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[사라진 5분… 유네스코 세계기록유산 '5·18 청문회 회의록' 오류 확인 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250516114004037</link>
-            <guid>https://v.daum.net/v/20250516114004037</guid>
-            <pubDate>Fri, 16 May 2025 03:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250516114004037" class="link_column" data-tiara-layer="사라진_5분…_유네스코_세계기록유산_'5·18_청문회_회의록'_오류_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">사라진 5분… 유네스코 세계기록유산 '5·18 청문회 회의록' 오류 확인</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F16%2Fnewstapa%2F20250516114013905lavu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F16%2Fnewstapa%2F20250516114013905lavu.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[인니, 전 세계 스마트폰에 ‘불법 광물’ 공급 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250515201003617</link>
-            <guid>https://v.daum.net/v/20250515201003617</guid>
-            <pubDate>Thu, 15 May 2025 11:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250515201003617" class="link_column" data-tiara-layer="인니,_전_세계_스마트폰에_‘불법_광물’_공급_alltab"><div class="cont_thumb"><strong class="tit_txt">인니, 전 세계 스마트폰에 ‘불법 광물’ 공급</strong><span class="info_txt"><span class="txt_info">2025. 5. 15.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F15%2Fnewstapa%2F20250515201005282arct.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F15%2Fnewstapa%2F20250515201005282arct.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
