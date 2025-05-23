@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-05-23T06:31:10.386Z</updated>
+    <updated>2025-05-23T07:22:30.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/edf73fc/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]김문수, 내가 민주노총ㆍ전교조 만들었다?]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/109492458</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/109492458"/>
+        <updated>2025-05-23T07:22:19.409Z</updated>
+        <content type="html"><![CDATA["김문수가 민주노총을 만들었다"는 주장이 최근 국민의힘 선거캠프 관계자와 SNS 등을 통해 확산되고 있습니다. 이런 주장의 근원은 바로 김문수 국민의힘 대선 후보 자신이었는데요. "민주노총과 전교조를 자신이 만들었다" 는 김 후보의 발언을 팩트체크했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/N7EPB</span><br>👉 이 기사는 &lt;뉴스하다&gt; 홈페이지에서도 보실 수 있습니다 : <span class="link_url">https://newshada.org/3579</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청렴 강조' 김문수, 도지사 업추비는 쌈짓돈처럼 썼다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/109490880</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/109447981"/>
         <updated>2025-05-20T03:15:25.523Z</updated>
         <content type="html"><![CDATA[건진법사 전성배 씨와 가까운 종교계 인사들이 지난 2022년 5월 윤석열 대통령 취임식에 참석했던 것으로 확인됐습니다. 대한불교종정협의회라는 단체의 이사로 재직 중인 정 모 씨 등은 대통령 취임식에 참석해 기념 사진을 찍고, 윤석열을 “하늘이 선택한 대통령”이라며 추켜세운 것으로 나타났습니다.<br><br>대한불교종정협의회는 지난 20대 대선 당시 소 사체 가죽을 벗기는 등의 잔혹한 무속 행사로 논란이 됐던 단체입니다. 건진접사 전 씨는 이 단체의 기획실장으로 활동했습니다.<br><br>이렇듯 건진법사 인맥이 대통령 취임식에 참석한 사실이 드러났지만, 당사자들은 ‘인터넷 신청’을 통해 참여한 것이라며, 전 씨와의 연관성을 부인하고 있습니다. 현재 전 씨는 대통령 취임식에 통일교 간부를 초청해주는 대가로 금품을 수수한 혐의로도 수사를 받고 있습니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/7fIPY</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 중대재해법은 아무것도 모르는 사장·회장 무조건 구속하는 악법?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/109447475</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/109447475"/>
-        <updated>2025-05-20T03:15:25.524Z</updated>
-        <content type="html"><![CDATA[김문수 국민의힘 대선 후보는 중대재해처벌법이 사장이나 회장은 아무것도 모르는데 무조건 책임을 지워서 중대재해가 발생하면 구속시킨다고 말하면서 소규모 중소기업을 괴롭히는 악법이라고 말하고 있습니다. 과연 사실인지 따져봤습니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/xND_U</span>]]></content>
     </entry>
 </feed>
