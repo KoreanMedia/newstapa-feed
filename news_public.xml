@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 May 2025 04:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 05:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['청렴 강조' 김문수, 도지사 업추비는 쌈짓돈처럼 썼다]]></title>
+            <link>http://newstapa.org/article/OoWMm</link>
+            <guid>http://newstapa.org/article/OoWMm</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['청렴 강조' 김문수, 도지사 업추비는 쌈짓돈처럼 썼다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23141809-892B-782A-698E-7Y5MVL4ULVPHUIEWY27T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파] <5·18 45주년 특집> 1980년 광주, 죽은 자가 살렸다]]></title>
             <link>http://newstapa.org/article/9gF24</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[건진법사 전성배 인맥, 윤석열 대통령 취임식 참석 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/20112516-AF79-3967-2149-1GRWLM2YNFTUUKQETLAI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 중대재해법은 아무것도 모르는 사장·회장 무조건 구속하는 악법?]]></title>
-            <link>http://newstapa.org/article/xND_U</link>
-            <guid>http://newstapa.org/article/xND_U</guid>
-            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 중대재해법은 아무것도 모르는 사장·회장 무조건 구속하는 악법?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/19175304-DFA6-2E96-2213-1S9IBS7X0EGQ37CGYN7C.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
