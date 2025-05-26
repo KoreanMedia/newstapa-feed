@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 May 2025 06:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 May 2025 07:30:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 김문수, 부정선거 의혹 제기한 적 없다?]]></title>
+            <link>http://newstapa.org/article/YK7eF</link>
+            <guid>http://newstapa.org/article/YK7eF</guid>
+            <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 김문수, 부정선거 의혹 제기한 적 없다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/26155510-0208-7D9F-A225-DH46901XZMM5DW2DL1WC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크]이재명, 투·개표 조작 부정선거 얘기한 것 아니다?]]></title>
             <link>http://newstapa.org/article/N5wAm</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;5·18 45주년 특집&gt; 윤석열의 계엄과 전두환의 계엄... 45년 후 반복된 말말말]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/21133318-9434-F04E-FF4D-28ELERONW4BGU5C1K2XY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크]이재명, 호주에서는 투표하는 사람한테 인센티브를 준다?]]></title>
-            <link>http://newstapa.org/article/7-KPo</link>
-            <guid>http://newstapa.org/article/7-KPo</guid>
-            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크]이재명, 호주에서는 투표하는 사람한테 인센티브를 준다?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/22105247-C6D4-2512-0CEE-ZW0FUV79PFLBLMFL5URE.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

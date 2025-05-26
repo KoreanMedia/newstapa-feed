@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 May 2025 06:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 May 2025 07:30:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 김문수, 부정선거 의혹 제기한 적 없다?]]></title>
+            <link>http://newstapa.org/article/YK7eF</link>
+            <guid>http://newstapa.org/article/YK7eF</guid>
+            <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 김문수, 부정선거 의혹 제기한 적 없다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/26155510-0208-7D9F-A225-DH46901XZMM5DW2DL1WC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크]이재명, 투·개표 조작 부정선거 얘기한 것 아니다?]]></title>
             <link>http://newstapa.org/article/N5wAm</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크]이준석, 풍력발전은 중국 위한 것이다?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/20180422-64FE-403A-F945-1HEHYJICTBWQE024D2IG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김문수 캠프가 퍼뜨린 '준우 아빠' 정체는 EDM페스티벌 크루]]></title>
-            <link>http://newstapa.org/article/-xEPl</link>
-            <guid>http://newstapa.org/article/-xEPl</guid>
-            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김문수 캠프가 퍼뜨린 '준우 아빠' 정체는 EDM페스티벌 크루]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/20152726-A657-5465-6731-QG9LOYBXJQR87Z6GYFGK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
