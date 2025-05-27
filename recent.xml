@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 May 2025 11:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 May 2025 12:44:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노무현 정신 외친 '청년 이준석' 후보의 '언론관']]></title>
+            <link>http://newstapa.org/article/KDjhF</link>
+            <guid>http://newstapa.org/article/KDjhF</guid>
+            <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[노무현 정신 외친 '청년 이준석' 후보의 '언론관']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/27204257-C95D-1E27-3421-5H7A9DI0OTTPHOHRH0QZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이명박 황금두꺼비, 이준석 룸살롱'...'상납 장부' 덮은 검찰]]></title>
             <link>http://newstapa.org/article/TdzRJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김건희 집사 게이트 ② '밑 빠진 독에 물 붓기' 부실은 덮고 180억 졸속 투자]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/22155005-3EBF-9AA1-CA96-OBF3TB1M1WNK5QJ53VL8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[불법압색] 한상진 또는 이건웅, 올가을 한 사람은 죽는다 ③]]></title>
-            <link>http://newstapa.org/article/Wo7Gc</link>
-            <guid>http://newstapa.org/article/Wo7Gc</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[불법압색] 한상진 또는 이건웅, 올가을 한 사람은 죽는다 ③]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/22142654-3662-4A93-B441-UAMY8ALHLS9QGMDI2PFM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
