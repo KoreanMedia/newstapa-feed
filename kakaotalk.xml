@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-05-26T23:21:04.824Z</updated>
+    <updated>2025-05-27T01:41:27.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/edf73fc/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준석과 '명태균 여론조사'...22대 총선도 4번 해줬다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/109522443</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/109522443"/>
+        <updated>2025-05-27T01:41:16.893Z</updated>
+        <content type="html"><![CDATA[이준석 후보를 위한 '명태균 여론조사'가 추가로 존재하는 것으로 확인됐습니다. 22대 총선을 6개월 가량 앞둔 2023년 10월, 명태균 씨는 이준석의 출마 예정지(서울 노원병)를 포함한 여론조사를 4차례 실시했습니다. 모두 이준석 관련 조사였습니다.<br><br>이준석 후보는 명 씨에게 여론조사를 의뢰한 적 없다고 주장합니다. 그러나 서울 노원병 및 개혁신당 창당 관련 조사를 다른 사람이 의뢰했을 확률은 지극히 낮아 보입니다. 공교롭게도 이때 '명태균 여론조사' 후 '노원의 아들'을 자처했던 이 후보는 출마지를 경기도 화성을(동탄)로 바꿉니다. <br><br>이는 21대 총선 때 명태균-홍준표 케이스와 상당히 비슷합니다. 당시 홍 시장이 '경남 밀양→경남 양산을→대구 수성구을'로 출마지를 계속 바꿀 때마다 명 씨가 여론조사를 해줬습니다. 그러나 검경의 수사를 받고 있는 홍준표, 오세훈와 달리 이준석 후보는 피의자로 입건되지 않았습니다.<br><br>📰 기사 보러가기 :  <span class="link_url">https://newstapa.org/article/Qos37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['경북 산불'이 남긴 21대 대통령의 과제]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/109519255</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/109465470"/>
         <updated>2025-05-21T07:22:45.506Z</updated>
         <content type="html"><![CDATA[1980년, 수많은 시민들이 광주에서 희생되었는데 진상규명은 8년이 지나서야 시작되었습니다. 1988년 광주 청문회에서 내란을 부정하고, 야당 정치인을 탓하고, 양심고백 증인들을 공격하는 등 진상규명을 방해하는 국회의원들이 있었습니다. <br><br>45년 전 국회의원들의 모습은 현재 국회의원들의 모습과 닮았습니다. 윤석열 내란 진상규명은 아직 끝나지 않았습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/tVpA86CGVIs</span><br>👉 더 상세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/4_S8I</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]이재명, 호주에서는 투표하는 사람한테 인센티브를 준다?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/109465145</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/109465145"/>
-        <updated>2025-05-21T07:22:45.507Z</updated>
-        <content type="html"><![CDATA[이재명 더불어민주당 대선 후보는 지난 20일 유튜브에서 성남시장 시절 투표 수당을 도입하려다 못했다면서 "호주에서는 투표하는 사람한테 인센티브를 준다"고 말했습니다. 호주는 보통 투표율이 90%를 상회하는데 인센티브 때문이었을까요?  뉴스타파가 검증했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/7-KPo</span>]]></content>
     </entry>
 </feed>

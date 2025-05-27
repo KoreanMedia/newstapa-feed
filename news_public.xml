@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 May 2025 23:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 May 2025 01:41:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이준석과 '명태균 여론조사'...22대 총선도 4번 해줬다]]></title>
+            <link>http://newstapa.org/article/Qos37</link>
+            <guid>http://newstapa.org/article/Qos37</guid>
+            <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이준석과 '명태균 여론조사'...22대 총선도 4번 해줬다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/27101602-B561-F7F2-A20C-VDBTXF2F3JUK3ZN64RHW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재력가 아들 '대학생위원장' 당선, 이준석이 도와준 정황]]></title>
             <link>http://newstapa.org/article/b5yPO</link>
@@ -45,7 +53,7 @@
             <guid>http://newstapa.org/article/N7EPB</guid>
             <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크]김문수, 내가 민주노총ㆍ전교조 만들었다?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23151015-E801-B120-1664-NUMT7RUWFME049VZZG1P.png" length="0" type="image/png"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/27101742-77B9-9BA8-24E8-Z14ISM4E7Y5Q56XXA41S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['청렴 강조' 김문수, 도지사 업추비는 쌈짓돈처럼 썼다]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크]이재명, 호주에서는 투표하는 사람한테 인센티브를 준다?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/22105247-C6D4-2512-0CEE-ZW0FUV79PFLBLMFL5URE.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[다시 쓰는 공소장] 합참의장의 '직무유기' 5시간…여인형의 항변]]></title>
-            <link>http://newstapa.org/article/psfZZ</link>
-            <guid>http://newstapa.org/article/psfZZ</guid>
-            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다시 쓰는 공소장] 합참의장의 '직무유기' 5시간…여인형의 항변]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/21112951-D339-6E10-5619-RJZAV4XE58UDHOZM0CNN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
