@@ -4,15 +4,31 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 May 2025 07:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 May 2025 08:30:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미니 다큐]‘샤라웃’ 광장 속 사람들, 덕분에 버텼수다]]></title>
+            <link>https://v.daum.net/v/20250528172502841</link>
+            <guid>https://v.daum.net/v/20250528172502841</guid>
+            <pubDate>Wed, 28 May 2025 08:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250528172502841" class="link_column" data-tiara-layer="[미니_다큐]‘샤라웃’_광장_속_사람들,_덕분에_버텼수다_alltab"><div class="cont_thumb"><strong class="tit_txt">[미니 다큐]‘샤라웃’ 광장 속 사람들, 덕분에 버텼수다</strong><span class="info_txt"><span class="txt_info">5분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F28%2Fnewstapa%2F20250528172509355pxwe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F28%2Fnewstapa%2F20250528172509355pxwe.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 권영국, 대통령이 국회 해산권 가진 나라는 없다?]]></title>
+            <link>https://v.daum.net/v/20250528165003820</link>
+            <guid>https://v.daum.net/v/20250528165003820</guid>
+            <pubDate>Wed, 28 May 2025 08:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250528165003820" class="link_column" data-tiara-layer="[팩트체크]_권영국,_대통령이_국회_해산권_가진_나라는_없다?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크] 권영국, 대통령이 국회 해산권 가진 나라는 없다?</strong><span class="info_txt"><span class="txt_info">40분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F28%2Fnewstapa%2F20250528165004668eseg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F28%2Fnewstapa%2F20250528165004668eseg.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[노무현 정신 외친 '청년 이준석' 후보의 '언론관']]></title>
             <link>https://v.daum.net/v/20250527205002987</link>
             <guid>https://v.daum.net/v/20250527205002987</guid>
             <pubDate>Tue, 27 May 2025 12:44:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250527205002987" class="link_column" data-tiara-layer="노무현_정신_외친_'청년_이준석'_후보의_'언론관'_alltab"><div class="cont_thumb"><strong class="tit_txt">노무현 정신 외친 '청년 이준석' 후보의 '언론관'</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F27%2Fnewstapa%2F20250527205013166tkhi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250527205002987" class="link_column" data-tiara-layer="노무현_정신_외친_'청년_이준석'_후보의_'언론관'_alltab"><div class="cont_thumb"><strong class="tit_txt">노무현 정신 외친 '청년 이준석' 후보의 '언론관'</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F27%2Fnewstapa%2F20250527205013166tkhi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F27%2Fnewstapa%2F20250527205013166tkhi.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://v.daum.net/v/20250526173002349</link>
             <guid>https://v.daum.net/v/20250526173002349</guid>
             <pubDate>Mon, 26 May 2025 08:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250526173002349" class="link_column" data-tiara-layer="재력가_아들_'대학생위원장'_당선,_이준석이_도와준_정황_alltab"><div class="cont_thumb"><strong class="tit_txt">재력가 아들 '대학생위원장' 당선, 이준석이 도와준 정황</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F26%2Fnewstapa%2F20250526173012495zmnj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250526173002349" class="link_column" data-tiara-layer="재력가_아들_'대학생위원장'_당선,_이준석이_도와준_정황_alltab"><div class="cont_thumb"><strong class="tit_txt">재력가 아들 '대학생위원장' 당선, 이준석이 도와준 정황</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F26%2Fnewstapa%2F20250526173012495zmnj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F26%2Fnewstapa%2F20250526173012495zmnj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -76,7 +92,7 @@
             <link>https://v.daum.net/v/20250523173003115</link>
             <guid>https://v.daum.net/v/20250523173003115</guid>
             <pubDate>Fri, 23 May 2025 09:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250523173003115" class="link_column" data-tiara-layer="김문수_캠프,_보수유튜버만_초청해_&quot;부정선거_사실,_도와주면_보상&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">김문수 캠프, 보수유튜버만 초청해 "부정선거 사실, 도와주면 보상"</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F23%2Fnewstapa%2F20250523173017671ofix.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250523173003115" class="link_column" data-tiara-layer="김문수_캠프,_보수유튜버만_초청해_&quot;부정선거_사실,_도와주면_보상&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">김문수 캠프, 보수유튜버만 초청해 "부정선거 사실, 도와주면 보상"</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F23%2Fnewstapa%2F20250523173017671ofix.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F23%2Fnewstapa%2F20250523173017671ofix.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -172,7 +188,7 @@
             <link>https://v.daum.net/v/20250521164003817</link>
             <guid>https://v.daum.net/v/20250521164003817</guid>
             <pubDate>Wed, 21 May 2025 08:29:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250521164003817" class="link_column" data-tiara-layer="<종교권력>_조계종_포교_사업이_대선_공약됐다_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;종교권력&gt; 조계종 포교 사업이 대선 공약됐다</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F21%2Fnewstapa%2F20250521164008697jkin.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250521164003817" class="link_column" data-tiara-layer="<종교권력>_조계종_포교_사업이_대선_공약됐다_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;종교권력&gt; 조계종 포교 사업이 대선 공약됐다</strong><span class="info_txt"><span class="txt_info">2025. 5. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F21%2Fnewstapa%2F20250521164008697jkin.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F21%2Fnewstapa%2F20250521164008697jkin.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 20 May 2025 05:22:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250520134502759" class="link_column" data-tiara-layer="김문수_'불법_쪼개기'_후원_2500만원_추가...후원자는_&quot;선배이자_스승&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">김문수 '불법 쪼개기' 후원 2500만원 추가...후원자는 "선배이자 스승"</strong><span class="info_txt"><span class="txt_info">2025. 5. 20.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F20%2Fnewstapa%2F20250520134504505ivfv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F20%2Fnewstapa%2F20250520134504505ivfv.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[건진법사 전성배 인맥, 윤석열 대통령 취임식 참석 확인]]></title>
-            <link>https://v.daum.net/v/20250520113002727</link>
-            <guid>https://v.daum.net/v/20250520113002727</guid>
-            <pubDate>Tue, 20 May 2025 03:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250520113002727" class="link_column" data-tiara-layer="건진법사_전성배_인맥,_윤석열_대통령_취임식_참석_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">건진법사 전성배 인맥, 윤석열 대통령 취임식 참석 확인</strong><span class="info_txt"><span class="txt_info">2025. 5. 20.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F20%2Fnewstapa%2F20250520113004331lsnq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F20%2Fnewstapa%2F20250520113004331lsnq.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 중대재해법은 아무것도 모르는 사장·회장 무조건 구속하는 악법?]]></title>
-            <link>https://v.daum.net/v/20250520110003112</link>
-            <guid>https://v.daum.net/v/20250520110003112</guid>
-            <pubDate>Tue, 20 May 2025 03:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250520110003112" class="link_column" data-tiara-layer="[팩트체크]_중대재해법은_아무것도_모르는_사장·회장_무조건_구속하는_악법?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크] 중대재해법은 아무것도 모르는 사장·회장 무조건 구속하는 악법?</strong><span class="info_txt"><span class="txt_info">2025. 5. 20.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F20%2Fnewstapa%2F20250520110004684jldd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F20%2Fnewstapa%2F20250520110004684jldd.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

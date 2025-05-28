@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 May 2025 07:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 May 2025 08:30:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미니 다큐]‘샤라웃’ 광장 속 사람들, 덕분에 버텼수다]]></title>
+            <link>http://newstapa.org/article/JBje-</link>
+            <guid>http://newstapa.org/article/JBje-</guid>
+            <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[미니 다큐]‘샤라웃’ 광장 속 사람들, 덕분에 버텼수다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/28161915-0944-E582-B023-RWGF1F7EIMBTCPA5QZLD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 권영국, 대통령이 국회 해산권 가진 나라는 없다?]]></title>
+            <link>http://newstapa.org/article/BOwOC</link>
+            <guid>http://newstapa.org/article/BOwOC</guid>
+            <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 권영국, 대통령이 국회 해산권 가진 나라는 없다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/28162732-B326-77F3-D58C-BAU67KNWCOTSN4XQGOSY.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[노무현 정신 외친 '청년 이준석' 후보의 '언론관']]></title>
             <link>http://newstapa.org/article/KDjhF</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 김건희 집사 게이트 : 의문의 184억 투자와 사라진 46억]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/22172815-05BE-FC69-BBB9-05K1N66U4A8U5QC7V59I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 집사 게이트 ① 김건희 집사, 부실 벤처 앞세워 46억 챙겼다]]></title>
-            <link>http://newstapa.org/article/biaLz</link>
-            <guid>http://newstapa.org/article/biaLz</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희 집사 게이트 ① 김건희 집사, 부실 벤처 앞세워 46억 챙겼다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/22162507-A4FB-A93C-1855-VF7IT5BTJOQHNQVA33EP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 집사 게이트 ② '밑 빠진 독에 물 붓기' 부실은 덮고 180억 졸속 투자]]></title>
-            <link>http://newstapa.org/article/oG_Um</link>
-            <guid>http://newstapa.org/article/oG_Um</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희 집사 게이트 ② '밑 빠진 독에 물 붓기' 부실은 덮고 180억 졸속 투자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/22155005-3EBF-9AA1-CA96-OBF3TB1M1WNK5QJ53VL8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
