@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 May 2025 11:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 May 2025 12:44:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[목소리 프로젝트 : 여성] 이준석의 입이라는 '재난', 여성 없는 21대 대선]]></title>
+            <link>http://newstapa.org/article/pHRDo</link>
+            <guid>http://newstapa.org/article/pHRDo</guid>
+            <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목소리 프로젝트 : 여성] 이준석의 입이라는 '재난', 여성 없는 21대 대선]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/28192350-5577-FB7D-5056-L7LHR9O0UERY6ALCILGT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크]김문수, 내가 민주노총ㆍ전교조 만들었다?]]></title>
             <link>http://newstapa.org/article/N7EPB</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[모래 위를 걷는 투명 인간의 발자국]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/28201439-164F-34A7-A195-XO43J4LYLBB93X5O672D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 용두사미로 끝난 쿠팡의 '뉴스타파 입막음' 소송 전말]]></title>
-            <link>http://newstapa.org/article/hXeRM</link>
-            <guid>http://newstapa.org/article/hXeRM</guid>
-            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 용두사미로 끝난 쿠팡의 '뉴스타파 입막음' 소송 전말]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/27092922-FCFC-3B80-89EE-IV3Y0CQNBNBDSH3XZOE1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
