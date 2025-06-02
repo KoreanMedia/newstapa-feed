@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jun 2025 11:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jun 2025 12:44:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또다른 '자손군' 댓글팀 '민주당해산운동본부 트루스코리아'...100만원씩 포상금]]></title>
+            <link>http://newstapa.org/article/EPniB</link>
+            <guid>http://newstapa.org/article/EPniB</guid>
+            <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[또다른 '자손군' 댓글팀 '민주당해산운동본부 트루스코리아'...100만원씩 포상금]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/02204335-11B1-90D6-9272-J8HT5DIYGH87RN16OXVM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[목소리 프로젝트 : 에너지] 기후위기 돌파구, 누가 진짜 그린 리더인가?]]></title>
             <link>http://newstapa.org/article/HLaUM</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['이준석 접대업자' 휴대폰 내역 입수...귀빈 의전받고 룸살롱행]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/29183836-6A17-8D32-9A4B-CD31QNYQHXWXKJNU6NIL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간뉴스타파] 김건희 집사 게이트 : 돈 낸 기업 명단 공개]]></title>
-            <link>http://newstapa.org/article/ML_Si</link>
-            <guid>http://newstapa.org/article/ML_Si</guid>
-            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간뉴스타파] 김건희 집사 게이트 : 돈 낸 기업 명단 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/29180742-9E3F-5FDB-FD3F-5QZ8I22LPLML24GCIDTR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-06-02T11:20:56.787Z</updated>
+    <updated>2025-06-02T12:44:07.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/edf73fc/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[또다른 '자손군' 댓글팀 '민주당해산운동본부 트루스코리아'...100만원씩 포상금]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/109607796</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/109607796"/>
+        <updated>2025-06-02T12:43:57.012Z</updated>
+        <content type="html"><![CDATA[댓글공작팀 ‘자손군’을 리박스쿨과 함께 공동 운영한 단체가 확인됐습니다. 단체명은 트루스코리아, 다른 이름으로는 민주당해산국민운동본부입니다.<br><br>이 카페에 게시된 자손군 조직 구성을 보면, 운영주관은 손효숙 리박스쿨 대표가, 대외협력은 정부영 트루스코리아 대표가 담당했습니다.<br><br>트루스코리아는 댓글을 많이 쓴 회원들에게 월 100만 원씩 포상을 줬습니다. 대선을 앞두고는 부정선거 음모론 도서와 영화 리뷰를 퍼뜨리면 월 100만 원씩 포상을 주고 있었습니다.<br><br>🎬 더 자세한 내용을 영상으로 확인하세요 : <span class="link_url">https://youtu.be/tSBmp6Ccdmw</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/EPniB</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서출판 뉴스타파 신간 <마침내, 검찰개혁> 출간]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/109606046</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/109555954"/>
         <updated>2025-05-29T05:23:03.130Z</updated>
         <content type="html"><![CDATA[지난 20일, 뉴스타파는 김문수 후보 캠프가 단체 카카오톡 방을 열고 조작 댓글로 지목된 '평택에서 카페하는 준우 아빠' 게시글을 조직적으로 유포하고 있다고 보도했습니다.&nbsp;<br><br>김문수 캠프 측은 보도 다음 날, “뉴스타파의 ‘준우아빠’ 관련 보도는 오보. 홍보본부 뉴미디어소통단은 캠프에 없다”고 반박했습니다.&nbsp;그러나 이 해명은 '거짓'이었습니다. <br><br>뉴스타파 취재 결과, 문제의 단톡방을 만든 조직은 강승규 의원과 연결돼 있었습니다. 강 의원은 현재 국민의힘 중앙선대위 홍보본부장을 맡고 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/0figu</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사진 제거 이준석 만난 재력가 아들 '용산 취업', 검찰은 왜 덮었나]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/109555704</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/109555704"/>
-        <updated>2025-05-29T05:23:03.131Z</updated>
-        <content type="html"><![CDATA[검찰이 이준석 후보와 명태균 씨가 연관된 재력가 아들 '취업 청탁' 사건을 구체적으로 수사해놓고도 재판에 넘기지 않은 것으로 확인됐습니다. 뉴스타파는 검찰 수사기록과 '명태균PC' 등을 교차로 분석했는데 '취업 청탁' 증거는 차고 넘칠 정도지만, 검찰의 불기소로 이준석 후보는 피의자가 될 뻔한 위기를 모면했습니다. <br><br>석연치 않은 검찰의 '취업 청탁' 불기소 사건을 뉴스타파가 추적해봤습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/s1MV4</span>]]></content>
     </entry>
 </feed>
