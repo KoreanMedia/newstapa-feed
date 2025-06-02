@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jun 2025 05:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jun 2025 06:34:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] ‘한덕수 대망론’, 언론개혁 절실함을 보여주다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/_drwk</link>
+            <guid>http://newstapa.org/article/_drwk</guid>
+            <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] ‘한덕수 대망론’, 언론개혁 절실함을 보여주다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/02144641-0374-43CF-9DCD-E1XCM5MWUENZAMODTSI1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리박스쿨 '댓글부대 단장'이 아이들 상대 '역사 강의' (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/alRav</link>
+            <guid>http://newstapa.org/article/alRav</guid>
+            <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리박스쿨 '댓글부대 단장'이 아이들 상대 '역사 강의']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/02142418-9530-B071-489C-0Y5QOINB7N0L7IJGRW47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특집 라이브] '댓글공작팀' 리박스쿨, 드러나는 진실 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/AYDPU</link>
@@ -120,20 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/29183836-6A17-8D32-9A4B-CD31QNYQHXWXKJNU6NIL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간뉴스타파] 김건희 집사 게이트 : 돈 낸 기업 명단 공개 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/ML_Si</link>
-            <guid>http://newstapa.org/article/ML_Si</guid>
-            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간뉴스타파] 김건희 집사 게이트 : 돈 낸 기업 명단 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/29180742-9E3F-5FDB-FD3F-5QZ8I22LPLML24GCIDTR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 집사 게이트③ '사면초가' 카카오 모빌리티의 30억 투자...정권 보험용? (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/VM8Sw</link>
-            <guid>http://newstapa.org/article/VM8Sw</guid>
-            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희 집사 게이트③ '사면초가' 카카오 모빌리티의 30억 투자...정권 보험용?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/29160309-0B25-8FEE-2835-EQP5IW3B2OV80FO6O66X.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[리박스쿨 '댓글부대 단장'이 아이들 상대 '역사 강의' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/alRav</link>
+            <guid>http://newstapa.org/article/alRav</guid>
+            <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리박스쿨 '댓글부대 단장'이 아이들 상대 '역사 강의']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/02142418-9530-B071-489C-0Y5QOINB7N0L7IJGRW47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[특집 라이브] '댓글공작팀' 리박스쿨, 드러나는 진실 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김건희 집사 게이트③ '사면초가' 카카오 모빌리티의 30억 투자...정권 보험용?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/29160309-0B25-8FEE-2835-EQP5IW3B2OV80FO6O66X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 집사 게이트④ HS효성 조현상, 개인리스크 막으려 회사 돈 35억 동원? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/vI2hl</link>
-            <guid>http://newstapa.org/article/vI2hl</guid>
-            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희 집사 게이트④ HS효성 조현상, 개인리스크 막으려 회사 돈 35억 동원?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/29160143-01B9-6E7E-81A0-VXOKCWXL9LO907952FA5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[불법압색] 한상진 또는 이건웅, 올가을 한 사람은 죽는다 ③ (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/03155745-413D-2328-5BED-G22P6DQBATQK497KCUH7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] ‘한덕수 대망론’, 언론개혁 절실함을 보여주다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/_drwk</link>
+            <guid>http://newstapa.org/article/_drwk</guid>
+            <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] ‘한덕수 대망론’, 언론개혁 절실함을 보여주다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/02144641-0374-43CF-9DCD-E1XCM5MWUENZAMODTSI1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[권성동 국민의힘 원내대표, 취재중인 뉴스타파 기자 폭행 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/Yj-k9</link>
             <guid>http://newstapa.org/article/Yj-k9</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN]내란과 일본 언론2: ‘탄핵 당연’에서 ‘이재명에 친북좌파 딱지’까지]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/17173456-D666-6F16-E648-JYE7LU418W0QSF3M2CZ0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN]비상계엄 보도에 등장한 ‘충청의 아들 윤’부터 박정희 동상까지 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/qQFxE</link>
-            <guid>http://newstapa.org/article/qQFxE</guid>
-            <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN]비상계엄 보도에 등장한 ‘충청의 아들 윤’부터 박정희 동상까지]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/09185158-F2AC-FF14-4B27-OL3EXXY86L4YU5NPT6J8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 21대 대통령선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3304,6 +3304,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] ‘한덕수 대망론’, 언론개혁 절실함을 보여주다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/109601888</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/109601888</guid>
+            <pubDate>Mon, 02 Jun 2025 06:33:58 GMT</pubDate>
+            <content:encoded><![CDATA[21대 대선이 하루 앞으로 다가왔습니다. 이미 기억에서 사라지고 있지만 이번 대선 레이스에서 느닷없이 ‘대망론’의 주인공으로 급부상했다 사라진 인물이 있습니다. 5월 2일 대선 출마를 선언했다가, 5월 10일에 퇴장한 한덕수입니다. 8일간 유력 후보로 대접받았지만 지금은 존재감 ‘0’입니다. 경찰 수사와 출국금지라는 단어와 함께 이름이 오르내릴 뿐입니다.<br><br>뉴스타파와 연대 협업하는 한국독립언론네트워크(KINN) 회원 언론사인 ‘뉴스어디'(<span class="link_url">https://newswhere.org/)가</span> ‘한덕수 대망론’을 만든 주요 시점별 언론 보도를 모아, 각 매체가 어떤 방식으로 한덕수를 부각했는지 분석했습니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/_drwk</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[리박스쿨 '댓글부대 단장'이 아이들 상대 '역사 강의' (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/109601314</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/109601314</guid>
+            <pubDate>Mon, 02 Jun 2025 06:33:58 GMT</pubDate>
+            <content:encoded><![CDATA[리박스쿨에서 아이들을 상대로 역사, 진로 등을 교육하는 강사 최 모 씨가 리박스쿨 댓글부대 '자손군'의 단장인 것으로 확인됐습니다.<br><br>최 씨가 노인들을 상대로 '스마트폰 교육'을 한 사실도 파악됐습니다. 이 교육의 목적은 국민의힘의 '총선 필승'이었습니다.<br><br>그는 또 리박스쿨이 운영하는 늘봄학교 프로그램 1기 과정부터 강사로도 참여했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/alRav</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['댓글공작' 리박스쿨, 김문수 후보와 2018년부터 인연 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/109585971</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/109585971</guid>
@@ -3430,25 +3444,27 @@
             <content:encoded><![CDATA[지난 2023년 4월 부산 해운대의 한 횟집에서 윤석열 전 대통령이 시·도지사, 장관, 국회의원 등과 회식을 하고 나오는 장면, 많이 기억하실 겁니다. 특히 만찬 비용을 누가 결제한 것이냐는 의문이 제기됐는데, 당시 윤석열 대통령비서실은 끝까지 회식비용의 지출 출처를 공개하지 않았습니다.<br><br>뉴스타파는 하승수 변호사(뉴스타파 전문위원)와 함께 2023년 윤석열 전 대통령의 해운대 횟집 만찬 회식비를 누가 냈는지 밝혀달라는 소송을 진행했습니다. 1심 재판에서 승소했지만, 2심 재판 진행 중 12.3 내란이 일어났습니다. 결국 윤석열 전 대통령은 파면되면서 모든 대통령 기록물이 대통령기록관으로 이관됐고, 윤석열 관련 기록이 대통령비서실에 존재하지 않게 되면서 하 변호사는 결국 서울고등법원에 소취하서를 낼 수밖에 없었습니다.  <br><br>6월 3일 대선을 앞두고, 정보공개 행정소송 전문가 하승수 변호사가 소취하서를 낼 수밖에 없었던 심정을 담은 기고문을 보내왔습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/_eXGc</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이준석의 입이라는 '재난', 여성 없는 21대 대선 [목소리 프로젝트 : 여성] (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/109548102</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/109548102</guid>
-            <pubDate>Wed, 28 May 2025 11:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[사라진 광장의 목소리들을 찾아 다시 볼륨을 키우는 뉴스타파 '목소리 프로젝트 : 실종된 대선 의제를 찾습니다'! 세 번째 주제는 여성 분야입니다. <br><br>밴드 브로콜리너마저의 리더 윤덕원이 진행을 맡고, 학자-활동가-작가로 활발한 활동을 하고 있는 권김현영 여성현실연구소장, 여성에 대한 폭력 최일선에서 활약하고 있는 김수정 한국여성의전화 여성인권상담소장, 그리고 이 분야 탐사 취재를 해온 김새봄 뉴스타파 PD가 출연합니다.<br><br>21대 대선에 출마한 주요 후보들의 여성 분야 공약을 점검하고, 지난 윤석열 정부 전후 두드러졌던 여성 인권의 후퇴, 그리고 여성에 대한 사회안전망과 안전을 제고하기 위한 정책적 방안 등에 대해 이야기 나눕니다.<br><br>이어 목소리 프로젝트는 경제(5.30.), 기후/에너지(5.31.) 분야의 목소리들을 다룰 예정입니다. 많은 관심과 참여 부탁드립니다!<br><br>🔊 [목소리 프로젝트 : 여성] 영상 보러가기 : <span class="link_url">https://youtu.be/dLvNfiW6Ai8</span>]]></content:encoded>
+            <title><![CDATA[[KINN] ‘한덕수 대망론’, 언론개혁 절실함을 보여주다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250602150003712</link>
+            <guid>https://v.daum.net/v/20250602150003712</guid>
+            <pubDate>Mon, 02 Jun 2025 06:34:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250602150003712" class="link_column" data-tiara-layer="[KINN]_‘한덕수_대망론’,_언론개혁_절실함을_보여주다_alltab"><div class="cont_thumb"><strong class="tit_txt">[KINN] ‘한덕수 대망론’, 언론개혁 절실함을 보여주다</strong><span class="info_txt"><span class="txt_info">34분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F02%2Fnewstapa%2F20250602150005361ognq.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F02%2Fnewstapa%2F20250602150005361ognq.png" length="0" type="image/q70/"/>
         </item>
         <item>
-            <title><![CDATA[[미니 다큐] ‘샤라웃’ 광장 속 사람들, 덕분에 버텼수다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/109547789</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/109547789</guid>
-            <pubDate>Wed, 28 May 2025 10:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[불법적·위헌적 비상계엄으로 치르게 된 조기 대선을 앞두고 뉴스타파는 미니다큐를 제작해, 지난 겨울과 봄 동안 펼쳐진 광장의 열망을 다시 한 번 돌아봤습니다. <br><br>민주주의를 지켜낸 시민들의 간절한 노력을 ‘광장 1열’에서 경험한 ‘광장의 DJ’ 김지호 내란청산·사회대개혁 비상행동(이하 비상행동) 행사기획팀장과 ‘광장의 MC’ 박민주 비상행동 집회 사회자. 이들에게 ‘빛의 혁명’은 어떤 의미일까요? 뉴스타파가 제작한 미니다큐 ‘〈샤라웃〉 광장 속 사람들, 덕분에 버텼수다’를 통해 직접 확인해주시길 바랍니다. <br><br>뉴스타파는 윤석열의 내란에 굴하지 않고 겨울을 버텨낸 ‘광장 속 사람들’에게 ‘샤라웃’ 하는 마음을 보냅니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/gK9b4NoXS5g</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/JBje-</span>]]></content:encoded>
+            <title><![CDATA[리박스쿨 '댓글부대 단장'이 아이들 상대 '역사 강의' (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250602143504660</link>
+            <guid>https://v.daum.net/v/20250602143504660</guid>
+            <pubDate>Mon, 02 Jun 2025 06:34:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250602143504660" class="link_column" data-tiara-layer="리박스쿨_'댓글부대_단장'이_아이들_상대_'역사_강의'_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨 '댓글부대 단장'이 아이들 상대 '역사 강의'</strong><span class="info_txt"><span class="txt_info">58분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F02%2Fnewstapa%2F20250602143506224pngj.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F02%2Fnewstapa%2F20250602143506224pngj.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[특집 라이브] '댓글공작팀' 리박스쿨, 드러나는 진실 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250601200515262</link>
             <guid>https://v.daum.net/v/20250601200515262</guid>
             <pubDate>Sun, 01 Jun 2025 11:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200515262" class="link_column" data-tiara-layer="[특집_라이브]_'댓글공작팀'_리박스쿨,_드러나는_진실_alltab"><div class="cont_thumb"><strong class="tit_txt">[특집 라이브] '댓글공작팀' 리박스쿨, 드러나는 진실</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601200517899bqbk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200515262" class="link_column" data-tiara-layer="[특집_라이브]_'댓글공작팀'_리박스쿨,_드러나는_진실_alltab"><div class="cont_thumb"><strong class="tit_txt">[특집 라이브] '댓글공작팀' 리박스쿨, 드러나는 진실</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601200517899bqbk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601200517899bqbk.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3456,7 +3472,7 @@
             <link>https://v.daum.net/v/20250601200507261</link>
             <guid>https://v.daum.net/v/20250601200507261</guid>
             <pubDate>Sun, 01 Jun 2025 11:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200507261" class="link_column" data-tiara-layer="리박스쿨로_간_아이들,_박정희_찬양하고_&quot;한국의_모세_이승만&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨로 간 아이들, 박정희 찬양하고 "한국의 모세 이승만"</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601203628061kycu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200507261" class="link_column" data-tiara-layer="리박스쿨로_간_아이들,_박정희_찬양하고_&quot;한국의_모세_이승만&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨로 간 아이들, 박정희 찬양하고 "한국의 모세 이승만"</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601203628061kycu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601203628061kycu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3464,7 +3480,7 @@
             <link>https://v.daum.net/v/20250601200503259</link>
             <guid>https://v.daum.net/v/20250601200503259</guid>
             <pubDate>Sun, 01 Jun 2025 11:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200503259" class="link_column" data-tiara-layer="리박스쿨_초등생의_글_&quot;낙태_반대&quot;...강연자는_전광훈_며느리_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨 초등생의 글 "낙태 반대"...강연자는 전광훈 며느리</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601204957602eduh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200503259" class="link_column" data-tiara-layer="리박스쿨_초등생의_글_&quot;낙태_반대&quot;...강연자는_전광훈_며느리_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨 초등생의 글 "낙태 반대"...강연자는 전광훈 며느리</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601204957602eduh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601204957602eduh.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3472,7 +3488,7 @@
             <link>https://v.daum.net/v/20250601200003141</link>
             <guid>https://v.daum.net/v/20250601200003141</guid>
             <pubDate>Sun, 01 Jun 2025 11:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200003141" class="link_column" data-tiara-layer="김문수_기독자유통일당_대표_때_'리박스쿨_4명'_총선_출마_alltab"><div class="cont_thumb"><strong class="tit_txt">김문수 기독자유통일당 대표 때 '리박스쿨 4명' 총선 출마</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601200004867rbji.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200003141" class="link_column" data-tiara-layer="김문수_기독자유통일당_대표_때_'리박스쿨_4명'_총선_출마_alltab"><div class="cont_thumb"><strong class="tit_txt">김문수 기독자유통일당 대표 때 '리박스쿨 4명' 총선 출마</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601200004867rbji.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601200004867rbji.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3544,7 +3560,7 @@
             <link>https://v.daum.net/v/20250530150503747</link>
             <guid>https://v.daum.net/v/20250530150503747</guid>
             <pubDate>Fri, 30 May 2025 06:31:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250530150503747" class="link_column" data-tiara-layer="[현장에서]_4대강_보_개방을_반대하는_조선일보와_국민의힘에게_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 4대강 보 개방을 반대하는 조선일보와 국민의힘에게</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F30%2Fnewstapa%2F20250530150504898zlia.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250530150503747" class="link_column" data-tiara-layer="[현장에서]_4대강_보_개방을_반대하는_조선일보와_국민의힘에게_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 4대강 보 개방을 반대하는 조선일보와 국민의힘에게</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F30%2Fnewstapa%2F20250530150504898zlia.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F30%2Fnewstapa%2F20250530150504898zlia.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3592,7 +3608,7 @@
             <link>https://v.daum.net/v/20250529144004639</link>
             <guid>https://v.daum.net/v/20250529144004639</guid>
             <pubDate>Thu, 29 May 2025 06:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250529144004639" class="link_column" data-tiara-layer="[현장에서]&quot;21대_대선도_부정선거&quot;...보나_마나_등장할_부정선거_음모론_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서]"21대 대선도 부정선거"...보나 마나 등장할 부정선거 음모론</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F29%2Fnewstapa%2F20250529144006522brjv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250529144004639" class="link_column" data-tiara-layer="[현장에서]&quot;21대_대선도_부정선거&quot;...보나_마나_등장할_부정선거_음모론_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서]"21대 대선도 부정선거"...보나 마나 등장할 부정선거 음모론</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F29%2Fnewstapa%2F20250529144006522brjv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F29%2Fnewstapa%2F20250529144006522brjv.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3664,24 +3680,8 @@
             <link>https://v.daum.net/v/20250527153003984</link>
             <guid>https://v.daum.net/v/20250527153003984</guid>
             <pubDate>Tue, 27 May 2025 07:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250527153003984" class="link_column" data-tiara-layer="이재명,_성남시향_노조원들_'부당해고'_사건_전말_alltab"><div class="cont_thumb"><strong class="tit_txt">이재명, 성남시향 노조원들 '부당해고' 사건 전말</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F27%2Fnewstapa%2F20250527153005032fbwz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250527153003984" class="link_column" data-tiara-layer="이재명,_성남시향_노조원들_'부당해고'_사건_전말_alltab"><div class="cont_thumb"><strong class="tit_txt">이재명, 성남시향 노조원들 '부당해고' 사건 전말</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F27%2Fnewstapa%2F20250527153005032fbwz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F27%2Fnewstapa%2F20250527153005032fbwz.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[이준석과 '명태균 여론조사'...22대 총선도 4번 해줬다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250527081503223</link>
-            <guid>https://v.daum.net/v/20250527081503223</guid>
-            <pubDate>Mon, 26 May 2025 23:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250527081503223" class="link_column" data-tiara-layer="이준석과_'명태균_여론조사'...22대_총선도_4번_해줬다_alltab"><div class="cont_thumb"><strong class="tit_txt">이준석과 '명태균 여론조사'...22대 총선도 4번 해줬다</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F27%2Fnewstapa%2F20250527134143044fhfm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F27%2Fnewstapa%2F20250527134143044fhfm.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA['경북 산불'이 남긴 21대 대통령의 과제 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250526183003558</link>
-            <guid>https://v.daum.net/v/20250526183003558</guid>
-            <pubDate>Mon, 26 May 2025 09:48:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250526183003558" class="link_column" data-tiara-layer="'경북_산불'이_남긴_21대_대통령의_과제_alltab"><div class="cont_thumb"><strong class="tit_txt">'경북 산불'이 남긴 21대 대통령의 과제</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F26%2Fnewstapa%2F20250526183014099xtpg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F26%2Fnewstapa%2F20250526183014099xtpg.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
