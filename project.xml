@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jun 2025 23:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jun 2025 01:47:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제 21대 대통령선거]]></title>
+            <link>https://newstapa.org/tags/%EC%A0%9C21%EB%8C%80%20%EB%8C%80%ED%86%B5%EB%A0%B9%EC%84%A0%EA%B1%B0</link>
+            <guid>https://newstapa.org/tags/%EC%A0%9C21%EB%8C%80%20%EB%8C%80%ED%86%B5%EB%A0%B9%EC%84%A0%EA%B1%B0</guid>
+            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[제21대 대통령선거에 출마한 후보자들의 도덕성과 정책을 검증 보도합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/02101420-815A-8D19-05DC-KM5H98ORUSXTOKXTP0KG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[댓글공작팀 '리박스쿨' 추적]]></title>
+            <link>https://newstapa.org/tags/%EB%A6%AC%EB%B0%95%EC%8A%A4%EC%BF%A8</link>
+            <guid>https://newstapa.org/tags/%EB%A6%AC%EB%B0%95%EC%8A%A4%EC%BF%A8</guid>
+            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 댓글공작팀 '리박스쿨'의 실체를 뉴스타파가 최초로 확인했습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/02101550-B32B-B5B8-F535-3792N71OCC9246C18NWC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 쓰는 공소장]]></title>
+            <link>https://newstapa.org/search?s=%EB%8B%A4%EC%8B%9C+%EC%93%B0%EB%8A%94+%EA%B3%B5%EC%86%8C%EC%9E%A5</link>
+            <guid>https://newstapa.org/search?s=%EB%8B%A4%EC%8B%9C+%EC%93%B0%EB%8A%94+%EA%B3%B5%EC%86%8C%EC%9E%A5</guid>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파는 내란 수사기록 등 방대한 사건 기록을 통해 아직 제대로 조명되지 못한 12.3 내란의 장면들을 포착합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/02101718-8C52-6C00-9878-WSMHKN7V3UUQVS06GH7A.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열의 내란]]></title>
             <link>https://newstapa.org/tags/%EC%9C%A4%EC%84%9D%EC%97%B4%EC%9D%98%20%EB%82%B4%EB%9E%80</link>
