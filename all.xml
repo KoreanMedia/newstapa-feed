@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jun 2025 10:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jun 2025 11:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국가정책으로 포장된 개신교의 이권사업들 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/AbzRs</link>
+            <guid>http://newstapa.org/article/AbzRs</guid>
+            <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국가정책으로 포장된 개신교의 이권사업들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/05192504-354C-AC7A-CC4F-5X42L24D3PQRGRUETVA8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리박스쿨로 간 나랏돈…‘자유총연맹’ 손잡고 구청 예산도 노렸다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/kJiOI</link>
@@ -126,14 +134,6 @@
             <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김문수 기독자유통일당 대표 때 '리박스쿨 4명' 총선 출마]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/01201738-FD68-6ADD-57DD-TPBLZ9B5LLB1PRBIEOZE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['댓글공작' 리박스쿨, 김문수 후보와 2018년부터 인연 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/RhqQy</link>
-            <guid>http://newstapa.org/article/RhqQy</guid>
-            <pubDate>Sat, 31 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['댓글공작' 리박스쿨, 김문수 후보와 2018년부터 인연]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/31223132-538A-482C-7030-H5I9GCX5SLT2FPIE4GQW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리박스쿨로 간 나랏돈…‘자유총연맹’ 손잡고 구청 예산도 노렸다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/03134401-48CD-15FB-A385-09O7KP75YKSU2FTC1QRJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국가정책으로 포장된 개신교의 이권사업들 (뉴스타파 ─ 뉴스 ─ 종교)]]></title>
+            <link>http://newstapa.org/article/AbzRs</link>
+            <guid>http://newstapa.org/article/AbzRs</guid>
+            <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국가정책으로 포장된 개신교의 이권사업들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/05192504-354C-AC7A-CC4F-5X42L24D3PQRGRUETVA8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<종교권력> 조계종 포교 사업이 대선 공약됐다 (뉴스타파 ─ 뉴스 ─ 종교)]]></title>
             <link>http://newstapa.org/article/GjkX-</link>
             <guid>http://newstapa.org/article/GjkX-</guid>
@@ -766,14 +774,6 @@
             <pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[인천교구, 비리 의혹 박문서 신부 보직해임]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2017/12/62c4cb1a782d68a05e5fedef74c006039910d747f238cdd91020d8c8d22b3dee9199027981f408b1c7fecff17bb3e39243235380c55070f5112612b82f7206fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['조계종 성역화'로 전락한 10.27법난기념사업 (뉴스타파 ─ 뉴스 ─ 종교)]]></title>
-            <link>http://newstapa.org/article/XUBVO</link>
-            <guid>http://newstapa.org/article/XUBVO</guid>
-            <pubDate>Fri, 22 Dec 2017 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['조계종 성역화'로 전락한 10.27법난기념사업]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2017/12/f9979aeccedad1e637b43d8098597aa9aaad1e81a9819e0420afea1534f28d53f71605f58249be13d2e3e7eb94698a33e5717b32f25c5e7d1fa3dd7bc9394fa3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1997, IMF 거대한 거짓말 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
@@ -3304,6 +3304,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국가정책으로 포장된 개신교의 이권사업들 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/109642797</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/109642797</guid>
+            <pubDate>Thu, 05 Jun 2025 11:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 헌법은 '국교를 인정하지 아니하며, 종교와 정치는 분리된다'고 규정하고 있습니다. 이같은 정교분리 원칙은 국가 정책이 특정 종교에 의해 좌우되는 것을 막기 위함입니다. <br><br>그러나 개신교 일각에서는 '기독교 정당'을 창당해 스스로 정치 세력이 되고자 하는가 하면, 선거 때마다 정당의 후보자들을 움직여 자신들의 입맛에 맞는 국가 정책을 만들려고 합니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/TYfT5qLRbh0</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/AbzRs</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[리박스쿨로 간 나랏돈…‘자유총연맹’ 손잡고 구청 예산도 노렸다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/109642603</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/109642603</guid>
@@ -3437,18 +3444,19 @@
             <content:encoded><![CDATA[뉴스타파필름이 21대 대선 사전 투표 시작에 맞춰, 유권자 투표 근육 강화를 위해 전격 공개한 영화 [압수수색: 내란의 시작]이 만 이틀도 안 돼 100만 뷰를 기록했습니다. <br><br>“이기는 역사를 쓰고 싶다”는 영화의 메시지를, 내란 세력 청산의 첫걸음이 될 이번 조기 대선을 앞두고 많은 시민들이 공감해 주신 덕분입니다.  <br><br>뉴스타파와 윤석열의 7년 전쟁을 다룬 다큐멘터리 영화 [압수수색: 내란의 시작]은 대선 본투표일인 6월 3일 자정까지 계속 무료 공개됩니다. 많은 관람과 공유. 성원으로 ‘이기는 역사’를 함께 써나가면 좋겠습니다. 감사합니다.<br><br>🎬 영화 &lt;압수수색&gt; 보기: <span class="link_url">https://www.youtube.com/watch?v=o2cBVF0Z-9w&amp;t=608s</span><br>🙌 뉴스타파필름 응원하기: <span class="link_url">https://withnewstapa.org/support</span>/<br>👉 압수수색 책 구매하기 <span class="link_url">https://product.kyobobook.co.kr/detail/S000216369466</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[현장에서] 4대강 보 개방을 반대하는 조선일보와 국민의힘에게 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/109573001</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/109573001</guid>
-            <pubDate>Fri, 30 May 2025 06:31:27 GMT</pubDate>
-            <content:encoded><![CDATA[이재명 더불어민주당 후보가 4대강 보를 개방하고 재자연화하겠다고 공약하자 국민의힘과 보수언론은 일제히 비판에 나섰습니다. 이들은 4대강 보가 '홍수와 가뭄 방지용'이라는 오래된 프레임을 반복하며, 보를 해체하려는 것이 국민 세금을 낭비하는 것이라고 주장했습니다. 4대강 사업 완공 후 15년이 지나도록 똑같은 주장을 반복하고 있지만 근거는 매우 약합니다. 뉴스타파가 4대강 보 개방에 관련된 사실을 짚어봤습니다.  <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/whBa1</span>]]></content:encoded>
+            <title><![CDATA[국가정책으로 포장된 개신교의 이권사업들 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250605193004041</link>
+            <guid>https://v.daum.net/v/20250605193004041</guid>
+            <pubDate>Thu, 05 Jun 2025 11:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250605193004041" class="link_column" data-tiara-layer="국가정책으로_포장된_개신교의_이권사업들_alltab"><div class="cont_thumb"><strong class="tit_txt">국가정책으로 포장된 개신교의 이권사업들</strong><span class="info_txt"><span class="txt_info">51분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605193012596pfqi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605193012596pfqi.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[리박스쿨로 간 나랏돈…‘자유총연맹’ 손잡고 구청 예산도 노렸다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250605184503006</link>
             <guid>https://v.daum.net/v/20250605184503006</guid>
             <pubDate>Thu, 05 Jun 2025 10:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250605184503006" class="link_column" data-tiara-layer="리박스쿨로_간_나랏돈…‘자유총연맹’_손잡고_구청_예산도_노렸다_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨로 간 나랏돈…‘자유총연맹’ 손잡고 구청 예산도 노렸다</strong><span class="info_txt"><span class="txt_info">40분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605184504706lyzq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250605184503006" class="link_column" data-tiara-layer="리박스쿨로_간_나랏돈…‘자유총연맹’_손잡고_구청_예산도_노렸다_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨로 간 나랏돈…‘자유총연맹’ 손잡고 구청 예산도 노렸다</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605184504706lyzq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605184504706lyzq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3456,7 +3464,7 @@
             <link>https://v.daum.net/v/20250605182003427</link>
             <guid>https://v.daum.net/v/20250605182003427</guid>
             <pubDate>Thu, 05 Jun 2025 09:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250605182003427" class="link_column" data-tiara-layer="북풍_기획한_내란_일당…_11월_28일_'전시_계엄'_노렸나_alltab"><div class="cont_thumb"><strong class="tit_txt">북풍 기획한 내란 일당… 11월 28일 '전시 계엄' 노렸나</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605182011662vcpu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250605182003427" class="link_column" data-tiara-layer="북풍_기획한_내란_일당…_11월_28일_'전시_계엄'_노렸나_alltab"><div class="cont_thumb"><strong class="tit_txt">북풍 기획한 내란 일당… 11월 28일 '전시 계엄' 노렸나</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605182011662vcpu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605182011662vcpu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3464,7 +3472,7 @@
             <link>https://v.daum.net/v/20250605170515877</link>
             <guid>https://v.daum.net/v/20250605170515877</guid>
             <pubDate>Thu, 05 Jun 2025 08:30:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250605170515877" class="link_column" data-tiara-layer="[주간_뉴스타파]_김문수와_손효숙의_'뜨락_회동'_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 김문수와 손효숙의 '뜨락 회동'</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605170518341spuh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250605170515877" class="link_column" data-tiara-layer="[주간_뉴스타파]_김문수와_손효숙의_'뜨락_회동'_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 김문수와 손효숙의 '뜨락 회동'</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605170518341spuh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605170518341spuh.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3472,7 +3480,7 @@
             <link>https://v.daum.net/v/20250605170503871</link>
             <guid>https://v.daum.net/v/20250605170503871</guid>
             <pubDate>Thu, 05 Jun 2025 08:30:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250605170503871" class="link_column" data-tiara-layer="“김문수-손효숙-이희범,_인사동_식당서_모였다”_alltab"><div class="cont_thumb"><strong class="tit_txt">“김문수-손효숙-이희범, 인사동 식당서 모였다”</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605170514724wnjg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250605170503871" class="link_column" data-tiara-layer="“김문수-손효숙-이희범,_인사동_식당서_모였다”_alltab"><div class="cont_thumb"><strong class="tit_txt">“김문수-손효숙-이희범, 인사동 식당서 모였다”</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605170514724wnjg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605170514724wnjg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3480,7 +3488,7 @@
             <link>https://v.daum.net/v/20250605170003678</link>
             <guid>https://v.daum.net/v/20250605170003678</guid>
             <pubDate>Thu, 05 Jun 2025 08:30:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250605170003678" class="link_column" data-tiara-layer="&quot;김문수가_우리_노조_이용하려&quot;...'뜨락_회동'_추가_증언_alltab"><div class="cont_thumb"><strong class="tit_txt">"김문수가 우리 노조 이용하려"...'뜨락 회동' 추가 증언</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605170005002bbuj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250605170003678" class="link_column" data-tiara-layer="&quot;김문수가_우리_노조_이용하려&quot;...'뜨락_회동'_추가_증언_alltab"><div class="cont_thumb"><strong class="tit_txt">"김문수가 우리 노조 이용하려"...'뜨락 회동' 추가 증언</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605170005002bbuj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605170005002bbuj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3488,7 +3496,7 @@
             <link>https://v.daum.net/v/20250605165003356</link>
             <guid>https://v.daum.net/v/20250605165003356</guid>
             <pubDate>Thu, 05 Jun 2025 08:30:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250605165003356" class="link_column" data-tiara-layer="이재명_후보의_114만_표는_어디서_왔을까?_alltab"><div class="cont_thumb"><strong class="tit_txt">이재명 후보의 114만 표는 어디서 왔을까?</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605165004871knlg.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250605165003356" class="link_column" data-tiara-layer="이재명_후보의_114만_표는_어디서_왔을까?_alltab"><div class="cont_thumb"><strong class="tit_txt">이재명 후보의 114만 표는 어디서 왔을까?</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605165004871knlg.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605165004871knlg.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3504,7 @@
             <link>https://v.daum.net/v/20250605114003536</link>
             <guid>https://v.daum.net/v/20250605114003536</guid>
             <pubDate>Thu, 05 Jun 2025 03:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250605114003536" class="link_column" data-tiara-layer="리박스쿨은_보수단체_'댓글공작_사관학교'_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨은 보수단체 '댓글공작 사관학교'</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605114004558ayqt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250605114003536" class="link_column" data-tiara-layer="리박스쿨은_보수단체_'댓글공작_사관학교'_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨은 보수단체 '댓글공작 사관학교'</strong><span class="info_txt"><span class="txt_info">8시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605114004558ayqt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F05%2Fnewstapa%2F20250605114004558ayqt.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3536,7 +3544,7 @@
             <link>https://v.daum.net/v/20250601200515262</link>
             <guid>https://v.daum.net/v/20250601200515262</guid>
             <pubDate>Sun, 01 Jun 2025 11:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200515262" class="link_column" data-tiara-layer="[특집_라이브]_'댓글공작팀'_리박스쿨,_드러나는_진실_alltab"><div class="cont_thumb"><strong class="tit_txt">[특집 라이브] '댓글공작팀' 리박스쿨, 드러나는 진실</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601200517899bqbk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200515262" class="link_column" data-tiara-layer="[특집_라이브]_'댓글공작팀'_리박스쿨,_드러나는_진실_alltab"><div class="cont_thumb"><strong class="tit_txt">[특집 라이브] '댓글공작팀' 리박스쿨, 드러나는 진실</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601200517899bqbk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601200517899bqbk.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3544,7 +3552,7 @@
             <link>https://v.daum.net/v/20250601200507261</link>
             <guid>https://v.daum.net/v/20250601200507261</guid>
             <pubDate>Sun, 01 Jun 2025 11:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200507261" class="link_column" data-tiara-layer="리박스쿨로_간_아이들,_박정희_찬양하고_&quot;한국의_모세_이승만&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨로 간 아이들, 박정희 찬양하고 "한국의 모세 이승만"</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601203628061kycu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200507261" class="link_column" data-tiara-layer="리박스쿨로_간_아이들,_박정희_찬양하고_&quot;한국의_모세_이승만&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨로 간 아이들, 박정희 찬양하고 "한국의 모세 이승만"</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601203628061kycu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601203628061kycu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3552,7 +3560,7 @@
             <link>https://v.daum.net/v/20250601200503259</link>
             <guid>https://v.daum.net/v/20250601200503259</guid>
             <pubDate>Sun, 01 Jun 2025 11:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200503259" class="link_column" data-tiara-layer="리박스쿨_초등생의_글_&quot;낙태_반대&quot;...강연자는_전광훈_며느리_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨 초등생의 글 "낙태 반대"...강연자는 전광훈 며느리</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601204957602eduh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200503259" class="link_column" data-tiara-layer="리박스쿨_초등생의_글_&quot;낙태_반대&quot;...강연자는_전광훈_며느리_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨 초등생의 글 "낙태 반대"...강연자는 전광훈 며느리</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601204957602eduh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601204957602eduh.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3560,7 +3568,7 @@
             <link>https://v.daum.net/v/20250601200003141</link>
             <guid>https://v.daum.net/v/20250601200003141</guid>
             <pubDate>Sun, 01 Jun 2025 11:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200003141" class="link_column" data-tiara-layer="김문수_기독자유통일당_대표_때_'리박스쿨_4명'_총선_출마_alltab"><div class="cont_thumb"><strong class="tit_txt">김문수 기독자유통일당 대표 때 '리박스쿨 4명' 총선 출마</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601200004867rbji.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200003141" class="link_column" data-tiara-layer="김문수_기독자유통일당_대표_때_'리박스쿨_4명'_총선_출마_alltab"><div class="cont_thumb"><strong class="tit_txt">김문수 기독자유통일당 대표 때 '리박스쿨 4명' 총선 출마</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601200004867rbji.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601200004867rbji.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3674,14 +3682,6 @@
             <pubDate>Thu, 29 May 2025 10:26:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250529184003298" class="link_column" data-tiara-layer="김건희_집사_게이트⑤_'신이_숨겨둔_직장'_한국증권금융의_수상한_50억_투자_alltab"><div class="cont_thumb"><strong class="tit_txt">김건희 집사 게이트⑤ '신이 숨겨둔 직장' 한국증권금융의 수상한 50억 투자</strong><span class="info_txt"><span class="txt_info">2025. 5. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F29%2Fnewstapa%2F20250529184004818tuwr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F29%2Fnewstapa%2F20250529184004818tuwr.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서]"21대 대선도 부정선거"...보나 마나 등장할 부정선거 음모론 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250529144004639</link>
-            <guid>https://v.daum.net/v/20250529144004639</guid>
-            <pubDate>Thu, 29 May 2025 06:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250529144004639" class="link_column" data-tiara-layer="[현장에서]&quot;21대_대선도_부정선거&quot;...보나_마나_등장할_부정선거_음모론_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서]"21대 대선도 부정선거"...보나 마나 등장할 부정선거 음모론</strong><span class="info_txt"><span class="txt_info">2025. 5. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F29%2Fnewstapa%2F20250529144006522brjv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F29%2Fnewstapa%2F20250529144006522brjv.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
