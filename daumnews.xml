@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jun 2025 13:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jun 2025 14:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -172,8 +172,8 @@
             <link>https://v.daum.net/v/20250530210511402</link>
             <guid>https://v.daum.net/v/20250530210511402</guid>
             <pubDate>Fri, 30 May 2025 12:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250530210511402" class="link_column" data-tiara-layer="'불법_댓글공작팀'_잠입_취재...&quot;손가락_군대로_나라_구하자&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">'불법 댓글공작팀' 잠입 취재..."손가락 군대로 나라 구하자"</strong><span class="info_txt"><span class="txt_info">2025. 5. 30.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F30%2Fnewstapa%2F20250530210522928bmbk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F30%2Fnewstapa%2F20250530210522928bmbk.jpg" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250530210511402" class="link_column" data-tiara-layer="'불법_댓글공작팀'_잠입_취재...&quot;손가락_군대로_나라_구하자&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">'불법 댓글공작팀' 잠입 취재..."손가락 군대로 나라 구하자"</strong><span class="info_txt"><span class="txt_info">2025. 5. 30.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F08%2Fnewstapa%2F20250608231914079owru.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F08%2Fnewstapa%2F20250608231914079owru.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[댓글공작팀과 '가짜 기자회견' 기획한 국민의힘]]></title>
