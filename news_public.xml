@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jun 2025 07:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jun 2025 08:30:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특집 라이브] 위성락 국가안보실장 일가 '부동산 투기' 의혹]]></title>
+            <link>http://newstapa.org/article/uYiXy</link>
+            <guid>http://newstapa.org/article/uYiXy</guid>
+            <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[특집 라이브] 위성락 국가안보실장 일가 '부동산 투기' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/10161524-B427-8FC3-FCB1-O8Y013OYL4530SJFI6D0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위성락 국가안보실장, 주러 대사 때 '서울 재건축 아파트' 매입]]></title>
+            <link>http://newstapa.org/article/3QLNb</link>
+            <guid>http://newstapa.org/article/3QLNb</guid>
+            <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[위성락 국가안보실장, 주러 대사 때 '서울 재건축 아파트' 매입]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/10085907-0437-E252-82A1-UHI9N9X7EW8A3B6F9AWO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부동산 자산만 80억... 위성락 가족의 '부동산 투기' 의혹]]></title>
+            <link>http://newstapa.org/article/co1pB</link>
+            <guid>http://newstapa.org/article/co1pB</guid>
+            <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[부동산 자산만 80억... 위성락 가족의 '부동산 투기' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/10161511-CF7C-1815-A318-0LE1RZUSATYL4L3BKQON.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리박스쿨로 간 나랏돈…‘자유총연맹’ 손잡고 구청 예산도 노렸다]]></title>
             <link>http://newstapa.org/article/kJiOI</link>
@@ -110,30 +134,6 @@
             <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[리박스쿨 초등생의 글 "낙태 반대"...강연자는 전광훈 며느리]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/01204308-4C3A-3125-A281-WY5RFJKWWEH8MVOBBA78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김문수 기독자유통일당 대표 때 '리박스쿨 4명' 총선 출마]]></title>
-            <link>http://newstapa.org/article/KI7xs</link>
-            <guid>http://newstapa.org/article/KI7xs</guid>
-            <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김문수 기독자유통일당 대표 때 '리박스쿨 4명' 총선 출마]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/01201738-FD68-6ADD-57DD-TPBLZ9B5LLB1PRBIEOZE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['댓글공작' 리박스쿨, 김문수 후보와 2018년부터 인연]]></title>
-            <link>http://newstapa.org/article/RhqQy</link>
-            <guid>http://newstapa.org/article/RhqQy</guid>
-            <pubDate>Sat, 31 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['댓글공작' 리박스쿨, 김문수 후보와 2018년부터 인연]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/31223132-538A-482C-7030-H5I9GCX5SLT2FPIE4GQW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['자손군 조장' 리박스쿨 전직 간부, 국무총리 주관 해외연수 참가]]></title>
-            <link>http://newstapa.org/article/f-_QT</link>
-            <guid>http://newstapa.org/article/f-_QT</guid>
-            <pubDate>Sat, 31 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['자손군 조장' 리박스쿨 전직 간부, 국무총리 주관 해외연수 참가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/02101217-0E77-4053-2454-390JZ0OFZ0DIKEKNMEBE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
