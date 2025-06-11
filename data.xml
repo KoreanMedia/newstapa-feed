@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jun 2025 01:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jun 2025 03:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이진숙 법인카드 사용내역 시각화]]></title>
+            <link>https://pages.newstapa.org/2024/07_jinsook/</link>
+            <guid>https://pages.newstapa.org/2024/07_jinsook/</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이진숙 방통위원장이 사용한 MBC 법인카드 사용 내역 2586건 중 사용처 주소지가 확인된 2,032건을 지도에 표시해 공개한다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/11105357-AF35-54DB-A307-82R4MXH6PWNCFHZNKLJU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김대중 증언록]]></title>
             <link>https://pages.newstapa.org/2025/dj_518hearing/</link>
@@ -14,14 +22,6 @@
             <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1988년 11월 18일 열린 제7차 ‘5·18 광주민주화운동의 진상규명을 위한 청문회’ 영상 중 김대중 당시 평화민주당 총재의 증언 부분을 특별페이지로 제작·공개합니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23112649-E6BA-C8FE-C361-IKB530YGO3O9H43MSU27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 대선 팩트체크]]></title>
-            <link>https://pages.newstapa.org/2025/factcheck2025/</link>
-            <guid>https://pages.newstapa.org/2025/factcheck2025/</guid>
-            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025년 대선에 출마한 후보들의 발언은 과연 사실일까요? 뉴스타파와 한국독립언론네트워크(KINN)가 팩트체크를 위해 뭉쳤습니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/09160803-B0F6-514C-33C4-D3NETLUIF931LRNKJ2PH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파 데이터포털]]></title>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 06 Jul 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기관별로 산발적으로 공개되던 공직자들의 재산 내역을 한데 모아, 모두가 쉽게 찾아 볼 수 있는 웹사이트를 제작했습니다. 공직자들의 여러 해에 걸친 재산 형성 과정을 직접 추적해 볼 수 있습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/09160706-120F-3458-EFC4-W7A7E2RNILIFN4ZPA4ZK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 대선 팩트체크]]></title>
+            <link>https://pages.newstapa.org/2025/factcheck2025/</link>
+            <guid>https://pages.newstapa.org/2025/factcheck2025/</guid>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 대선에 출마한 후보들의 발언은 과연 사실일까요? 뉴스타파와 한국독립언론네트워크(KINN)가 팩트체크를 위해 뭉쳤습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/09160803-B0F6-514C-33C4-D3NETLUIF931LRNKJ2PH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파 v. 윤석열 사건, 압수수색 : 내란의 시작]]></title>
