@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jun 2025 05:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jun 2025 06:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고]식당명 첫 글자만 공개하라는 판결, 부끄럽다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/OW2Z8</link>
+            <guid>http://newstapa.org/article/OW2Z8</guid>
+            <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고]식당명 첫 글자만 공개하라는 판결, 부끄럽다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/19140733-FCA8-6D8B-B949-J6G213J2SZUQPB9LFWUF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리박스쿨 협력단체 간부들이 '윤석열 백골단' 조직 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/AytTB</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[리박스쿨로 간 나랏돈…‘자유총연맹’ 손잡고 구청 예산도 노렸다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/05184314-BAE4-B88C-7BC3-7QN0WQTVUWRIM2BYLRNV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다시 쓰는 공소장] 북풍 기획한 내란 일당… 11월 28일 '전시 계엄' 노렸나 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/HJ_oX</link>
-            <guid>http://newstapa.org/article/HJ_oX</guid>
-            <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다시 쓰는 공소장] 북풍 기획한 내란 일당… 11월 28일 '전시 계엄' 노렸나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/05173843-6114-D22B-D930-EA61JIDNI3URJNU3O4BV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리박스쿨 협력단체 간부들이 '윤석열 백골단' 조직 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/02111316-EA5C-5396-AB81-1BSH6JKD2PRDI6KAGW0L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[기고]식당명 첫 글자만 공개하라는 판결, 부끄럽다 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/OW2Z8</link>
+            <guid>http://newstapa.org/article/OW2Z8</guid>
+            <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고]식당명 첫 글자만 공개하라는 판결, 부끄럽다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/19140733-FCA8-6D8B-B949-J6G213J2SZUQPB9LFWUF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[기고] 윤석열 해운대 회식비, 대선 앞두고 소 취하를 하는 심정 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
             <link>http://newstapa.org/article/_eXGc</link>
             <guid>http://newstapa.org/article/_eXGc</guid>
@@ -510,14 +518,6 @@
             <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰의 ‘특활비 잔액표’ 집단 비공개… 세금 오남용 숨기려 무단 삭제 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/15182428-9DDD-87A2-EC42-1YHZWAOH632MJVH4Q31N.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 전범기업과 공모해 관세 포탈한 한국지역난방공사 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
-            <link>http://newstapa.org/article/4WjJO</link>
-            <guid>http://newstapa.org/article/4WjJO</guid>
-            <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[일본 전범기업과 공모해 관세 포탈한 한국지역난방공사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/15234205-5294-FE2A-B684-PS6BB448WDKHNZEQ0GIZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[목소리 프로젝트 : 경제] 저성장 시대를 지나는 대통령을 위한 안내서 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
@@ -3312,6 +3312,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[기고]식당명 첫 글자만 공개하라는 판결, 부끄럽다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/109778340</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/109778340</guid>
+            <pubDate>Thu, 19 Jun 2025 06:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 12일 법무부 업무추진비 정보공개 소송에서 업무추진비를 집행한 식당명이 영업비밀에 해당하므로, 첫 글자만 공개하고 나머지는 비공개하라는 고등법원 판결이 나왔습니다. 국민의 세금이 쓰인 곳은 투명하게 공개되어야 한다는 기존의 판례에 반하는 결정입니다. <br><br>더불어 재판부가 법무부의 납득하기 어려운 비공개 주장을 용인함으로써, 앞으로 공공기관이 국민의 세금으로 쓴 내역을 은폐할 핑계를 준다는 점에서 우려가 제기됩니다. 투명사회를 위한 정보공개센터 정진임 소장의 기고문입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/OW2Z8</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[50년 언론자유의 한길을 걸은 동아투위, ‘서재필언론문화상’ 수상 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/109769386</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/109769386</guid>
@@ -3445,18 +3452,18 @@
             <content:encoded><![CDATA[얼마 전 뉴스타파는 극우 역사단체 리박스쿨이 벌인 댓글 공작, 그리고 초등학생들을 상대로 벌인 ‘극우 어린이 만들기 프로젝트’의 실태를 처음 세상에 알렸습니다. <br><br>뉴스타파 보도가 나간 뒤, 김문수 국민의힘 후보는 여러 차례 댓글 공작을 벌인 리박스쿨과 자신은 아무 관련이 없다는 입장을 밝혔습니다.  <br><br>하지만 뉴스타파는 김문수 후보의 주장과 배치되는 증언을 확보했습니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://www.youtube.com/live/aHiSDXTXO9M</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/eVLKf</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["김문수가 우리 노조 이용하려"...'뜨락 회동' 추가 증언 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/109640679</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/109640679</guid>
-            <pubDate>Thu, 05 Jun 2025 08:30:38 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파는 김문수 전 후보와 손효숙 리박스쿨 대표가 친분이 깊다는 서울시 자유공무원 노조 김병수 위원장의 증언을 보도했습니다. 이들은 함께 만나 식사를 했으며, 그 자리에는 이희범 씨 등 또 다른 보수 단체 리더들이 동석했습니다. <br><br>그런데 김 위원장 말고 당시 점심 회동에 참석한 또 다른 인물(A씨)의 증언이 나왔습니다. 이에 더해 김병수 위원장은 점심 회동 당일에 자신이 사용한 신용카드 내역을 취재진에게 제공했습니다. 회동 당일, 자신의 동선을 증명할 수 있는 자료였습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/u7ZaPeVFIZo</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/tYMvl</span>]]></content:encoded>
+            <title><![CDATA[[기고]식당명 첫 글자만 공개하라는 판결, 부끄럽다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250619144629572</link>
+            <guid>https://v.daum.net/v/20250619144629572</guid>
+            <pubDate>Thu, 19 Jun 2025 06:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250619144629572" class="link_column" data-tiara-layer="[기고]식당명_첫_글자만_공개하라는_판결,_부끄럽다_alltab"><div class="cont_thumb"><strong class="tit_txt">[기고]식당명 첫 글자만 공개하라는 판결, 부끄럽다</strong><span class="info_txt"><span class="txt_info">46분 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[리박스쿨 협력단체 간부들이 '윤석열 백골단' 조직 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250618162502008</link>
             <guid>https://v.daum.net/v/20250618162502008</guid>
             <pubDate>Wed, 18 Jun 2025 08:30:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250618162502008" class="link_column" data-tiara-layer="리박스쿨_협력단체_간부들이_'윤석열_백골단'_조직_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨 협력단체 간부들이 '윤석열 백골단' 조직</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F18%2Fnewstapa%2F20250618162503951tiax.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250618162502008" class="link_column" data-tiara-layer="리박스쿨_협력단체_간부들이_'윤석열_백골단'_조직_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨 협력단체 간부들이 '윤석열 백골단' 조직</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F18%2Fnewstapa%2F20250618162503951tiax.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F18%2Fnewstapa%2F20250618162503951tiax.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3464,7 +3471,7 @@
             <link>https://v.daum.net/v/20250618155200286</link>
             <guid>https://v.daum.net/v/20250618155200286</guid>
             <pubDate>Wed, 18 Jun 2025 07:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250618155200286" class="link_column" data-tiara-layer="[현장에서]_'스모킹건'_김건희_육성,_검찰은_왜_이제야_내놨나?_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] '스모킹건' 김건희 육성, 검찰은 왜 이제야 내놨나?</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F18%2Fnewstapa%2F20250618155202045pcsw.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250618155200286" class="link_column" data-tiara-layer="[현장에서]_'스모킹건'_김건희_육성,_검찰은_왜_이제야_내놨나?_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] '스모킹건' 김건희 육성, 검찰은 왜 이제야 내놨나?</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F18%2Fnewstapa%2F20250618155202045pcsw.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F18%2Fnewstapa%2F20250618155202045pcsw.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3682,14 +3689,6 @@
             <pubDate>Sun, 01 Jun 2025 11:18:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250601200003141" class="link_column" data-tiara-layer="김문수_기독자유통일당_대표_때_'리박스쿨_4명'_총선_출마_alltab"><div class="cont_thumb"><strong class="tit_txt">김문수 기독자유통일당 대표 때 '리박스쿨 4명' 총선 출마</strong><span class="info_txt"><span class="txt_info">2025. 6. 1.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601200004867rbji.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F01%2Fnewstapa%2F20250601200004867rbji.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA['댓글공작' 리박스쿨, 김문수 후보와 2018년부터 인연 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250531221503462</link>
-            <guid>https://v.daum.net/v/20250531221503462</guid>
-            <pubDate>Sat, 31 May 2025 13:31:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250531221503462" class="link_column" data-tiara-layer="'댓글공작'_리박스쿨,_김문수_후보와_2018년부터_인연_alltab"><div class="cont_thumb"><strong class="tit_txt">'댓글공작' 리박스쿨, 김문수 후보와 2018년부터 인연</strong><span class="info_txt"><span class="txt_info">2025. 5. 31.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F31%2Fnewstapa%2F20250531221504916xxby.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202505%2F31%2Fnewstapa%2F20250531221504916xxby.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
