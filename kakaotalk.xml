@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-06-23T05:25:45.332Z</updated>
+    <updated>2025-06-23T06:34:35.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/5b2879d/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[KINN] 미완의 법원개혁: 사법농단이 만든 ‘파동’ 그 이후]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/109812979</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/109812979"/>
+        <updated>2025-06-23T06:34:25.737Z</updated>
+        <content type="html"><![CDATA[지난 2022년 대선에서 ‘사법행정제도 개혁’은 중요한 화두 중 하나였습니다. <br><br>2017년 ‘사법농단’ 사태 이후 사법행정 개혁을 두고 여러 논의와 시도가 있었지만, 법원 안팎의 영향에 취약한 구조를 바꾸지는 못했습니다. 윤석열 정부 3년을 지나면서는 ‘사법행정 개혁’이라는 의제가 완전히 사라졌습니다. 이번 대선에서도 사법행정제도 개편을 주요 공약으로 낸 후보자는 없었습니다.<br><br>공론화 과정을 거치며 국회와 법원, 시민사회 사이에 ‘폐쇄적인 사법행정 구조를 바꿔야 한다’는 공감대는 형성됐으나 법원은 바뀌지 않았습니다. 뉴스타파와 연대 협업하는 한국독립언론네트워크(KINN) 회원 언론사이자 사법취재전문매체인 코트워치가 그 이유를 분석해 [미완의 법원개혁] 시리즈로 보도합니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://c-watch.org/archives/4286</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미니 다큐] 한화오션 하청 노동자, 고공농성 97일 만에 땅으로]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/109796158</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/109681809"/>
         <updated>2025-06-10T08:30:37.211Z</updated>
         <content type="html"><![CDATA[뉴스타파는 오늘부터 이재명 정부 초대 내각에 대한 인사검증 결과를 공개합니다.<br><br>이재명 정부가 출범한 지 오늘로 딱 일주일 째, 인수위도 없이 출범한 새 정부 앞에 놓인 과제는 한둘이 아닙니다.&nbsp;망가진 민주주의를 복원하고 무너진 경제를 살려내야 합니다.&nbsp;새 정부의 성공에 대한민국의 미래가 걸려 있습니다.&nbsp;<br><br>이재명 정부 인사 검증에 언론이 나서야 하는 이유입니다. 언론이 견제와 감시 기능을 제대로 해내야 정부에 대한 국민들의 신뢰도 회복될 수 있습니다.<br><br>첫 번째 검증 대상은&nbsp;위성락 국가안보실장 일가의 부동산 투기 의혹입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtube.com/live/-mFtORM9Qoc?feature=share</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/uYiXy</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산 자산만 80억... 위성락 가족의 '부동산 투기' 의혹]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/109681800</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/109681800"/>
-        <updated>2025-06-10T08:30:37.213Z</updated>
-        <content type="html"><![CDATA[위성락 국가안보실장과 그의 가족이 서울과 수도권의 땅, 상가, 주택, 오피스텔을 문어발식으로 사들여 시세 차익과 임대 수익 등 '부동산 불로소득'을 20년 넘게 챙기고 있다는 사실이 뉴스타파 취재결과 확인됐습니다.<br><br>위 실장 일가가 이렇게 축적한 부동산 자산은 2025년 6월 기준 최소 80억 원대로 추산됩니다. <br><br>위 실장은 부동산 불로소득을 쌓으며 부를 증식한 의혹에 대해 '실거주하려고 했는데 여건이 되지 않았다'는 취지의 다소 궁색한 해명만을 내놓았습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/AD7y-M9xazU</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/co1pB</span>]]></content>
     </entry>
 </feed>
