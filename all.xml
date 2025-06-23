@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jun 2025 07:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 08:32:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김민석 후보 '의문의 현금' 최소 6억 6천만 원 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/x6etl</link>
+            <guid>http://newstapa.org/article/x6etl</guid>
+            <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김민석 후보 '의문의 현금' 최소 6억 6천만 원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/23172531-9984-6D08-A222-6LGTFVDX4MV92FFQ1INW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 미완의 법원개혁: 사법농단이 만든 ‘파동’ 그 이후 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/a5rji</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/11125213-8021-B4E2-176A-69XHOIPT0VT0HGSHBM76.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이한주 국정기획위원장, 어린이날 10대 두 아들에 부동산 선물 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/LCPOo</link>
-            <guid>http://newstapa.org/article/LCPOo</guid>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이한주 국정기획위원장, 어린이날 10대 두 아들에 부동산 선물]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/12150238-6FF9-2F9F-5E59-DWE0ZX3Z8NH6DS2I634W.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김민석 후보 '의문의 현금' 최소 6억 6천만 원 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/x6etl</link>
+            <guid>http://newstapa.org/article/x6etl</guid>
+            <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김민석 후보 '의문의 현금' 최소 6억 6천만 원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/23172531-9984-6D08-A222-6LGTFVDX4MV92FFQ1INW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[반론보도] <김장겸-명태균 카톡 공개...이재명 비난 영상 감탄하며 "죽이네요!"> 관련 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[위성락 국가안보실장, 주러 대사 때 '서울 재건축 아파트' 매입]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/11102422-B477-E139-D3C0-CGHHXYNPA0VS0K3IF7MH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부동산 자산만 80억... 위성락 가족의 '부동산 투기' 의혹 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/co1pB</link>
-            <guid>http://newstapa.org/article/co1pB</guid>
-            <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[부동산 자산만 80억... 위성락 가족의 '부동산 투기' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/11102439-0A56-2514-D16B-P2ANCMGZ897J116VBT95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KINN] 미완의 법원개혁: 사법농단이 만든 ‘파동’ 그 이후 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3456,7 +3456,7 @@
             <link>https://v.daum.net/v/20250623143127780</link>
             <guid>https://v.daum.net/v/20250623143127780</guid>
             <pubDate>Mon, 23 Jun 2025 06:34:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250623143127780" class="link_column" data-tiara-layer="[KINN]_미완의_법원개혁:_사법농단이_만든_‘파동’_그_이후_alltab"><div class="cont_thumb"><strong class="tit_txt">[KINN] 미완의 법원개혁: 사법농단이 만든 ‘파동’ 그 이후</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F23%2Fnewstapa%2F20250623143128349zeti.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250623143127780" class="link_column" data-tiara-layer="[KINN]_미완의_법원개혁:_사법농단이_만든_‘파동’_그_이후_alltab"><div class="cont_thumb"><strong class="tit_txt">[KINN] 미완의 법원개혁: 사법농단이 만든 ‘파동’ 그 이후</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F23%2Fnewstapa%2F20250623143128349zeti.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F23%2Fnewstapa%2F20250623143128349zeti.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3464,7 +3464,7 @@
             <link>https://v.daum.net/v/20250623135628142</link>
             <guid>https://v.daum.net/v/20250623135628142</guid>
             <pubDate>Mon, 23 Jun 2025 05:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250623135628142" class="link_column" data-tiara-layer="[반론보도]_<김장겸-명태균_카톡_공개...이재명_비난_영상_감탄하며_&quot;죽이네요!&quot;>_관련_alltab"><div class="cont_thumb"><strong class="tit_txt">[반론보도] &lt;김장겸-명태균 카톡 공개...이재명 비난 영상 감탄하며 "죽이네요!"&gt; 관련</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250623135628142" class="link_column" data-tiara-layer="[반론보도]_<김장겸-명태균_카톡_공개...이재명_비난_영상_감탄하며_&quot;죽이네요!&quot;>_관련_alltab"><div class="cont_thumb"><strong class="tit_txt">[반론보도] &lt;김장겸-명태균 카톡 공개...이재명 비난 영상 감탄하며 "죽이네요!"&gt; 관련</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[미니 다큐]한화오션 하청 노동자, 고공농성 97일 만에 땅으로 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3479,7 +3479,7 @@
             <link>https://v.daum.net/v/20250620170720303</link>
             <guid>https://v.daum.net/v/20250620170720303</guid>
             <pubDate>Fri, 20 Jun 2025 08:30:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250620170720303" class="link_column" data-tiara-layer="[주간_뉴스타파]_김용현_'낙하산'에_멍든_K방산_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 김용현 '낙하산'에 멍든 K방산</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F20%2Fnewstapa%2F20250620170723963ocem.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250620170720303" class="link_column" data-tiara-layer="[주간_뉴스타파]_김용현_'낙하산'에_멍든_K방산_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 김용현 '낙하산'에 멍든 K방산</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F20%2Fnewstapa%2F20250620170723963ocem.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F20%2Fnewstapa%2F20250620170723963ocem.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3487,7 +3487,7 @@
             <link>https://v.daum.net/v/20250620170712294</link>
             <guid>https://v.daum.net/v/20250620170712294</guid>
             <pubDate>Fri, 20 Jun 2025 08:30:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250620170712294" class="link_column" data-tiara-layer="TV조선으로_간_KAI_사장...'특혜_기사'_무마한_정황_alltab"><div class="cont_thumb"><strong class="tit_txt">TV조선으로 간 KAI 사장...'특혜 기사' 무마한 정황</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F20%2Fnewstapa%2F20250620170720540ygfz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250620170712294" class="link_column" data-tiara-layer="TV조선으로_간_KAI_사장...'특혜_기사'_무마한_정황_alltab"><div class="cont_thumb"><strong class="tit_txt">TV조선으로 간 KAI 사장...'특혜 기사' 무마한 정황</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F20%2Fnewstapa%2F20250620170720540ygfz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F20%2Fnewstapa%2F20250620170720540ygfz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3495,7 +3495,7 @@
             <link>https://v.daum.net/v/20250620170201098</link>
             <guid>https://v.daum.net/v/20250620170201098</guid>
             <pubDate>Fri, 20 Jun 2025 08:30:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250620170201098" class="link_column" data-tiara-layer="한국항공우주산업(KAI),_'빨갱이_색출'_명목_1천억대_사업_중단_alltab"><div class="cont_thumb"><strong class="tit_txt">한국항공우주산업(KAI), '빨갱이 색출' 명목 1천억대 사업 중단</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F20%2Fnewstapa%2F20250620170206713iezb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250620170201098" class="link_column" data-tiara-layer="한국항공우주산업(KAI),_'빨갱이_색출'_명목_1천억대_사업_중단_alltab"><div class="cont_thumb"><strong class="tit_txt">한국항공우주산업(KAI), '빨갱이 색출' 명목 1천억대 사업 중단</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F20%2Fnewstapa%2F20250620170206713iezb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F20%2Fnewstapa%2F20250620170206713iezb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3518,7 +3518,7 @@
             <link>https://v.daum.net/v/20250618162502008</link>
             <guid>https://v.daum.net/v/20250618162502008</guid>
             <pubDate>Wed, 18 Jun 2025 08:30:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250618162502008" class="link_column" data-tiara-layer="리박스쿨_협력단체_간부들이_'윤석열_백골단'_조직_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨 협력단체 간부들이 '윤석열 백골단' 조직</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F18%2Fnewstapa%2F20250618162503951tiax.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250618162502008" class="link_column" data-tiara-layer="리박스쿨_협력단체_간부들이_'윤석열_백골단'_조직_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨 협력단체 간부들이 '윤석열 백골단' 조직</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F18%2Fnewstapa%2F20250618162503951tiax.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F18%2Fnewstapa%2F20250618162503951tiax.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
