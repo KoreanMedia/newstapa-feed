@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-06-25T08:32:28.642Z</updated>
+    <updated>2025-06-25T09:27:51.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/9ebc02b/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] 내란 핵심 증거 CCTV 비공개하는 국회]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/109842049</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/109842049"/>
+        <updated>2025-06-25T09:27:41.196Z</updated>
+        <content type="html"><![CDATA[국회 사무처는 국회의 CCTV를 관할합니다. 뉴스타파는 12.3 비상계엄을 취재하던 과정에서 국회 사무처에 계엄 당일 CCTV를 공개해달라고 정보공개청구를 했습니다. 하지만 비공개 처분이 났고 이의신청까지 했지만 최종 기각됐습니다. 비상계엄 하루 뒤 국회 사무총장이 나와 “CCTV 전체를 공개하겠다”고 말하던 모습과 대조하면, 당혹스러운 조치입니다.  <br><br>강혜인 기자가 12.3 비상계엄을 취재하며 마주한 이 아이러니한 장면을 [현장에서]로 적었습니다. 결국, 내란 특검이 아직까지 공개되지 않은 국회 CCTV를 확보해야 한다는 이야기입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/Lx617</span><br>👉 뉴스타파는 광고와 협찬 없이 회원들의 후원금으로만 운영됩니다. 뉴스타파에 힘을 보태주세요 : <span class="link_url">https://newstapa.org/donate</span><br>🌏 해외에서는 Paypal을 통해 후원하실 수 있습니다. Paypal 후원 링크 : <span class="link_url">https://url.kr/7n3hfe</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한국전쟁 75년] 미공개 포로 영상...'포로와 판문점' 화보집 공개]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/109837947</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/109767720"/>
         <updated>2025-06-18T08:30:33.217Z</updated>
         <content type="html"><![CDATA[지난 1월, 윤석열 체포를 막겠다며 국회 소통관에 등장한 일명 ‘백골단’ 멤버 중 최소 2명이 리박스쿨 협력 단체 간부인 것으로 확인됐습니다.<br><br>백골단을 만든 사람은 리박스쿨과 '자손군'을 공동 운영하는 '트루스코리아'의 공동대표였습니다. 또 백골단 멤버 중에는 리박스쿨 연관 단체인 '우남네트워크'의 사무총장도 포함됐습니다.<br><br>이날 백골단 국회 기자회견은 김민전 국민의힘 의원의 주도로 이뤄졌습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/AytTB</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서] '스모킹건' 김건희 육성, 검찰은 왜 이제야 내놨나?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/109767036</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/109767036"/>
-        <updated>2025-06-18T07:22:52.690Z</updated>
-        <content type="html"><![CDATA[검찰이 김건희의 주가조작 사전 인지를 입증할 ‘스모킹건’을 새로 입수했다는 검찰발 뉴스가 어제 오늘 언론 지면을 뒤덮었습니다. 그 ‘스모킹건’은 미래에셋 증권사 직원과 김건희 사이의 통화 녹음 파일이라고 합니다. 그런데 검찰은 정말로 이 ‘스모킹건’을 이제야 입수한 걸까요? <br><br>뉴스타파가 입수한 검찰 수사기록 목록에 따르면 검찰은 이미 2021년에 미래에셋 증권사 직원의 매매 통화 녹음 파일을 확보하고 있던 것으로 확인됐습니다. 검찰이 4년 동안 ‘스모킹건’을 숨겨오다 특검이 출범하자 서둘러 공개한 것은 아닌지 강하게 의심되는 정황입니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/SWarI</span>]]></content>
     </entry>
 </feed>
