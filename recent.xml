@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jun 2025 07:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 08:31:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 세력의 '친일 교과서' 프로젝트]]></title>
+            <link>http://newstapa.org/article/ufUfQ</link>
+            <guid>http://newstapa.org/article/ufUfQ</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 세력의 '친일 교과서' 프로젝트]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26163417-2FEE-B8DB-93A4-8TSX1XEAM6STAPZSGMCJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['일제 미화' 검정교과서 제작 문건 입수...대한교조 참여 확인]]></title>
+            <link>http://newstapa.org/article/mVPaS</link>
+            <guid>http://newstapa.org/article/mVPaS</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['일제 미화' 검정교과서 제작 문건 입수...대한교조 참여 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26165110-A152-79FC-AEF4-AHY7HLDZWIVZYFG3HNQX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 정부 역사기관장이 쓴 ‘일제 미화’ 교과서 원고 공개]]></title>
+            <link>http://newstapa.org/article/Rhj-j</link>
+            <guid>http://newstapa.org/article/Rhj-j</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤 정부 역사기관장이 쓴 ‘일제 미화’ 교과서 원고 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26163553-93EB-BD80-36D5-BZVB3UHB7LC9QEI1IDO2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[무엇을 할 것인가 : 검찰] 검찰과 거래하면 안 된다]]></title>
             <link>http://newstapa.org/article/HcCFT</link>
@@ -110,30 +134,6 @@
             <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[미니 다큐]한화오션 하청 노동자, 고공농성 97일 만에 땅으로]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/20184038-1147-290F-42AA-SOTK9OYU4YWHFI5E8Z5H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 김용현 '낙하산'에 멍든 K방산]]></title>
-            <link>http://newstapa.org/article/moDwZ</link>
-            <guid>http://newstapa.org/article/moDwZ</guid>
-            <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 김용현 '낙하산'에 멍든 K방산]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/20154406-1205-8207-2330-N9QP8HGM87S7N8ZH0BXX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TV조선으로 간 KAI 사장...'특혜 기사' 무마한 정황]]></title>
-            <link>http://newstapa.org/article/-sSnY</link>
-            <guid>http://newstapa.org/article/-sSnY</guid>
-            <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[TV조선으로 간 KAI 사장...'특혜 기사' 무마한 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/20164441-B7BD-8540-96C4-NET2X2UQB5NXDHXJG3XG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국항공우주산업(KAI), '빨갱이 색출' 명목 1천억대 사업 중단]]></title>
-            <link>http://newstapa.org/article/z_QBG</link>
-            <guid>http://newstapa.org/article/z_QBG</guid>
-            <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국항공우주산업(KAI), '빨갱이 색출' 명목 1천억대 사업 중단]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/20164516-BB4A-46BC-1237-B289HEOJSB8STWQRKVWW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

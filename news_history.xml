@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jun 2025 07:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 08:31:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['일제 미화' 검정교과서 제작 문건 입수...대한교조 참여 확인]]></title>
+            <link>http://newstapa.org/article/mVPaS</link>
+            <guid>http://newstapa.org/article/mVPaS</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['일제 미화' 검정교과서 제작 문건 입수...대한교조 참여 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26165110-A152-79FC-AEF4-AHY7HLDZWIVZYFG3HNQX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 정부 역사기관장이 쓴 ‘일제 미화’ 교과서 원고 공개]]></title>
+            <link>http://newstapa.org/article/Rhj-j</link>
+            <guid>http://newstapa.org/article/Rhj-j</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤 정부 역사기관장이 쓴 ‘일제 미화’ 교과서 원고 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26163553-93EB-BD80-36D5-BZVB3UHB7LC9QEI1IDO2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[한국전쟁 75년] 미공개 포로 영상...'포로와 판문점' 화보집 공개]]></title>
             <link>http://newstapa.org/article/WbfXH</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[난중칼럼] 검찰은 '윤석열 내란' 수사에서 손을 떼라]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06202457-A96D-CFBD-CDC7-SKTLU4DIN3OIYRSS0K8I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열의 내란] 뉴스타파, 윤석열 내란 관련 국무회의 회의록 정보공개청구]]></title>
-            <link>http://newstapa.org/article/CyS4j</link>
-            <guid>http://newstapa.org/article/CyS4j</guid>
-            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열의 내란] 뉴스타파, 윤석열 내란 관련 국무회의 회의록 정보공개청구]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06134922-E99E-E70F-9EE4-JV4SDP03E3PERYQDNCW6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열의 내란] 12·3 계엄 국무회의 기록을 공개하라]]></title>
-            <link>http://newstapa.org/article/lyKlb</link>
-            <guid>http://newstapa.org/article/lyKlb</guid>
-            <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열의 내란] 12·3 계엄 국무회의 기록을 공개하라]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05175415-1654-ACE3-EB32-EN8Y9OGT1AKTRAE4OICL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
