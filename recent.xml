@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jun 2025 06:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jun 2025 07:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['1인 5역' 리박스쿨 간부는 국정원 외곽단체 '노노데모' 출신]]></title>
+            <link>http://newstapa.org/article/yRzz-</link>
+            <guid>http://newstapa.org/article/yRzz-</guid>
+            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['1인 5역' 리박스쿨 간부는 국정원 외곽단체 '노노데모' 출신]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/27155620-2F2C-59BF-4302-QZA7KNKSW6ZRLJVAZ2J4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 정부 곳곳에 '리박 라인'…교육부 이어 국방부·경사노위까지]]></title>
             <link>http://newstapa.org/article/vRDtV</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김민석 후보 '의문의 현금' 최소 6억 6천만 원]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/23172531-9984-6D08-A222-6LGTFVDX4MV92FFQ1INW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 미완의 법원개혁: 사법농단이 만든 ‘파동’ 그 이후]]></title>
-            <link>http://newstapa.org/article/a5rji</link>
-            <guid>http://newstapa.org/article/a5rji</guid>
-            <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 미완의 법원개혁: 사법농단이 만든 ‘파동’ 그 이후]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/23140651-F716-B14E-7A6B-HP0PG91PR7SZTW2FY88H.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
