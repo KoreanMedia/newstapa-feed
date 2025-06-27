@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jun 2025 09:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jun 2025 10:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리박스쿨-조정훈, 국회에서 '급식노조' 탄압안 논의]]></title>
+            <link>http://newstapa.org/article/fgx7q</link>
+            <guid>http://newstapa.org/article/fgx7q</guid>
+            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리박스쿨-조정훈, 국회에서 '급식노조' 탄압안 논의]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/27184240-212D-3E37-7DD2-LJV3970FHVM5K5FKNH7C.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 정부 곳곳에 '리박 라인'…교육부 이어 국방부·경사노위까지]]></title>
             <link>http://newstapa.org/article/vRDtV</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령기록물 이관 건수 ‘뻥튀기’ 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/12183114-1657-CE09-BD38-SI55WI3WRK65ZR7YQB7L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 이한주 국정기획위원장 부부 '30년 부동산 투기' 의혹]]></title>
-            <link>http://newstapa.org/article/woJ1w</link>
-            <guid>http://newstapa.org/article/woJ1w</guid>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 이한주 국정기획위원장 부부 '30년 부동산 투기' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/12150251-DB3B-4D84-9305-T23IOJRU565E75L3BXMQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
