@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jun 2025 07:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jun 2025 08:31:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] 리박스쿨과 친일교과서, 윤 정부의 교육 장악 멀티버스]]></title>
+            <link>http://newstapa.org/article/1N1rM</link>
+            <guid>http://newstapa.org/article/1N1rM</guid>
+            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 리박스쿨과 친일교과서, 윤 정부의 교육 장악 멀티버스]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/30150619-5A99-5D47-A998-EIN0GSCQZ679M8KHYPEX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<당신이 보지 못한 한국전쟁> 3부작 완결편 “포로와 판문점” 출판]]></title>
+            <link>http://newstapa.org/article/ttp2f</link>
+            <guid>http://newstapa.org/article/ttp2f</guid>
+            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;당신이 보지 못한 한국전쟁&gt; 3부작 완결편 “포로와 판문점” 출판]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/30165932-E37C-8B01-76F5-FLTJGMHDK8ZLISRBV2CX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['일제 미화' 검정교과서 제작 문건 입수...대한교조 참여 확인]]></title>
             <link>http://newstapa.org/article/mVPaS</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[장윤환 최후진술 “어떠한 자유도 하늘에서 저절로 떨어지는 것은 아닙니다.”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/18144258-616D-4E77-2F44-TJ172GE1T74V9XH0NW2Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가기록원, 12·3 내란 기록물 폐기 금지 결정... 만시지탄]]></title>
-            <link>http://newstapa.org/article/XwGNo</link>
-            <guid>http://newstapa.org/article/XwGNo</guid>
-            <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국가기록원, 12·3 내란 기록물 폐기 금지 결정... 만시지탄]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/15162723-D65A-487E-1EF6-74B56STNDVHN4YICLXWI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[난중칼럼] 검찰은 '윤석열 내란' 수사에서 손을 떼라]]></title>
-            <link>http://newstapa.org/article/GKHlt</link>
-            <guid>http://newstapa.org/article/GKHlt</guid>
-            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[난중칼럼] 검찰은 '윤석열 내란' 수사에서 손을 떼라]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06202457-A96D-CFBD-CDC7-SKTLU4DIN3OIYRSS0K8I.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

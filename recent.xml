@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jun 2025 07:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jun 2025 08:31:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] 리박스쿨과 친일교과서, 윤 정부의 교육 장악 멀티버스]]></title>
+            <link>http://newstapa.org/article/1N1rM</link>
+            <guid>http://newstapa.org/article/1N1rM</guid>
+            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 리박스쿨과 친일교과서, 윤 정부의 교육 장악 멀티버스]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/30150619-5A99-5D47-A998-EIN0GSCQZ679M8KHYPEX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<당신이 보지 못한 한국전쟁> 3부작 완결편 “포로와 판문점” 출판]]></title>
+            <link>http://newstapa.org/article/ttp2f</link>
+            <guid>http://newstapa.org/article/ttp2f</guid>
+            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;당신이 보지 못한 한국전쟁&gt; 3부작 완결편 “포로와 판문점” 출판]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/30165932-E37C-8B01-76F5-FLTJGMHDK8ZLISRBV2CX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[무엇을 할 것인가 : 경제] 기울어진 기틀에 바로 서는 경제는 없다]]></title>
             <link>http://newstapa.org/article/ciZrs</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[팔레스타인 리포트 ③이스라엘-하마스 전쟁의 이면… 팔레스타인의 인도적 상황을 전한다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/24154749-CCED-41F3-DE76-D1B1V4CTOA7GSFCIDGUB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국회로 간 10만 댓글부대... 윤상현 의원이 불렀다]]></title>
-            <link>http://newstapa.org/article/RHaeV</link>
-            <guid>http://newstapa.org/article/RHaeV</guid>
-            <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국회로 간 10만 댓글부대... 윤상현 의원이 불렀다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/20171748-1CCD-4E4D-FB21-DNIM4CJMF9B1GU5H2KCG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 국힘의 수사 방해와 조은석의 ‘수사 감각’]]></title>
-            <link>http://newstapa.org/article/ZtAkV</link>
-            <guid>http://newstapa.org/article/ZtAkV</guid>
-            <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 국힘의 수사 방해와 조은석의 ‘수사 감각’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/25105554-99F7-72C9-EC14-JEZ48882MMBULZCA000U.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
