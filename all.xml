@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Jul 2025 08:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jul 2025 09:26:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팔레스타인 리포트 ④파괴와 강제이주로 얼룩진 제닌 난민캠프 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/BbBeu</link>
+            <guid>http://newstapa.org/article/BbBeu</guid>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팔레스타인 리포트 ④파괴와 강제이주로 얼룩진 제닌 난민캠프]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/01143751-C9C3-C1D6-0702-EUJNHEO53ZJJXD0W29OY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KAI 수상한 녹음파일... '비리 척결'한다더니 '진술 회유' (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/-9LZW</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[팔레스타인 리포트 ①이스라엘과 팔레스타인, 끝나지 않는 분쟁]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/24171002-B847-7ABB-7570-RKZCSRQ49N1ARSKYUR1A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔레스타인 리포트 ②팔레스타인의 언론자유 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/c54jJ</link>
-            <guid>http://newstapa.org/article/c54jJ</guid>
-            <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[팔레스타인 리포트 ②팔레스타인의 언론자유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/24154007-C45D-7357-E50F-WAE34YOJYZ8FL6BJ7K4A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KAI 수상한 녹음파일... '비리 척결'한다더니 '진술 회유' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1800,6 +1800,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/07175836-118A-B9B9-1B13-HEOAL32YXU89188LP68V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[팔레스타인 리포트 ④파괴와 강제이주로 얼룩진 제닌 난민캠프 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
+            <link>http://newstapa.org/article/BbBeu</link>
+            <guid>http://newstapa.org/article/BbBeu</guid>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팔레스타인 리포트 ④파괴와 강제이주로 얼룩진 제닌 난민캠프]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/01143751-C9C3-C1D6-0702-EUJNHEO53ZJJXD0W29OY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[팔레스타인 리포트 ①이스라엘과 팔레스타인, 끝나지 않는 분쟁 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
             <link>http://newstapa.org/article/Kbd1Z</link>
             <guid>http://newstapa.org/article/Kbd1Z</guid>
@@ -1918,14 +1926,6 @@
             <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[삼성 내부자가 베트남 휴대폰 공장의 독성 물질 배출을 고발하다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/09150430-64FD-ABFF-663F-O147DSRWQQSM372M8M4A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외입양과 돈]⑦20만평 캠핑장을 낳은 해외입양 사업 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
-            <link>http://newstapa.org/article/CO_Qd</link>
-            <guid>http://newstapa.org/article/CO_Qd</guid>
-            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해외입양과 돈]⑦20만평 캠핑장을 낳은 해외입양 사업]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/22170711-2A21-0BB2-F190-RND77RZ0TP18X543UG10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['1인 5역' 리박스쿨 간부는 국정원 외곽단체 '노노데모' 출신 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
@@ -3312,6 +3312,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[팔레스타인 리포트 ④ 파괴와 강제이주로 얼룩진 제닌 난민캠프 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/109910480</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/109910480</guid>
+            <pubDate>Tue, 01 Jul 2025 09:26:40 GMT</pubDate>
+            <content:encoded><![CDATA[분쟁지역 인권단체 아디가 전해온 ‘스피크업’ 프로젝트, 두 번째 결과물입니다. 지난 주에 이어 팔레스타인 여성 예비언론인들이 직접 현지 소식을 전해드립니다.<br><br>이들 예비언론인은 첫 취재 현장으로 서안지구 북부에 위치한 제닌 난민 캠프를 찾았습니다. 제닌 난민 캠프는 1948년 이스라엘 건국과 함께 원래 살던 지역에서 쫓겨난 팔레스타인인들을 수용할 목적으로 설립됐습니다.<br><br>이곳 주민들은 2023년 10월 7일 하마스와 이스라엘의 전쟁이 시작되면서 다시 한 번 강제이주 대상이 됐습니다. 이스라엘 군이 난민 캠프 내에 하마스 일당이 숨어있다는 이유로 군사 작전을 개시했기 때문입니다. 그 결과, 수십 채의 주택이 파괴되고 상수도, 전략망 등 사회 기반 시설이 손상됐습니다. <br><br>주민들은 현재 인근 임시 대피소에 흩어져 열악한 환경 속에서 생활하고 있습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/jRHySEhlTUU</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/BbBeu</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뉴스타파 '리박스쿨' 취재팀, 제200회 이달의 방송기자상 수상 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/109903277</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/109903277</guid>
@@ -3445,18 +3452,19 @@
             <content:encoded><![CDATA[뉴스타파는 댓글공작팀 자손군을 운영한 리박스쿨과 국민의힘 의원들이 협력한 정황을 보도하고 있습니다. <br><br>대선 기간, 조정훈 의원이 리박스쿨 측과 국회 기자회견을 열었고, 지난 1월에는 김민전 의원이 국회에 불러 소개한 백골단이 리박스쿨 관련 단체 간부들이었습니다.<br><br>이번엔 윤상현 의원이 리박스쿨과 ‘자손군’을 공동운영한 트루스코리아 대표가 국회에서 기자회견을 열도록 주선해준 사실이 드러났습니다.<br><br>이들은 3월 12일, 국회 소통관에서 ‘윤석열 탄핵 반대 시국선언’ 기자회견을 열었습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/5eh2MkMejnE</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/RHaeV</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[현장에서] 국힘의 수사 방해와 조은석의 ‘수사 감각’ (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/109822554</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/109822554</guid>
-            <pubDate>Tue, 01 Jul 2025 06:34:10 GMT</pubDate>
-            <content:encoded><![CDATA[12·3 내란 사건을 수사할 조은석 특별검사팀이 진용을 갖추고 있습니다. 내란 특검의 수사 대상은 내란과 외환, 사후 은폐 의혹 등 11개에 이릅니다. 조은석 특검은 “사초를 쓰는 자세로 세심하게 살펴가며 오로지 수사논리에 따라 특별검사의 직을 수행하겠다”는 각오를 밝히기도 했죠.<br><br>조 특검은 검찰 특수부 출신의 법조인으로 정치적 편향 시비와는 상대적으로 거리가 멀다는 평가를 받고 있습니다. 오히려 그는 윤석열 전 대통령처럼 검사로 재직할 당시 정치인을 비롯한 권력층과 수차례 갈등을 빚거나 충돌해 온 것으로 보입니다. <br><br>조 특검이 법무연수원장 시절 저술한 &lt;수사감각&gt;이라는 책에는 그가 정치인 수사 과정에서 겪은 상부의 외압과 수사 방해 정황이 적혀 있습니다. 앞으로 조 특검이 권력층의 수사 방해 시도를 어떻게 돌파할 것인지 조 특검이 쓴 책을 통해 살펴봤습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/ZtAkV</span>]]></content:encoded>
+            <title><![CDATA[팔레스타인 리포트 ④파괴와 강제이주로 얼룩진 제닌 난민캠프 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250701180625438</link>
+            <guid>https://v.daum.net/v/20250701180625438</guid>
+            <pubDate>Tue, 01 Jul 2025 09:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250701180625438" class="link_column" data-tiara-layer="팔레스타인_리포트_④파괴와_강제이주로_얼룩진_제닌_난민캠프_alltab"><div class="cont_thumb"><strong class="tit_txt">팔레스타인 리포트 ④파괴와 강제이주로 얼룩진 제닌 난민캠프</strong><span class="info_txt"><span class="txt_info">20분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F01%2Fnewstapa%2F20250701180631174yksv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F01%2Fnewstapa%2F20250701180631174yksv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[KAI 수상한 녹음파일... '비리 척결'한다더니 '진술 회유' (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250630173624181</link>
             <guid>https://v.daum.net/v/20250630173624181</guid>
             <pubDate>Mon, 30 Jun 2025 09:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250630173624181" class="link_column" data-tiara-layer="KAI_수상한_녹음파일..._'비리_척결'한다더니_'진술_회유'_alltab"><div class="cont_thumb"><strong class="tit_txt">KAI 수상한 녹음파일... '비리 척결'한다더니 '진술 회유'</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F30%2Fnewstapa%2F20250630173627095vgjr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250630173624181" class="link_column" data-tiara-layer="KAI_수상한_녹음파일..._'비리_척결'한다더니_'진술_회유'_alltab"><div class="cont_thumb"><strong class="tit_txt">KAI 수상한 녹음파일... '비리 척결'한다더니 '진술 회유'</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F30%2Fnewstapa%2F20250630173627095vgjr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F30%2Fnewstapa%2F20250630173627095vgjr.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3512,7 +3520,7 @@
             <link>https://v.daum.net/v/20250626181643626</link>
             <guid>https://v.daum.net/v/20250626181643626</guid>
             <pubDate>Thu, 26 Jun 2025 09:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250626181643626" class="link_column" data-tiara-layer="윤석열_정부_곳곳에_'리박_라인'…교육부_이어_국방부·경사노위까지_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 정부 곳곳에 '리박 라인'…교육부 이어 국방부·경사노위까지</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F26%2Fnewstapa%2F20250626181644434bkcs.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250626181643626" class="link_column" data-tiara-layer="윤석열_정부_곳곳에_'리박_라인'…교육부_이어_국방부·경사노위까지_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 정부 곳곳에 '리박 라인'…교육부 이어 국방부·경사노위까지</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F26%2Fnewstapa%2F20250626181644434bkcs.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F26%2Fnewstapa%2F20250626181644434bkcs.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3552,7 +3560,7 @@
             <link>https://v.daum.net/v/20250625181123969</link>
             <guid>https://v.daum.net/v/20250625181123969</guid>
             <pubDate>Wed, 25 Jun 2025 09:27:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250625181123969" class="link_column" data-tiara-layer="[현장에서]_내란_핵심_증거_CCTV_비공개하는_국회_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 내란 핵심 증거 CCTV 비공개하는 국회</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F25%2Fnewstapa%2F20250625181124678etjk.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250625181123969" class="link_column" data-tiara-layer="[현장에서]_내란_핵심_증거_CCTV_비공개하는_국회_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 내란 핵심 증거 CCTV 비공개하는 국회</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F25%2Fnewstapa%2F20250625181124678etjk.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F25%2Fnewstapa%2F20250625181124678etjk.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3568,7 +3576,7 @@
             <link>https://v.daum.net/v/20250624182632714</link>
             <guid>https://v.daum.net/v/20250624182632714</guid>
             <pubDate>Tue, 24 Jun 2025 10:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250624182632714" class="link_column" data-tiara-layer="팔레스타인_리포트_①이스라엘과_팔레스타인,_끝나지_않는_분쟁_alltab"><div class="cont_thumb"><strong class="tit_txt">팔레스타인 리포트 ①이스라엘과 팔레스타인, 끝나지 않는 분쟁</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F24%2Fnewstapa%2F20250624182635983bltn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250624182632714" class="link_column" data-tiara-layer="팔레스타인_리포트_①이스라엘과_팔레스타인,_끝나지_않는_분쟁_alltab"><div class="cont_thumb"><strong class="tit_txt">팔레스타인 리포트 ①이스라엘과 팔레스타인, 끝나지 않는 분쟁</strong><span class="info_txt"><span class="txt_info">2025. 6. 24.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F24%2Fnewstapa%2F20250624182635983bltn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F24%2Fnewstapa%2F20250624182635983bltn.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3576,7 +3584,7 @@
             <link>https://v.daum.net/v/20250624182628709</link>
             <guid>https://v.daum.net/v/20250624182628709</guid>
             <pubDate>Tue, 24 Jun 2025 10:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250624182628709" class="link_column" data-tiara-layer="팔레스타인_리포트_②팔레스타인의_언론자유_alltab"><div class="cont_thumb"><strong class="tit_txt">팔레스타인 리포트 ②팔레스타인의 언론자유</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F24%2Fnewstapa%2F20250624182631921ybva.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250624182628709" class="link_column" data-tiara-layer="팔레스타인_리포트_②팔레스타인의_언론자유_alltab"><div class="cont_thumb"><strong class="tit_txt">팔레스타인 리포트 ②팔레스타인의 언론자유</strong><span class="info_txt"><span class="txt_info">2025. 6. 24.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F24%2Fnewstapa%2F20250624182631921ybva.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F24%2Fnewstapa%2F20250624182631921ybva.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3584,7 +3592,7 @@
             <link>https://v.daum.net/v/20250624182624706</link>
             <guid>https://v.daum.net/v/20250624182624706</guid>
             <pubDate>Tue, 24 Jun 2025 10:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250624182624706" class="link_column" data-tiara-layer="팔레스타인_리포트_③이스라엘-하마스_전쟁의_이면…_팔레스타인의_인도적_상황을_전한다_alltab"><div class="cont_thumb"><strong class="tit_txt">팔레스타인 리포트 ③이스라엘-하마스 전쟁의 이면… 팔레스타인의 인도적 상황을 전한다</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F24%2Fnewstapa%2F20250624182627963hyes.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250624182624706" class="link_column" data-tiara-layer="팔레스타인_리포트_③이스라엘-하마스_전쟁의_이면…_팔레스타인의_인도적_상황을_전한다_alltab"><div class="cont_thumb"><strong class="tit_txt">팔레스타인 리포트 ③이스라엘-하마스 전쟁의 이면… 팔레스타인의 인도적 상황을 전한다</strong><span class="info_txt"><span class="txt_info">2025. 6. 24.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F24%2Fnewstapa%2F20250624182627963hyes.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F24%2Fnewstapa%2F20250624182627963hyes.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3681,13 +3689,6 @@
             <pubDate>Fri, 20 Jun 2025 06:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250620150200768" class="link_column" data-tiara-layer="[영상_기고]_윤석열_대통령실_특활비_최종_승소!_자료는_없어?_alltab"><div class="cont_thumb"><strong class="tit_txt">[영상 기고] 윤석열 대통령실 특활비 최종 승소! 자료는 없어?</strong><span class="info_txt"><span class="txt_info">2025. 6. 20.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F20%2Fnewstapa%2F20250620150204718kzto.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F20%2Fnewstapa%2F20250620150204718kzto.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고]식당명 첫 글자만 공개하라는 판결, 부끄럽다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250619144629572</link>
-            <guid>https://v.daum.net/v/20250619144629572</guid>
-            <pubDate>Thu, 19 Jun 2025 06:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250619144629572" class="link_column" data-tiara-layer="[기고]식당명_첫_글자만_공개하라는_판결,_부끄럽다_alltab"><div class="cont_thumb"><strong class="tit_txt">[기고]식당명 첫 글자만 공개하라는 판결, 부끄럽다</strong><span class="info_txt"><span class="txt_info">2025. 6. 19.</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
