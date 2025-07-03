@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Jul 2025 07:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 08:30:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 12.3 내란의 마지막 퍼즐… 다시 쓰는 공소장]]></title>
+            <link>http://newstapa.org/article/EJ_aV</link>
+            <guid>http://newstapa.org/article/EJ_aV</guid>
+            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 12.3 내란의 마지막 퍼즐… 다시 쓰는 공소장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03163607-C0A1-3B8D-F02C-2MJ6COJK0AF0YBPWK1UH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤·김·노 세 사람이 흔든 나라, 그들이 답해야 할 질문들]]></title>
+            <link>http://newstapa.org/article/P_wFB</link>
+            <guid>http://newstapa.org/article/P_wFB</guid>
+            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤·김·노 세 사람이 흔든 나라, 그들이 답해야 할 질문들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03150709-58E0-4D30-15CA-R0IZX91GNFP4LHQN3CFQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팔레스타인 리포트 ⑤이스라엘 정착촌 우회도로 건설에 맞서는 나사르 집안의 투쟁]]></title>
             <link>http://newstapa.org/article/W83Ky</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['일제 미화' 검정교과서 제작 문건 입수...대한교조 참여 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26165110-A152-79FC-AEF4-AHY7HLDZWIVZYFG3HNQX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 정부 역사기관장이 쓴 ‘일제 미화’ 교과서 원고 공개]]></title>
-            <link>http://newstapa.org/article/Rhj-j</link>
-            <guid>http://newstapa.org/article/Rhj-j</guid>
-            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤 정부 역사기관장이 쓴 ‘일제 미화’ 교과서 원고 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26163553-93EB-BD80-36D5-BZVB3UHB7LC9QEI1IDO2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무엇을 할 것인가 : 검찰] 검찰과 거래하면 안 된다]]></title>
-            <link>http://newstapa.org/article/HcCFT</link>
-            <guid>http://newstapa.org/article/HcCFT</guid>
-            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[무엇을 할 것인가 : 검찰] 검찰과 거래하면 안 된다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/25180004-B075-9D33-003E-AHAR627MN5W4OBXXS4LX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

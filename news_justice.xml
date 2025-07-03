@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Jul 2025 07:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 08:30:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 12.3 내란의 마지막 퍼즐… 다시 쓰는 공소장]]></title>
+            <link>http://newstapa.org/article/EJ_aV</link>
+            <guid>http://newstapa.org/article/EJ_aV</guid>
+            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 12.3 내란의 마지막 퍼즐… 다시 쓰는 공소장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03163607-C0A1-3B8D-F02C-2MJ6COJK0AF0YBPWK1UH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤·김·노 세 사람이 흔든 나라, 그들이 답해야 할 질문들]]></title>
+            <link>http://newstapa.org/article/P_wFB</link>
+            <guid>http://newstapa.org/article/P_wFB</guid>
+            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤·김·노 세 사람이 흔든 나라, 그들이 답해야 할 질문들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03150709-58E0-4D30-15CA-R0IZX91GNFP4LHQN3CFQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[무엇을 할 것인가 : 검찰] 검찰과 거래하면 안 된다]]></title>
             <link>http://newstapa.org/article/HcCFT</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[다시 쓰는 공소장] 윤석열과 국무위원 '불법 회의'의 재구성]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23164840-B5D8-9A6C-FF70-I1D71XPDWBD4Z357MYIZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, “뉴스타파 영화 <압수수색> 상영 제지해 달라” 법원에 요청]]></title>
-            <link>http://newstapa.org/article/9_LpN</link>
-            <guid>http://newstapa.org/article/9_LpN</guid>
-            <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, “뉴스타파 영화 &lt;압수수색&gt; 상영 제지해 달라” 법원에 요청]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/09171629-F49D-51B7-A605-Z9EFS7FCCPXN8Y6TK0BQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[난중칼럼] 윤석열 파면에 부쳐 “이기는 역사를 완성하자”]]></title>
-            <link>http://newstapa.org/article/08GkV</link>
-            <guid>http://newstapa.org/article/08GkV</guid>
-            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[난중칼럼] 윤석열 파면에 부쳐 “이기는 역사를 완성하자”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/04183908-033E-1047-907C-HY1MEGC84AOOC81JERB1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Jul 2025 07:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 08:30:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 12.3 내란의 마지막 퍼즐… 다시 쓰는 공소장]]></title>
+            <link>http://newstapa.org/article/EJ_aV</link>
+            <guid>http://newstapa.org/article/EJ_aV</guid>
+            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 12.3 내란의 마지막 퍼즐… 다시 쓰는 공소장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03163607-C0A1-3B8D-F02C-2MJ6COJK0AF0YBPWK1UH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤·김·노 세 사람이 흔든 나라, 그들이 답해야 할 질문들]]></title>
+            <link>http://newstapa.org/article/P_wFB</link>
+            <guid>http://newstapa.org/article/P_wFB</guid>
+            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤·김·노 세 사람이 흔든 나라, 그들이 답해야 할 질문들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03150709-58E0-4D30-15CA-R0IZX91GNFP4LHQN3CFQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[무엇을 할 것인가 : 외교] 평화와 신냉전의 갈림길, 선택이 한반도 운명 가른다]]></title>
             <link>http://newstapa.org/article/lBZ88</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 김용현 '낙하산'에 멍든 K방산]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/20154406-1205-8207-2330-N9QP8HGM87S7N8ZH0BXX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TV조선으로 간 KAI 사장...'특혜 기사' 무마한 정황]]></title>
-            <link>http://newstapa.org/article/-sSnY</link>
-            <guid>http://newstapa.org/article/-sSnY</guid>
-            <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[TV조선으로 간 KAI 사장...'특혜 기사' 무마한 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/20164441-B7BD-8540-96C4-NET2X2UQB5NXDHXJG3XG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국항공우주산업(KAI), '빨갱이 색출' 명목 1천억대 사업 중단]]></title>
-            <link>http://newstapa.org/article/z_QBG</link>
-            <guid>http://newstapa.org/article/z_QBG</guid>
-            <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국항공우주산업(KAI), '빨갱이 색출' 명목 1천억대 사업 중단]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/20164516-BB4A-46BC-1237-B289HEOJSB8STWQRKVWW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
