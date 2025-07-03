@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Jul 2025 09:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 10:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[교육부가 놓친 '리박스쿨' 자매단체, 교민 자녀들에게 '이승만 찬양' 교육]]></title>
+            <link>http://newstapa.org/article/MnTNh</link>
+            <guid>http://newstapa.org/article/MnTNh</guid>
+            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[교육부가 놓친 '리박스쿨' 자매단체, 교민 자녀들에게 '이승만 찬양' 교육]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03191458-46DF-A3D8-AD90-N0ZRLLMA3U23M0BCVFYB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["소년 이재명 성범죄" 발언 배후는 미국 평범한 가정집]]></title>
+            <link>http://newstapa.org/article/luZt_</link>
+            <guid>http://newstapa.org/article/luZt_</guid>
+            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["소년 이재명 성범죄" 발언 배후는 미국 평범한 가정집]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03185702-AF49-2B7B-E4D6-A7FN4U25CRBB2RHS59KQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 12.3 내란의 마지막 퍼즐… 다시 쓰는 공소장]]></title>
             <link>http://newstapa.org/article/EJ_aV</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부 곳곳에 '리박 라인'…교육부 이어 국방부·경사노위까지]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26154803-14E5-E713-59DA-PIS53ZQITEBDZ7V9K3ZK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 윤석열 세력의 '친일 교과서' 프로젝트]]></title>
-            <link>http://newstapa.org/article/ufUfQ</link>
-            <guid>http://newstapa.org/article/ufUfQ</guid>
-            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 세력의 '친일 교과서' 프로젝트]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26163417-2FEE-B8DB-93A4-8TSX1XEAM6STAPZSGMCJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['일제 미화' 검정교과서 제작 문건 입수...대한교조 참여 확인]]></title>
-            <link>http://newstapa.org/article/mVPaS</link>
-            <guid>http://newstapa.org/article/mVPaS</guid>
-            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['일제 미화' 검정교과서 제작 문건 입수...대한교조 참여 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26165110-A152-79FC-AEF4-AHY7HLDZWIVZYFG3HNQX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
