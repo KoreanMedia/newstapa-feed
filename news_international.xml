@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 국제협업</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Jul 2025 06:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 07:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팔레스타인 리포트 ⑤이스라엘 정착촌 우회도로 건설에 맞서는 나사르 집안의 투쟁]]></title>
+            <link>http://newstapa.org/article/W83Ky</link>
+            <guid>http://newstapa.org/article/W83Ky</guid>
+            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팔레스타인 리포트 ⑤이스라엘 정착촌 우회도로 건설에 맞서는 나사르 집안의 투쟁]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03151224-36CA-6F1D-EDB9-2OLYA0L53VPLUIRUBDQ7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팔레스타인 리포트 ④파괴와 강제이주로 얼룩진 제닌 난민캠프]]></title>
             <link>http://newstapa.org/article/BbBeu</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[해외입양과 돈]⑧'차명 매입'과 소송으로 얼룩진 새싹동산 청려수련원]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/10191857-65E3-10CD-6605-QD05DAKFCL015VM3DQMD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 내부자가 베트남 휴대폰 공장의 독성 물질 배출을 고발하다]]></title>
-            <link>http://newstapa.org/article/j3liV</link>
-            <guid>http://newstapa.org/article/j3liV</guid>
-            <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[삼성 내부자가 베트남 휴대폰 공장의 독성 물질 배출을 고발하다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/09150430-64FD-ABFF-663F-O147DSRWQQSM372M8M4A.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
