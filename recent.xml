@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Jul 2025 06:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jul 2025 07:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특활비 연속 기고] 이재명 대통령실은 특활비 정보공개 어떻게?]]></title>
+            <link>http://newstapa.org/article/Kcm91</link>
+            <guid>http://newstapa.org/article/Kcm91</guid>
+            <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[특활비 연속 기고] 이재명 대통령실은 특활비 정보공개 어떻게?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/07161720-5BA7-B4B1-571E-GYNGUJMLABYPBSNK4101.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구윤철 기재부 장관 후보, 문 정부 때 거짓말로 강남 아파트 지켜]]></title>
             <link>http://newstapa.org/article/8-Ib8</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 리박스쿨과 친일교과서, 윤 정부의 교육 장악 멀티버스]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/30150619-5A99-5D47-A998-EIN0GSCQZ679M8KHYPEX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<당신이 보지 못한 한국전쟁> 3부작 완결편 “포로와 판문점” 출판]]></title>
-            <link>http://newstapa.org/article/ttp2f</link>
-            <guid>http://newstapa.org/article/ttp2f</guid>
-            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;당신이 보지 못한 한국전쟁&gt; 3부작 완결편 “포로와 판문점” 출판]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/30165932-E37C-8B01-76F5-FLTJGMHDK8ZLISRBV2CX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
