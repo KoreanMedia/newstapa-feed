@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Jul 2025 04:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jul 2025 05:27:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] 12·3 내란의 남은 퍼즐 조각, 밝히지 않으면 반복된다]]></title>
+            <link>https://v.daum.net/v/20250707140624927</link>
+            <guid>https://v.daum.net/v/20250707140624927</guid>
+            <pubDate>Mon, 07 Jul 2025 05:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250707140624927" class="link_column" data-tiara-layer="[타파스]_12·3_내란의_남은_퍼즐_조각,_밝히지_않으면_반복된다_alltab"><div class="cont_thumb"><strong class="tit_txt">[타파스] 12·3 내란의 남은 퍼즐 조각, 밝히지 않으면 반복된다</strong><span class="info_txt"><span class="txt_info">20분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F07%2Fnewstapa%2F20250707140625924mdbj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F07%2Fnewstapa%2F20250707140625924mdbj.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[평양 간 '불량 무인기' 정체...방산기업 KAI 문건으로 확인]]></title>
             <link>https://v.daum.net/v/20250705174624495</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 Jun 2025 05:24:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250624135200472" class="link_column" data-tiara-layer="국회로_간_10만_댓글부대..._윤상현_의원이_불렀다_alltab"><div class="cont_thumb"><strong class="tit_txt">국회로 간 10만 댓글부대... 윤상현 의원이 불렀다</strong><span class="info_txt"><span class="txt_info">2025. 6. 24.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F24%2Fnewstapa%2F20250624135209367sirb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F24%2Fnewstapa%2F20250624135209367sirb.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 국힘의 수사 방해와 조은석의 ‘수사 감각’]]></title>
-            <link>https://v.daum.net/v/20250624112711885</link>
-            <guid>https://v.daum.net/v/20250624112711885</guid>
-            <pubDate>Tue, 24 Jun 2025 03:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250624112711885" class="link_column" data-tiara-layer="[현장에서]_국힘의_수사_방해와_조은석의_‘수사_감각’_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 국힘의 수사 방해와 조은석의 ‘수사 감각’</strong><span class="info_txt"><span class="txt_info">2025. 6. 24.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F24%2Fnewstapa%2F20250624112712392fpet.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F24%2Fnewstapa%2F20250624112712392fpet.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
