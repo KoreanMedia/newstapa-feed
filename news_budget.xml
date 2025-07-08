@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Jul 2025 05:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jul 2025 06:33:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['검찰 개혁' 이재명 정부, '특활비 오남용 의혹' 검사장 2명 중용]]></title>
+            <link>http://newstapa.org/article/Us5jj</link>
+            <guid>http://newstapa.org/article/Us5jj</guid>
+            <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['검찰 개혁' 이재명 정부, '특활비 오남용 의혹' 검사장 2명 중용]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/08151006-3830-E385-3B67-L2BHVAMXQSUF9R9JEZW5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특활비 연속 기고] 원칙 없고, 목적 불분명한 검찰 특활비 부활은 명백한 퇴행]]></title>
             <link>http://newstapa.org/article/gg8wr</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[특별기고] 상설특검법에 딱 맞는 ‘검찰 특활비 특검’ 신속하게 통과돼야]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/02170042-134F-63CB-E6D3-91MILGL7N93BLN20JZFP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["검찰 특활비를 수사하라" 상설 특검 수사요구안 발의]]></title>
-            <link>http://newstapa.org/article/i636x</link>
-            <guid>http://newstapa.org/article/i636x</guid>
-            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["검찰 특활비를 수사하라" 상설 특검 수사요구안 발의]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/29095847-741D-6B23-B2A9-1N0RBF8TA1NWWHFRFFPT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
