@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Jul 2025 07:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jul 2025 08:34:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팔레스타인 리포트 ⑥총 vs 펜: 부린고등학교의 투쟁 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/skSwj</link>
+            <guid>http://newstapa.org/article/skSwj</guid>
+            <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팔레스타인 리포트 ⑥총 vs 펜: 부린고등학교의 투쟁]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/08145050-EE7A-055F-1F67-IMOYJXSGRDJA7NFUNBDA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['검찰 개혁' 이재명 정부, '특활비 오남용 의혹' 검사장 2명 중용 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Us5jj</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[무엇을 할 것인가 : 외교] 평화와 신냉전의 갈림길, 선택이 한반도 운명 가른다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/02182533-523E-3038-783A-LJC8ODQXEWF9GSGZCN0I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["농지 투기 근절" 외친 구윤철, 배우자는 집→318km '논' 매매 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/dntpc</link>
-            <guid>http://newstapa.org/article/dntpc</guid>
-            <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["농지 투기 근절" 외친 구윤철, 배우자는 집→318km '논' 매매]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/02111043-E601-5C0F-133C-C7PQ0K8X74SAUS3WBEAJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['검찰 개혁' 이재명 정부, '특활비 오남용 의혹' 검사장 2명 중용 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1800,6 +1800,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/13104350-572C-2C36-13D5-S0YFCOCTUP40E0GLLKA7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[팔레스타인 리포트 ⑥총 vs 펜: 부린고등학교의 투쟁 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
+            <link>http://newstapa.org/article/skSwj</link>
+            <guid>http://newstapa.org/article/skSwj</guid>
+            <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팔레스타인 리포트 ⑥총 vs 펜: 부린고등학교의 투쟁]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/08145050-EE7A-055F-1F67-IMOYJXSGRDJA7NFUNBDA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[팔레스타인 리포트 ⑤이스라엘 정착촌 우회도로 건설에 맞서는 나사르 집안의 투쟁 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
             <link>http://newstapa.org/article/W83Ky</link>
             <guid>http://newstapa.org/article/W83Ky</guid>
@@ -1918,14 +1926,6 @@
             <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[해외입양과 돈⑩]해외입양기관 부동산 전수조사, 아이 팔아 부동산 재벌 됐나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/14170544-ACBC-9953-C7D9-8XU88HOWP0M2NV5FXJDG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외입양과 돈]⑧'차명 매입'과 소송으로 얼룩진 새싹동산 청려수련원 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
-            <link>http://newstapa.org/article/usW6y</link>
-            <guid>http://newstapa.org/article/usW6y</guid>
-            <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해외입양과 돈]⑧'차명 매입'과 소송으로 얼룩진 새싹동산 청려수련원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/10191857-65E3-10CD-6605-QD05DAKFCL015VM3DQMD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[무엇을 할 것인가 : 언론] 스스로 고치지 않고 신뢰받는 언론은 없다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
@@ -3312,6 +3312,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[팔레스타인 리포트 ⑥총 vs 펜: 부린고등학교의 투쟁 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/109989726</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/109989726</guid>
+            <pubDate>Tue, 08 Jul 2025 08:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[부린고등학교는 팔레스타인 나블루스 주 남부 부린 마을에 위치한 100년 가까운 역사를 가진 지역 내 대표적인 교육기관으로, 과학·문학·농업 계열의 다양한 교육과정을 학생 220여 명에게 제공하고 있습니다. <br><br>이 학교 학생과 교직원들은 학교 주변에 거주하는 이스라엘인 정착민들과 학교 부지 내에 기지를 세운 이스라엘 군인들로부터 지속적인 공격과 위협을 받고 있습니다. <br><br>그럼에도 학생들은 배움의 권리를 지키기 위해, 매일 등교를 하며 굳건히 저항하고 있습니다. 이에 부린고등학교는 단순 학교를 넘어 팔레스타인 민중의 인내와 저항, 그리고 자유를 향한 투쟁의 상징으로 자리매김하고 있습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/JEm4izi5xC0</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/skSwj</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['검찰 개혁' 이재명 정부, '특활비 오남용 의혹' 검사장 2명 중용 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/109987329</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/109987329</guid>
@@ -3445,18 +3452,19 @@
             <content:encoded><![CDATA[2025년 뉴스타파의 르포르타주 영화 2탄, &lt;추적&gt;의 티저 포스터를 공개합니다. 영화 &lt;추적&gt;은 뉴스타파 최승호PD의 17년 취재 결과를 담은 다큐멘터리로 2016년 국정원의 간첩조작 사건의 전말을 밝힌 '자백’, 2017년 한국 언론의 민낯을 생생하게 보여준 '공범자들’에 이은 &lt;최승호 감독 진실 프로젝트&gt; 3부작의 완결편입니다. <br><br>영화 &lt;추적&gt;의 첫번째 포스터는 이명박 전 대통령의 얼굴입니다. 이명박은 ‘4대강 사업’의 시작과 끝을 관통하는 인물이자 현재 우리 사회 혼란의 시작점입니다. 이명박에서 시작된 민주주의의 훼손이 환경 파괴로 이어지는 과정을 영화 &lt;추적&gt;은 적나라하게 보여줍니다. <br><br>영화 &lt;추적&gt;은 오는 8월6일 전국 극장에서 개봉됩니다. 더 많은 개봉관을 확보하기 위해, 현재 텀블벅 크라우드펀딩이진행중입니다. 펀딩에 참여하신 분들은 제작진이 함께하는 특별 시사회에 모시고 성함을 영화 엔딩크레딧에 남겨드립니다. 영화&lt;추적&gt;에 힘을 실어주세요.<br><br>🎞️영화&lt;추적&gt; 텀블벅 후원하기 <span class="link_url">https://tumblbug.com/4rivers</span><br>🙌 뉴스타파필름 응원하기 : <span class="link_url">https://withnewstapa.org/support/</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[팔레스타인 리포트 ④ 파괴와 강제이주로 얼룩진 제닌 난민캠프 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/109910480</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/109910480</guid>
-            <pubDate>Tue, 01 Jul 2025 09:26:40 GMT</pubDate>
-            <content:encoded><![CDATA[분쟁지역 인권단체 아디가 전해온 ‘스피크업’ 프로젝트, 두 번째 결과물입니다. 지난 주에 이어 팔레스타인 여성 예비언론인들이 직접 현지 소식을 전해드립니다.<br><br>이들 예비언론인은 첫 취재 현장으로 서안지구 북부에 위치한 제닌 난민 캠프를 찾았습니다. 제닌 난민 캠프는 1948년 이스라엘 건국과 함께 원래 살던 지역에서 쫓겨난 팔레스타인인들을 수용할 목적으로 설립됐습니다.<br><br>이곳 주민들은 2023년 10월 7일 하마스와 이스라엘의 전쟁이 시작되면서 다시 한 번 강제이주 대상이 됐습니다. 이스라엘 군이 난민 캠프 내에 하마스 일당이 숨어있다는 이유로 군사 작전을 개시했기 때문입니다. 그 결과, 수십 채의 주택이 파괴되고 상수도, 전략망 등 사회 기반 시설이 손상됐습니다. <br><br>주민들은 현재 인근 임시 대피소에 흩어져 열악한 환경 속에서 생활하고 있습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/jRHySEhlTUU</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/BbBeu</span>]]></content:encoded>
+            <title><![CDATA[팔레스타인 리포트 ⑥총 vs 펜: 부린고등학교의 투쟁 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250708171625029</link>
+            <guid>https://v.daum.net/v/20250708171625029</guid>
+            <pubDate>Tue, 08 Jul 2025 08:34:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250708171625029" class="link_column" data-tiara-layer="팔레스타인_리포트_⑥총_vs_펜:_부린고등학교의_투쟁_alltab"><div class="cont_thumb"><strong class="tit_txt">팔레스타인 리포트 ⑥총 vs 펜: 부린고등학교의 투쟁</strong><span class="info_txt"><span class="txt_info">17분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F08%2Fnewstapa%2F20250708171635820spgr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F08%2Fnewstapa%2F20250708171635820spgr.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA['검찰 개혁' 이재명 정부, '특활비 오남용 의혹' 검사장 2명 중용 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250708151624004</link>
             <guid>https://v.daum.net/v/20250708151624004</guid>
             <pubDate>Tue, 08 Jul 2025 06:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250708151624004" class="link_column" data-tiara-layer="'검찰_개혁'_이재명_정부,_'특활비_오남용_의혹'_검사장_2명_중용_alltab"><div class="cont_thumb"><strong class="tit_txt">'검찰 개혁' 이재명 정부, '특활비 오남용 의혹' 검사장 2명 중용</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img2.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F08%2Fnewstapa%2F20250708151625936jqvi.webp" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250708151624004" class="link_column" data-tiara-layer="'검찰_개혁'_이재명_정부,_'특활비_오남용_의혹'_검사장_2명_중용_alltab"><div class="cont_thumb"><strong class="tit_txt">'검찰 개혁' 이재명 정부, '특활비 오남용 의혹' 검사장 2명 중용</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img2.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F08%2Fnewstapa%2F20250708151625936jqvi.webp" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img2.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F08%2Fnewstapa%2F20250708151625936jqvi.webp" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3464,7 +3472,7 @@
             <link>https://v.daum.net/v/20250708130124409</link>
             <guid>https://v.daum.net/v/20250708130124409</guid>
             <pubDate>Tue, 08 Jul 2025 04:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250708130124409" class="link_column" data-tiara-layer="<뉴스타파_v._윤석열>_검찰,_봉지욱_공소장_절반_삭제...__봉지욱_기자_3차_준비기일_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;뉴스타파 v. 윤석열&gt; 검찰, 봉지욱 공소장 절반 삭제...  봉지욱 기자 3차 준비기일</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F08%2Fnewstapa%2F20250708130129954ywle.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250708130124409" class="link_column" data-tiara-layer="<뉴스타파_v._윤석열>_검찰,_봉지욱_공소장_절반_삭제...__봉지욱_기자_3차_준비기일_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;뉴스타파 v. 윤석열&gt; 검찰, 봉지욱 공소장 절반 삭제...  봉지욱 기자 3차 준비기일</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F08%2Fnewstapa%2F20250708130129954ywle.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F08%2Fnewstapa%2F20250708130129954ywle.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3472,7 +3480,7 @@
             <link>https://v.daum.net/v/20250708103132166</link>
             <guid>https://v.daum.net/v/20250708103132166</guid>
             <pubDate>Tue, 08 Jul 2025 01:46:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250708103132166" class="link_column" data-tiara-layer="[특활비_연속_기고]_원칙_없고,_목적_불분명한_검찰_특활비_부활은_명백한_퇴행_alltab"><div class="cont_thumb"><strong class="tit_txt">[특활비 연속 기고] 원칙 없고, 목적 불분명한 검찰 특활비 부활은 명백한 퇴행</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250708103132166" class="link_column" data-tiara-layer="[특활비_연속_기고]_원칙_없고,_목적_불분명한_검찰_특활비_부활은_명백한_퇴행_alltab"><div class="cont_thumb"><strong class="tit_txt">[특활비 연속 기고] 원칙 없고, 목적 불분명한 검찰 특활비 부활은 명백한 퇴행</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[특활비 연속 기고] 이재명 대통령실은 특활비 정보공개 어떻게? (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3542,7 +3550,7 @@
             <link>https://v.daum.net/v/20250703170643711</link>
             <guid>https://v.daum.net/v/20250703170643711</guid>
             <pubDate>Thu, 03 Jul 2025 08:30:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250703170643711" class="link_column" data-tiara-layer="[주간_뉴스타파]_12.3_내란의_마지막_퍼즐…_다시_쓰는_공소장_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 12.3 내란의 마지막 퍼즐… 다시 쓰는 공소장</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F03%2Fnewstapa%2F20250703170646547evhz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250703170643711" class="link_column" data-tiara-layer="[주간_뉴스타파]_12.3_내란의_마지막_퍼즐…_다시_쓰는_공소장_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 12.3 내란의 마지막 퍼즐… 다시 쓰는 공소장</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F03%2Fnewstapa%2F20250703170646547evhz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F03%2Fnewstapa%2F20250703170646547evhz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3550,7 +3558,7 @@
             <link>https://v.daum.net/v/20250703170132454</link>
             <guid>https://v.daum.net/v/20250703170132454</guid>
             <pubDate>Thu, 03 Jul 2025 08:30:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250703170132454" class="link_column" data-tiara-layer="윤·김·노_세_사람이_흔든_나라,_그들이_답해야_할_질문들_alltab"><div class="cont_thumb"><strong class="tit_txt">윤·김·노 세 사람이 흔든 나라, 그들이 답해야 할 질문들</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F03%2Fnewstapa%2F20250703170134118sgdd.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250703170132454" class="link_column" data-tiara-layer="윤·김·노_세_사람이_흔든_나라,_그들이_답해야_할_질문들_alltab"><div class="cont_thumb"><strong class="tit_txt">윤·김·노 세 사람이 흔든 나라, 그들이 답해야 할 질문들</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F03%2Fnewstapa%2F20250703170134118sgdd.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F03%2Fnewstapa%2F20250703170134118sgdd.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3680,14 +3688,6 @@
             <pubDate>Wed, 25 Jun 2025 12:44:58 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250625210123510" class="link_column" data-tiara-layer="[무엇을_할_것인가_:_검찰]_검찰과_거래하면_안_된다_alltab"><div class="cont_thumb"><strong class="tit_txt">[무엇을 할 것인가 : 검찰] 검찰과 거래하면 안 된다</strong><span class="info_txt"><span class="txt_info">2025. 6. 25.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F25%2Fnewstapa%2F20250625210131544bxwy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F25%2Fnewstapa%2F20250625210131544bxwy.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 내란 핵심 증거 CCTV 비공개하는 국회 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250625181123969</link>
-            <guid>https://v.daum.net/v/20250625181123969</guid>
-            <pubDate>Wed, 25 Jun 2025 09:27:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250625181123969" class="link_column" data-tiara-layer="[현장에서]_내란_핵심_증거_CCTV_비공개하는_국회_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 내란 핵심 증거 CCTV 비공개하는 국회</strong><span class="info_txt"><span class="txt_info">2025. 6. 25.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F25%2Fnewstapa%2F20250625181124678etjk.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202506%2F25%2Fnewstapa%2F20250625181124678etjk.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

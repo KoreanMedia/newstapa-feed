@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 국제협업</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Jul 2025 07:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jul 2025 08:34:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팔레스타인 리포트 ⑥총 vs 펜: 부린고등학교의 투쟁]]></title>
+            <link>http://newstapa.org/article/skSwj</link>
+            <guid>http://newstapa.org/article/skSwj</guid>
+            <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팔레스타인 리포트 ⑥총 vs 펜: 부린고등학교의 투쟁]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/08145050-EE7A-055F-1F67-IMOYJXSGRDJA7NFUNBDA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팔레스타인 리포트 ⑤이스라엘 정착촌 우회도로 건설에 맞서는 나사르 집안의 투쟁]]></title>
             <link>http://newstapa.org/article/W83Ky</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[해외입양과 돈⑩]해외입양기관 부동산 전수조사, 아이 팔아 부동산 재벌 됐나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/14170544-ACBC-9953-C7D9-8XU88HOWP0M2NV5FXJDG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외입양과 돈]⑧'차명 매입'과 소송으로 얼룩진 새싹동산 청려수련원]]></title>
-            <link>http://newstapa.org/article/usW6y</link>
-            <guid>http://newstapa.org/article/usW6y</guid>
-            <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해외입양과 돈]⑧'차명 매입'과 소송으로 얼룩진 새싹동산 청려수련원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/10191857-65E3-10CD-6605-QD05DAKFCL015VM3DQMD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
