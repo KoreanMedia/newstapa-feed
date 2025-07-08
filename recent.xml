@@ -4,16 +4,24 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Jul 2025 23:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jul 2025 01:46:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특활비 연속 기고] 원칙 없고, 목적 불분명한 검찰 특활비 부활은 명백한 퇴행]]></title>
+            <link>http://newstapa.org/article/gg8wr</link>
+            <guid>http://newstapa.org/article/gg8wr</guid>
+            <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[특활비 연속 기고] 원칙 없고, 목적 불분명한 검찰 특활비 부활은 명백한 퇴행]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/08102748-DAB8-EA66-3499-24O55IRK8VZXQ3AAOPND.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특활비 연속 기고] 이재명 대통령실은 특활비 정보공개 어떻게?]]></title>
             <link>http://newstapa.org/article/Kcm91</link>
             <guid>http://newstapa.org/article/Kcm91</guid>
             <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[특활비 연속 기고] 이재명 대통령실은 특활비 정보공개 어떻게?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/07230809-5382-853D-80C8-7OZ8WEYYKA5G9G402N52.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/08100818-52D9-0378-141D-E9LSKX9JTXWPOET9OFYR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구윤철 기재부 장관 후보, 문 정부 때 거짓말로 강남 아파트 지켜]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[KAI 수상한 녹음파일... '비리 척결'한다더니 '진술 회유']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/30173211-12A1-FE9E-C061-HXW4KXX64A2R7Q1JFLXK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 리박스쿨과 친일교과서, 윤 정부의 교육 장악 멀티버스]]></title>
-            <link>http://newstapa.org/article/1N1rM</link>
-            <guid>http://newstapa.org/article/1N1rM</guid>
-            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 리박스쿨과 친일교과서, 윤 정부의 교육 장악 멀티버스]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/30150619-5A99-5D47-A998-EIN0GSCQZ679M8KHYPEX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
