@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Jul 2025 07:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jul 2025 08:31:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<칼럼> ‘윤석열 트라우마’에서 벗어나려면]]></title>
+            <link>http://newstapa.org/article/M_y1e</link>
+            <guid>http://newstapa.org/article/M_y1e</guid>
+            <pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;칼럼&gt; ‘윤석열 트라우마’에서 벗어나려면]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/09165500-2F61-8BD9-6A41-DYBSOVP2XJMK9JTB3M1J.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조현 외교부 장관 후보, 공직자 재산신고 '상습 누락']]></title>
             <link>http://newstapa.org/article/kX5bQ</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[세금으로 '이승만 찬양'…재외동포청, 교민 자녀 '극우 교육' 후원]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/04164529-46A6-4EC9-5185-RFXCAV6A62WN0ODSZNSF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교육부가 놓친 '리박스쿨' 자매단체, 교민 자녀들에게 '이승만 찬양' 교육]]></title>
-            <link>http://newstapa.org/article/MnTNh</link>
-            <guid>http://newstapa.org/article/MnTNh</guid>
-            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[교육부가 놓친 '리박스쿨' 자매단체, 교민 자녀들에게 '이승만 찬양' 교육]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03191458-46DF-A3D8-AD90-N0ZRLLMA3U23M0BCVFYB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
