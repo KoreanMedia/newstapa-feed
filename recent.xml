@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Jul 2025 03:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 04:36:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이승만·박정희의 사법살인 옹호한 '역사교과서' 원고]]></title>
+            <link>http://newstapa.org/article/fM_Ig</link>
+            <guid>http://newstapa.org/article/fM_Ig</guid>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이승만·박정희의 사법살인 옹호한 '역사교과서' 원고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10131913-2BBC-05D6-A251-YKBNWB84YBTJI99NIIRB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 지시로 '평양 무인기' 불법 계약...책임자는 현재 국정기획위원]]></title>
             <link>http://newstapa.org/article/o9VFd</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 05 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[평양 간 '불량 무인기' 정체...방산기업 KAI 문건으로 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/05173654-C5E4-5854-98CB-V3XH8Z6T749VWYNG371J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무엇을 할 것인가 : 언론] 스스로 고치지 않고 신뢰받는 언론은 없다]]></title>
-            <link>http://newstapa.org/article/MuLUR</link>
-            <guid>http://newstapa.org/article/MuLUR</guid>
-            <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[무엇을 할 것인가 : 언론] 스스로 고치지 않고 신뢰받는 언론은 없다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/04153828-71AF-AB5A-9F20-EMR3TVCQDLGFWHC5S40I.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

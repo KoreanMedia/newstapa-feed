@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Jul 2025 03:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 04:36:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이승만·박정희의 사법살인 옹호한 '역사교과서' 원고]]></title>
+            <link>http://newstapa.org/article/fM_Ig</link>
+            <guid>http://newstapa.org/article/fM_Ig</guid>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이승만·박정희의 사법살인 옹호한 '역사교과서' 원고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10131913-2BBC-05D6-A251-YKBNWB84YBTJI99NIIRB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 리박스쿨과 친일교과서, 윤 정부의 교육 장악 멀티버스]]></title>
             <link>http://newstapa.org/article/1N1rM</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[안성열 최후진술 “자유를 원하는 만큼의 희생이 필요”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/18151443-56B5-FB90-657D-XDQCAIZDUF4ZYMOMVQDR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장윤환 최후진술 “어떠한 자유도 하늘에서 저절로 떨어지는 것은 아닙니다.”]]></title>
-            <link>http://newstapa.org/article/t3rlg</link>
-            <guid>http://newstapa.org/article/t3rlg</guid>
-            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[장윤환 최후진술 “어떠한 자유도 하늘에서 저절로 떨어지는 것은 아닙니다.”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/18144258-616D-4E77-2F44-TJ172GE1T74V9XH0NW2Q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
