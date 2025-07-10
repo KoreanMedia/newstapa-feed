@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Jul 2025 09:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 10:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김건희 집사 게이트 ⑥ 윤석열 대통령실, '집사 게이트' 알고 있었다]]></title>
+            <link>http://newstapa.org/article/j_8Iq</link>
+            <guid>http://newstapa.org/article/j_8Iq</guid>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김건희 집사 게이트 ⑥ 윤석열 대통령실, '집사 게이트' 알고 있었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10185637-F3E0-5754-FEEE-WYRH4WN0YSF0P3O39POH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리박스쿨 뿌리① 리박스쿨 탄생은 개인의 일탈이 아니었다]]></title>
             <link>http://newstapa.org/article/i9GEt</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[팔레스타인 리포트 ⑥총 vs 펜: 부린고등학교의 투쟁]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/08145050-EE7A-055F-1F67-IMOYJXSGRDJA7NFUNBDA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['검찰 개혁' 이재명 정부, '특활비 오남용 의혹' 검사장 2명 중용]]></title>
-            <link>http://newstapa.org/article/Us5jj</link>
-            <guid>http://newstapa.org/article/Us5jj</guid>
-            <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['검찰 개혁' 이재명 정부, '특활비 오남용 의혹' 검사장 2명 중용]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/08151006-3830-E385-3B67-L2BHVAMXQSUF9R9JEZW5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
