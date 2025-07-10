@@ -4,16 +4,24 @@
         <title>뉴스타파 ─ 뉴스 ─ 교육</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Jul 2025 07:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 08:31:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리박스쿨 뿌리① 리박스쿨 탄생은 개인의 일탈이 아니었다]]></title>
+            <link>http://newstapa.org/article/i9GEt</link>
+            <guid>http://newstapa.org/article/i9GEt</guid>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리박스쿨 뿌리① 리박스쿨 탄생은 개인의 일탈이 아니었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10171530-F884-C46B-57BB-AZN354Y4350I62KO5TFM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국가교육위원회 회의록 공개...리박스쿨 유착 숨기고 '입단속']]></title>
             <link>http://newstapa.org/article/YFnZ7</link>
             <guid>http://newstapa.org/article/YFnZ7</guid>
             <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국가교육위원회 회의록 공개...리박스쿨 유착 숨기고 '입단속']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10155155-9562-8093-DF3F-M6QPB8NORLVLJEBFHD1Y.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10172808-9DED-CA87-7D77-LWIN20UPUMUEEX06N35O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세금으로 '이승만 찬양'…재외동포청, 교민 자녀 '극우 교육' 후원]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한국학력평가원, 유명출판사 한국사 교과서 표절 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/05155253-D9ED-36E5-44A4-Q3SG6H6VJHVK7ZGED5FB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학력평가원, 한국사 교과서 편집진에 '검정 자격 조작' 책임자 등재]]></title>
-            <link>http://newstapa.org/article/EwSIJ</link>
-            <guid>http://newstapa.org/article/EwSIJ</guid>
-            <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[학력평가원, 한국사 교과서 편집진에 '검정 자격 조작' 책임자 등재]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/03211311-240D-F677-4212-7BOUQWBHLE1O0WKW18SR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

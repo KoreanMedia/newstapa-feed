@@ -4,16 +4,32 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Jul 2025 07:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 08:31:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리박스쿨 뿌리④ ‘극우 대부’ 아지트에서 윤석열 대통령실과 '회합']]></title>
+            <link>http://newstapa.org/article/_P-3J</link>
+            <guid>http://newstapa.org/article/_P-3J</guid>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리박스쿨 뿌리④ ‘극우 대부’ 아지트에서 윤석열 대통령실과 '회합']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10171446-358C-F094-DA73-JP42KYJ61SANQUEZUQC7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 리박스쿨 뿌리 추적... 대부와 실행자들]]></title>
+            <link>http://newstapa.org/article/yQow7</link>
+            <guid>http://newstapa.org/article/yQow7</guid>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 리박스쿨 뿌리 추적... 대부와 실행자들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10155218-B92F-7245-8F2D-XNZ7G8DU8G5DWA6H9BHS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국가교육위원회 회의록 공개...리박스쿨 유착 숨기고 '입단속']]></title>
             <link>http://newstapa.org/article/YFnZ7</link>
             <guid>http://newstapa.org/article/YFnZ7</guid>
             <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국가교육위원회 회의록 공개...리박스쿨 유착 숨기고 '입단속']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10155155-9562-8093-DF3F-M6QPB8NORLVLJEBFHD1Y.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10172808-9DED-CA87-7D77-LWIN20UPUMUEEX06N35O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 지시로 '평양 무인기' 불법 계약...책임자는 현재 국정기획위원]]></title>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[무엇을 할 것인가 : 외교] 평화와 신냉전의 갈림길, 선택이 한반도 운명 가른다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/02182533-523E-3038-783A-LJC8ODQXEWF9GSGZCN0I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["농지 투기 근절" 외친 구윤철, 배우자는 집→318km '논' 매매]]></title>
-            <link>http://newstapa.org/article/dntpc</link>
-            <guid>http://newstapa.org/article/dntpc</guid>
-            <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["농지 투기 근절" 외친 구윤철, 배우자는 집→318km '논' 매매]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/02111043-E601-5C0F-133C-C7PQ0K8X74SAUS3WBEAJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KAI 수상한 녹음파일... '비리 척결'한다더니 '진술 회유']]></title>
-            <link>http://newstapa.org/article/-9LZW</link>
-            <guid>http://newstapa.org/article/-9LZW</guid>
-            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[KAI 수상한 녹음파일... '비리 척결'한다더니 '진술 회유']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/30173211-12A1-FE9E-C061-HXW4KXX64A2R7Q1JFLXK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
