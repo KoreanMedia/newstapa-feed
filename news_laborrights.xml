@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Jul 2025 11:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 12:44:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[무엇을 할 것인가 : 사회통합] 결국, 우리는 함께 살아야 한다]]></title>
+            <link>http://newstapa.org/article/52j5j</link>
+            <guid>http://newstapa.org/article/52j5j</guid>
+            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[무엇을 할 것인가 : 사회통합] 결국, 우리는 함께 살아야 한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11181204-39A9-0059-E1C8-5K161KBHFL0GQ0734T82.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파]아무도 책임지지 않는다, SPC 빵공장의 죽음]]></title>
             <link>http://newstapa.org/article/vC1rE</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화]진실화해위, 해외입양 진실규명 결정...한계도 드러내]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/26170547-0C5A-34F2-1961-1VIWVVBPKF1GCD163ZMD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장 인터뷰]여성 노동자 둘이 불탄 공장 위에서 사는 이유]]></title>
-            <link>http://newstapa.org/article/38P3t</link>
-            <guid>http://newstapa.org/article/38P3t</guid>
-            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장 인터뷰]여성 노동자 둘이 불탄 공장 위에서 사는 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/25180855-009A-8547-7AE3-GLZK5S9KMP92RO902PIV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
