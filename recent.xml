@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Jul 2025 09:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 10:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 언론공범① ‘윤석열대망론’은 누가 띄웠나]]></title>
+            <link>http://newstapa.org/article/bV8-G</link>
+            <guid>http://newstapa.org/article/bV8-G</guid>
+            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 언론공범① ‘윤석열대망론’은 누가 띄웠나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11191716-CC9E-A572-35C4-E3NMCLNLVIIXCABPRGT4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 대통령실에도 '리박 라인'…"리박 챙겨라" 압력 행사]]></title>
             <link>http://newstapa.org/article/-yzn-</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조현 외교부 장관 후보, 공직자 재산신고 '상습 누락']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11181108-ADF7-B081-C33C-TKTSJRO29ZM7SYVATPBJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘의 두 얼굴... 계엄 해제 지연과 방해 의혹]]></title>
-            <link>http://newstapa.org/article/7Ow1D</link>
-            <guid>http://newstapa.org/article/7Ow1D</guid>
-            <pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘의 두 얼굴... 계엄 해제 지연과 방해 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/09110831-92DA-E2A0-DCA5-UTTT97XKQ9A5B48RV524.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

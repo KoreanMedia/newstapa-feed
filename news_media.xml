@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Jul 2025 09:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 10:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 언론공범① ‘윤석열대망론’은 누가 띄웠나]]></title>
+            <link>http://newstapa.org/article/bV8-G</link>
+            <guid>http://newstapa.org/article/bV8-G</guid>
+            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 언론공범① ‘윤석열대망론’은 누가 띄웠나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11191716-CC9E-A572-35C4-E3NMCLNLVIIXCABPRGT4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리박스쿨 뿌리② 리박의 아버지가 만든 괴물 '아스팔트 삼총사']]></title>
             <link>http://newstapa.org/article/q12Z8</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[선거연수원서 중국 해커 90명 체포? '부정선거' 악순환의 고리 찾았다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/08173109-153F-586F-20CF-JG5V6KMDN9CQ8W5C7R48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN]내란과 일본언론 3: 편파 방송…윤석열은 미화, 이재명은 비난]]></title>
-            <link>http://newstapa.org/article/iD_mE</link>
-            <guid>http://newstapa.org/article/iD_mE</guid>
-            <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN]내란과 일본언론 3: 편파 방송…윤석열은 미화, 이재명은 비난]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/27201751-6AAC-42C7-C814-81TOY0X9IWVN5IYZ3UH0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
