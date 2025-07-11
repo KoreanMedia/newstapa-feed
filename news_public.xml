@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Jul 2025 07:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 08:31:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 대통령실에도 '리박 라인'…"리박 챙겨라" 압력 행사]]></title>
+            <link>http://newstapa.org/article/-yzn-</link>
+            <guid>http://newstapa.org/article/-yzn-</guid>
+            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령실에도 '리박 라인'…"리박 챙겨라" 압력 행사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11165659-7F54-A500-CD6A-CQK2ISI43P7B3D26QYEM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이진숙 KCI 학술지 논문 전수 조사… 1저자 논문 4개 중 1개가 표절]]></title>
             <link>http://newstapa.org/article/FCCeW</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[무엇을 할 것인가 : 언론] 스스로 고치지 않고 신뢰받는 언론은 없다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/04153828-71AF-AB5A-9F20-EMR3TVCQDLGFWHC5S40I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["소년 이재명 성범죄" 발언 배후는 미국 평범한 가정집]]></title>
-            <link>http://newstapa.org/article/luZt_</link>
-            <guid>http://newstapa.org/article/luZt_</guid>
-            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["소년 이재명 성범죄" 발언 배후는 미국 평범한 가정집]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03185702-AF49-2B7B-E4D6-A7FN4U25CRBB2RHS59KQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
