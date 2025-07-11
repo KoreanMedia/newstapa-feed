@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Jul 2025 03:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 04:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전재수 해수부 장관 후보, 'SNS 복붙' 책으로 세 번 출판기념회]]></title>
+            <link>http://newstapa.org/article/tSvec</link>
+            <guid>http://newstapa.org/article/tSvec</guid>
+            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전재수 해수부 장관 후보, 'SNS 복붙' 책으로 세 번 출판기념회]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11131952-EBB9-FD5E-20A8-LPDA88E5O3CJTX7EEQ74.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김건희 집사 게이트 ⑥ 윤석열 대통령실, '집사 게이트' 알고 있었다]]></title>
             <link>http://newstapa.org/article/j_8Iq</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국방과학연구소, '평양행 무인기' 제작사 '입틀막' 정황]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/08171920-2F67-FE99-53B9-6CO6YUJJCUERX2889A3C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔레스타인 리포트 ⑥총 vs 펜: 부린고등학교의 투쟁]]></title>
-            <link>http://newstapa.org/article/skSwj</link>
-            <guid>http://newstapa.org/article/skSwj</guid>
-            <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[팔레스타인 리포트 ⑥총 vs 펜: 부린고등학교의 투쟁]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/08145050-EE7A-055F-1F67-IMOYJXSGRDJA7NFUNBDA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
