@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Jul 2025 04:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 05:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파]아무도 책임지지 않는다, SPC 빵공장의 죽음]]></title>
+            <link>http://newstapa.org/article/vC1rE</link>
+            <guid>http://newstapa.org/article/vC1rE</guid>
+            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파]아무도 책임지지 않는다, SPC 빵공장의 죽음]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11140012-8489-71C6-BD4F-ZHOGG0C66VEZYBERM2NQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전재수 해수부 장관 후보, 'SNS 복붙' 책으로 세 번 출판기념회]]></title>
             <link>http://newstapa.org/article/tSvec</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['평양행 무인기' 제조사 대표, “VIP 방문 후 제작 요청왔다”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/08173548-54C6-3119-956A-UCL6FXNK8B4JDR1PDHT4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국방과학연구소, '평양행 무인기' 제작사 '입틀막' 정황]]></title>
-            <link>http://newstapa.org/article/ocVLc</link>
-            <guid>http://newstapa.org/article/ocVLc</guid>
-            <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국방과학연구소, '평양행 무인기' 제작사 '입틀막' 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/08171920-2F67-FE99-53B9-6CO6YUJJCUERX2889A3C.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
