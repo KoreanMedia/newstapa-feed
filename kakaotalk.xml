@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-07-11T06:34:21.195Z</updated>
+    <updated>2025-07-11T07:24:39.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/7943316/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이진숙 KCI 학술지 논문 전수 조사… 1저자 논문 4개 중 1개가 표절]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/110027821</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/110027821"/>
+        <updated>2025-07-11T07:24:29.059Z</updated>
+        <content type="html"><![CDATA[이진숙 교육부 장관 후보자는 '제자 논문 가로채기' 의혹이 불거지자, 일부 학계와 시민사회에서는 이 후보자의 사퇴를 요구하고 있습니다. 이에 뉴스타파는 이 후보자가 1저자로 이름을 올려 KCI 등재학술지에 발표한 논문을 전수 검증했습니다. <br><br>분석 결과, 94건의 논문 중 22건이 표절률 20% 이상으로, 대부분 제자의 석·박사 학위 논문을 출처 없이 베껴 쓴 것으로 확인됐습니다. 학계의 연구윤리 규정 위반에 해당하는 행위입니다. 이 후보자 측은 논란에 대해 인사청문회에서 해명하겠다는 입장을 밝혀왔습니다.<br><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/FCCeW</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아무도 책임지지 않는다, SPC 빵공장의 죽음 〈다큐 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/110026089</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/109990794"/>
         <updated>2025-07-08T09:27:02.011Z</updated>
         <content type="html"><![CDATA[조은석 내란 특검은 윤석열 전 대통령 외환 유치 의혹, 일명 '평양 무인기' 수사에 박차를 가하고 있습니다. 지난 1일 국방과학연구소 연구원을 참고인으로 불러 조사했고, 군 관계자들도 줄줄이 소환할 예정입니다.<br><br>그런데 국방과학연구소가 '평양 무인기' 제조업체에 입막음을 시도한 정황이 뉴스타파 취재 결과 확인됐습니다. 취재를 거부하던 업체 대표는 국방과학연구소 측이 "조용히 하라"는 '함구령'을 내렸다고 털어놨습니다.<br><br>국방과학연구소 협력업체가 무인기 지휘 차량을 폐차하려다 적발되는 등 증거인멸 의혹이 제기된 상황에서 관련자들이 특검 소환 전에 말을 맞춘 것 아니냐는 우려까지 제기되는 대목입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/XTzFRdB7tmk</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/ocVLc</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팔레스타인 리포트 ⑥총 vs 펜: 부린고등학교의 투쟁]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/109989726</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/109989726"/>
-        <updated>2025-07-08T08:34:00.473Z</updated>
-        <content type="html"><![CDATA[부린고등학교는 팔레스타인 나블루스 주 남부 부린 마을에 위치한 100년 가까운 역사를 가진 지역 내 대표적인 교육기관으로, 과학·문학·농업 계열의 다양한 교육과정을 학생 220여 명에게 제공하고 있습니다. <br><br>이 학교 학생과 교직원들은 학교 주변에 거주하는 이스라엘인 정착민들과 학교 부지 내에 기지를 세운 이스라엘 군인들로부터 지속적인 공격과 위협을 받고 있습니다. <br><br>그럼에도 학생들은 배움의 권리를 지키기 위해, 매일 등교를 하며 굳건히 저항하고 있습니다. 이에 부린고등학교는 단순 학교를 넘어 팔레스타인 민중의 인내와 저항, 그리고 자유를 향한 투쟁의 상징으로 자리매김하고 있습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/JEm4izi5xC0</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/skSwj</span>]]></content>
     </entry>
 </feed>
