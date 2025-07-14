@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Jul 2025 05:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jul 2025 06:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 미프진과 빛의 혁명]]></title>
+            <link>http://newstapa.org/article/uvVB3</link>
+            <guid>http://newstapa.org/article/uvVB3</guid>
+            <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 미프진과 빛의 혁명]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/14144232-F72E-02FE-4477-M59AA7GVCAAUIQAIN5YE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 더이상 피 묻은 빵을 먹을 수는 없다]]></title>
             <link>http://newstapa.org/article/8thU0</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 리박스쿨 뿌리 추적... 대부와 실행자들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10155218-B92F-7245-8F2D-XNZ7G8DU8G5DWA6H9BHS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가교육위원회 회의록 공개...리박스쿨 유착 숨기고 '입단속']]></title>
-            <link>http://newstapa.org/article/YFnZ7</link>
-            <guid>http://newstapa.org/article/YFnZ7</guid>
-            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국가교육위원회 회의록 공개...리박스쿨 유착 숨기고 '입단속']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10172808-9DED-CA87-7D77-LWIN20UPUMUEEX06N35O.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
