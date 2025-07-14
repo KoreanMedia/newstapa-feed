@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Jul 2025 04:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jul 2025 05:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] 더이상 피 묻은 빵을 먹을 수는 없다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/8thU0</link>
+            <guid>http://newstapa.org/article/8thU0</guid>
+            <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 더이상 피 묻은 빵을 먹을 수는 없다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/14132853-3587-7E20-32C0-X3HYEPS3UFA483L85Y60.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한성숙, 동생에 '삼청동 한옥' 헐값 임대...'편법 증여' 의혹 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/9XN7y</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국가교육위원회 회의록 공개...리박스쿨 유착 숨기고 '입단속']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10172808-9DED-CA87-7D77-LWIN20UPUMUEEX06N35O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이승만·박정희의 사법살인 옹호한 '역사교과서' 원고 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/fM_Ig</link>
-            <guid>http://newstapa.org/article/fM_Ig</guid>
-            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이승만·박정희의 사법살인 옹호한 '역사교과서' 원고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10131913-2BBC-05D6-A251-YKBNWB84YBTJI99NIIRB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한성숙, 동생에 '삼청동 한옥' 헐값 임대...'편법 증여' 의혹 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/26170527-1964-8D46-F6FE-GZ3CEOG24ILTMMWCC0D1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[타파스] 더이상 피 묻은 빵을 먹을 수는 없다 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/8thU0</link>
+            <guid>http://newstapa.org/article/8thU0</guid>
+            <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 더이상 피 묻은 빵을 먹을 수는 없다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/14132853-3587-7E20-32C0-X3HYEPS3UFA483L85Y60.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[무엇을 할 것인가 : 사회통합] 결국, 우리는 함께 살아야 한다 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/52j5j</link>
             <guid>http://newstapa.org/article/52j5j</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/27180054-0A50-75CF-CFFC-8FN28KS28ICFL6WCD72X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]진실화해위, 해외입양 진실규명 결정...한계도 드러내 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/3fZTu</link>
-            <guid>http://newstapa.org/article/3fZTu</guid>
-            <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화]진실화해위, 해외입양 진실규명 결정...한계도 드러내]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/26170547-0C5A-34F2-1961-1VIWVVBPKF1GCD163ZMD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['경북 산불'이 남긴 21대 대통령의 과제 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -2990,21 +2990,21 @@
             <link>https://checkyourcar.newstapa.org/</link>
             <guid>https://checkyourcar.newstapa.org/</guid>
             <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/05/78e4fd6059614104f840c4cc74f77c2898038c39507a9511f8a3585c5f16500449ffbf5a03d6f36fcc18cba03fe79f9d7c44efeb5c17ea4d560376206bb44613.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/14141101-CE68-A15A-AEFD-BO747X9LR9L8GY10YA53.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박근혜-최순실 게이트 이대로 끝낼 순 없다 (뉴스타파 ─ 데이터)]]></title>
             <link>http://apps.newstapa.org/liar/</link>
             <guid>http://apps.newstapa.org/liar/</guid>
             <pubDate>Fri, 20 Jan 2017 00:00:00 GMT</pubDate>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2017/01/c0d018a614464667a984dc48d591b1b815551c40e119840b5bfc2ec061b808e6c98c3872174918ebf11aeab1ccfc4249a115c5287e803cdbebaee18ff7d35a6b.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/14142747-05B4-6191-A4A5-4W6W4UY8JO63FN17J9CF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여성혐오 셀프테스트 (뉴스타파 ─ 데이터)]]></title>
             <link>https://newstapa.org/misogyny</link>
             <guid>https://newstapa.org/misogyny</guid>
             <pubDate>Wed, 29 Jun 2016 00:00:00 GMT</pubDate>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/16165627-7DD5-8A74-9FA5-QTNEEC24CT5N3G7U457X.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/14142613-AB05-21C5-138D-ERT7K4XXLN2LVTTXPRJR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박근혜 최순실 체제의 부역자들 (뉴스타파 ─ 데이터)]]></title>
@@ -3452,11 +3452,19 @@
             <content:encoded><![CDATA[조현 외교부 장관 후보가 과거 공직자 재산 신고 과정에서 중요 재산 정보를 상습 누락한 사실이 확인됐습니다. 조 후보는 주유엔(UN) 대사 시절, 전세 보증금 9억 원을 받은 사실을 신고하지 않았습니다. 또 아들에 대한 7억 원 증여 사실 등도 신고에서 누락했습니다. 공직자윤리법 위반으로 징계 대상에 해당합니다.  <br><br>뉴스타파는 조 후보 측에 연락해 재산 신고 누락 사유를 물었지만, 조 후보는 답변을 거부했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/kX5bQ</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[타파스] 더이상 피 묻은 빵을 먹을 수는 없다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250714141123333</link>
+            <guid>https://v.daum.net/v/20250714141123333</guid>
+            <pubDate>Mon, 14 Jul 2025 05:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250714141123333" class="link_column" data-tiara-layer="[타파스]_더이상_피_묻은_빵을_먹을_수는_없다_alltab"><div class="cont_thumb"><strong class="tit_txt">[타파스] 더이상 피 묻은 빵을 먹을 수는 없다</strong><span class="info_txt"><span class="txt_info">18분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714141124933mgtp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714141124933mgtp.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[한성숙, 동생에 '삼청동 한옥' 헐값 임대...'편법 증여' 의혹 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250714130647999</link>
             <guid>https://v.daum.net/v/20250714130647999</guid>
             <pubDate>Mon, 14 Jul 2025 04:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250714130647999" class="link_column" data-tiara-layer="한성숙,_동생에_'삼청동_한옥'_헐값_임대...'편법_증여'_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">한성숙, 동생에 '삼청동 한옥' 헐값 임대...'편법 증여' 의혹</strong><span class="info_txt"><span class="txt_info">38분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714130648775rzgj.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250714130647999" class="link_column" data-tiara-layer="한성숙,_동생에_'삼청동_한옥'_헐값_임대...'편법_증여'_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">한성숙, 동생에 '삼청동 한옥' 헐값 임대...'편법 증여' 의혹</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714130648775rzgj.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714130648775rzgj.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3464,7 +3472,7 @@
             <link>https://v.daum.net/v/20250712140123244</link>
             <guid>https://v.daum.net/v/20250712140123244</guid>
             <pubDate>Sat, 12 Jul 2025 05:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250712140123244" class="link_column" data-tiara-layer="‘대북송금_공작’_폭로_전_KH_부회장_'정치권_로비'_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">‘대북송금 공작’ 폭로 전 KH 부회장 '정치권 로비' 의혹</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F12%2Fnewstapa%2F20250712162125041mbmd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250712140123244" class="link_column" data-tiara-layer="‘대북송금_공작’_폭로_전_KH_부회장_'정치권_로비'_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">‘대북송금 공작’ 폭로 전 KH 부회장 '정치권 로비' 의혹</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F12%2Fnewstapa%2F20250712162125041mbmd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F12%2Fnewstapa%2F20250712162125041mbmd.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3512,7 @@
             <link>https://v.daum.net/v/20250711140624280</link>
             <guid>https://v.daum.net/v/20250711140624280</guid>
             <pubDate>Fri, 11 Jul 2025 05:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250711140624280" class="link_column" data-tiara-layer="[다큐_뉴스타파]아무도_책임지지_않는다,_SPC_빵공장의_죽음_alltab"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파]아무도 책임지지 않는다, SPC 빵공장의 죽음</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F11%2Fnewstapa%2F20250711140653530seln.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250711140624280" class="link_column" data-tiara-layer="[다큐_뉴스타파]아무도_책임지지_않는다,_SPC_빵공장의_죽음_alltab"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파]아무도 책임지지 않는다, SPC 빵공장의 죽음</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F11%2Fnewstapa%2F20250711140653530seln.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F11%2Fnewstapa%2F20250711140653530seln.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3680,14 +3688,6 @@
             <pubDate>Mon, 07 Jul 2025 06:35:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250707150132275" class="link_column" data-tiara-layer="구윤철_기재부_장관_후보,_문_정부_때_거짓말로_강남_아파트_지켜_alltab"><div class="cont_thumb"><strong class="tit_txt">구윤철 기재부 장관 후보, 문 정부 때 거짓말로 강남 아파트 지켜</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F07%2Fnewstapa%2F20250707150133535exzy.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F07%2Fnewstapa%2F20250707150133535exzy.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 12·3 내란의 남은 퍼즐 조각, 밝히지 않으면 반복된다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250707140624927</link>
-            <guid>https://v.daum.net/v/20250707140624927</guid>
-            <pubDate>Mon, 07 Jul 2025 05:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250707140624927" class="link_column" data-tiara-layer="[타파스]_12·3_내란의_남은_퍼즐_조각,_밝히지_않으면_반복된다_alltab"><div class="cont_thumb"><strong class="tit_txt">[타파스] 12·3 내란의 남은 퍼즐 조각, 밝히지 않으면 반복된다</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F07%2Fnewstapa%2F20250707140625924mdbj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F07%2Fnewstapa%2F20250707140625924mdbj.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
