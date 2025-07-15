@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Jul 2025 03:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Jul 2025 04:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파, 스카이데일리 '가짜 뉴스'에 민사 1심 승소 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/RAmJ3</link>
+            <guid>http://newstapa.org/article/RAmJ3</guid>
+            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 스카이데일리 '가짜 뉴스'에 민사 1심 승소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15132234-C421-17ED-93A5-6BBI3TQJQI1Y13TNB7IH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파 수사, ‘검찰국가’의 상징... 참여연대 검찰보고서 출간 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/sjVKK</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[리박스쿨 뿌리② 리박의 아버지가 만든 괴물 '아스팔트 삼총사']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10171514-2ABD-175F-CE98-BLV9MZ9FJUV0POTFK3R4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리박스쿨 뿌리③ 윤석열 정권 노조 탄압도 '리박 아버지' 작품 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/7-OMV</link>
-            <guid>http://newstapa.org/article/7-OMV</guid>
-            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[리박스쿨 뿌리③ 윤석열 정권 노조 탄압도 '리박 아버지' 작품]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10171501-1F39-3D0E-9017-RTYCH45IDO6ZT8PZNNHF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[권오을 보훈부 장관 후보, 선거 전 ‘복붙’, ‘짜깁기’ 책으로 출판기념회 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/14170544-ACBC-9953-C7D9-8XU88HOWP0M2NV5FXJDG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파, 스카이데일리 '가짜 뉴스'에 민사 1심 승소 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/RAmJ3</link>
+            <guid>http://newstapa.org/article/RAmJ3</guid>
+            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 스카이데일리 '가짜 뉴스'에 민사 1심 승소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15132234-C421-17ED-93A5-6BBI3TQJQI1Y13TNB7IH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 언론공범① ‘윤석열대망론’은 누가 띄웠나 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/bV8-G</link>
             <guid>http://newstapa.org/article/bV8-G</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 무안공항에 모인 기자들... 언론의 '조별 과제'가 시험대에 오르다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/10160401-8A04-34A3-C17A-9U8SMS130U70ICT5TARQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선거연수원서 중국 해커 90명 체포? '부정선거' 악순환의 고리 찾았다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/NzPjK</link>
-            <guid>http://newstapa.org/article/NzPjK</guid>
-            <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[선거연수원서 중국 해커 90명 체포? '부정선거' 악순환의 고리 찾았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/08173109-153F-586F-20CF-JG5V6KMDN9CQ8W5C7R48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 21대 대통령선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3312,6 +3312,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파, 스카이데일리 '가짜 뉴스'에 민사 1심 승소 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110059169</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110059169</guid>
+            <pubDate>Tue, 15 Jul 2025 04:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파가 스카이데일리를 상대로 제기한 정정보도 청구 및 손해배상 소송에서 1심에서 승소했습니다. 서울중앙지법은 지난 11일,&nbsp;스카이데일리의 허위 보도로 뉴스타파의 명예가 훼손됐다고 판단하고 정정보도 및 손해배상금 500만 원 지급을 명령했습니다.&nbsp;&nbsp;<br><br>문제의 기사는 2023년 10월 3일에 나왔습니다. 당시 스카이데일리는 &lt;[단독] “김건희가 시켰다고 거짓으로 말해 달라”&gt;이라는 제목의 기사를 냈는데 100% 가짜였습니다. 이 기사를 쓴 기자는&nbsp;올해 1월엔 &lt;[단독] 선거연수원 체포 중국인 99명 주일미군기지 압송됐다&gt;는 제목의 기사로 써서 수사를 받고 있습니다.&nbsp;<br><br>위 기사가 나온 시점은 윤석열 정권이 검찰을 동원해 뉴스타파에 대한 강제 수사에 돌입한 직후였습니다. 또 기사와 관련된 자들이 리박스쿨과 연관된 단체에서 활동하고 있는 사실도 새롭게 파악됐습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/RAmJ3</span><br>👉 뉴스타파는 광고와 협찬 없이 회원들의 후원금으로만 운영됩니다. 뉴스타파에 힘을 보태주세요 : <span class="link_url">https://newstapa.org/donate</span><br>🌏 해외에서는 Paypal을 통해 후원하실 수 있습니다. Paypal 후원 링크 : <span class="link_url">https://url.kr/7n3hfe</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[<당신이 보지 못한 한국전쟁 3부작> 북토크에 모십니다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/110056247</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/110056247</guid>
@@ -3445,18 +3452,19 @@
             <content:encoded><![CDATA[뉴스타파는 리박스쿨 관련자로 지목된 이들이 활동 중인 국가교육위원회의 기명 회의록을 입수해 살펴봤습니다. <br><br>그 결과, 리박스쿨 보도가 나온 직후 열린 회의에서 김주성 위원이 리박스쿨 사태와 관련해 거짓 해명을 한 사실을 확인했습니다.<br><br>이배용 위원장 역시 공식적인 유감 표명을 해야한다는 위원들의 의견을 일축하는 등 책임을 회피했습니다. 이에 반발한 위원들이 언론에 '사과 거부' 사실을 알리겠다고 하자, 위원들 '입막음'까지 시도했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/YFnZ7</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이승만·박정희의 사법살인 옹호한 '역사교과서' 원고 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110011689</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110011689</guid>
-            <pubDate>Thu, 10 Jul 2025 04:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파는 윤석열 정부 시기 뉴라이트, 극우 세력들이 정부가 공인하는 검정 교과서에 어떤 역사관을 담고 싶어했는지, 연속 보도를 통해 그 실체를 드러내고 있습니다.<br><br>뉴스타파가 입수한 당시 교과서 원고에는 이승만과 박정희 독재 정권이 자행한 간첩 조작, 사법살인 사건들을 왜곡하는 내용이 담겨 있었습니다.<br><br>진보당 사건, 민청학련 사건 등 민주국가에서는 있어서는 안 될 인권 유린이자 정치 탄압 사건을 문제의 교과서 원고 저자는 어떻게 서술하고 있는지 공개합니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/ZdJ6wJpoKCE</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/fM_Ig</span>]]></content:encoded>
+            <title><![CDATA[뉴스타파, 스카이데일리 '가짜 뉴스'에 민사 1심 승소 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250715132625953</link>
+            <guid>https://v.daum.net/v/20250715132625953</guid>
+            <pubDate>Tue, 15 Jul 2025 04:42:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250715132625953" class="link_column" data-tiara-layer="뉴스타파,_스카이데일리_'가짜_뉴스'에_민사_1심_승소_alltab"><div class="cont_thumb"><strong class="tit_txt">뉴스타파, 스카이데일리 '가짜 뉴스'에 민사 1심 승소</strong><span class="info_txt"><span class="txt_info">16분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F15%2Fnewstapa%2F20250715132626422epva.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F15%2Fnewstapa%2F20250715132626422epva.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파 수사, ‘검찰국가’의 상징... 참여연대 검찰보고서 출간 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250714181132403</link>
             <guid>https://v.daum.net/v/20250714181132403</guid>
             <pubDate>Mon, 14 Jul 2025 09:30:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250714181132403" class="link_column" data-tiara-layer="뉴스타파_수사,_‘검찰국가’의_상징..._참여연대_검찰보고서_출간_alltab"><div class="cont_thumb"><strong class="tit_txt">뉴스타파 수사, ‘검찰국가’의 상징... 참여연대 검찰보고서 출간</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714181134447sllb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250714181132403" class="link_column" data-tiara-layer="뉴스타파_수사,_‘검찰국가’의_상징..._참여연대_검찰보고서_출간_alltab"><div class="cont_thumb"><strong class="tit_txt">뉴스타파 수사, ‘검찰국가’의 상징... 참여연대 검찰보고서 출간</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714181134447sllb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714181134447sllb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3464,7 +3472,7 @@
             <link>https://v.daum.net/v/20250714172643596</link>
             <guid>https://v.daum.net/v/20250714172643596</guid>
             <pubDate>Mon, 14 Jul 2025 08:34:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250714172643596" class="link_column" data-tiara-layer="권오을_보훈부_장관_후보,_선거_전_‘복붙’,_‘짜깁기’_책으로_출판기념회_alltab"><div class="cont_thumb"><strong class="tit_txt">권오을 보훈부 장관 후보, 선거 전 ‘복붙’, ‘짜깁기’ 책으로 출판기념회</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714172651208chpw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250714172643596" class="link_column" data-tiara-layer="권오을_보훈부_장관_후보,_선거_전_‘복붙’,_‘짜깁기’_책으로_출판기념회_alltab"><div class="cont_thumb"><strong class="tit_txt">권오을 보훈부 장관 후보, 선거 전 ‘복붙’, ‘짜깁기’ 책으로 출판기념회</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714172651208chpw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714172651208chpw.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3472,7 +3480,7 @@
             <link>https://v.daum.net/v/20250714144134977</link>
             <guid>https://v.daum.net/v/20250714144134977</guid>
             <pubDate>Mon, 14 Jul 2025 06:36:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250714144134977" class="link_column" data-tiara-layer="[현장에서]_미프진과_빛의_혁명_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 미프진과 빛의 혁명</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714144135752yito.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250714144134977" class="link_column" data-tiara-layer="[현장에서]_미프진과_빛의_혁명_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 미프진과 빛의 혁명</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714144135752yito.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714144135752yito.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3480,7 +3488,7 @@
             <link>https://v.daum.net/v/20250714141123333</link>
             <guid>https://v.daum.net/v/20250714141123333</guid>
             <pubDate>Mon, 14 Jul 2025 05:29:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250714141123333" class="link_column" data-tiara-layer="[타파스]_더이상_피_묻은_빵을_먹을_수는_없다_alltab"><div class="cont_thumb"><strong class="tit_txt">[타파스] 더이상 피 묻은 빵을 먹을 수는 없다</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714141124933mgtp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250714141123333" class="link_column" data-tiara-layer="[타파스]_더이상_피_묻은_빵을_먹을_수는_없다_alltab"><div class="cont_thumb"><strong class="tit_txt">[타파스] 더이상 피 묻은 빵을 먹을 수는 없다</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714141124933mgtp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714141124933mgtp.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3488,7 +3496,7 @@
             <link>https://v.daum.net/v/20250714130647999</link>
             <guid>https://v.daum.net/v/20250714130647999</guid>
             <pubDate>Mon, 14 Jul 2025 04:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250714130647999" class="link_column" data-tiara-layer="한성숙,_동생에_'삼청동_한옥'_헐값_임대...'편법_증여'_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">한성숙, 동생에 '삼청동 한옥' 헐값 임대...'편법 증여' 의혹</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714130648775rzgj.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250714130647999" class="link_column" data-tiara-layer="한성숙,_동생에_'삼청동_한옥'_헐값_임대...'편법_증여'_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">한성숙, 동생에 '삼청동 한옥' 헐값 임대...'편법 증여' 의혹</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714130648775rzgj.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F14%2Fnewstapa%2F20250714130648775rzgj.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3544,7 +3552,7 @@
             <link>https://v.daum.net/v/20250711132624945</link>
             <guid>https://v.daum.net/v/20250711132624945</guid>
             <pubDate>Fri, 11 Jul 2025 04:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250711132624945" class="link_column" data-tiara-layer="전재수_해수부_장관_후보,_'SNS_복붙'_책으로_세_번_출판기념회_alltab"><div class="cont_thumb"><strong class="tit_txt">전재수 해수부 장관 후보, 'SNS 복붙' 책으로 세 번 출판기념회</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F11%2Fnewstapa%2F20250711132642036brgw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250711132624945" class="link_column" data-tiara-layer="전재수_해수부_장관_후보,_'SNS_복붙'_책으로_세_번_출판기념회_alltab"><div class="cont_thumb"><strong class="tit_txt">전재수 해수부 장관 후보, 'SNS 복붙' 책으로 세 번 출판기념회</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F11%2Fnewstapa%2F20250711132642036brgw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F11%2Fnewstapa%2F20250711132642036brgw.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3608,7 +3616,7 @@
             <link>https://v.daum.net/v/20250710132124327</link>
             <guid>https://v.daum.net/v/20250710132124327</guid>
             <pubDate>Thu, 10 Jul 2025 04:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250710132124327" class="link_column" data-tiara-layer="이승만·박정희의_사법살인_옹호한_'역사교과서'_원고_alltab"><div class="cont_thumb"><strong class="tit_txt">이승만·박정희의 사법살인 옹호한 '역사교과서' 원고</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F10%2Fnewstapa%2F20250710132126377efgf.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250710132124327" class="link_column" data-tiara-layer="이승만·박정희의_사법살인_옹호한_'역사교과서'_원고_alltab"><div class="cont_thumb"><strong class="tit_txt">이승만·박정희의 사법살인 옹호한 '역사교과서' 원고</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F10%2Fnewstapa%2F20250710132126377efgf.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F10%2Fnewstapa%2F20250710132126377efgf.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3682,14 +3690,6 @@
             <pubDate>Tue, 08 Jul 2025 06:33:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250708151624004" class="link_column" data-tiara-layer="'검찰_개혁'_이재명_정부,_'특활비_오남용_의혹'_검사장_2명_중용_alltab"><div class="cont_thumb"><strong class="tit_txt">'검찰 개혁' 이재명 정부, '특활비 오남용 의혹' 검사장 2명 중용</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img2.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F08%2Fnewstapa%2F20250708151625936jqvi.webp" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img2.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F08%2Fnewstapa%2F20250708151625936jqvi.webp" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[<뉴스타파 v. 윤석열> 검찰, 봉지욱 공소장 절반 삭제...  봉지욱 기자 3차 준비기일 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250708130124409</link>
-            <guid>https://v.daum.net/v/20250708130124409</guid>
-            <pubDate>Tue, 08 Jul 2025 04:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250708130124409" class="link_column" data-tiara-layer="&lt;뉴스타파_v._윤석열&gt;_검찰,_봉지욱_공소장_절반_삭제...__봉지욱_기자_3차_준비기일_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;뉴스타파 v. 윤석열&gt; 검찰, 봉지욱 공소장 절반 삭제...  봉지욱 기자 3차 준비기일</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F08%2Fnewstapa%2F20250708130129954ywle.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F08%2Fnewstapa%2F20250708130129954ywle.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
