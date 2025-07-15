@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Jul 2025 06:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Jul 2025 07:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 윤석열 언론공범② ‘충청 대망론’은 누가 띄웠나]]></title>
+            <link>http://newstapa.org/article/ASvOy</link>
+            <guid>http://newstapa.org/article/ASvOy</guid>
+            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 윤석열 언론공범② ‘충청 대망론’은 누가 띄웠나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15154039-F0FF-A908-F97A-G9UEKOKOWZHLKVBCJED5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팔레스타인 리포트 ⑦발라타 난민캠프의 이중고... 점령과 지원 축소]]></title>
             <link>http://newstapa.org/article/lXG_5</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[전재수 해수부 장관 후보, 'SNS 복붙' 책으로 세 번 출판기념회]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11131952-EBB9-FD5E-20A8-LPDA88E5O3CJTX7EEQ74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 집사 게이트 ⑥ 윤석열 대통령실, '집사 게이트' 알고 있었다]]></title>
-            <link>http://newstapa.org/article/j_8Iq</link>
-            <guid>http://newstapa.org/article/j_8Iq</guid>
-            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희 집사 게이트 ⑥ 윤석열 대통령실, '집사 게이트' 알고 있었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10185637-F3E0-5754-FEEE-WYRH4WN0YSF0P3O39POH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
