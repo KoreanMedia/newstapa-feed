@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Jul 2025 03:31:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jul 2025 04:41:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 국방부가 은폐한 '6·25전쟁 참전자 증언록', 뉴스타파 정보공개 소송 2심도 승소]]></title>
+            <link>http://newstapa.org/article/7gxn6</link>
+            <guid>http://newstapa.org/article/7gxn6</guid>
+            <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 국방부가 은폐한 '6·25전쟁 참전자 증언록', 뉴스타파 정보공개 소송 2심도 승소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/16110103-387D-A5CF-D79C-BDFEAAQGOT860P9E6ARP.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 윤석열 언론공범② ‘충청 대망론’은 누가 띄웠나]]></title>
             <link>http://newstapa.org/article/ASvOy</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[다큐 뉴스타파]아무도 책임지지 않는다, SPC 빵공장의 죽음]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11140012-8489-71C6-BD4F-ZHOGG0C66VEZYBERM2NQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전재수 해수부 장관 후보, 'SNS 복붙' 책으로 세 번 출판기념회]]></title>
-            <link>http://newstapa.org/article/tSvec</link>
-            <guid>http://newstapa.org/article/tSvec</guid>
-            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전재수 해수부 장관 후보, 'SNS 복붙' 책으로 세 번 출판기념회]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11131952-EBB9-FD5E-20A8-LPDA88E5O3CJTX7EEQ74.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
