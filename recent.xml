@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Jul 2025 09:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jul 2025 10:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SPC 빵공장의 죽음 더 있었다...과로사 3명 확인]]></title>
+            <link>http://newstapa.org/article/PQMyS</link>
+            <guid>http://newstapa.org/article/PQMyS</guid>
+            <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[SPC 빵공장의 죽음 더 있었다...과로사 3명 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/16115911-72EB-F135-39B0-QYQPY7KK57NPX5TB8TGD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['민원 해결사' 명태균에게 '산단 입주'로 보답한 한화]]></title>
             <link>http://newstapa.org/article/LRUB-</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령실에도 '리박 라인'…"리박 챙겨라" 압력 행사]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11165659-7F54-A500-CD6A-CQK2ISI43P7B3D26QYEM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이진숙 KCI 학술지 논문 전수 조사… 1저자 논문 4개 중 1개가 표절]]></title>
-            <link>http://newstapa.org/article/FCCeW</link>
-            <guid>http://newstapa.org/article/FCCeW</guid>
-            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이진숙 KCI 학술지 논문 전수 조사… 1저자 논문 4개 중 1개가 표절]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11181132-5185-B67B-D98D-DUGC1X20MHW6SONGQXWD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
