@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Jul 2025 08:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Jul 2025 09:29:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 김건희 집사 게이트 : 카카오는 정말 몰랐나]]></title>
+            <link>http://newstapa.org/article/Vu3PT</link>
+            <guid>http://newstapa.org/article/Vu3PT</guid>
+            <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 김건희 집사 게이트 : 카카오는 정말 몰랐나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/17170423-9748-A409-BCC9-Y4XKL5WLE7A4RYAZP3AQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김건희 집사 게이트 ⑦ 카카오의 '밀어줄 결심'?... 사전 인지 정황 다수 확인]]></title>
+            <link>http://newstapa.org/article/1Eo2u</link>
+            <guid>http://newstapa.org/article/1Eo2u</guid>
+            <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김건희 집사 게이트 ⑦ 카카오의 '밀어줄 결심'?... 사전 인지 정황 다수 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/17171547-C148-A9BC-0C27-PKURGOM0UTV9P8AQ00BI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김건희 집사 게이트 ⑧ 카카오모빌리티, '집사 투자' 책임자에 갑질 면죄부]]></title>
+            <link>http://newstapa.org/article/NRiU7</link>
+            <guid>http://newstapa.org/article/NRiU7</guid>
+            <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김건희 집사 게이트 ⑧ 카카오모빌리티, '집사 투자' 책임자에 갑질 면죄부]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/17170645-F108-A657-49C2-KXKSAUSIWR7HW4K6LA1V.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SPC 빵공장의 죽음 더 있었다...과로사 3명 확인]]></title>
             <link>http://newstapa.org/article/PQMyS</link>
@@ -110,30 +134,6 @@
             <pubDate>Sat, 12 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘대북송금 공작’ 폭로 전 KH 부회장 '정치권 로비' 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/12141032-6D82-811E-64C0-3KIKMHYKYWO92TON4J3O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무엇을 할 것인가 : 사회통합] 결국, 우리는 함께 살아야 한다]]></title>
-            <link>http://newstapa.org/article/52j5j</link>
-            <guid>http://newstapa.org/article/52j5j</guid>
-            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[무엇을 할 것인가 : 사회통합] 결국, 우리는 함께 살아야 한다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11181204-39A9-0059-E1C8-5K161KBHFL0GQ0734T82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 윤석열 언론공범① ‘윤석열대망론’은 누가 띄웠나]]></title>
-            <link>http://newstapa.org/article/bV8-G</link>
-            <guid>http://newstapa.org/article/bV8-G</guid>
-            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 윤석열 언론공범① ‘윤석열대망론’은 누가 띄웠나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11191716-CC9E-A572-35C4-E3NMCLNLVIIXCABPRGT4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 대통령실에도 '리박 라인'…"리박 챙겨라" 압력 행사]]></title>
-            <link>http://newstapa.org/article/-yzn-</link>
-            <guid>http://newstapa.org/article/-yzn-</guid>
-            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령실에도 '리박 라인'…"리박 챙겨라" 압력 행사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11165659-7F54-A500-CD6A-CQK2ISI43P7B3D26QYEM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
