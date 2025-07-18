@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-07-18T01:52:41.142Z</updated>
+    <updated>2025-07-18T03:41:02.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/7943316/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[다큐 후일담] ‘SPC 빵공장의 죽음’ 취재기]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/110097021</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/110097021"/>
+        <updated>2025-07-18T03:40:51.601Z</updated>
+        <content type="html"><![CDATA[지난주 금요일 뉴스타파는 다큐멘터리 ‘아무도 책임지지 않는다, SPC 빵공장의 죽음’ 편을 제작하여 공개했습니다. 빵을 만들다 사망하는 노동자가 발생하는 기업 SPC에서 발생한 노동자 사망 사고의 진상을 추적하는 다큐멘터리였습니다. 노동자가 빵을 만들다 사망한 SPC 공장의 작업 환경과 그들이 왜 위험을 무릅쓰고 일을 할 수밖에 없었는지에 대해 집중적으로 다루었으며, 많은 공감을 얻었습니다. <br><br>다큐멘터리에는 담기지 않았지만, SPC에 대해 우리가 더 알아야 할 이야기는 없을까요? 지난 몇 달간 SPC 빵더미 속에 파묻혀 안타까운 죽음의 진상을 파헤쳐 온 홍여진, 이명주 두 기자에게 취재 과정의 이야기를 직접 들어보는 시간을 마련했습니다. 두 기자가 이번 다큐멘터리를 통해 진심으로 말하고 싶었던 것은 무엇이었을까요? <br><br>홍여진, 이명주 기자가 이야기하는 다큐 제작기 [‘SPC 빵공장의 죽음’ 다큐 후일담], 여러분의 많은 시청 바랍니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/MCkkb2Uv9dU</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/Wbemt</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김건희 집사 게이트 : 카카오는 정말 몰랐나 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/110091576</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/110029035"/>
         <updated>2025-07-11T08:31:08.904Z</updated>
         <content type="html"><![CDATA[지난 5월 뉴스타파는 극우 교육단체 리박스쿨이 댓글조작과 극우 역사교육을 일삼고 있다고 보도했습니다. 어제(11일) 국회 교육위원회는 리박스쿨 청문회를 개최했습니다. 청문회에서 리박스쿨의 늘봄학교 공모 선정 과정에 대통령실의 압력이 있었다는 사실이 교육부 국장 증언으로 확인됐습니다. 리박스쿨 관련 대통령실이 직접 개입한 사실이 확인된 건 이번이 처음입니다.<br><br>아울러 뉴스타파 취재 결과, 리박스쿨과 관련된 극우단체에서 활동하던 인사가 윤석열 대통령실에서 행정관으로 근무한 사실도 확인됐습니다. 그는 극우단체 사랑방 '뜨락'의 등기상 감사였던 것으로 파악됐습니다.<br><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/-yzn-</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진숙 KCI 학술지 논문 전수 조사… 1저자 논문 4개 중 1개가 표절]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/110027821</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/110027821"/>
-        <updated>2025-07-11T07:24:29.059Z</updated>
-        <content type="html"><![CDATA[이진숙 교육부 장관 후보자는 '제자 논문 가로채기' 의혹이 불거지자, 일부 학계와 시민사회에서는 이 후보자의 사퇴를 요구하고 있습니다. 이에 뉴스타파는 이 후보자가 1저자로 이름을 올려 KCI 등재학술지에 발표한 논문을 전수 검증했습니다. <br><br>분석 결과, 94건의 논문 중 22건이 표절률 20% 이상으로, 대부분 제자의 석·박사 학위 논문을 출처 없이 베껴 쓴 것으로 확인됐습니다. 학계의 연구윤리 규정 위반에 해당하는 행위입니다. 이 후보자 측은 논란에 대해 인사청문회에서 해명하겠다는 입장을 밝혀왔습니다.<br><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/FCCeW</span>]]></content>
     </entry>
 </feed>
