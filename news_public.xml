@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Jul 2025 08:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jul 2025 09:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통일교, 펜스 전 미 부통령 7억 원 주고 초청…윤석열과 회동 주선]]></title>
+            <link>http://newstapa.org/article/yfAH1</link>
+            <guid>http://newstapa.org/article/yfAH1</guid>
+            <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[통일교, 펜스 전 미 부통령 7억 원 주고 초청…윤석열과 회동 주선]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/22180359-7072-5ECE-975D-W4R31OYKNBK9NI7YHF74.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 김건희 집사 게이트 : 카카오는 정말 몰랐나]]></title>
             <link>http://newstapa.org/article/Vu3PT</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 리박스쿨 뿌리 추적... 대부와 실행자들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10155218-B92F-7245-8F2D-XNZ7G8DU8G5DWA6H9BHS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가교육위원회 회의록 공개...리박스쿨 유착 숨기고 '입단속']]></title>
-            <link>http://newstapa.org/article/YFnZ7</link>
-            <guid>http://newstapa.org/article/YFnZ7</guid>
-            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국가교육위원회 회의록 공개...리박스쿨 유착 숨기고 '입단속']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10172808-9DED-CA87-7D77-LWIN20UPUMUEEX06N35O.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
