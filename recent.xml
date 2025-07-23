@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Jul 2025 01:53:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jul 2025 03:43:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열이 선택한 '평양 무인기'...불법 감추려 '알리바이' 문건 작성]]></title>
+            <link>http://newstapa.org/article/NaR5c</link>
+            <guid>http://newstapa.org/article/NaR5c</guid>
+            <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열이 선택한 '평양 무인기'...불법 감추려 '알리바이' 문건 작성]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/23115237-EF9D-2215-552B-8OT5A7G1XCZQOGF19HD4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['주무관'과 '교육감'...수상한 '검정교과서' 계획 문건 공개]]></title>
+            <link>http://newstapa.org/article/EVuEs</link>
+            <guid>http://newstapa.org/article/EVuEs</guid>
+            <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['주무관'과 '교육감'...수상한 '검정교과서' 계획 문건 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/23104241-4A12-876C-C482-41F8971G3PL1K0A504YT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부당해고 소송 5년 끌더니 '합의'한 쿠팡... 합의문에는 '입막음 조항']]></title>
             <link>http://newstapa.org/article/7pY8l</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, 스카이데일리 '가짜 뉴스'에 민사 1심 승소]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15132234-C421-17ED-93A5-6BBI3TQJQI1Y13TNB7IH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파 수사, ‘검찰국가’의 상징... 참여연대 검찰보고서 출간]]></title>
-            <link>http://newstapa.org/article/sjVKK</link>
-            <guid>http://newstapa.org/article/sjVKK</guid>
-            <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파 수사, ‘검찰국가’의 상징... 참여연대 검찰보고서 출간]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/14180921-FDD2-A728-5A70-DD53Q3VCBZMZ8Q4J94R8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권오을 보훈부 장관 후보, 선거 전 ‘복붙’, ‘짜깁기’ 책으로 출판기념회]]></title>
-            <link>http://newstapa.org/article/JbfTn</link>
-            <guid>http://newstapa.org/article/JbfTn</guid>
-            <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[권오을 보훈부 장관 후보, 선거 전 ‘복붙’, ‘짜깁기’ 책으로 출판기념회]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15104744-8ECC-4437-5CAF-8AQG8L5K9CK8A70EIHK7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
