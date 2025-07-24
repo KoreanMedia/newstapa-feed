@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Jul 2025 07:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jul 2025 08:33:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국방과학연구소, '윤석열 맞춤형 예규' 만들어 무인기 편법 구매]]></title>
+            <link>http://newstapa.org/article/3BwqZ</link>
+            <guid>http://newstapa.org/article/3BwqZ</guid>
+            <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국방과학연구소, '윤석열 맞춤형 예규' 만들어 무인기 편법 구매]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/24113755-3F62-D406-9218-ZRTSYQ8NOX6IWDL9C19M.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열이 선택한 '평양 무인기'...불법 감추려 '알리바이' 문건 작성]]></title>
             <link>http://newstapa.org/article/NaR5c</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 사상 첫 교과서 검정 합격 취소...뉴스타파 보도 11개월만]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15150140-765D-66DD-26BC-1BUVNPWKKSG6SRMK1W9S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, 스카이데일리 '가짜 뉴스'에 민사 1심 승소]]></title>
-            <link>http://newstapa.org/article/RAmJ3</link>
-            <guid>http://newstapa.org/article/RAmJ3</guid>
-            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파, 스카이데일리 '가짜 뉴스'에 민사 1심 승소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15132234-C421-17ED-93A5-6BBI3TQJQI1Y13TNB7IH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

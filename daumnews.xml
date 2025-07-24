@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Jul 2025 07:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jul 2025 08:33:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국방과학연구소, '윤석열 맞춤형 예규' 만들어 무인기 편법 구매]]></title>
+            <link>https://v.daum.net/v/20250724164642102</link>
+            <guid>https://v.daum.net/v/20250724164642102</guid>
+            <pubDate>Thu, 24 Jul 2025 08:33:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250724164642102" class="link_column" data-tiara-layer="국방과학연구소,_'윤석열_맞춤형_예규'_만들어_무인기_편법_구매_alltab"><div class="cont_thumb"><strong class="tit_txt">국방과학연구소, '윤석열 맞춤형 예규' 만들어 무인기 편법 구매</strong><span class="info_txt"><span class="txt_info">46분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F24%2Fnewstapa%2F20250724164643472eblm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F24%2Fnewstapa%2F20250724164643472eblm.png" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[윤석열이 선택한 '평양 무인기'...불법 감추려 '알리바이' 문건 작성]]></title>
             <link>https://v.daum.net/v/20250723115653559</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 10 Jul 2025 10:25:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250710190132892" class="link_column" data-tiara-layer="김건희_집사_게이트_⑥_윤석열_대통령실,_'집사_게이트'_알고_있었다_alltab"><div class="cont_thumb"><strong class="tit_txt">김건희 집사 게이트 ⑥ 윤석열 대통령실, '집사 게이트' 알고 있었다</strong><span class="info_txt"><span class="txt_info">2025. 7. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F10%2Fnewstapa%2F20250710193125643uxma.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F10%2Fnewstapa%2F20250710193125643uxma.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[리박스쿨 뿌리① 리박스쿨 탄생은 개인의 일탈이 아니었다]]></title>
-            <link>https://v.daum.net/v/20250710172156270</link>
-            <guid>https://v.daum.net/v/20250710172156270</guid>
-            <pubDate>Thu, 10 Jul 2025 08:31:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250710172156270" class="link_column" data-tiara-layer="리박스쿨_뿌리①_리박스쿨_탄생은_개인의_일탈이_아니었다_alltab"><div class="cont_thumb"><strong class="tit_txt">리박스쿨 뿌리① 리박스쿨 탄생은 개인의 일탈이 아니었다</strong><span class="info_txt"><span class="txt_info">2025. 7. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F10%2Fnewstapa%2F20250710172157662fqfe.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202507%2F10%2Fnewstapa%2F20250710172157662fqfe.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
