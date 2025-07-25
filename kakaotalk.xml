@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-07-25T04:42:44.068Z</updated>
+    <updated>2025-07-25T05:31:59.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/7943316/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[21대 대선 선거비용 분석, ‘광고’ 늘고 ‘방송 연설’ 줄었다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/110217307</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/110217307"/>
+        <updated>2025-07-25T05:30:57.421Z</updated>
+        <content type="html"><![CDATA[제21대 대선에서 후보자들은 어떤 분야에 가장 많은 정치자금을 지출했을까요? 뉴스타파는 지난 7월 21일 중앙선거관리위원회가 공개한 7개 정당의 정치자금 수입·지출 보고 내역을 살펴봤습니다. 그리고 더불어민주당의 20대 대선과 21대 대선 지출 내역을 비교해봤습니다. <br><br>더불어민주당은 이재명 당선인이 대선 후보로 확정되자마자 포털 광고에 대규모 비용을 집행했습니다. 반면에 국민의힘은 대선 후보 확정 이전부터 포털 광고비와 주요 일간지 신문광고비를 선제적으로 집행했습니다. <br><br>더불어민주당의 두 차례 대선 지출 내역을 비교하면 전체 지출 규모는 증가했지만 방송연설과 인쇄 항목에서는 오히려 지출이 감소했습니다.  특히 방송연설 비용은 20대 대선 당시 약 72억 원에서 21대 대선에는 약 25억 원으로 대폭 줄어들었습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/YgPL9</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“김건희가 심어놓은 용산 검사들이 움직였다”... 박정훈 대령 변호인 김정민 변호사]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/110211929</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/110091513"/>
         <updated>2025-07-20T19:19:01.840Z</updated>
         <content type="html"><![CDATA[김건희 집사 게이트와 관련해 카카오모빌리티 내부에서 벌어진 수상한 일이 또 있습니다. <br><br>IMS 투자를 담당했던 실무 책임자가 직장 내 괴롭힘 사건으로 징계를 받아야 할 처지에 놓였는데, 경영진이 징계를 흐지부지 무마해 준 것입니다. 경영진은 4개월에 이르는 조사 끝에 두 차례 징계위원회를 열었지만 징계를 결정하지 못했고 그 사이 가해자였던 투자 실무 책임자는 퇴사를 해버렸습니다. <br><br>회사의 중요한 비밀, 즉 IMS 투자의 배경을 알고 있기 때문에 사실상의 인사상 특혜를 받은 것은 아니었는지 의심되는 정황입니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/fL4TRkNFAWU</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/NRiU7</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['민원 해결사' 명태균에게 '산단 입주'로 보답한 한화]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/110077655</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/110077655"/>
-        <updated>2025-07-20T19:19:01.841Z</updated>
-        <content type="html"><![CDATA[뉴스타파는 민간인 명태균 씨가 국내 최대 방산기업 한화에어로스페이스의 정부 계약에 개입한 정황을 담은 카카오톡 메시지와 녹음파일을 공개한 바 있습니다. 한화 측은 로비 의혹을 부인했지만, 뉴스타파가 확보한 '명태균PC'에는 명 씨와 곽종우 한화 부사장이 직접 소통한 기록이 존재했습니다.<br><br>이에 더해 한화는 창원 제2국가산단 예정 부지에 입주하겠다는 의향서를 창원시에 제출한 것으로 드러났습니다. 이는 명태균이 한화의 민원을 해결해준 대가였을 가능성을 의심케 하는 대목입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/LRUB-</span>]]></content>
     </entry>
 </feed>
