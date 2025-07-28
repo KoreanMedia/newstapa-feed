@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-07-28T07:29:10.832Z</updated>
+    <updated>2025-07-28T08:34:48.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/d367187/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿠팡 대리점 내부 자료 입수 ① 배송구역 두고 '청탁과 특혜' 의혹]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/110252824</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/110252824"/>
+        <updated>2025-07-28T08:34:37.813Z</updated>
+        <content type="html"><![CDATA[뉴스타파는 쿠팡의 배송구역 선정 과정에서 ‘청탁과 특혜가 있었다’는 내용의 하청업체 내부 자료를 입수했습니다. 이 자료에 따르면, 쿠팡의 하청업체인 배송대리점은 쿠팡 본사 직원에게 뇌물을 건넨 대가로 배송구역 수주를 청탁했습니다. 쿠팡 직원에게 배송대리점이 입찰을 넣은 배송구역을 알려주면, 쿠팡 측이 배송 계열사인 쿠팡로지스틱스서비스에 이를 전달하는 구조였습니다.<br><br>당사자들은 모두 의혹을 부인했습니다. 특혜 의혹을 받는 배송대리점 대표는 "쿠팡 직원과 나눈 문자 메시지 대화는 다 내가 조작한 것이다"고 주장했습니다. 하지만 그는 제보자에 대한 회유를 시도하며 “조작했다”는 주장이 거짓이라는 사실을 스스로 실토했습니다.<br><br>쿠팡은 "내부 감사를 진행했지만, 의혹은 사실이 아니다"는 입장입니다. 뉴스타파는 명확한 진상 규명을 위해 쿠팡 측에 제보받은 자료를 제공하겠다고도 밝혔지만, 쿠팡은 이 제안을 사실상 거부했습니다. 감사의 내용과 절차, 대상에 대해서도 전혀 밝히지 않았습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/Kns5T</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[21대 대선 선거비용 분석, ‘광고’ 늘고 ‘방송 연설’ 줄었다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/110217307</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/110091519"/>
         <updated>2025-07-20T19:19:01.838Z</updated>
         <content type="html"><![CDATA[‘집사 게이트’에  30억 원을 댄 카카오모빌리티는 투자 당시 김건희 집사의 존재를 몰랐다는 입장이지만 뉴스타파는 그에 반하는 정황들을 다수 확인했습니다. <br><br>IMS에 대한 투자를 주도한 것으로 지목된 카카오모빌리티의 이 전 CFO는 전결 규정에 대해 거짓 해명을 했고, 오히려 김건희 집사 김 씨와의 친분을 자주 과시했다는 내부 제보가 나왔습니다. 이 전 CFO 뿐 아니라 여러 임원들이 김 씨와 친하게 지냈다는 복수의 증언도 확보했습니다.김건희 집사 김 씨는 현재도 계열사인 카카오페이의 자문으로 이름을 올리고 있다는 사실이 확인됐습니다.  <br><br>카카오모빌리티가 투자 당시 김 씨의 46억 엑시트를 몰랐다는 주장을 여전히 유지할 수 있을지 의문입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/c7daOFUZA84</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/1Eo2u</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김건희 집사 게이트 ⑧ 카카오모빌리티, '집사 투자' 책임자에 갑질 면죄부]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/110091513</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/110091513"/>
-        <updated>2025-07-20T19:19:01.840Z</updated>
-        <content type="html"><![CDATA[김건희 집사 게이트와 관련해 카카오모빌리티 내부에서 벌어진 수상한 일이 또 있습니다. <br><br>IMS 투자를 담당했던 실무 책임자가 직장 내 괴롭힘 사건으로 징계를 받아야 할 처지에 놓였는데, 경영진이 징계를 흐지부지 무마해 준 것입니다. 경영진은 4개월에 이르는 조사 끝에 두 차례 징계위원회를 열었지만 징계를 결정하지 못했고 그 사이 가해자였던 투자 실무 책임자는 퇴사를 해버렸습니다. <br><br>회사의 중요한 비밀, 즉 IMS 투자의 배경을 알고 있기 때문에 사실상의 인사상 특혜를 받은 것은 아니었는지 의심되는 정황입니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/fL4TRkNFAWU</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/NRiU7</span>]]></content>
     </entry>
 </feed>
