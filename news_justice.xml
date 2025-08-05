@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Aug 2025 09:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 10:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN]윤석열 언론공범④ ‘고발사주’ 몰리자 “야성이 돌아왔다” 방어막]]></title>
+            <link>http://newstapa.org/article/cR6Hd</link>
+            <guid>http://newstapa.org/article/cR6Hd</guid>
+            <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN]윤석열 언론공범④ ‘고발사주’ 몰리자 “야성이 돌아왔다” 방어막]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/05183227-0EA3-70AE-F5AA-D4U7C6RVYZX6TUR6MTD2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“발 크기 260 맞고, ‘통일교 목걸이’ 본 적도 없다”...김건희 핵심 측근의 반론]]></title>
             <link>http://newstapa.org/article/PhlLq</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 미완의 법원개혁: 사법농단이 만든 ‘파동’ 그 이후]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/23140651-F716-B14E-7A6B-HP0PG91PR7SZTW2FY88H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 법원이 대법관 증원에 반대하는 이유]]></title>
-            <link>http://newstapa.org/article/9hM9p</link>
-            <guid>http://newstapa.org/article/9hM9p</guid>
-            <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 법원이 대법관 증원에 반대하는 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/13161745-5011-1DC1-52D3-JMSZJ7QR5JNFWGQXHSL1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
