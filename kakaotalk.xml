@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-08-06T05:33:50.579Z</updated>
+    <updated>2025-08-06T06:38:04.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/2d26980/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] "이명박 전 대통령, 당신은 독이 든 쌀을 드실 수 있습니까?"]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/110355581</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/110355581"/>
+        <updated>2025-08-06T06:37:57.614Z</updated>
+        <content type="html"><![CDATA[이명박 전 대통령이 4대강 사업을 완공한 지 15년이 지났습니다. 많은 부작용이 발생했고, 이재명 정부는 4대강 재자연화를 공약했습니다. 그러나 이명박 전 대통령이 4대강사업에 대해 한 그동안의 거짓말들은 여전히 많은 국민들을 속이고 있고, 재자연화의 발목을 잡고 있습니다. <br><br>4대강 문제를 17년 간 취재해온 최승호PD는 오늘 6일 영화&lt;추적&gt;을 개봉했습니다. 최PD는 개봉 전 이명박 전 대통령에게 '시사회에 와서 영화를 볼 것과 4대강 사업에 대한 진실을 고백할 것'을 권하는 편지를 보냈습니다. 이명박 전 대통령은 그 권유에 응하지 않고 있습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/mshKJmBPkOw</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/a8OJB</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스타파 경영팀장 채용공고]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/110354519</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/110217307"/>
         <updated>2025-08-04T04:03:08.533Z</updated>
         <content type="html"><![CDATA[제21대 대선에서 후보자들은 어떤 분야에 가장 많은 정치자금을 지출했을까요? 뉴스타파는 지난 7월 21일 중앙선거관리위원회가 공개한 7개 정당의 정치자금 수입·지출 보고 내역을 살펴봤습니다. 그리고 더불어민주당의 20대 대선과 21대 대선 지출 내역을 비교해봤습니다. <br><br>더불어민주당은 이재명 당선인이 대선 후보로 확정되자마자 포털 광고에 대규모 비용을 집행했습니다. 반면에 국민의힘은 대선 후보 확정 이전부터 포털 광고비와 주요 일간지 신문광고비를 선제적으로 집행했습니다. <br><br>더불어민주당의 두 차례 대선 지출 내역을 비교하면 전체 지출 규모는 증가했지만 방송연설과 인쇄 항목에서는 오히려 지출이 감소했습니다.  특히 방송연설 비용은 20대 대선 당시 약 72억 원에서 21대 대선에는 약 25억 원으로 대폭 줄어들었습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/YgPL9</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“김건희가 심어놓은 용산 검사들이 움직였다”... 박정훈 대령 변호인 김정민 변호사]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/110211929</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/110211929"/>
-        <updated>2025-08-04T04:03:08.534Z</updated>
-        <content type="html"><![CDATA[채 해병 사건은 최고 권력자인 국군통수권자가 수사에 개입했다는 점에서 초대형 권력형 비리 사건입니다.  대통령을 정점으로 이 사건에 연루된 고위 공직자들은 그 동안 거짓말로 진상을 가리고 국민을 속였습니다. <br><br>‘한국판 워터게이트’라 할 만한 이 추악한 사건의 진실이 드러나게 된 데는 해병대 수사단장 박정훈 대령의 ‘희생’을 빼놓을 수 없습니다. 뉴스타파는 지난 2년간 박정훈 대령의 변호를 맡아 윤석열 정권에 맞서 싸워온 김정민 변호사를 만나 '채 해병 특검'의 주요 쟁점과 수사 내용을 짚어 봤습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/xjbRE</span>]]></content>
     </entry>
 </feed>
