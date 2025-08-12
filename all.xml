@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Aug 2025 08:31:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Aug 2025 09:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해방80년 특집] 대미인식조사② 트럼프는 싫지만 미국은 ‘특별한 우방’ (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/15FIe</link>
+            <guid>http://newstapa.org/article/15FIe</guid>
+            <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해방80년 특집] 대미인식조사② 트럼프는 싫지만 미국은 ‘특별한 우방’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/12174659-FBE7-B32E-6197-KYW2S4IINBX5RBM4VUUV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해방80년 특집] 대미인식조사① 국민 과반 “한미동맹보다 우리 국익” (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/eYN9N</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[경찰, 허위 사유 내세워 '류희림 청부 민원' 무혐의 처분]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/31161025-338B-1496-3FD8-CF7OMONBCQTQFQBU8V37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡 대리점 내부 자료 입수 ② 배송구역 특혜 목적으로 '언론사 사칭' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/evxtP</link>
-            <guid>http://newstapa.org/article/evxtP</guid>
-            <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡 대리점 내부 자료 입수 ② 배송구역 특혜 목적으로 '언론사 사칭']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/29155606-B52C-D829-9C89-DV9SR0YBI0H66KXOIS27.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤상현, 증인 매수 진행 상황 '직보' 받았다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/23152430-AEC3-9BC8-2A54-XS2OFA8S2IKZR8LUPXAW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[해방80년 특집] 대미인식조사② 트럼프는 싫지만 미국은 ‘특별한 우방’ (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/15FIe</link>
+            <guid>http://newstapa.org/article/15FIe</guid>
+            <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해방80년 특집] 대미인식조사② 트럼프는 싫지만 미국은 ‘특별한 우방’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/12174659-FBE7-B32E-6197-KYW2S4IINBX5RBM4VUUV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[해방80년 특집] 대미인식조사① 국민 과반 “한미동맹보다 우리 국익” (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/eYN9N</link>
             <guid>http://newstapa.org/article/eYN9N</guid>
@@ -1790,14 +1798,6 @@
             <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기습 계엄 미국에 사전 통보 안했다... 외신 "정치적 도박","대실패"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/04142126-D941-294A-A69D-DIIM21BZ88S1DI1UM8D4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시계제로의 한반도, 김정은의 '파병 베팅'은 무엇을 노리나 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/P0Q2m</link>
-            <guid>http://newstapa.org/article/P0Q2m</guid>
-            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[시계제로의 한반도, 김정은의 '파병 베팅'은 무엇을 노리나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/20182953-36DE-F845-E6B4-HVVVWY912OHY3UIBZB0W.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팔레스타인 리포트 ⑦발라타 난민캠프의 이중고... 점령과 지원 축소 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -3312,6 +3312,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[해방80년 특집] 대미인식조사② 트럼프는 싫지만 미국은 ‘특별한 우방’ (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110428290</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110428290</guid>
+            <pubDate>Tue, 12 Aug 2025 09:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파의 대미인식 여론조사 결과, 한국인의 호감도가 가장 높은 주변국은 미국인 것으로 나타났습니다. 북한, 중국, 일본, 러시아 등 주변 국가들에 비해 매우 높은 수준이었습니다. 한편, 우리 국민들은 도널드 트럼프 미국 대통령에게는 매우 낮은 호감도를 보였고, 트럼프 정부 외교정책에도 부정적인 반응을 보였습니다.<br><br>뉴스타파는 해방80주년을 맞아 미국 프로파간다 기관의 비밀 보고서 만 5천여쪽을 입수해 주요 활동을 공개할 예정입니다. 또 트럼프 2기 시대의 한미 관계 주요 이슈를 대상으로 여론조사를 실시해 그 결과도 차례로 보도합니다.<br><br>이번 대미인식조사 결과와 미국 프로파간다 기관인 미 정보처(USIA)와 주한미공보원(USIS Korea) 문서 분석 내용을 담은 해방80년 특별기획 프로그램은 오는 8월 14일 방송 예정입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/15FIe</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[신청] 2025 검찰⁺보고서 발간 북콘서트✨ (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/110420366</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/110420366</guid>
@@ -3443,13 +3450,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/110328612</guid>
             <pubDate>Mon, 04 Aug 2025 05:06:05 GMT</pubDate>
             <content:encoded><![CDATA[2년 전 류희림 청부 민원 의혹 기억하시나요? 류희림 당시 방송통신심의위원장이 가족, 지인들에게 민원을 청부해 뉴스타파의 보도를 인용보도한 방송사들에 중징계를 내렸다는 의혹입니다. 하지만 경찰은 최근 이 사건에 대해 무혐의 처분을 내리고, 오히려 이 문제를 공익신고한 방심위 직원들에 대해서만 검찰 송치한 사실이 드러났습니다.<br><br>뉴스타파가 경찰의 수사 결과를 살펴보니, 몇 가지 기묘한(?) 논리를 바탕으로 류희림 전 위원장에 면죄부를 준 것으로 나타났습니다. 공익제보자 가운데 한 명인 김준희 방심위 노조 지부장은 이를 두고 "도둑이야, 외쳤더니 외친 사람만 잡아 넣었다"고 평가했습니다. 뉴스레터 &lt;타파스&gt;가 '류희림 청부 민원' 사건의 경찰 처분의 문제점을 쉽게 풀어봤습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/cPYjB</span><br>📨 뉴스레터 타파스를 만나보세요 : <span class="link_url">https://newstapa-tapas.stibee.com/subscribe</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“합참의장, 무능하고 비겁했다”...‘외환(外患) 전문가’ 부승찬 의원 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110309458</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110309458</guid>
-            <pubDate>Mon, 04 Aug 2025 04:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[내란 특검의 외환죄 수사 그물망이 점점 커지고 있습니다. 무인기(드론) 침투 과정의 불법성에 치중했던 수사가 오물풍선 원점 타격 등 우리 군의 대북 군사작전 전반으로 확대될 전망입니다. 무인기 작전의 실무 부대인 드론작전사령부 외에 합동참모본부, 지상군작전사령부 등이 수사 대상에 오를 것으로 보입니다. <br> <br>이와 관련 뉴스타파는 국회 국방위 소속인 부승찬 더불어민주당 의원을 만나 외환죄의 본질과 실체, 대북 군사작전과 한국군 지휘부의 책임 문제 등에 대한 이야기를 나눴습니다. 부 의원은 외환과 관련된 다양한 제보를 분석해 언론에 공개하고 특검 수사에도 적극 협력하고 있습니다. 그는 인터뷰에서 “평양 무인기 침투는 주한미군과 한미동맹에 심각한 피해를 유발한 중대한 범죄 행위”라고 규정했습니다. 아울러 “합참의장은 무능하고 비겁했다”고 직격했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/tGHqv</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
