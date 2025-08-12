@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Aug 2025 09:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Aug 2025 10:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최재천 교수가 들려주는 이명박의 4대강 파괴 뒷이야기 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/TOxQ_</link>
+            <guid>http://newstapa.org/article/TOxQ_</guid>
+            <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최재천 교수가 들려주는 이명박의 4대강 파괴 뒷이야기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/12182400-3C54-5D9A-69B6-X9E2XZ72FPOG56F70BZD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해방80년 특집] 대미인식조사② 트럼프는 싫지만 미국은 ‘특별한 우방’ (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/15FIe</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 거꾸로 간 정의 : 청부민원 봐주고 공익신고는 송치]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/31162040-16F2-D4CF-4C6F-UQIRUQRG2VBGBXB84PNR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰, 허위 사유 내세워 '류희림 청부 민원' 무혐의 처분 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/pQJnU</link>
-            <guid>http://newstapa.org/article/pQJnU</guid>
-            <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[경찰, 허위 사유 내세워 '류희림 청부 민원' 무혐의 처분]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/31161025-338B-1496-3FD8-CF7OMONBCQTQFQBU8V37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤상현, 증인 매수 진행 상황 '직보' 받았다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/01132009-2223-353F-9114-IBNLWUGMXKAH7RP3VVXC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[최재천 교수가 들려주는 이명박의 4대강 파괴 뒷이야기 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/TOxQ_</link>
+            <guid>http://newstapa.org/article/TOxQ_</guid>
+            <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최재천 교수가 들려주는 이명박의 4대강 파괴 뒷이야기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/12182400-3C54-5D9A-69B6-X9E2XZ72FPOG56F70BZD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] "이명박 전 대통령, 당신은 독이 든 쌀을 드실 수 있습니까?" (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/a8OJB</link>
             <guid>http://newstapa.org/article/a8OJB</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[근거도 없고 효과도 없을 기후대응댐 14개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/31164636-62EF-8E98-C13B-PZ4BCMGNUOM81LZZSOU5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오송 참사 1주기 ① ‘오송 참사’ 공소장 입수…경찰은 그날 어디서 무엇을 하고 있었나 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/Tm8fk</link>
-            <guid>http://newstapa.org/article/Tm8fk</guid>
-            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오송 참사 1주기 ① ‘오송 참사’ 공소장 입수…경찰은 그날 어디서 무엇을 하고 있었나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/11174244-C3EE-0963-6042-7YMPSE523KFICRACEMW9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿠팡 대리점 내부 자료 입수 ③ "임원 상대로 유흥업소 접대" 녹취... '부실 감사' 있었나 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -3312,6 +3312,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[최재천 교수가 들려주는 이명박의 4대강 파괴 뒷이야기 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110428551</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110428551</guid>
+            <pubDate>Tue, 12 Aug 2025 10:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[이명박 전 대통령의 4대강 파괴를 17년 간 쫓은 영화 &lt;추적&gt;에는 다양한 인터뷰이가 4대강 파괴의 실상을 증언합니다. 개봉한 지 1주일이 채 되지 않아 1만 명이 넘는 관객이 영화를 상영했습니다. 복수의 관객들은 최재천 생명다양성재단 이사장의 다음과 같은 인터뷰가 인상적이었다고 입을 모았습니다.<br><br>“아무리 국가의 최고 경영자가 되었다고 해서 자연을 그렇게 맘대로 훼손 할수 있는 권한이 당신에게 주어지지 않았다.”<br><br>최재천 교수는 이명박 전 대통령이 후보 시절 ‘대운하’ 공약을 냈을 때부터 이를 강하게 비판해 왔습니다. 잘 알려지지 않았지만 이 때문에 연구 지원이 끊기는 일까지 있었습니다.<br><br>영화 &lt;추적&gt;이 담고 있는 17년의 기록을 더욱 풍성히 이해하는 데 도움이 되길 바라며 ‘최재천 교수가 바라본 이명박 전 대통령의 4대강 파괴’ 뒷 이야기를 공개합니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/vB8sEN9UcAU</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/TOxQ_</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[해방80년 특집] 대미인식조사② 트럼프는 싫지만 미국은 ‘특별한 우방’ (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/110428290</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/110428290</guid>
@@ -3443,13 +3450,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/110331391</guid>
             <pubDate>Mon, 04 Aug 2025 07:32:37 GMT</pubDate>
             <content:encoded><![CDATA[검찰권 오남용에 대한 끈질긴 감시와 기록이 검찰개혁의 마중물이 될 것이라고 믿음으로 한 땀 한 땀 채워나간 참여연대 17번째 검찰보고서 윤석열정부 3년 2022-2025 검찰⁺보고서 종합판 – 검사의 나라, 시민들이 파면하다’<br><br>600 페이지에 담긴 ‘검사의 나라’의 적나라한 실태에 대해 알고 싶다구요?<br>600 페이지를 만든 참여연대의 ‘피. 땀. 눈물’ 이야기를 듣고 싶나요? <br>600 페이지 행간에 담긴 검찰 수사 받아본 ‘피의자’ 뉴스타파의 이야기가 궁금한가요? <br><br>그래서 준비했어요. 참여연대와 뉴스타파 공동주최 ‘검찰⁺보고서 북콘서트 : 검사의 나라, 시민들이 파면하다’~ 여러분의 많은 참여를 기다립니다.<br><br>✉️ 참여신청하기 <span class="link_url">https://tally.so/r/mJvgyd</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] '류희림 청부 민원 문제 없다'... 경찰의 기묘한 논리 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110328612</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110328612</guid>
-            <pubDate>Mon, 04 Aug 2025 05:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[2년 전 류희림 청부 민원 의혹 기억하시나요? 류희림 당시 방송통신심의위원장이 가족, 지인들에게 민원을 청부해 뉴스타파의 보도를 인용보도한 방송사들에 중징계를 내렸다는 의혹입니다. 하지만 경찰은 최근 이 사건에 대해 무혐의 처분을 내리고, 오히려 이 문제를 공익신고한 방심위 직원들에 대해서만 검찰 송치한 사실이 드러났습니다.<br><br>뉴스타파가 경찰의 수사 결과를 살펴보니, 몇 가지 기묘한(?) 논리를 바탕으로 류희림 전 위원장에 면죄부를 준 것으로 나타났습니다. 공익제보자 가운데 한 명인 김준희 방심위 노조 지부장은 이를 두고 "도둑이야, 외쳤더니 외친 사람만 잡아 넣었다"고 평가했습니다. 뉴스레터 &lt;타파스&gt;가 '류희림 청부 민원' 사건의 경찰 처분의 문제점을 쉽게 풀어봤습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/cPYjB</span><br>📨 뉴스레터 타파스를 만나보세요 : <span class="link_url">https://newstapa-tapas.stibee.com/subscribe</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
