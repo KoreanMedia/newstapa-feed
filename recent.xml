@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Aug 2025 09:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Aug 2025 10:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해방80년 특집] 한일 협정 반대 여론을 막아라…미국의 심리전]]></title>
+            <link>http://newstapa.org/article/pTCAa</link>
+            <guid>http://newstapa.org/article/pTCAa</guid>
+            <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해방80년 특집] 한일 협정 반대 여론을 막아라…미국의 심리전]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14190704-DE4E-1A5B-985A-D7SDGA3E3BDQKFTVWLSI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노동진 수협 회장 '불송치 결정서' 입수… 해경 '부실 수사'는 사실]]></title>
+            <link>http://newstapa.org/article/4RQA7</link>
+            <guid>http://newstapa.org/article/4RQA7</guid>
+            <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[노동진 수협 회장 '불송치 결정서' 입수… 해경 '부실 수사'는 사실]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14183016-4D5C-FE58-AB75-SL9T8IK074KI0YS7XCZT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최재천 교수가 들려주는 이명박의 4대강 파괴 뒷이야기]]></title>
             <link>http://newstapa.org/article/TOxQ_</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“합참의장, 무능하고 비겁했다”...‘외환(外患) 전문가’ 부승찬 의원]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/01171755-4993-DCE2-E348-0AJEG48LDCU6P1TP21H7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN]윤석열 언론공범③ 윤석열 지지율이 1%에서 24%가 된 이유]]></title>
-            <link>http://newstapa.org/article/jRvnd</link>
-            <guid>http://newstapa.org/article/jRvnd</guid>
-            <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN]윤석열 언론공범③ 윤석열 지지율이 1%에서 24%가 된 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/01170556-3A35-0514-97C4-SGHJ9RTN8721QI0NSDPG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 거꾸로 간 정의 : 청부민원 봐주고 공익신고는 송치]]></title>
-            <link>http://newstapa.org/article/y1SUk</link>
-            <guid>http://newstapa.org/article/y1SUk</guid>
-            <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 거꾸로 간 정의 : 청부민원 봐주고 공익신고는 송치]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/31162040-16F2-D4CF-4C6F-UQIRUQRG2VBGBXB84PNR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

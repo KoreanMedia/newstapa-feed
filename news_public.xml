@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Aug 2025 09:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Aug 2025 10:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노동진 수협 회장 '불송치 결정서' 입수… 해경 '부실 수사'는 사실]]></title>
+            <link>http://newstapa.org/article/4RQA7</link>
+            <guid>http://newstapa.org/article/4RQA7</guid>
+            <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[노동진 수협 회장 '불송치 결정서' 입수… 해경 '부실 수사'는 사실]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14183016-4D5C-FE58-AB75-SL9T8IK074KI0YS7XCZT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[반론보도] <윤·김·노 세 사람이 흔든 나라, 그들이 답해야 할 질문들> 기사 관련]]></title>
             <link>http://newstapa.org/article/nQvjy</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 회장님 목소리, HS효성 조현상 ‘불법 자백’ 육성 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/24172847-18B3-C834-342E-ARMVURYV7H7THL81VJ60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회장님 목소리 ① ‘디베스트’ 차명 법인 맞다, 조현상 육성으로 확인]]></title>
-            <link>http://newstapa.org/article/SInlV</link>
-            <guid>http://newstapa.org/article/SInlV</guid>
-            <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[회장님 목소리 ① ‘디베스트’ 차명 법인 맞다, 조현상 육성으로 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/24165728-7B10-D460-2A78-UO8JIUWNQVEQ3JS5V4QD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
