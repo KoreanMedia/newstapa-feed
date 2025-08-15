@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Aug 2025 01:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Aug 2025 03:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해방80년특집: 숭미의 기원①] 광화문 성조기는 어디서 왔나 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/d8S6X</link>
+            <guid>http://newstapa.org/article/d8S6X</guid>
+            <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해방80년특집: 숭미의 기원①] 광화문 성조기는 어디서 왔나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14183710-F1D6-8FC2-D34F-MVOE0FHVH7QROFQXLTI9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해방80년 특집] 한일 협정 반대 여론을 막아라…미국의 심리전 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/pTCAa</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] '류희림 청부 민원 문제 없다'... 경찰의 기묘한 논리]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/04112454-8153-0F5D-D8A9-Y6MWP1VLV7SFQ4U9CXJU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“합참의장, 무능하고 비겁했다”...‘외환(外患) 전문가’ 부승찬 의원 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/tGHqv</link>
-            <guid>http://newstapa.org/article/tGHqv</guid>
-            <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“합참의장, 무능하고 비겁했다”...‘외환(外患) 전문가’ 부승찬 의원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/01171755-4993-DCE2-E348-0AJEG48LDCU6P1TP21H7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노동진 수협 회장 '불송치 결정서' 입수… 해경 '부실 수사'는 사실 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/03145247-6642-8AE6-72A2-LC50M06BDG7JVMRN1OZK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[해방80년특집: 숭미의 기원①] 광화문 성조기는 어디서 왔나 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/d8S6X</link>
+            <guid>http://newstapa.org/article/d8S6X</guid>
+            <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해방80년특집: 숭미의 기원①] 광화문 성조기는 어디서 왔나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14183710-F1D6-8FC2-D34F-MVOE0FHVH7QROFQXLTI9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[해방80년 특집] 한일 협정 반대 여론을 막아라…미국의 심리전 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/pTCAa</link>
             <guid>http://newstapa.org/article/pTCAa</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사라진 5분… 유네스코 세계기록유산 '5·18 청문회 회의록' 오류 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16135824-F275-333E-D317-QCAZ3JB8MAM7UP2P3E0P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["자유언론실천은 끝나지 않은 여정입니다" 동아투위 50주년 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/XyL9T</link>
-            <guid>http://newstapa.org/article/XyL9T</guid>
-            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["자유언론실천은 끝나지 않은 여정입니다" 동아투위 50주년]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/18152823-A6A2-2AAF-A633-CI73M4BM5P13HKOERIPA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 미프진과 빛의 혁명 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/23152430-AEC3-9BC8-2A54-XS2OFA8S2IKZR8LUPXAW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[해방80년특집: 숭미의 기원①] 광화문 성조기는 어디서 왔나 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/d8S6X</link>
+            <guid>http://newstapa.org/article/d8S6X</guid>
+            <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해방80년특집: 숭미의 기원①] 광화문 성조기는 어디서 왔나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14183710-F1D6-8FC2-D34F-MVOE0FHVH7QROFQXLTI9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[해방80년 특집] 한일 협정 반대 여론을 막아라…미국의 심리전 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/pTCAa</link>
             <guid>http://newstapa.org/article/pTCAa</guid>
@@ -1790,14 +1798,6 @@
             <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열은 도대체 왜?...비상계엄 미스터리]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06160518-9F6B-57DF-F2CE-7VYE87TN1U6ANI1YOJVT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 국무부 "비상 계엄 불법" 언급...미 싱크탱크는 "한미동맹에 부정적" (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/aMTda</link>
-            <guid>http://newstapa.org/article/aMTda</guid>
-            <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[미 국무부 "비상 계엄 불법" 언급...미 싱크탱크는 "한미동맹에 부정적"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05190342-85C8-0F2C-E8D1-SO9Y1ILTTI0CDMG4IA57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팔레스타인 리포트 ⑦발라타 난민캠프의 이중고... 점령과 지원 축소 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
