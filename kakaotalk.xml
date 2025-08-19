@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-08-19T04:26:37.616Z</updated>
+    <updated>2025-08-19T05:22:34.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/10918ad/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] 감사원 '깜깜이 예산' 공개 최초 판결... 뉴스타파, 최종 승소]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/110488648</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/110488648"/>
+        <updated>2025-08-19T05:22:25.337Z</updated>
+        <content type="html"><![CDATA[뉴스타파가 감사원을 상대로 제기한 특수활동비·특정업무경비·업무추진비·출장비 사용 내역 정보공개 행정소송에서 최종 승소했습니다. 소송 제기 후 3년 7개월만입니다. <br><br>그동안 감사원은 기본적인 예산 사용 관련 자료조차 거의 공개하지 않았습니다. 타 공공기관의 예산 사용 행태를 감시하면서 정작 자신들은 감시받지 않겠다는 태도였습니다. 하지만 지난 14일, 대법원 확정판결이 나오며 감사원은 예산 사용 내역을 공개해야 할 의무가 생겼습니다. <br><br>뉴스타파는 추후 공개받을 감사원 예산 자료를 검증해 그 취재 결과를 보도할 예정입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/JAQGp</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025년 08월 18일의 소식]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/110480114</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/110360189"/>
         <updated>2025-08-06T09:32:00.160Z</updated>
         <content type="html"><![CDATA[김건희 특검은 ‘김건희 집사’ 김예성 씨가 벤처기업 IMS를 통해 수십억 원의 이득을 챙긴 일명 ‘집사 게이트’를 수사하고 있습니다. IMS가 올린 투자 수익이 김건희 측에 흘러갔는지 여부도 수사 대상인데요. 집사 김예성과 누나 김건희가 서로 경제적 이익을 공유했다는 소위 ‘경제공동체’ 의혹입니다.<br><br>뉴스타파는 이들의 경제공동체 의혹을 뒷받침하는 한 사건을 추적했습니다. 소위 ‘오페라 게이트’로 알려진 투자회사 인터베일리의 오페라 사업 투자 관련 건입니다. 이 사건에서 집사 김예성은 김건희 일가를 위해 차명 대출을 해주고 김건희에게 중요한 사업 기회를 제공한 것으로 확인됐습니다. 또, 오페라 사업이 실패했음에도 아무 손실 없이 오히려 이자까지 더해 투자금을 전액 회수한 것으로 확인됐습니다. 이때 회수한 투자금은 김건희와 김예성 등이 나눠가졌다는 의혹이 제기됩니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/vOtp7</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서] "이명박 전 대통령, 당신은 독이 든 쌀을 드실 수 있습니까?"]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/110355581</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/110355581"/>
-        <updated>2025-08-06T06:37:57.614Z</updated>
-        <content type="html"><![CDATA[이명박 전 대통령이 4대강 사업을 완공한 지 15년이 지났습니다. 많은 부작용이 발생했고, 이재명 정부는 4대강 재자연화를 공약했습니다. 그러나 이명박 전 대통령이 4대강사업에 대해 한 그동안의 거짓말들은 여전히 많은 국민들을 속이고 있고, 재자연화의 발목을 잡고 있습니다. <br><br>4대강 문제를 17년 간 취재해온 최승호PD는 오늘 6일 영화&lt;추적&gt;을 개봉했습니다. 최PD는 개봉 전 이명박 전 대통령에게 '시사회에 와서 영화를 볼 것과 4대강 사업에 대한 진실을 고백할 것'을 권하는 편지를 보냈습니다. 이명박 전 대통령은 그 권유에 응하지 않고 있습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/mshKJmBPkOw</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/a8OJB</span>]]></content>
     </entry>
 </feed>
