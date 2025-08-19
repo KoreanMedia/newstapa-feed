@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Aug 2025 07:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Aug 2025 08:30:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정부 합참, '북한 도발 시 전면전' 계획 세웠다]]></title>
+            <link>http://newstapa.org/article/FI3Ua</link>
+            <guid>http://newstapa.org/article/FI3Ua</guid>
+            <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부 합참, '북한 도발 시 전면전' 계획 세웠다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/19162534-20F5-2DA8-23FE-HDVGQU2E6F41WQO3OFE6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 이재명 정부 환경부, 녹조 대책 첫발…취수구 50m 채수·당일 경보 발령]]></title>
             <link>http://newstapa.org/article/epaYa</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 드디어 포토라인에... 김건희 겨냥하는 16개의 칼날]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/06181606-1807-3C34-00BD-7M4HCS7C6PS71J0ZUDU1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 실소유 의혹 회사 '인터베일리'의 오페라 투자 소송 전말]]></title>
-            <link>http://newstapa.org/article/vOtp7</link>
-            <guid>http://newstapa.org/article/vOtp7</guid>
-            <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희 실소유 의혹 회사 '인터베일리'의 오페라 투자 소송 전말]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/06180613-7FB4-9839-96BC-WA88PTTI1DTBS6A0ZKSF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

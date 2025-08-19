@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 외교안보</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Aug 2025 07:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Aug 2025 08:30:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정부 합참, '북한 도발 시 전면전' 계획 세웠다]]></title>
+            <link>http://newstapa.org/article/FI3Ua</link>
+            <guid>http://newstapa.org/article/FI3Ua</guid>
+            <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부 합참, '북한 도발 시 전면전' 계획 세웠다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/19162534-20F5-2DA8-23FE-HDVGQU2E6F41WQO3OFE6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해방80년 특집] 대미인식조사③ 국민 85%가 미국 OTT 접해..."미국은 자유롭고 평등"]]></title>
             <link>http://newstapa.org/article/AV_ij</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[미 의회, "윤석열 대통령의 계엄령 선포는 민주주의에 대한 모욕"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/07150549-90C2-4BDF-16B1-JZ1FFZQBPBJBZ9O66W9D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 국무부의 손절 메시지 "한미동맹은 특정 대통령 초월"]]></title>
-            <link>http://newstapa.org/article/HadrV</link>
-            <guid>http://newstapa.org/article/HadrV</guid>
-            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[미 국무부의 손절 메시지 "한미동맹은 특정 대통령 초월"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06192203-7955-81EA-A4F5-P1VQLW4RVVED280GKFMA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
