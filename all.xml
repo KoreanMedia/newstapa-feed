@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Aug 2025 04:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 05:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 발전소 배출 물질 추적① 생명이 사라진 갯바위 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/5xdsE</link>
+            <guid>http://newstapa.org/article/5xdsE</guid>
+            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 발전소 배출 물질 추적① 생명이 사라진 갯바위]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22132801-EBBD-5342-975E-6OQBLOBNFZ00EP3T013J.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/r72lC</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[해방80년 특집] 한일 협정 반대 여론을 막아라…미국의 심리전]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14190704-DE4E-1A5B-985A-D7SDGA3E3BDQKFTVWLSI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노동진 수협 회장 '불송치 결정서' 입수… 해경 '부실 수사'는 사실 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/4RQA7</link>
-            <guid>http://newstapa.org/article/4RQA7</guid>
-            <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노동진 수협 회장 '불송치 결정서' 입수… 해경 '부실 수사'는 사실]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14183016-4D5C-FE58-AB75-SL9T8IK074KI0YS7XCZT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 집사게이트 조현상의 '비리 백화점' A타워를 파헤치다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/06170828-18CA-DFEE-C605-ZXO9JNSNFMQJH7PNN0AD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 발전소 배출 물질 추적① 생명이 사라진 갯바위 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/5xdsE</link>
+            <guid>http://newstapa.org/article/5xdsE</guid>
+            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 발전소 배출 물질 추적① 생명이 사라진 갯바위]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22132801-EBBD-5342-975E-6OQBLOBNFZ00EP3T013J.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/r72lC</link>
             <guid>http://newstapa.org/article/r72lC</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스타파X살아지구] 숨의 격차 미세먼지속 아이들③ 1년 중 며칠이나 '건강위험'에 노출됐나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/08171147-9047-7C3F-4616-5E23DSZTG6FS2RV5ICIN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들① 전국 초등학교 1/3은 ‘정보 사각지대’ (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/hivm8</link>
-            <guid>http://newstapa.org/article/hivm8</guid>
-            <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들① 전국 초등학교 1/3은 ‘정보 사각지대’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/25142203-973E-C085-AD65-K8WADH86D9A620HJ95PG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿠팡 대리점 내부 자료 입수 ③ "임원 상대로 유흥업소 접대" 녹취... '부실 감사' 있었나 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -3312,6 +3312,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 발전소 배출 물질 추적① 생명이 사라진 갯바위 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110525387</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110525387</guid>
+            <pubDate>Fri, 22 Aug 2025 05:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[핵발전소든 화력발전소든 가동하려면 냉각을 위해 뜨겁게 데운 바닷물 즉, 온배수를 내보냅니다. 이러한 온배수 방류로 부산 기장, 전남 영광, 충남 서산, 인천 등에서 해양 생태계 변화와 파괴, 어민들의 피해로 이어지고 있습니다. <br><br>한국독립언론네트워크(KINN)의 회원사인 기후·생태 전문매체 '살아지구'의 취재 결과, 끝없이 쏟아지는 온배수에는 지금껏 알려지지 않던 ‘화학물질’이 대량 들어 있는 것으로 나타났습니다. ‘살아지구’는 화력발전소가 내보내는 온배수 속 ‘화학물질’의 정체를 폭로하고, 이 물질의 존재가 어떻게 감춰져 있었는지 추적합니다. 이번 기획은 값싼 전기 사용의 편익 뒤에 숨겨진 사회적 비용을 어떻게 어민에게 전가되는지에 대한 고발장이기도 합니다.<br> <br>👉 살아지구 기사 원문 보기 : <span class="link_url">https://disappearth.org/thermal_charges_mystery_1-1</span>/<br>👉 살아지구 응원하기: <span class="link_url">https://online.mrm.or.kr/1EquNwj</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[['추적' 부록] 말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/110525159</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/110525159</guid>
@@ -3443,13 +3450,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/110428551</guid>
             <pubDate>Tue, 12 Aug 2025 10:25:28 GMT</pubDate>
             <content:encoded><![CDATA[이명박 전 대통령의 4대강 파괴를 17년 간 쫓은 영화 &lt;추적&gt;에는 다양한 인터뷰이가 4대강 파괴의 실상을 증언합니다. 개봉한 지 1주일이 채 되지 않아 1만 명이 넘는 관객이 영화를 상영했습니다. 복수의 관객들은 최재천 생명다양성재단 이사장의 다음과 같은 인터뷰가 인상적이었다고 입을 모았습니다.<br><br>“아무리 국가의 최고 경영자가 되었다고 해서 자연을 그렇게 맘대로 훼손 할수 있는 권한이 당신에게 주어지지 않았다.”<br><br>최재천 교수는 이명박 전 대통령이 후보 시절 ‘대운하’ 공약을 냈을 때부터 이를 강하게 비판해 왔습니다. 잘 알려지지 않았지만 이 때문에 연구 지원이 끊기는 일까지 있었습니다.<br><br>영화 &lt;추적&gt;이 담고 있는 17년의 기록을 더욱 풍성히 이해하는 데 도움이 되길 바라며 ‘최재천 교수가 바라본 이명박 전 대통령의 4대강 파괴’ 뒷 이야기를 공개합니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/vB8sEN9UcAU</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/TOxQ_</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[해방80년 특집] 대미인식조사② 트럼프는 싫지만 미국은 ‘특별한 우방’ (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110428290</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110428290</guid>
-            <pubDate>Tue, 12 Aug 2025 09:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파의 대미인식 여론조사 결과, 한국인의 호감도가 가장 높은 주변국은 미국인 것으로 나타났습니다. 북한, 중국, 일본, 러시아 등 주변 국가들에 비해 매우 높은 수준이었습니다. 한편, 우리 국민들은 도널드 트럼프 미국 대통령에게는 매우 낮은 호감도를 보였고, 트럼프 정부 외교정책에도 부정적인 반응을 보였습니다.<br><br>뉴스타파는 해방80주년을 맞아 미국 프로파간다 기관의 비밀 보고서 만 5천여쪽을 입수해 주요 활동을 공개할 예정입니다. 또 트럼프 2기 시대의 한미 관계 주요 이슈를 대상으로 여론조사를 실시해 그 결과도 차례로 보도합니다.<br><br>이번 대미인식조사 결과와 미국 프로파간다 기관인 미 정보처(USIA)와 주한미공보원(USIS Korea) 문서 분석 내용을 담은 해방80년 특별기획 프로그램은 오는 8월 14일 방송 예정입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/15FIe</span>]]></content:encoded>
         </item>
     </channel>
 </rss>

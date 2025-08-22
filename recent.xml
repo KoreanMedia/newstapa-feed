@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Aug 2025 04:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 05:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 발전소 배출 물질 추적① 생명이 사라진 갯바위]]></title>
+            <link>http://newstapa.org/article/5xdsE</link>
+            <guid>http://newstapa.org/article/5xdsE</guid>
+            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 발전소 배출 물질 추적① 생명이 사라진 갯바위]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22132801-EBBD-5342-975E-6OQBLOBNFZ00EP3T013J.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세]]></title>
             <link>http://newstapa.org/article/r72lC</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[해방80년 특집] 한일 협정 반대 여론을 막아라…미국의 심리전]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14190704-DE4E-1A5B-985A-D7SDGA3E3BDQKFTVWLSI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노동진 수협 회장 '불송치 결정서' 입수… 해경 '부실 수사'는 사실]]></title>
-            <link>http://newstapa.org/article/4RQA7</link>
-            <guid>http://newstapa.org/article/4RQA7</guid>
-            <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노동진 수협 회장 '불송치 결정서' 입수… 해경 '부실 수사'는 사실]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14183016-4D5C-FE58-AB75-SL9T8IK074KI0YS7XCZT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
