@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Aug 2025 03:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 04:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/r72lC</link>
+            <guid>http://newstapa.org/article/r72lC</guid>
+            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22131654-D098-9EAC-0041-PS464AKZ8METOG31GSRH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 집사게이트 조현상의 '비리 백화점' A타워를 파헤치다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/e2G_M</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노동진 수협 회장 '불송치 결정서' 입수… 해경 '부실 수사'는 사실]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14183016-4D5C-FE58-AB75-SL9T8IK074KI0YS7XCZT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최재천 교수가 들려주는 이명박의 4대강 파괴 뒷이야기 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/TOxQ_</link>
-            <guid>http://newstapa.org/article/TOxQ_</guid>
-            <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[최재천 교수가 들려주는 이명박의 4대강 파괴 뒷이야기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/12182400-3C54-5D9A-69B6-X9E2XZ72FPOG56F70BZD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 집사게이트 조현상의 '비리 백화점' A타워를 파헤치다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/06170828-18CA-DFEE-C605-ZXO9JNSNFMQJH7PNN0AD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/r72lC</link>
+            <guid>http://newstapa.org/article/r72lC</guid>
+            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22131654-D098-9EAC-0041-PS464AKZ8METOG31GSRH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 이재명 정부 환경부, 녹조 대책 첫발…취수구 50m 채수·당일 경보 발령 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/epaYa</link>
             <guid>http://newstapa.org/article/epaYa</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들① 전국 초등학교 1/3은 ‘정보 사각지대’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/25142203-973E-C085-AD65-K8WADH86D9A620HJ95PG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들은 정확한 정보를 받고 있을까 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/jiK0I</link>
-            <guid>http://newstapa.org/article/jiK0I</guid>
-            <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들은 정확한 정보를 받고 있을까]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/21132157-DB08-6496-C2D0-KUC1S74UUXOUSI1P5EN4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿠팡 대리점 내부 자료 입수 ③ "임원 상대로 유흥업소 접대" 녹취... '부실 감사' 있었나 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/09152236-1B77-B161-2B89-7ZTLS81DH3YYCV3K7R0F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/r72lC</link>
+            <guid>http://newstapa.org/article/r72lC</guid>
+            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22131654-D098-9EAC-0041-PS464AKZ8METOG31GSRH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TV조선, 통일교 행사 최소 6회 중계…편당 1억 ‘송출료’ 의혹 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/C7KPZ</link>
             <guid>http://newstapa.org/article/C7KPZ</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[안성열 최후진술 “자유를 원하는 만큼의 희생이 필요”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/18151443-56B5-FB90-657D-XDQCAIZDUF4ZYMOMVQDR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장윤환 최후진술 “어떠한 자유도 하늘에서 저절로 떨어지는 것은 아닙니다.” (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/t3rlg</link>
-            <guid>http://newstapa.org/article/t3rlg</guid>
-            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[장윤환 최후진술 “어떠한 자유도 하늘에서 저절로 떨어지는 것은 아닙니다.”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/18144258-616D-4E77-2F44-TJ172GE1T74V9XH0NW2Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 21대 대통령선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3312,6 +3312,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[['추적' 부록] 말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110525159</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110525159</guid>
+            <pubDate>Fri, 22 Aug 2025 04:25:44 GMT</pubDate>
+            <content:encoded><![CDATA[이명박 정부 시절, 박수택 전 SBS 환경전문기자는 대운하와 4대강 정책을 검증했다. 당시 청와대는 이런 박수택 기자를 불편해했고, 윤세영 SBS 회장은 따로 불러 독대까지 했다. 윤 회장은 4대강 사업에 대한 정부의 논리를 박 기자에게 그대로 설파하고, “민영방송이 약하다”, “정부로부터 얻어낼 것도 있다”라는 식의 이야기까지 꺼내며 그를 압박했다. 결국 ‘말 안 듣는’ 박수택 기자는 한직으로 밀려났고, 더 이상 이명박 정부에서 4대강 사업에 대한 비판 보도를 하지 못했다.<br><br>언론과 4대강 문제를 다룬 영화 〈추적〉의 최승호 감독은 2024년에 박수택 기자를 인터뷰했다. 현장 기자가 지켜본 대통령 거짓말의 실체, 민영방송 사주가 권력에 굴종하며 보도에 간섭하던 상황, 국내 언론이 4대강 문제를 다루는 방식의 문제점 등 국내 언론의 민낯이 적나라하게 담겼다.<br><br>4대강 파괴와 한국 언론의 문제는 분리될 수 없다고 말하는 박수택 전 SBS 환경전문기자. 영화 〈추적〉에 담지 못한 그의 뒷이야기를 공개한다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/xX154CXaQFY</span><br>👉 4대강 재자연화 촉구 10만인 서명 바로가기 - <span class="link_url">https://forms.gle/GtmJxNUEEGhWndU28</span><br>👉 영화 〈추적〉 단체관람/공동체상영 신청 문의 : 앳나인필름(배급사) 070-7017-3301<br>👉 더 상세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/r72lC</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[🔴주간 뉴스타파 라이브] 조현상의 '비리 백화점', A타워를 파헤치다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/110516709</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/110516709</guid>
@@ -3443,13 +3450,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/110428290</guid>
             <pubDate>Tue, 12 Aug 2025 09:26:45 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파의 대미인식 여론조사 결과, 한국인의 호감도가 가장 높은 주변국은 미국인 것으로 나타났습니다. 북한, 중국, 일본, 러시아 등 주변 국가들에 비해 매우 높은 수준이었습니다. 한편, 우리 국민들은 도널드 트럼프 미국 대통령에게는 매우 낮은 호감도를 보였고, 트럼프 정부 외교정책에도 부정적인 반응을 보였습니다.<br><br>뉴스타파는 해방80주년을 맞아 미국 프로파간다 기관의 비밀 보고서 만 5천여쪽을 입수해 주요 활동을 공개할 예정입니다. 또 트럼프 2기 시대의 한미 관계 주요 이슈를 대상으로 여론조사를 실시해 그 결과도 차례로 보도합니다.<br><br>이번 대미인식조사 결과와 미국 프로파간다 기관인 미 정보처(USIA)와 주한미공보원(USIS Korea) 문서 분석 내용을 담은 해방80년 특별기획 프로그램은 오는 8월 14일 방송 예정입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/15FIe</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[신청] 2025 검찰⁺보고서 발간 북콘서트✨ (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110420366</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110420366</guid>
-            <pubDate>Tue, 12 Aug 2025 01:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[검찰권 오남용에 대한 끈질긴 감시와 기록이 검찰개혁의 마중물이 될 것이라고 믿음으로 한 땀 한 땀 채워나간 참여연대 17번째 검찰보고서 윤석열정부 3년 2022-2025 검찰⁺보고서 종합판 – 검사의 나라, 시민들이 파면하다’<br><br>600 페이지에 담긴 ‘검사의 나라’의 적나라한 실태에 대해 알고 싶다구요?<br>600 페이지를 만든 참여연대의 ‘피. 땀. 눈물’ 이야기를 듣고 싶나요? <br>600 페이지 행간에 담긴 검찰 수사 받아본 ‘피의자’ 뉴스타파의 이야기가 궁금한가요? <br><br>그래서 준비했어요. 참여연대와 뉴스타파 공동주최 ‘검찰⁺보고서 북콘서트 : 검사의 나라, 시민들이 파면하다’~ 여러분의 많은 참여를 기다립니다.<br><br>※ 참가비 : 1만원 계좌 송금(국민은행 995701-01-057713 참여연대), 참여연대 회원, 뉴스타파 회원, 회원 동행인은 50% 할인해서 5,000원<br><br>✉️ 참여신청하기 <span class="link_url">https://tally.so/r/mJvgyd</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
