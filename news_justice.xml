@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Aug 2025 08:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Aug 2025 09:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파필름 ‘압수수색-내란의 시작’ 일본에서 공식 개봉]]></title>
+            <link>http://newstapa.org/article/WKqvk</link>
+            <guid>http://newstapa.org/article/WKqvk</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파필름 ‘압수수색-내란의 시작’ 일본에서 공식 개봉]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/25174622-3E1D-EEDF-93F2-FBEK35JC239C52BNNAYW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<뉴스타파 v. 윤석열> '현대판 지록위마' 사건... 봉지욱 기자 1차 공판]]></title>
+            <link>http://newstapa.org/article/YnUvg</link>
+            <guid>http://newstapa.org/article/YnUvg</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; '현대판 지록위마' 사건... 봉지욱 기자 1차 공판]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/25172641-F8DC-D29D-85A3-ALACZDHBLP05KWUT36LN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 부천화재참사 1주기... 형사재판 쟁점은?]]></title>
             <link>http://newstapa.org/article/Wj0Mm</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 12.3 내란의 마지막 퍼즐… 다시 쓰는 공소장]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03163607-C0A1-3B8D-F02C-2MJ6COJK0AF0YBPWK1UH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤·김·노 세 사람이 흔든 나라, 그들이 답해야 할 질문들]]></title>
-            <link>http://newstapa.org/article/P_wFB</link>
-            <guid>http://newstapa.org/article/P_wFB</guid>
-            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤·김·노 세 사람이 흔든 나라, 그들이 답해야 할 질문들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03150709-58E0-4D30-15CA-R0IZX91GNFP4LHQN3CFQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무엇을 할 것인가 : 검찰] 검찰과 거래하면 안 된다]]></title>
-            <link>http://newstapa.org/article/HcCFT</link>
-            <guid>http://newstapa.org/article/HcCFT</guid>
-            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[무엇을 할 것인가 : 검찰] 검찰과 거래하면 안 된다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/25180004-B075-9D33-003E-AHAR627MN5W4OBXXS4LX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
