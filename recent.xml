@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Aug 2025 06:35:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Aug 2025 07:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] 효성가 3세의 '어메이징'한 강남 빌딩 활용법 (feat.김건희에 줄 댄 이유)]]></title>
+            <link>http://newstapa.org/article/mAYUi</link>
+            <guid>http://newstapa.org/article/mAYUi</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 효성가 3세의 '어메이징'한 강남 빌딩 활용법 (feat.김건희에 줄 댄 이유)]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/25144922-1B42-504F-EC15-VO9I8450PUIQAWCKUBS4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민주당 이병진 의원, 건축 공사 미끼로 2억 원대 사기 의혹]]></title>
             <link>http://newstapa.org/article/IQUEY</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[채 해병 특검이 군검찰 육사 라인에 주목하는 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/18155231-7D96-B813-DA97-48EJYMEUUXMLY8KQJVCE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기후 도박] ① 부풀려진 용인 산단 '수소 발전' 평가서… 환경부 개입 의혹]]></title>
-            <link>http://newstapa.org/article/qjWoy</link>
-            <guid>http://newstapa.org/article/qjWoy</guid>
-            <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[기후 도박] ① 부풀려진 용인 산단 '수소 발전' 평가서… 환경부 개입 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/18112840-ACC4-635E-6E2E-QQIYBP7BPKPVNOLIUQE6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
