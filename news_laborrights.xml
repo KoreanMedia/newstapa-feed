@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Aug 2025 09:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Aug 2025 13:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미니 다큐]죽음의 '손배 폭탄' 막을 노란봉투법...20년 만에 국회 통과]]></title>
+            <link>http://newstapa.org/article/oGyVD</link>
+            <guid>http://newstapa.org/article/oGyVD</guid>
+            <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[미니 다큐]죽음의 '손배 폭탄' 막을 노란봉투법...20년 만에 국회 통과]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/26172625-4E77-E09A-4F40-B8DDOTT6Z3VKV9ZYVI4L.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 부천화재참사 1주기... 형사재판 쟁점은?]]></title>
             <link>http://newstapa.org/article/Wj0Mm</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크]김문수, 내가 민주노총ㆍ전교조 만들었다?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/27101742-77B9-9BA8-24E8-Z14ISM4E7Y5Q56XXA41S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 중대재해법은 아무것도 모르는 사장·회장 무조건 구속하는 악법?]]></title>
-            <link>http://newstapa.org/article/xND_U</link>
-            <guid>http://newstapa.org/article/xND_U</guid>
-            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 중대재해법은 아무것도 모르는 사장·회장 무조건 구속하는 악법?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/19175304-DFA6-2E96-2213-1S9IBS7X0EGQ37CGYN7C.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

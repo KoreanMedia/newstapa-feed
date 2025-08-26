@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-08-26T09:24:59.413Z</updated>
+    <updated>2025-08-26T13:36:32.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/a586d0f/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미니 다큐] 죽음의 '손배 폭탄' 막을 노란봉투법...20년 만에 국회 통과]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/110564012</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/110564012"/>
+        <updated>2025-08-26T13:36:25.403Z</updated>
+        <content type="html"><![CDATA[“일하는 노동자는 누구나 단결하고, 사용자와 교섭할 권리가 있다. 이 단순하고도 분명한 진실을 20년 만에 법으로 새겨 넣었다.”<br>(노조법 2·3조 개정 운동본부 기자회견 내용 중)<br><br>이른바 ‘노란봉투법’이라 불리는 ‘노동조합 및 노동관계조정법 2·3조 개정안’이 지난 8월 24일 국회 본회의를 통과했습니다. 2004년 관련 법안이 처음 국회에 발의된 후 21만의 결실입니다. 앞서 전임 대통령 윤석열은 국회 본회의를 두 번이나 통과한 노란봉투법에 두 차례 모두 거부권을 행사한 바 있습니다. <br><br>앞으로 6개월의 유예기간을 거쳐 법안이 시행되면, 하청 노동자도 원청과 직접 교섭이 가능해지고, 정당한 파업에 대한 기업의 무분별한 손해배상 청구에도 제동이 걸리게 됩니다. <br><br>그동안 노동조건 개선을 위해 파업을 했다는 이유로 천문학적인 ‘손해배상 폭탄’을 떠안아야 했던 노동자들. 노란봉투법이 이들의 고통을 줄여줄 수 있을까요? 노동자들의 20년 숙원이었던 노란봉투법이 통과되던 날의 국회 현장을 영상에 담았습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/uhEeRew3wd0</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/oGyVD</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수협, 노동진 회장 취임 뒤 '전광훈 교회'에 65억 대출]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/110557079</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/110477468"/>
         <updated>2025-08-25T12:44:38.018Z</updated>
         <content type="html"><![CDATA[수소 혼소를 통해 용인 반도체 국가산단의 발전소 온실가스를 획기적으로 줄이겠다는 정부측 보고서가 부풀려진 정황이 확인됐습니다. 담당 기관인 LH는 환경부 의견에 따라 목표치를 올렸다면서도 구체적인 근거를 제시하지 못하고 있습니다. 용인 반도체 국가산단의 대형 가스발전소가 한해 배출하게 될 온실가스는 977만톤입니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기후 도박] ② "수소 혼소 발전, 에너지 80% 낭비"... 국민 비용 전가 우려]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/110477461</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/110477461"/>
-        <updated>2025-08-25T12:44:38.020Z</updated>
-        <content type="html"><![CDATA[수소를 가스 발전기에 태워서 전기를 생산할 경우 80%에 달하는 에너지가 중간 과정에서 손실된다는 해외 연구 결과가 확인됐습니다. 국내 연구기관들 역시 극도로 비효율적인 수소 혼소 발전 계획에 대해 비관적인 결론을 내리고 있습니다. 그러나 우리 정부는 막대한 전기를 쏟아 부어 만든 수소를 다시 전기로 만든다는 계획을 계속 추진 중입니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/AEn8E1VjXCM</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/rcxvO</span>]]></content>
     </entry>
 </feed>
