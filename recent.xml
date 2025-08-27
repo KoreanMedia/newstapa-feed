@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Aug 2025 08:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Aug 2025 09:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 어메이징타워와 흠뻑쇼 ... 누가 한국 언론을 동정할 것인가]]></title>
+            <link>http://newstapa.org/article/3y6-V</link>
+            <guid>http://newstapa.org/article/3y6-V</guid>
+            <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 어메이징타워와 흠뻑쇼 ... 누가 한국 언론을 동정할 것인가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/27172857-E108-99AC-63A2-6MZOV6K4CNT1G05ZULN8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새마을운동 회원에 수당주는 지자체 우후죽순]]></title>
             <link>http://newstapa.org/article/hU53R</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사라진 보증금 67억 원... 조현상 횡령 배임 혐의 '풀풀']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/21164432-EA59-8F40-7338-02A2UVRPU01LR103YCAA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해방80년 특집] 대미인식조사④ 신냉전 인식...미국·일본 vs 북한·중국·러시아]]></title>
-            <link>http://newstapa.org/article/0AXG_</link>
-            <guid>http://newstapa.org/article/0AXG_</guid>
-            <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해방80년 특집] 대미인식조사④ 신냉전 인식...미국·일본 vs 북한·중국·러시아]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/21161117-0534-5C0A-6D3E-EB3V9WHQH330W3F9W9KY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
