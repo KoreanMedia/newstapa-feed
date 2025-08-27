@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-08-27T06:31:51.929Z</updated>
+    <updated>2025-08-27T07:21:51.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/a586d0f/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 오래된 사냥개, 검찰의 몰락]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/110574278</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/110574278"/>
+        <updated>2025-08-27T07:21:42.021Z</updated>
+        <content type="html"><![CDATA[국민 위에 군림했던 권력, 통제받지 않던 검찰이 수술대에 올랐습니다. 검찰 개혁은 단순한 조직 개편이 아니라, 검찰을 견제와 균형이라는 민주적 통제 하에 두기 위한 조치로 평가됩니다. <br><br>검찰 개혁의 핵심은 검찰이 독점한 수사권과 기소권의 분리입니다. 여당인 더불어민주당은 추석 전 검찰 개혁 법안을 통과시키겠다는 계획입니다. <br><br>이번에는 검찰의 권력 구조가 변화할 수 있을까요. <br><br>오는 8월 29일 공개하는 다큐 뉴스타파 ‘오래된 사냥개, 검찰의 몰락’ 편에서는 내란 수괴 윤석열을 통해 드러난 검찰독재의 민낯과 수십년의 세월이 흘러도 변하지 않는 검찰권 오남용의 문제를 지적합니다. 많은 시청 바랍니다.<br><br>🎬 다큐 뉴스타파 〈오래된 사냥개, 검찰의 몰락〉 예고편 영상 보러가기 : <span class="link_url">https://youtu.be/daFz716UZGc</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미니 다큐] 죽음의 '손배 폭탄' 막을 노란봉투법...20년 만에 국회 통과]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/110564012</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/110478277"/>
         <updated>2025-08-25T12:44:38.017Z</updated>
         <content type="html"><![CDATA[채 해병 특검이 군검찰을 향해 칼을 빼들었습니다. 특검은 최근 김동혁 전 국방부 검찰단장과 염보현(소령) 군검사를 불러 강도 높게 조사했습니다. 군검찰의 범죄 혐의는 ‘대통령 격노’에서 비롯된 수사 외압의 실체를 밝히는 데 중요한 단서가 될 것으로 보입니다. 외압의 정점이 윤석열 전 대통령이라면, 외압의 실행 기구가 바로 군검찰, 즉 국방부 검찰단이었기 때문입니다.  <br><br>채해병 특검은 최근 채 해병 사건 당시 윤석열 전 대통령의 친구인 고석 변호사의 역할에도 주목하고 있습니다. 고 변호사가 임성근 전 사단장과 김계환 전 사령관을 만났고, 채해병 사건 수사에 개입했을 가능성을 의심하고 있습니다. 고 변호사는 &lt;뉴스타파&gt;와의 통화에서 “전혀 사실이 아니”라고 부인했습니다. <br><br>조성식 뉴스타파 전문위원이 채해병 특검 수사 상황을 정리했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/7Bxoo</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기후 도박] ① 부풀려진 용인 산단 '수소 발전' 평가서… 환경부 개입 의혹]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/110477468</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/110477468"/>
-        <updated>2025-08-25T12:44:38.018Z</updated>
-        <content type="html"><![CDATA[수소 혼소를 통해 용인 반도체 국가산단의 발전소 온실가스를 획기적으로 줄이겠다는 정부측 보고서가 부풀려진 정황이 확인됐습니다. 담당 기관인 LH는 환경부 의견에 따라 목표치를 올렸다면서도 구체적인 근거를 제시하지 못하고 있습니다. 용인 반도체 국가산단의 대형 가스발전소가 한해 배출하게 될 온실가스는 977만톤입니다.]]></content>
     </entry>
 </feed>
