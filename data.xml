@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Aug 2025 07:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Aug 2025 08:28:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내란 기획자 노상원의 수첩]]></title>
+            <link>https://pages.newstapa.org/2025/RohSangWon/</link>
+            <guid>https://pages.newstapa.org/2025/RohSangWon/</guid>
+            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[노상원 전 국군정보사령관, 그는 12.3 내란의 기획자였다. 그의 수첩에는 각계 인사 500여명을 체포·살해하려는 구상부터 "행사 후" 정치제도를 개혁하는 계획까지 담겨 있었다. 뉴스타파는 이 수첩의 전문을 아래와 같이 공개한다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/28170529-D650-95E1-21EC-0OAX36E1IJ5UUN77FZOC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이진숙 법인카드 사용내역 시각화]]></title>
             <link>https://pages.newstapa.org/2024/07_jinsook/</link>
