@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Aug 2025 23:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Aug 2025 01:29:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수협은행, '도이치 대출 의혹' 터지자 직원 '입막음' 시도]]></title>
+            <link>http://newstapa.org/article/TWonr</link>
+            <guid>http://newstapa.org/article/TWonr</guid>
+            <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[수협은행, '도이치 대출 의혹' 터지자 직원 '입막음' 시도]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/28175413-1B34-B0E7-B23E-IAV7QQ5KGXWTXPLRVBRO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내란의 시작 <노상원 수첩> 특별페이지 공개]]></title>
             <link>http://newstapa.org/article/xwaox</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 발전소 배출 물질 추적① 생명이 사라진 갯바위]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22132801-EBBD-5342-975E-6OQBLOBNFZ00EP3T013J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세]]></title>
-            <link>http://newstapa.org/article/r72lC</link>
-            <guid>http://newstapa.org/article/r72lC</guid>
-            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22131654-D098-9EAC-0041-PS464AKZ8METOG31GSRH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
