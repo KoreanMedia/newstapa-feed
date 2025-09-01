@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Sep 2025 06:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Sep 2025 07:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] 김건희의 야욕과 백재권의 관상 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/yP8zr</link>
+            <guid>http://newstapa.org/article/yP8zr</guid>
+            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 김건희의 야욕과 백재권의 관상]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/01160644-9401-98D4-CC13-BJLJ617TC3CKP2OY7SUR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 정성호 장관은 '특활비 소송' 항소 포기 지휘해야 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/pOxCi</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/25174622-3E1D-EEDF-93F2-FBEK35JC239C52BNNAYW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<뉴스타파 v. 윤석열> '현대판 지록위마' 사건... 봉지욱 기자 1차 공판 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/YnUvg</link>
-            <guid>http://newstapa.org/article/YnUvg</guid>
-            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; '현대판 지록위마' 사건... 봉지욱 기자 1차 공판]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/25172641-F8DC-D29D-85A3-ALACZDHBLP05KWUT36LN.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[칼럼] 김건희의 야욕과 백재권의 관상 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/yP8zr</link>
+            <guid>http://newstapa.org/article/yP8zr</guid>
+            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 김건희의 야욕과 백재권의 관상]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/01160644-9401-98D4-CC13-BJLJ617TC3CKP2OY7SUR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기고] 정성호 장관은 '특활비 소송' 항소 포기 지휘해야 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상현, 증인 매수 진행 상황 '직보' 받았다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/08164940-09B0-0C71-A051-YFPYWXFYDU9Z9UUU899Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 드디어 포토라인에... 김건희 겨냥하는 16개의 칼날 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/7o1An</link>
-            <guid>http://newstapa.org/article/7o1An</guid>
-            <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 드디어 포토라인에... 김건희 겨냥하는 16개의 칼날]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/06181606-1807-3C34-00BD-7M4HCS7C6PS71J0ZUDU1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] '내란의 시작' 노상원 수첩 전문 공개 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3320,6 +3320,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/17173456-D666-6F16-E648-JYE7LU418W0QSF3M2CZ0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[칼럼] 김건희의 야욕과 백재권의 관상 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110629067</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110629067</guid>
+            <pubDate>Mon, 01 Sep 2025 07:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[역술인 백재권 씨는 김건희 씨가 가장 의지하던 역술인 중 한 사람이었습니다. 언론 보도 등에 따르면, 2023년 7~9월에만  13차례 총 4시간 26분 48초 동안 통화했습니다. 백 씨는 윤석열 정부 대통령실 관저 선정에 관여한 의혹이 제기됐던 인물입니다. <br><br>조성식 뉴스타파 전문위원은 윤석열 정부 출범 직후인 2022년 5월 말 백 씨를 만나 2시간 넘게 인터뷰했습니다. 인터뷰에서 백 씨는 윤석열-김건희 부부에 대해 “떨어질 수 없는 관계”, “관상 궁합도 좋고 실제로도 좋은 궁합”, "악어(윤석열)는 권력만 있지 귀함이 없다. 김건희가 그걸 보충해 준다”고 말했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/yP8zr</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일본 5개 주요 도시에서도 영화 ‘압수수색’ 개봉! (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110628981</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110628981</guid>
+            <pubDate>Mon, 01 Sep 2025 07:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파필름의 화제작 ‘압수수색: 내란의 시작(일본명:비상계엄전야)가 오는 9월 6일 도쿄를 시작으로 일본 5개 주요 도시에서 순차 개봉합니다.<br><br>1.도쿄에서는 포레포레히가시나가노 극장에서 9월 6일부터<br>2.삿포로에서는 시어터키노에서 9월 20일부터<br>3.오사카에서는 제7예술극장에서 9월 27일부터<br>4.교토에서는 교토시네마에서 10월 3일부터<br>5.고베에서는 모토마치 영화관에서 10월 4일부터 상영합니다.<br><br>도쿄 포레포레히가시나가노 극장의 ‘압수수색(비상계엄전야)’ 상세 상영 일정은 극장 홈페이지에서 확인하실 수 있습니다.  <br>👉 <span class="link_url">https://pole2.co.jp</span>/<br><br>‘압수수색: 내란의 시작’은 윤석열 정권과 검찰의 언론탄압과 이에 맞선 뉴스타파의 싸움을 그린 다큐멘터리영화로 지난 4월 한국 개봉 당시 극장 관객만 6만 4천여 명, 유튜브 한시 무료 공개 당시 300만 뷰를 기록한 화제작입니다. 이번 일본 개봉은 일본에 계시는 한국 교민들이 ‘압수수색’을 극장에서 보실 수 있는 좋은 기회가 될 겁니다. <br><br>일본어 자막도 달려있기 때문에 일본인 지인과 함께 관람하며 한국 민주주의의 복원력과 시민 항쟁의 역사를 알리기에도 좋은 영화입니다. 일본에 계시는 뉴스타파회원님, 그리고 교민 여러분의 많은 관심 바랍니다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[기고] 정성호 장관은 '특활비 소송' 항소 포기 지휘해야 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/110628004</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/110628004</guid>
@@ -3444,20 +3458,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/110525387</guid>
             <pubDate>Fri, 22 Aug 2025 05:22:33 GMT</pubDate>
             <content:encoded><![CDATA[핵발전소든 화력발전소든 가동하려면 냉각을 위해 뜨겁게 데운 바닷물 즉, 온배수를 내보냅니다. 이러한 온배수 방류로 부산 기장, 전남 영광, 충남 서산, 인천 등에서 해양 생태계 변화와 파괴, 어민들의 피해로 이어지고 있습니다. <br><br>한국독립언론네트워크(KINN)의 회원사인 기후·생태 전문매체 '살아지구'의 취재 결과, 끝없이 쏟아지는 온배수에는 지금껏 알려지지 않던 ‘화학물질’이 대량 들어 있는 것으로 나타났습니다. ‘살아지구’는 화력발전소가 내보내는 온배수 속 ‘화학물질’의 정체를 폭로하고, 이 물질의 존재가 어떻게 감춰져 있었는지 추적합니다. 이번 기획은 값싼 전기 사용의 편익 뒤에 숨겨진 사회적 비용을 어떻게 어민에게 전가되는지에 대한 고발장이기도 합니다.<br> <br>👉 살아지구 기사 원문 보기 : <span class="link_url">https://disappearth.org/thermal_charges_mystery_1-1</span>/<br>👉 살아지구 응원하기: <span class="link_url">https://online.mrm.or.kr/1EquNwj</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[['추적' 부록] 말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110525159</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110525159</guid>
-            <pubDate>Fri, 22 Aug 2025 04:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[이명박 정부 시절, 박수택 전 SBS 환경전문기자는 대운하와 4대강 정책을 검증했다. 당시 청와대는 이런 박수택 기자를 불편해했고, 윤세영 SBS 회장은 따로 불러 독대까지 했다. 윤 회장은 4대강 사업에 대한 정부의 논리를 박 기자에게 그대로 설파하고, “민영방송이 약하다”, “정부로부터 얻어낼 것도 있다”라는 식의 이야기까지 꺼내며 그를 압박했다. 결국 ‘말 안 듣는’ 박수택 기자는 한직으로 밀려났고, 더 이상 이명박 정부에서 4대강 사업에 대한 비판 보도를 하지 못했다.<br><br>언론과 4대강 문제를 다룬 영화 〈추적〉의 최승호 감독은 2024년에 박수택 기자를 인터뷰했다. 현장 기자가 지켜본 대통령 거짓말의 실체, 민영방송 사주가 권력에 굴종하며 보도에 간섭하던 상황, 국내 언론이 4대강 문제를 다루는 방식의 문제점 등 국내 언론의 민낯이 적나라하게 담겼다.<br><br>4대강 파괴와 한국 언론의 문제는 분리될 수 없다고 말하는 박수택 전 SBS 환경전문기자. 영화 〈추적〉에 담지 못한 그의 뒷이야기를 공개한다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/xX154CXaQFY</span><br>👉 4대강 재자연화 촉구 10만인 서명 바로가기 - <span class="link_url">https://forms.gle/GtmJxNUEEGhWndU28</span><br>👉 영화 〈추적〉 단체관람/공동체상영 신청 문의 : 앳나인필름(배급사) 070-7017-3301<br>👉 더 상세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/r72lC</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[🔴주간 뉴스타파 라이브] 조현상의 '비리 백화점', A타워를 파헤치다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110516709</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110516709</guid>
-            <pubDate>Thu, 21 Aug 2025 08:29:48 GMT</pubDate>
-            <content:encoded><![CDATA[김건희 집사 게이트에 돈을 낸 여러 기업 중 특검이 가장 수사력을 집중하고 있는 곳은 HS효성입니다. HS효성은 김건희 집사 김예성의 46억 엑시트를 가능하게 한 184억 원의 투자 중 35억 원을 댔죠. 특검은 HS효성이 막대한 투자금을 낸 배경에 조현상 부회장의 개인 비리를 덮으려는 동기가 있었던 것으로 의심하고 있습니다. <br><br>뉴스타파는 HS효성 조현상 부회장이 덮으려고 했던 개인 비리가 무엇인지 추적해 연속보도하고 있습니다. 지난달에는 차명 법인 보유 및 계열사로부터의 불법 대출 등 범죄를 사실상 자백하는 것과 다름없는 조 부회장의 육성을 보도했는데요, 조 부회장의 육성 녹음 파일에는 암호명 A타워가 등장합니다. 육성 녹음파일에서 조 부회장은 효성캐피탈의 불법 대출에 본사가 관여했다는 기록이 남아있다며 화를 내다가 ‘A타워에는 그런 거 없지?’라고 자신의 오른팔 전 모 상무에게 물었습니다. 뉴스타파는 이를 단서로 암호명 A타워와 관련된 조현상 부회장의 비리를 추적했습니다.<br><br>🔴 라이브 방송 보러가기 : <span class="link_url">https://youtube.com/live/RjXO6mGImds?feature=share</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
