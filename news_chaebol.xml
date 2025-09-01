@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 재벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Sep 2025 08:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Sep 2025 09:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HS효성 조현상 측근, “6억 줄게”, “휴대전화 바꿔라” 증거인멸 시도]]></title>
+            <link>http://newstapa.org/article/XuCoU</link>
+            <guid>http://newstapa.org/article/XuCoU</guid>
+            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[HS효성 조현상 측근, “6억 줄게”, “휴대전화 바꿔라” 증거인멸 시도]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/01181258-A8A1-D705-A41E-BCRUO47XD0ZPSTRTO74B.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 집사게이트 조현상의 '비리 백화점' A타워를 파헤치다]]></title>
             <link>http://newstapa.org/article/e2G_M</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[호반그룹의 리베이트와 은닉재산의 저수지는 재단?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29152602-C9A8-8A8A-EB56-BED6EGPZQEG3J9SU3JHA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알앤원과 알앤투, 900억 원대 수상한 기부]]></title>
-            <link>http://newstapa.org/article/mN9za</link>
-            <guid>http://newstapa.org/article/mN9za</guid>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[알앤원과 알앤투, 900억 원대 수상한 기부]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/12131443-EDBE-EF8E-C58A-YSWOXR5UYA5Y0G8BD7DM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

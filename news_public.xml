@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Sep 2025 08:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Sep 2025 09:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HS효성 조현상 측근, “6억 줄게”, “휴대전화 바꿔라” 증거인멸 시도]]></title>
+            <link>http://newstapa.org/article/XuCoU</link>
+            <guid>http://newstapa.org/article/XuCoU</guid>
+            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[HS효성 조현상 측근, “6억 줄게”, “휴대전화 바꿔라” 증거인멸 시도]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/01181258-A8A1-D705-A41E-BCRUO47XD0ZPSTRTO74B.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[칼럼] 김건희의 야욕과 백재권의 관상]]></title>
             <link>http://newstapa.org/article/yP8zr</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[반론보도] &lt;윤·김·노 세 사람이 흔든 나라, 그들이 답해야 할 질문들&gt; 기사 관련]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/13152308-197E-53C9-4662-5ZHMKYLHI0ZMFTNZBWHR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤상현, 증인 매수 진행 상황 '직보' 받았다]]></title>
-            <link>http://newstapa.org/article/evYyM</link>
-            <guid>http://newstapa.org/article/evYyM</guid>
-            <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상현, 증인 매수 진행 상황 '직보' 받았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/08164940-09B0-0C71-A051-YFPYWXFYDU9Z9UUU899Y.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
