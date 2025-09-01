@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Sep 2025 05:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Sep 2025 06:34:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 정성호 장관은 '특활비 소송' 항소 포기 지휘해야]]></title>
+            <link>http://newstapa.org/article/pOxCi</link>
+            <guid>http://newstapa.org/article/pOxCi</guid>
+            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고] 정성호 장관은 '특활비 소송' 항소 포기 지휘해야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/01151645-82D7-F8EA-9735-46YGAVPP3EJRURJJBCO8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] '노란봉투법' 때문에 기업들 다 망한다?]]></title>
             <link>http://newstapa.org/article/9U-YJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; '현대판 지록위마' 사건... 봉지욱 기자 1차 공판]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/25172641-F8DC-D29D-85A3-ALACZDHBLP05KWUT36LN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 효성가 3세의 '어메이징'한 강남 빌딩 활용법 (feat.김건희에 줄 댄 이유)]]></title>
-            <link>http://newstapa.org/article/mAYUi</link>
-            <guid>http://newstapa.org/article/mAYUi</guid>
-            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 효성가 3세의 '어메이징'한 강남 빌딩 활용법 (feat.김건희에 줄 댄 이유)]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/25144922-1B42-504F-EC15-VO9I8450PUIQAWCKUBS4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
