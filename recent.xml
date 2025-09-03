@@ -4,15 +4,23 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Sep 2025 11:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Sep 2025 12:41:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2024년 검찰 특활비 전수 검증... '551원 특수활동' 등 오남용 정황 수두록]]></title>
+            <title><![CDATA[심우정 전 총장, 계엄 당일부터 나흘 동안 3억 넘는 특활비 살포]]></title>
+            <link>http://newstapa.org/article/2Hf-9</link>
+            <guid>http://newstapa.org/article/2Hf-9</guid>
+            <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[심우정 전 총장, 계엄 당일부터 나흘 동안 3억 넘는 특활비 살포]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/03200655-4ECC-BCA8-BFA4-PG3U9CODGD2B42GISSAK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024년 검찰 특활비 전수 검증... '551원 특수활동' 등 오남용 정황 수두룩]]></title>
             <link>http://newstapa.org/article/-tAC7</link>
             <guid>http://newstapa.org/article/-tAC7</guid>
             <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 검찰 특활비 전수 검증... '551원 특수활동' 등 오남용 정황 수두록]]></content:encoded>
+            <content:encoded><![CDATA[2024년 검찰 특활비 전수 검증... '551원 특수활동' 등 오남용 정황 수두룩]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/03174313-FEB1-68FA-69E1-X975IM7WRI3YJ2B2OHE7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[미니 다큐]죽음의 '손배 폭탄' 막을 노란봉투법...20년 만에 국회 통과]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/26172625-4E77-E09A-4F40-B8DDOTT6Z3VKV9ZYVI4L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수협, 노동진 회장 취임 뒤 '전광훈 교회'에 65억 대출]]></title>
-            <link>http://newstapa.org/article/dDnRS</link>
-            <guid>http://newstapa.org/article/dDnRS</guid>
-            <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[수협, 노동진 회장 취임 뒤 '전광훈 교회'에 65억 대출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/26112559-7E87-E628-30B7-4NN8VUREY47EG1EZBAQO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
