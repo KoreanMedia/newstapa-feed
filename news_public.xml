@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Sep 2025 05:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Sep 2025 06:31:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['친윤' 이철규-김정재 통화 녹음파일 입수… 공천 야합과 선거 범죄]]></title>
+            <link>http://newstapa.org/article/-RaMM</link>
+            <guid>http://newstapa.org/article/-RaMM</guid>
+            <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['친윤' 이철규-김정재 통화 녹음파일 입수… 공천 야합과 선거 범죄]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/04152218-E47E-5054-1254-0HELUAE5FSSX8FE3B70T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[심우정 전 총장, 계엄 당일부터 나흘 동안 3억 넘는 특활비 살포]]></title>
             <link>http://newstapa.org/article/2Hf-9</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[채 해병 특검이 군검찰 육사 라인에 주목하는 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/18155231-7D96-B813-DA97-48EJYMEUUXMLY8KQJVCE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노동진 수협 회장 '불송치 결정서' 입수… 해경 '부실 수사'는 사실]]></title>
-            <link>http://newstapa.org/article/4RQA7</link>
-            <guid>http://newstapa.org/article/4RQA7</guid>
-            <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노동진 수협 회장 '불송치 결정서' 입수… 해경 '부실 수사'는 사실]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14183016-4D5C-FE58-AB75-SL9T8IK074KI0YS7XCZT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
