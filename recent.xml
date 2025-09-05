@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Sep 2025 08:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Sep 2025 09:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 20대 남녀가 보는 ‘두 개의 미국’]]></title>
+            <link>http://newstapa.org/article/QYdUP</link>
+            <guid>http://newstapa.org/article/QYdUP</guid>
+            <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 20대 남녀가 보는 ‘두 개의 미국’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/05173523-938C-31D1-F1D3-UMPL7IJDSLMW8SHS2EU9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 최악의 세금 오·남용 '검찰 특활비' 부활 시도 막아야]]></title>
             <link>http://newstapa.org/article/CNU_9</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[600일 만에 땅 밟은 한국옵티칼 노동자 "더 이상 고공에 오르는 노동자 없길"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/29184036-E63F-4314-4F15-CF8E39RFUJR28KPVJZS3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다큐 뉴스타파]오래된 사냥개, 검찰의 몰락]]></title>
-            <link>http://newstapa.org/article/MaeFr</link>
-            <guid>http://newstapa.org/article/MaeFr</guid>
-            <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다큐 뉴스타파]오래된 사냥개, 검찰의 몰락]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/29124212-118E-6D5A-D0F0-MMWFXM2CD8JNYL7H7081.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
