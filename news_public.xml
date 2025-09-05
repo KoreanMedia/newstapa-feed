@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Sep 2025 23:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Sep 2025 01:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[법무부·대검찰청, '심우정 내란 특활비 의혹' 진상조사 착수]]></title>
+            <link>http://newstapa.org/article/tM7rK</link>
+            <guid>http://newstapa.org/article/tM7rK</guid>
+            <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법무부·대검찰청, '심우정 내란 특활비 의혹' 진상조사 착수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/05071644-B1D9-6410-35DD-SZIX2D0SJWY3HOVN1ZFF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파]김병기 민주당 원내대표의 '아빠 찬스']]></title>
             <link>http://newstapa.org/article/iaQXM</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 집사게이트 조현상의 '비리 백화점' A타워를 파헤치다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/21164635-D2E3-2DAB-5102-XGN3DK25RYRUT7QZMN92.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HS효성 조현상, 강남 빌딩 차명 매입 의혹...또 계열사 자금 동원]]></title>
-            <link>http://newstapa.org/article/0cCLC</link>
-            <guid>http://newstapa.org/article/0cCLC</guid>
-            <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[HS효성 조현상, 강남 빌딩 차명 매입 의혹...또 계열사 자금 동원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/21155400-B41A-39D1-56C4-W1AGC2HYKMID5TGU7GZM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
