@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-09-05T03:37:23.169Z</updated>
+    <updated>2025-09-05T04:25:54.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/5f76317/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온실가스 20% 줄이고 전기요금 5조 챙기는 석탄발전소...언론은 침묵]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/110681101</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/110681101"/>
+        <updated>2025-09-05T04:25:45.970Z</updated>
+        <content type="html"><![CDATA[온실가스 감축을 위해 정부가 지난해 처음 도입한 청정수소 발전 입찰 진행 결과, 전국 59개 석탄발전소 중 단 한 곳의 온실가스 20%를 줄이는 데 5조원이 넘는 전기 요금을 지불하게 됐습니다. 이미 누적 부채가 200조원이 넘는 한전이 그 비용을 내게 되는데 결국 국민들의 전기요금 인상 부담으로 돌아갈 가능성이 높습니다. <br><br>대다수 언론과 전문가들이 침묵하고 있는 가운데, 정부는 올해 두 번째 청정수소 발전 입찰을 진행하고 있습니다. 도박에 가까운 윤석열 정부 에너지 정책의 부실을 심도 있게 파헤치는 조원일 기자의 '기후 도박' 시리즈 세 번째 보도입니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/B09-lSuUljs</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/6W_sf</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[법무부·대검찰청, '심우정 내란 특활비 의혹' 진상조사 착수]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/110678068</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/110594363"/>
         <updated>2025-08-29T01:29:32.868Z</updated>
         <content type="html"><![CDATA[수협의 도이치모터스에 대한 '수상한 대출' 의혹이 뉴스타파의 보도로 촉발된 직후, 수협은행이 추가 제보를 막기 위해 수협 내부 직원들을 압박한 정황이 드러났습니다.<br><br>뉴스타파 보도 다음날 수협은행은 내부망에 "법률 및 내규에 따른 모든 책임", ""무관용 원칙에 따른 엄중 처분"" 등을 거론하는 공지글을 올렸습니다.<br><br>수협은행의 이 같은 행위는 "더 이상의 제보가 나오지 못하게 만들기 위한 수단"이라는 지적이 나옵니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/TWonr</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내란의 시작' 노상원 수첩... '4월 선수 선발']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/110588444</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/110588444"/>
-        <updated>2025-08-28T08:28:51.009Z</updated>
-        <content type="html"><![CDATA[뉴스타파는 노상원이 쓴 자필 수첩을 입수해 윤석열 등 내란 일당이 장기 집권을 위해 각종 ‘공작’을 기획한 정황을 취재했습니다. <br><br>“차기 대선에 대비해 모든 좌파 세력을 붕괴시킨다”는 목적으로 쓰인 ‘노상원 수첩’은 내란의 전모를 밝힐 핵심 증거로 꼽혔지만, 그동안 제대로 된 수사가 진행되지 못했습니다. <br><br>하지만 최근 조은석 특별검사팀은 노상원에게서 “수첩이 자신의 것”이라는 자백을 받아낸 것으로 전해집니다. 묵비권을 행사해오던 노상원이 수첩에 대해 처음으로 입을 연 건데요.<br><br>뉴스타파는 노상원 수첩 전문을 분석하는 과정에서 그간 부각되지 않았던 사실들에 주목했습니다. 내란 세력이 총선을 앞두고 '선수'를 선발한 정황,  검찰과 법무부의 역할을 적어 놓은 부분 등입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/2stx4</span>]]></content>
     </entry>
 </feed>
