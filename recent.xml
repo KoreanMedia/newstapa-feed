@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Sep 2025 04:28:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Sep 2025 05:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] 김병기의 '꼬·꼬·무' 아빠 찬스 의혹... 그는 왜 질문에 침묵했나]]></title>
+            <link>http://newstapa.org/article/nHnXv</link>
+            <guid>http://newstapa.org/article/nHnXv</guid>
+            <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 김병기의 '꼬·꼬·무' 아빠 찬스 의혹... 그는 왜 질문에 침묵했나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/08133702-B2F0-860D-09CA-JBH704OSNJ5E3KH4A4HA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 20대 남녀가 보는 ‘두 개의 미국’]]></title>
             <link>http://newstapa.org/article/QYdUP</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] '노란봉투법' 때문에 기업들 다 망한다?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/01113341-2722-26FC-5534-C0AHHAKW4A3EO9JKOVA9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[600일 만에 땅 밟은 한국옵티칼 노동자 "더 이상 고공에 오르는 노동자 없길"]]></title>
-            <link>http://newstapa.org/article/p8TvN</link>
-            <guid>http://newstapa.org/article/p8TvN</guid>
-            <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[600일 만에 땅 밟은 한국옵티칼 노동자 "더 이상 고공에 오르는 노동자 없길"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/29184036-E63F-4314-4F15-CF8E39RFUJR28KPVJZS3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
