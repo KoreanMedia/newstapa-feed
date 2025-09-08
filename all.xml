@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Sep 2025 05:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Sep 2025 06:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -800,14 +800,6 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/27190633-0C12-A285-7D0B-WNH9LN31Z5M3QQFQ7XVV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[1997, IMF 거대한 거짓말 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/D2uaj</link>
-            <guid>http://newstapa.org/article/D2uaj</guid>
-            <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1997, IMF 거대한 거짓말]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/28235342-C820-FC93-FF89-CLRSXEZ65L8T8IS1JSFD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주간 뉴스타파] 탄핵 늦추는 내란 동조자들, 볼모 잡힌 2025년 경제 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
             <link>http://newstapa.org/article/r1_k0</link>
             <guid>http://newstapa.org/article/r1_k0</guid>
@@ -902,6 +894,14 @@
             <pubDate>Fri, 07 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고속철도 잔혹사 : 국토부 관료는 승승장구, 불편은 국민 몫]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/06170828-18CA-DFEE-C605-ZXO9JNSNFMQJH7PNN0AD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밀 직불금 높인다더니 제자리...헛다리 짚는 식량안보 정책 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
+            <link>http://newstapa.org/article/sOJVW</link>
+            <guid>http://newstapa.org/article/sOJVW</guid>
+            <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[밀 직불금 높인다더니 제자리...헛다리 짚는 식량안보 정책]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/01132009-2223-353F-9114-IBNLWUGMXKAH7RP3VVXC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KINN] 발전소 배출 물질 추적➂ 총염소 조사는 왜 빠졌나 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
