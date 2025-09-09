@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Sep 2025 08:30:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Sep 2025 09:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김병기 원내대표, 구의원 사적 동원 물증 '카톡 메시지' 입수]]></title>
+            <link>http://newstapa.org/article/XmzHb</link>
+            <guid>http://newstapa.org/article/XmzHb</guid>
+            <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김병기 원내대표, 구의원 사적 동원 물증 '카톡 메시지' 입수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/09165231-2FC9-1FFB-F8D8-PHYPXE0Y5A1GOTRK3GDE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['심우정 내란 특활비 의혹'이 통상적? 검찰의 거짓 해명 정황]]></title>
             <link>http://newstapa.org/article/1Tpf1</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[내란의 시작 &lt;노상원 수첩&gt; 특별페이지 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/28170805-03CA-B9BF-0DE5-KLMMZJ65RUBH3PA9RQ07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새마을운동 회원에 수당주는 지자체 우후죽순]]></title>
-            <link>http://newstapa.org/article/hU53R</link>
-            <guid>http://newstapa.org/article/hU53R</guid>
-            <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[새마을운동 회원에 수당주는 지자체 우후죽순]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/27110925-86A9-10A4-6171-WXAGJMPLUYR4GS0GMDD2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
