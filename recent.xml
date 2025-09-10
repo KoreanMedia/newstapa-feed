@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Sep 2025 07:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Sep 2025 08:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <추적> 국회 상영회, 4대강 재자연화 추진 의지 다져]]></title>
+            <link>http://newstapa.org/article/YdGN8</link>
+            <guid>http://newstapa.org/article/YdGN8</guid>
+            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;추적&gt; 국회 상영회, 4대강 재자연화 추진 의지 다져]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/10163448-FFAD-7F28-31EE-NN23X76DG7CYYHXONKWU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김건희, 지역 현안 직보 받고 정부 예산 개입 정황]]></title>
             <link>http://newstapa.org/article/HmP0d</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2024년 검찰 특활비 전수 검증... '551원 특수활동' 등 오남용 정황 수두룩]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/03174313-FEB1-68FA-69E1-X975IM7WRI3YJ2B2OHE7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HS효성 조현상 측근, “6억 줄게”, “휴대전화 바꿔라” 증거인멸 시도]]></title>
-            <link>http://newstapa.org/article/XuCoU</link>
-            <guid>http://newstapa.org/article/XuCoU</guid>
-            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[HS효성 조현상 측근, “6억 줄게”, “휴대전화 바꿔라” 증거인멸 시도]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/01181258-A8A1-D705-A41E-BCRUO47XD0ZPSTRTO74B.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

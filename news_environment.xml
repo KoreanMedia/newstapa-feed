@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 환경</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Sep 2025 07:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Sep 2025 08:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <추적> 국회 상영회, 4대강 재자연화 추진 의지 다져]]></title>
+            <link>http://newstapa.org/article/YdGN8</link>
+            <guid>http://newstapa.org/article/YdGN8</guid>
+            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;추적&gt; 국회 상영회, 4대강 재자연화 추진 의지 다져]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/10163448-FFAD-7F28-31EE-NN23X76DG7CYYHXONKWU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 발전소 배출 물질 추적➂ 총염소 조사는 왜 빠졌나]]></title>
             <link>http://newstapa.org/article/l-bLS</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["녹조 키우고 메탄 내뿜는 보와 하굿둑, 온실가스 공장으로 전락"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23150604-0542-4688-5AB8-845KFQKY4SW6NQBCJL7R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국제 정치가 남극크릴 새우에 미치는 영향]]></title>
-            <link>http://newstapa.org/article/8kgX_</link>
-            <guid>http://newstapa.org/article/8kgX_</guid>
-            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국제 정치가 남극크릴 새우에 미치는 영향]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/18104139-CB94-A5CE-9268-S34NLS364QS45TEUR7P6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
