@@ -4,15 +4,23 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Sep 2025 04:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Sep 2025 05:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[노동진 수협중앙회장, 성접대 제공 혐의 '허위 진술' 확인]]></title>
+            <title><![CDATA[[KINN] 대전청소년성문화센터장, 근무 시간에 '리박스쿨 늘봄학교' 강사 양성했다]]></title>
+            <link>http://newstapa.org/article/3Zokd</link>
+            <guid>http://newstapa.org/article/3Zokd</guid>
+            <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 대전청소년성문화센터장, 근무 시간에 '리박스쿨 늘봄학교' 강사 양성했다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/11133546-8131-F486-626F-XF5MOI5H45P8S4QRLC65.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['성접대 제공 혐의' 노동진 수협중앙회장의 허위 진술 확인]]></title>
             <link>http://newstapa.org/article/WR-Qq</link>
             <guid>http://newstapa.org/article/WR-Qq</guid>
             <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노동진 수협중앙회장, 성접대 제공 혐의 '허위 진술' 확인]]></content:encoded>
+            <content:encoded><![CDATA['성접대 제공 혐의' 노동진 수협중앙회장의 허위 진술 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/11130150-28BF-F010-2BA5-NHWJ0TKVNTTL6Z4J8JYD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[칼럼] 김건희의 야욕과 백재권의 관상]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/01160644-9401-98D4-CC13-BJLJ617TC3CKP2OY7SUR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 정성호 장관은 '특활비 소송' 항소 포기 지휘해야]]></title>
-            <link>http://newstapa.org/article/pOxCi</link>
-            <guid>http://newstapa.org/article/pOxCi</guid>
-            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[기고] 정성호 장관은 '특활비 소송' 항소 포기 지휘해야]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/01151645-82D7-F8EA-9735-46YGAVPP3EJRURJJBCO8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
