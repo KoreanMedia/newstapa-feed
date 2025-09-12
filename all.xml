@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Sep 2025 23:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Sep 2025 01:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘대통령 특활비’ 자료, 사상 최초로 뉴스타파에 공개된다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/dgfTk</link>
+            <guid>http://newstapa.org/article/dgfTk</guid>
+            <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘대통령 특활비’ 자료, 사상 최초로 뉴스타파에 공개된다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/12085542-2C74-8969-97F1-0GPF7XBKX585OW5T9M32.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 뉴스타파 침탈 2년...검찰개혁의 대전제 '수사-기소 분리' (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Mhpk1</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/04124308-CE1F-30E0-A80B-O9C76OIKJZTJ8LYHSLOP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김병기 의원, '차남 대학 편입'에 보좌진·구의원 동원 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/htI0W</link>
-            <guid>http://newstapa.org/article/htI0W</guid>
-            <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김병기 의원, '차남 대학 편입'에 보좌진·구의원 동원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/04162853-AC46-0611-7A75-19936O54PAVMKT5YY2ZI.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘대통령 특활비’ 자료, 사상 최초로 뉴스타파에 공개된다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/dgfTk</link>
+            <guid>http://newstapa.org/article/dgfTk</guid>
+            <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘대통령 특활비’ 자료, 사상 최초로 뉴스타파에 공개된다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/12085542-2C74-8969-97F1-0GPF7XBKX585OW5T9M32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 뉴스타파 침탈 2년...검찰개혁의 대전제 '수사-기소 분리' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심우정 전 총장, 계엄 당일부터 나흘 동안 3억 넘는 특활비 살포]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/03200655-4ECC-BCA8-BFA4-PG3U9CODGD2B42GISSAK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HS효성 조현상 측근, “6억 줄게”, “휴대전화 바꿔라” 증거인멸 시도 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/XuCoU</link>
-            <guid>http://newstapa.org/article/XuCoU</guid>
-            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[HS효성 조현상 측근, “6억 줄게”, “휴대전화 바꿔라” 증거인멸 시도]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/01181258-A8A1-D705-A41E-BCRUO47XD0ZPSTRTO74B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 뉴스타파 침탈 2년...검찰개혁의 대전제 '수사-기소 분리' (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/22180359-7072-5ECE-975D-W4R31OYKNBK9NI7YHF74.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘대통령 특활비’ 자료, 사상 최초로 뉴스타파에 공개된다 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/dgfTk</link>
+            <guid>http://newstapa.org/article/dgfTk</guid>
+            <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘대통령 특활비’ 자료, 사상 최초로 뉴스타파에 공개된다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/12085542-2C74-8969-97F1-0GPF7XBKX585OW5T9M32.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['심우정 내란 특활비 의혹'이 통상적? 검찰의 거짓 해명 정황 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
             <link>http://newstapa.org/article/1Tpf1</link>
             <guid>http://newstapa.org/article/1Tpf1</guid>
@@ -510,14 +518,6 @@
             <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/31140513-06B3-A08A-CCDA-LU8WLK6SUK5CY8FUROIQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대검 각 부서 특활비의 실체와 심우정의 항소 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
-            <link>http://newstapa.org/article/JF_KX</link>
-            <guid>http://newstapa.org/article/JF_KX</guid>
-            <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대검 각 부서 특활비의 실체와 심우정의 항소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/19112541-9F4E-66FB-B431-E4WO5A36EBWIUQH5FK9D.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HS효성 조현상 측근, “6억 줄게”, “휴대전화 바꿔라” 증거인멸 시도 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
@@ -3320,6 +3320,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/17173456-D666-6F16-E648-JYE7LU418W0QSF3M2CZ0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘대통령 특활비’ 자료, 사상 최초로 뉴스타파에 공개된다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110752795</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110752795</guid>
+            <pubDate>Fri, 12 Sep 2025 01:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파가 사상 최초로 대통령비서실의 특활비 자료를 확보합니다. <br><br>뉴스타파가 확보할 예정인 자료들은 ▲이재명 대통령 취임일부터 지난달 31일까지 이 대통령과 대통령비서실이 집행한 특수활동비 등의 증빙자료와 ▲같은 기간 대통령비서실에서 체결한 수의계약 내역입니다. <br><br>이번 정보공개는 뉴스타파가 2022년 윤석열 정부 대통령비서실을 상대로 정보공개 행정소송을 제기, 2년여 만에 대법원의 공개 확정 판결을 최초로 받아내 얻은 결과입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/dgfTk</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 대전청소년성문화센터장, 근무 시간에 '리박스쿨 늘봄학교' 강사 양성했다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/110742846</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/110742846</guid>
@@ -3451,13 +3458,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/110669420</guid>
             <pubDate>Thu, 04 Sep 2025 06:31:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파는 지난해 총선 전 '친윤' 국민의힘 김정재 의원과 이철규 의원의 녹음파일을 입수했습니다.<br><br>두 사람이 통화를 한 시기는 국민의힘 공천 서류 접수가 한창이었던 2024년 1월 31일. 김 의원은 3선에 도전하는 입장이었습니다. 이 의원은 당 인재영입위원장인 동시에 공천관리위원으로, 공천에 막강한 영향력을 행사할 수 있는 위치에 있었습니다.<br><br>김 의원과 이 의원의 대화에는 이제껏 드러난 적이 없는 ▲국민의힘 국회의원 공천을 둘러싼 친윤들의 야합과 ▲포항 북구 지역 국민의힘 국회의원 후보들 간에 반복돼온 것으로 보이는 선거 비리, 선거 범죄에 대한 내용이 담겨 있었습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/COWp4UJp-sw</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/-RaMM</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[심우정 전 총장, 계엄 당일부터 나흘 동안 3억 넘는 특활비 살포 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110660317</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110660317</guid>
-            <pubDate>Wed, 03 Sep 2025 12:41:51 GMT</pubDate>
-            <content:encoded><![CDATA[심우정 전 검찰총장이 계엄 선포 당일인 지난해 12월 3일 하루에만 5,300만 원의 특수활동비(특활비)를 집행한 사실이 확인됐습니다.<br><br>뉴스타파가 심 전 총장이 직접 집행한 일명 '총장 몫 특활비'의 장부를 입수해 분석한 결과, 심 전 총장은 계엄 당일부터 나흘 동안 무려 3억 4,200만 원의 특활비를 집행한 것으로 집계됐습니다. '나흘 동안 3억 4,200만 원'은 심 전 총장의 월 평균 특활비 집행 금액을 훌쩍 뛰어 넘는 이례적인 규모입니다. <br><br>"심 전 총장이 계엄 당일부터 살포한 특활비가 계엄과 연관성은 없는지 수사가 필요하다"는 지적이 나옵니다.<br><br>📰기사 보러가기 : <span class="link_url">https://newstapa.org/article/2Hf-9</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
