@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Sep 2025 04:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Sep 2025 05:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 조선일보, 미국 퇴물 정치인 인용 ‘통일교 감싸기’ 앞장 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/y4pe8</link>
+            <guid>http://newstapa.org/article/y4pe8</guid>
+            <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 조선일보, 미국 퇴물 정치인 인용 ‘통일교 감싸기’ 앞장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/15135311-C46C-08A6-2D32-MG4Z17V2VWVNYQD5FTLV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[타파스] 수소로 기후위기 대응 만사형통? 윤석열 정부 에너지 정책이 '도박'인 이유 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/rURR9</link>
+            <guid>http://newstapa.org/article/rURR9</guid>
+            <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 수소로 기후위기 대응 만사형통? 윤석열 정부 에너지 정책이 '도박'인 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/15134027-2402-6A87-0C29-B736WTJVKLPQUIM9SBEV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘대통령 특활비’ 자료, 사상 최초로 뉴스타파에 공개된다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/dgfTk</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[기후 도박] ③ 온실가스 20% 줄이고 전기요금 5조 챙기는 석탄발전소...언론은 침묵]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/05104545-A915-6591-0AD7-HUBVCI6Y1AMIT4TOL0BK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법무부·대검찰청, '심우정 내란 특활비 의혹' 진상조사 착수 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/tM7rK</link>
-            <guid>http://newstapa.org/article/tM7rK</guid>
-            <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법무부·대검찰청, '심우정 내란 특활비 의혹' 진상조사 착수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/05071644-B1D9-6410-35DD-SZIX2D0SJWY3HOVN1ZFF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파]김병기 민주당 원내대표의 '아빠 찬스' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/iaQXM</link>
-            <guid>http://newstapa.org/article/iaQXM</guid>
-            <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파]김병기 민주당 원내대표의 '아빠 찬스']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/04124308-CE1F-30E0-A80B-O9C76OIKJZTJ8LYHSLOP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘대통령 특활비’ 자료, 사상 최초로 뉴스타파에 공개된다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/01132009-2223-353F-9114-IBNLWUGMXKAH7RP3VVXC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[타파스] 수소로 기후위기 대응 만사형통? 윤석열 정부 에너지 정책이 '도박'인 이유 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/rURR9</link>
+            <guid>http://newstapa.org/article/rURR9</guid>
+            <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 수소로 기후위기 대응 만사형통? 윤석열 정부 에너지 정책이 '도박'인 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/15134027-2402-6A87-0C29-B736WTJVKLPQUIM9SBEV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영화 <추적> 국회 상영회, 4대강 재자연화 추진 의지 다져 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/YdGN8</link>
             <guid>http://newstapa.org/article/YdGN8</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[인니, 전 세계 스마트폰에 ‘불법 광물’ 공급]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16101058-BAC1-B851-ADDE-WXXIVXPC6ZC47BSRY549.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["녹조 키우고 메탄 내뿜는 보와 하굿둑, 온실가스 공장으로 전락" (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/b_2Qh</link>
-            <guid>http://newstapa.org/article/b_2Qh</guid>
-            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["녹조 키우고 메탄 내뿜는 보와 하굿둑, 온실가스 공장으로 전락"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23150604-0542-4688-5AB8-845KFQKY4SW6NQBCJL7R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타파스] '노란봉투법' 때문에 기업들 다 망한다? (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/09152236-1B77-B161-2B89-7ZTLS81DH3YYCV3K7R0F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 조선일보, 미국 퇴물 정치인 인용 ‘통일교 감싸기’ 앞장 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/y4pe8</link>
+            <guid>http://newstapa.org/article/y4pe8</guid>
+            <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 조선일보, 미국 퇴물 정치인 인용 ‘통일교 감싸기’ 앞장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/15135311-C46C-08A6-2D32-MG4Z17V2VWVNYQD5FTLV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 어메이징타워와 흠뻑쇼 ... 누가 한국 언론을 동정할 것인가 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/3y6-V</link>
             <guid>http://newstapa.org/article/3y6-V</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; 봉지욱 기자, 기소 7개월 만에 재판 시작]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/01112608-F1CD-D888-1A70-ATZI6HQ15JSFA7L2E46Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안종필 최후진술 “자유 언론을 압살하는 모든 법과 제도는 철폐되어야” (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/xW7rq</link>
-            <guid>http://newstapa.org/article/xW7rq</guid>
-            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[안종필 최후진술 “자유 언론을 압살하는 모든 법과 제도는 철폐되어야”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/18160406-B1D4-4277-F8BC-HOUZSMGORIR9KU8VU3V4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 21대 대통령선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3320,6 +3320,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/17173456-D666-6F16-E648-JYE7LU418W0QSF3M2CZ0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 조선일보, 미국 퇴물 정치인 인용 ‘통일교 감싸기’ 앞장 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110779782</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110779782</guid>
+            <pubDate>Mon, 15 Sep 2025 05:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[김건희 특검의 윤석열-김건희와 통일교 간 유착 의혹 수사가 속도를 내고 있는 가운데, 조선일보와 미국 전직 고위 정치인 등이 '종교 탄압 프레임'을 내세우며 사실상 통일교를 옹호하고 나섰습니다. <br><br>하지만 조선일보와 미국 전직 정치인, 그리고 통일교의 긴밀한 관계를 볼 때, 이러한 주장은 표면 그대로 받아들이기 힘듭니다. 한국독립언론네트워크 회원 언론사인 '뉴스어디'는 앞서 통일교와 조선미디어의 커넥션을 보도한 바 있는데요, 이번엔 그 후속 보도로 미국 정치인까지 낀 ‘이익 동맹’ 구조를 다뤘습니다. <br><br>👉 전체 기사 보기: <span class="link_url">https://newswhere.org/news/report/2415</span>/<br>👉 뉴스어디 응원하기: <span class="link_url">https://online.mrm.or.kr/UblKLtQ</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뉴스타파 영화 <압수수색: 내란의 시작> 영화제 공식 초청 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/110756689</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/110756689</guid>
@@ -3451,13 +3458,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/110671754</guid>
             <pubDate>Thu, 04 Sep 2025 08:27:22 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파가 추적해온 김병기 원내대표의 수상한 '아빠 찬스' 의혹, 첫번째 리포트입니다. <br><br>지난 2021년, 김 원내대표가 자신의 지역구가 있는 서울 동작구의 숭실대학교를 찾아가 대학 총장 등을 만났습니다. 그리고 이듬해에는 자신의 보좌 직원과 동작구의원이 숭실대를 또 찾아갔습니다. 왜일까요? 취재 결과, 김 원내대표의 차남 김모 씨의 대학 편입 문제 때문이었습니다. <br><br>국회의원의 지위와 권한을 사적으로 동원했다는 비판을 피하기 어려워 보입니다.<br><br>🎬 더 자세한 내용을 영상으로 확인하세요 : <span class="link_url">https://youtu.be/t28UP41e5ws</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/htI0W</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김병기 차남, '기업 특혜로 숭실대 편입' 의혹 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110671745</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110671745</guid>
-            <pubDate>Thu, 04 Sep 2025 08:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파가 추적해온 김병기 원내대표의 수상한 '아빠 찬스' 의혹, 그 두번째 리포트입니다. <br><br>김 원내대표의 차남은 결국 2023년, 숭실대 편입에 성공했는데요. 취재 결과 여기에는 한 중소기업이 톡톡한 역할을 했습니다. 차남 김 씨가 편입한 학과는 산학협력법에 따라 개설되는 '계약학과'로, 기업 재직자가 아니면 들어갈 수 없는 학과였습니다. <br><br>김 원내대표의 보좌직원과 구의원이 숭실대에 간 시점(2022년 4월)부터 차남 김 씨가 숭실대에 편입한 시점(2023년 3월)사이 약 1년 동안 무슨 일이 있었던 걸까요. 차남 김 씨가 받은 중소기업의 특혜 의혹, 그 전말을 보도합니다.<br><br>🎬 더 자세한 내용을 영상으로 확인하세요 : <span class="link_url">https://youtu.be/50ajytR8i7o</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/QQrdK</span>]]></content:encoded>
         </item>
     </channel>
 </rss>

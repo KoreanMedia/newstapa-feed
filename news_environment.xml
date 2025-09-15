@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 환경</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Sep 2025 04:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Sep 2025 05:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] 수소로 기후위기 대응 만사형통? 윤석열 정부 에너지 정책이 '도박'인 이유]]></title>
+            <link>http://newstapa.org/article/rURR9</link>
+            <guid>http://newstapa.org/article/rURR9</guid>
+            <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 수소로 기후위기 대응 만사형통? 윤석열 정부 에너지 정책이 '도박'인 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/15134027-2402-6A87-0C29-B736WTJVKLPQUIM9SBEV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <추적> 국회 상영회, 4대강 재자연화 추진 의지 다져]]></title>
             <link>http://newstapa.org/article/YdGN8</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[인니, 전 세계 스마트폰에 ‘불법 광물’ 공급]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16101058-BAC1-B851-ADDE-WXXIVXPC6ZC47BSRY549.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["녹조 키우고 메탄 내뿜는 보와 하굿둑, 온실가스 공장으로 전락"]]></title>
-            <link>http://newstapa.org/article/b_2Qh</link>
-            <guid>http://newstapa.org/article/b_2Qh</guid>
-            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["녹조 키우고 메탄 내뿜는 보와 하굿둑, 온실가스 공장으로 전락"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23150604-0542-4688-5AB8-845KFQKY4SW6NQBCJL7R.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
