@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Sep 2025 01:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Sep 2025 02:59:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘한국판 마가(MAGA)’ 엠킴과 한미 극우의 거대한 연대 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/NUZtN</link>
+            <guid>http://newstapa.org/article/NUZtN</guid>
+            <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘한국판 마가(MAGA)’ 엠킴과 한미 극우의 거대한 연대]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/16110702-891C-FA6D-C389-358M48V2HH8WQX4XPLX3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 조선일보, 미국 퇴물 정치인 인용 ‘통일교 감싸기’ 앞장 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/y4pe8</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 발전소 배출 물질 추적➂ 총염소 조사는 왜 빠졌나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/05135228-AEAE-7F01-B0DD-60LC1DFLOJ18VLW3T1MB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기후 도박] ③ 온실가스 20% 줄이고 전기요금 5조 챙기는 석탄발전소...언론은 침묵 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/6W_sf</link>
-            <guid>http://newstapa.org/article/6W_sf</guid>
-            <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[기후 도박] ③ 온실가스 20% 줄이고 전기요금 5조 챙기는 석탄발전소...언론은 침묵]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/05104545-A915-6591-0AD7-HUBVCI6Y1AMIT4TOL0BK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘대통령 특활비’ 자료, 사상 최초로 뉴스타파에 공개된다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29152602-C9A8-8A8A-EB56-BED6EGPZQEG3J9SU3JHA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘한국판 마가(MAGA)’ 엠킴과 한미 극우의 거대한 연대 (뉴스타파 ─ 뉴스 ─ 종교)]]></title>
+            <link>http://newstapa.org/article/NUZtN</link>
+            <guid>http://newstapa.org/article/NUZtN</guid>
+            <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘한국판 마가(MAGA)’ 엠킴과 한미 극우의 거대한 연대]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/16110702-891C-FA6D-C389-358M48V2HH8WQX4XPLX3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국가정책으로 포장된 개신교의 이권사업들 (뉴스타파 ─ 뉴스 ─ 종교)]]></title>
             <link>http://newstapa.org/article/AbzRs</link>
             <guid>http://newstapa.org/article/AbzRs</guid>
@@ -766,14 +774,6 @@
             <pubDate>Wed, 03 Jan 2018 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[박문서 신부, 이번에는 주가조작 관여 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/01/ce2a55ae1ff1b596a095468202df5a5a11a8393dc6cd79bd785d9ca6a15d789c9a55dffa61683b31af50137582dad7a575c72263298a0bcf0f88cbbe9f6130f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인천교구, 비리 의혹 박문서 신부 보직해임 (뉴스타파 ─ 뉴스 ─ 종교)]]></title>
-            <link>http://newstapa.org/article/r5kwM</link>
-            <guid>http://newstapa.org/article/r5kwM</guid>
-            <pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[인천교구, 비리 의혹 박문서 신부 보직해임]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2017/12/62c4cb1a782d68a05e5fedef74c006039910d747f238cdd91020d8c8d22b3dee9199027981f408b1c7fecff17bb3e39243235380c55070f5112612b82f7206fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기후 도박] ① 부풀려진 용인 산단 '수소 발전' 평가서… 환경부 개입 의혹 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/09152236-1B77-B161-2B89-7ZTLS81DH3YYCV3K7R0F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘한국판 마가(MAGA)’ 엠킴과 한미 극우의 거대한 연대 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/NUZtN</link>
+            <guid>http://newstapa.org/article/NUZtN</guid>
+            <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘한국판 마가(MAGA)’ 엠킴과 한미 극우의 거대한 연대]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/16110702-891C-FA6D-C389-358M48V2HH8WQX4XPLX3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 조선일보, 미국 퇴물 정치인 인용 ‘통일교 감싸기’ 앞장 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/y4pe8</link>
             <guid>http://newstapa.org/article/y4pe8</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN]내란과 일본언론 5: 윤석열 파면과 일본극우언론의 탄식]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10111622-AC35-5AFB-6AF6-I6QD5A8MCHZJH6GT2UE0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뉴스타파 v. 윤석열> 봉지욱 기자, 기소 7개월 만에 재판 시작 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/aJ7n-</link>
-            <guid>http://newstapa.org/article/aJ7n-</guid>
-            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; 봉지욱 기자, 기소 7개월 만에 재판 시작]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/01112608-F1CD-D888-1A70-ATZI6HQ15JSFA7L2E46Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 21대 대통령선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3320,6 +3320,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/17163922-DC94-0335-9EFA-ASQ6G2UIBRWLXJAJ7LTB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘한국판 마가(MAGA)’ 엠킴과 한미 극우의 거대한 연대 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110789915</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110789915</guid>
+            <pubDate>Tue, 16 Sep 2025 02:59:22 GMT</pubDate>
+            <content:encoded><![CDATA[미국 청년 기독교 우파의 대표주자인 찰리 커크(32)가 10일(유타주 현지 시각) 총격으로 사망했습니다. 커크는 트럼프 미국 대통령의 최측근으로 꼽히는 보수 논객이자 정치운동가였습니다. 커크 사망 이후 트럼프는 미국 전역 연방기관에 조기 게양을 지시했습니다. <br><br>커크는 암살당하기 며칠 전 한국을 찾아 ‘빌드업 코리아 2025’ 행사에 참석했습니다. 빌드업 코리아는 ‘한-미 다음 세대가 중심이 되는 연례 콘퍼런스 및 문화 무브먼트를 이끄는 국제단체’입니다. 대표인 김민아(36) 씨에 따르면, 빌드업 코리아의 모델이 바로 커크의 터닝포인트 USA입니다. <br><br>극우세력이 총집결했다고 평가받는 '빌드업 코리아 2025'를 조성식 전문위원이 취재했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/NUZtN</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 조선일보, 미국 퇴물 정치인 인용 ‘통일교 감싸기’ 앞장 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/110779782</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/110779782</guid>
@@ -3451,13 +3458,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/110671762</guid>
             <pubDate>Thu, 04 Sep 2025 08:27:22 GMT</pubDate>
             <content:encoded><![CDATA[오늘(4일) 주간 뉴스타파에서는 더불어민주당 김병기 원내대표에 대한 취재 결과를 전해드립니다. <br><br>자녀의 대학 편입에 김 원내대표가 국회의원의 지위와 권한을 사적으로 활용한 정황이 취재 결과 확인됐습니다. <br>또한, 김 원내대표의 차남이 대학에 편입하는 과정에서 한 중소기업으로부터 상당히 이례적인 특혜를 받은 정황도 확인됐습니다. 취재진은 김 원내대표 측에 가능한 모든 수단을 동원해 해명과 반론을 요청했으나 김 원내대표 측은 묵묵부답으로 일관하고 있습니다.<br><br>🎬 더 자세한 내용을 영상으로 확인하세요 : <span class="link_url">https://youtu.be/ZHsRp7RzxAE</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/iaQXM</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김병기 의원, '차남 대학 편입'에 보좌진·구의원 동원 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110671754</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110671754</guid>
-            <pubDate>Thu, 04 Sep 2025 08:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파가 추적해온 김병기 원내대표의 수상한 '아빠 찬스' 의혹, 첫번째 리포트입니다. <br><br>지난 2021년, 김 원내대표가 자신의 지역구가 있는 서울 동작구의 숭실대학교를 찾아가 대학 총장 등을 만났습니다. 그리고 이듬해에는 자신의 보좌 직원과 동작구의원이 숭실대를 또 찾아갔습니다. 왜일까요? 취재 결과, 김 원내대표의 차남 김모 씨의 대학 편입 문제 때문이었습니다. <br><br>국회의원의 지위와 권한을 사적으로 동원했다는 비판을 피하기 어려워 보입니다.<br><br>🎬 더 자세한 내용을 영상으로 확인하세요 : <span class="link_url">https://youtu.be/t28UP41e5ws</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/htI0W</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
