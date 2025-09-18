@@ -4,15 +4,31 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Sep 2025 01:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Sep 2025 03:00:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[<뉴스타파 v. 윤석열> 압수수색 2년 - 내란범의 명예를 훼손한 기자들의 시간 (뉴스타파 ─ 뉴스)]]></title>
+            <title><![CDATA[<칼럼> 한동훈 '공판 전 증인신문'에 반대한다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Z8lvZ</link>
+            <guid>http://newstapa.org/article/Z8lvZ</guid>
+            <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;칼럼&gt; 한동훈 '공판 전 증인신문'에 반대한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18113017-D6DB-989C-AE85-2KHYO2EP95OW2CXM2J2J.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 윤석열 언론공범⑤ 김건희 주가조작 의혹을 차단하다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/AAhKr</link>
+            <guid>http://newstapa.org/article/AAhKr</guid>
+            <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 윤석열 언론공범⑤ 김건희 주가조작 의혹을 차단하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18104807-863A-A56B-C2FB-E1N6W3JTMXCK5UDESTNK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스타파 v. 윤석열] 압수수색 2년 - 내란범의 명예를 훼손한 기자들의 시간 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/lXNUF</link>
             <guid>http://newstapa.org/article/lXNUF</guid>
             <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; 압수수색 2년 - 내란범의 명예를 훼손한 기자들의 시간]]></content:encoded>
+            <content:encoded><![CDATA[[뉴스타파 v. 윤석열] 압수수색 2년 - 내란범의 명예를 훼손한 기자들의 시간]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/17152154-4355-B920-E19F-L6IPSFLGRI566HW4Z19F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -120,27 +136,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/09104629-C264-CBE2-C601-Z1AK6Y3Z2XK1B8R79WU6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[타파스] 김병기의 '꼬·꼬·무' 아빠 찬스 의혹... 그는 왜 질문에 침묵했나 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/nHnXv</link>
-            <guid>http://newstapa.org/article/nHnXv</guid>
-            <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 김병기의 '꼬·꼬·무' 아빠 찬스 의혹... 그는 왜 질문에 침묵했나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/08133702-B2F0-860D-09CA-JBH704OSNJ5E3KH4A4HA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 20대 남녀가 보는 ‘두 개의 미국’ (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/QYdUP</link>
-            <guid>http://newstapa.org/article/QYdUP</guid>
-            <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 20대 남녀가 보는 ‘두 개의 미국’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/05173523-938C-31D1-F1D3-UMPL7IJDSLMW8SHS2EU9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뉴스타파 v. 윤석열> 압수수색 2년 - 내란범의 명예를 훼손한 기자들의 시간 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <title><![CDATA[[뉴스타파 v. 윤석열] 압수수색 2년 - 내란범의 명예를 훼손한 기자들의 시간 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/lXNUF</link>
             <guid>http://newstapa.org/article/lXNUF</guid>
             <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; 압수수색 2년 - 내란범의 명예를 훼손한 기자들의 시간]]></content:encoded>
+            <content:encoded><![CDATA[[뉴스타파 v. 윤석열] 압수수색 2년 - 내란범의 명예를 훼손한 기자들의 시간]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/17152154-4355-B920-E19F-L6IPSFLGRI566HW4Z19F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/04162922-7BDB-E911-C68C-9T0K9ZAF7PNHZALKFRZV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<칼럼> 한동훈 '공판 전 증인신문'에 반대한다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/Z8lvZ</link>
+            <guid>http://newstapa.org/article/Z8lvZ</guid>
+            <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;칼럼&gt; 한동훈 '공판 전 증인신문'에 반대한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18113017-D6DB-989C-AE85-2KHYO2EP95OW2CXM2J2J.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 뉴스타파 침탈 2년...검찰개혁의 대전제 '수사-기소 분리' (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/Mhpk1</link>
             <guid>http://newstapa.org/article/Mhpk1</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[극동방송 김장환, 조선일보도 거액 주고 펜스 초청…그 때마다 윤석열 만나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/24175621-DA0C-3BC9-69B2-4P6NSIHFGN1Q4VRB8Z6R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통일교, 펜스 전 미 부통령 7억 원 주고 초청…윤석열과 회동 주선 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/yfAH1</link>
-            <guid>http://newstapa.org/article/yfAH1</guid>
-            <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[통일교, 펜스 전 미 부통령 7억 원 주고 초청…윤석열과 회동 주선]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/22180359-7072-5ECE-975D-W4R31OYKNBK9NI7YHF74.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['내란 특활비 의혹' 심우정, 업무상 횡령 혐의로 공수처에 고발됐다 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/09152236-1B77-B161-2B89-7ZTLS81DH3YYCV3K7R0F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 윤석열 언론공범⑤ 김건희 주가조작 의혹을 차단하다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/AAhKr</link>
+            <guid>http://newstapa.org/article/AAhKr</guid>
+            <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 윤석열 언론공범⑤ 김건희 주가조작 의혹을 차단하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18104807-863A-A56B-C2FB-E1N6W3JTMXCK5UDESTNK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘한국판 마가(MAGA)’ 엠킴과 한미 극우의 거대한 연대 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/NUZtN</link>
             <guid>http://newstapa.org/article/NUZtN</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[권성동 국민의힘 원내대표, 취재중인 뉴스타파 기자 폭행]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/16181134-D820-1993-4E55-OPJM6JQ4O637DZ04FW7L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN]내란과 일본언론 5: 윤석열 파면과 일본극우언론의 탄식 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/LadNG</link>
-            <guid>http://newstapa.org/article/LadNG</guid>
-            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN]내란과 일본언론 5: 윤석열 파면과 일본극우언론의 탄식]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10111622-AC35-5AFB-6AF6-I6QD5A8MCHZJH6GT2UE0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 21대 대통령선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3320,6 +3320,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/17163922-DC94-0335-9EFA-ASQ6G2UIBRWLXJAJ7LTB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<칼럼> 한동훈 '공판 전 증인신문'에 반대한다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110815747</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110815747</guid>
+            <pubDate>Thu, 18 Sep 2025 03:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[한동훈 전 국민의힘 대표(전 법무부장관)가 법정에 섭니다. 23일로 예정된 ‘제1회 공판기일 전 증인신문’입니다. 1973년 형사소송법에 들어왔지만 오랫동안 사문화됐던 이 제도를 부활시킨 건 바로 윤석열 정부 초대 법무장관 한동훈이었습니다. ‘윤석열 명예훼손’ 혐의로 뉴스타파를 수사하면서 이 제도를 끄집어 냈습니다.<br><br>수사 절차지만 재판처럼 진행되는 ‘공판 전 증인신문’에 대해서는 여러 비판이 나옵니다. 무분별한 피의사실 공표, 피의자 방어권 침해 등입니다. 검사편의주의라는 지적입니다.    <br><br>‘윤석열 명예훼손’ 사건의 피고인으로 1년 넘게 재판을 받고 있는 한상진 뉴스타파 기자가 ‘공판 전 증인신문’ 제도의 문제점, 이 제도가 없어져야 하는 이유를 정리했습니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/Z8lvZ</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 언론공범⑤ 김건희 주가조작 의혹을 차단하다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110814990</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110814990</guid>
+            <pubDate>Thu, 18 Sep 2025 03:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[내란수괴 윤석열이 검찰총장, 대통령 자리까지 올라가는 동안 많은 언론이 ‘윤비어천가’를 부르며 국민의 눈과 귀를 속였습니다. 그 언론은 권력이 바뀌자 입을 씻고 표정을 바꿔 권력의 감시자인양 행세하고 있습니다.<br><br>뉴스타파가 도이치모터스 주가조작 의혹을 처음 제기했을 당시 정치권 이상으로 앞장서서 막으며 윤석열과 김건희를 감싼 곳이 있습니다. 바로 언론입니다. 한국독립언론네트워크(KINN) 회원 언론사인 &lt;뉴스어디&gt;가 도이치모터스 주가조작 사건이 불거진 이후 6대 일간지의 관련 보도를 분석해 봤습니다.<br><br>📰뉴스어디 기사 전문보기 : <span class="link_url">https://newswhere.org/news/report/2485</span>/<br>🙌 뉴스어디 응원하기: <span class="link_url">https://online.mrm.or.kr/UblKLtQ</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[〈뉴스타파 v. 윤석열〉 압수수색 2년 - 내란범의 명예를 훼손한 기자들의 시간 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/110809730</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/110809730</guid>
@@ -3444,20 +3458,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/110683356</guid>
             <pubDate>Fri, 05 Sep 2025 06:31:49 GMT</pubDate>
             <content:encoded><![CDATA[2026년 정부 예산안에 72억 원의 검찰 특수활동비가 포함됐습니다. 검찰 개혁을 공약으로 내걸고 있는 정부에서 최악의 세금 오·남용 사례라고 할 수 있는 검찰 특수활동비를 살려주는 셈입니다.<br><br>뉴스타파와 3개 시민단체들(세금도둑잡아라, 투명사회를 위한 정보공개센터, 함께하는 시민행동)들이 3년 5개월에 걸친 행정소송을 진행한 끝에 검찰 특활비의 실체가 드러나기 시작했습니다. 그리고 검증 작업을 통해서 온갖 위법과 세금 오·남용이 드러난 상황입니다. <br><br>검찰 특수활동비 폐지는 검찰 개혁의 출발점이자 검찰이 ‘보통의 행정기관’으로 자리잡게 만들 상징적인 조치입니다. 국회가 검찰 특수활동비 전액 삭감과 상설특검 도입이라는 결정을 할 수 있도록, 시민들의 관심과 참여가 필요한 상황입니다. 하승수 뉴스타파 전문위원(세금도둑잡아라 공동대표)의 기고글입니다.<br><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/CNU_9</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 발전소 배출 물질 추적➂ 총염소 조사는 왜 빠졌나 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110683203</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110683203</guid>
-            <pubDate>Fri, 05 Sep 2025 06:31:49 GMT</pubDate>
-            <content:encoded><![CDATA[핵발전소든 화력발전소든 가동하려면 냉각을 위해 뜨겁게 데운 바닷물 즉, 온배수를 내보냅니다. 이러한 온배수 방류로 부산 기장, 전남 영광, 충남 서산, 인천 등에서 해양 생태계 변화와 파괴, 어민들의 피해로 이어지고 있습니다. <br><br>한국독립언론네트워크(KINN)의 회원사인 기후·생태 전문매체 '살아지구'의 취재 결과, 끝없이 쏟아지는 온배수에는 지금껏 알려지지 않던 ‘화학물질’이 대량 들어 있는 것으로 나타났습니다. ‘살아지구’는 화력발전소가 내보내는 온배수 속 ‘화학물질’의 정체를 폭로하고, 이 물질의 존재가 어떻게 감춰져 있었는지 추적합니다. 이번 기획은 값싼 전기 사용의 편익 뒤에 숨겨진 사회적 비용을 어떻게 어민에게 전가되는지에 대한 고발장이기도 합니다. <br><br>'살아지구' 취재진은 영흥화력발전소 인근에서 이뤄진 '온배수 피해 조사' 과정에서 인근 지역의 굴 폐사를 불러올 수 있는 '총염소' 조사가 빠지게 된 원인을 추적합니다. 발전소 측은 '어민들의 요구가 없어서 조사하지 않았다'는 궤변을 내놓고 있습니다.<br><br>👉 독립언론 &lt;살아지구&gt; 기사 전체 보기 : <span class="link_url">https://disappearth.org/thermal_charges_mystery_1-3</span>/ <br>👉&lt;살아지구&gt; 응원하기 : <span class="link_url">https://online.mrm.or.kr/1EquNwj</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[온실가스 20% 줄이고 전기요금 5조 챙기는 석탄발전소...언론은 침묵 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110681101</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110681101</guid>
-            <pubDate>Fri, 05 Sep 2025 04:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[온실가스 감축을 위해 정부가 지난해 처음 도입한 청정수소 발전 입찰 진행 결과, 전국 59개 석탄발전소 중 단 한 곳의 온실가스 20%를 줄이는 데 5조원이 넘는 전기 요금을 지불하게 됐습니다. 이미 누적 부채가 200조원이 넘는 한전이 그 비용을 내게 되는데 결국 국민들의 전기요금 인상 부담으로 돌아갈 가능성이 높습니다. <br><br>대다수 언론과 전문가들이 침묵하고 있는 가운데, 정부는 올해 두 번째 청정수소 발전 입찰을 진행하고 있습니다. 도박에 가까운 윤석열 정부 에너지 정책의 부실을 심도 있게 파헤치는 조원일 기자의 '기후 도박' 시리즈 세 번째 보도입니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/B09-lSuUljs</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/6W_sf</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
