@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Sep 2025 09:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Sep 2025 10:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열, '윤석열 명예훼손 사건' 증인으로 채택]]></title>
+            <link>http://newstapa.org/article/cZi_h</link>
+            <guid>http://newstapa.org/article/cZi_h</guid>
+            <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열, '윤석열 명예훼손 사건' 증인으로 채택]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/19185825-8D81-52DA-65F0-46S31BNNI6WGH4WYXAUZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권성동, 폭행 현행범에도 딱 한번 서면 조사… “적법 절차와 형평성 위배”]]></title>
             <link>http://newstapa.org/article/BvsE0</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['성접대 제공 혐의' 노동진 수협중앙회장의 허위 진술 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/11130150-28BF-F010-2BA5-NHWJ0TKVNTTL6Z4J8JYD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차남이 사실상 강제 해직?...김병기 대표의 거짓말]]></title>
-            <link>http://newstapa.org/article/mabMX</link>
-            <guid>http://newstapa.org/article/mabMX</guid>
-            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[차남이 사실상 강제 해직?...김병기 대표의 거짓말]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/10174912-74D7-D881-82B4-5AF5HWAP6SD8MXUZD0IC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
