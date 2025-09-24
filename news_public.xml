@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Sep 2025 05:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Sep 2025 06:32:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파]부장판사의 수상한 쇼핑, 그리고 침묵의 사법부]]></title>
+            <link>http://newstapa.org/article/KpbBk</link>
+            <guid>http://newstapa.org/article/KpbBk</guid>
+            <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파]부장판사의 수상한 쇼핑, 그리고 침묵의 사법부]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/24125517-BBE2-1242-0199-F64ERJ68CJF4JCBWNQPE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['95% 명품 할인', '대리 결제'... 명태균 재판장 추가 비위 의혹]]></title>
+            <link>http://newstapa.org/article/867TA</link>
+            <guid>http://newstapa.org/article/867TA</guid>
+            <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['95% 명품 할인', '대리 결제'... 명태균 재판장 추가 비위 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/24131326-149C-6EBE-104F-6XMKUNPKQD19S9Y4LF24.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열, ‘윤석열 명예훼손 사건’ 증인으로 채택]]></title>
             <link>http://newstapa.org/article/cZi_h</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['김병기 원내대표 구의원 사적 동원' 물증 ‘카톡 메시지’ 입수]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/09165231-2FC9-1FFB-F8D8-PHYPXE0Y5A1GOTRK3GDE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['심우정 내란 특활비 의혹'이 통상적? 검찰의 거짓 해명 정황]]></title>
-            <link>http://newstapa.org/article/1Tpf1</link>
-            <guid>http://newstapa.org/article/1Tpf1</guid>
-            <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['심우정 내란 특활비 의혹'이 통상적? 검찰의 거짓 해명 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/09104629-C264-CBE2-C601-Z1AK6Y3Z2XK1B8R79WU6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 김병기의 '꼬·꼬·무' 아빠 찬스 의혹... 그는 왜 질문에 침묵했나]]></title>
-            <link>http://newstapa.org/article/nHnXv</link>
-            <guid>http://newstapa.org/article/nHnXv</guid>
-            <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 김병기의 '꼬·꼬·무' 아빠 찬스 의혹... 그는 왜 질문에 침묵했나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/08133702-B2F0-860D-09CA-JBH704OSNJ5E3KH4A4HA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
