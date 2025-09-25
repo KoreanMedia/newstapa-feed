@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Sep 2025 09:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Sep 2025 10:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/iz_a3</link>
+            <guid>http://newstapa.org/article/iz_a3</guid>
+            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/25175438-0D9C-FD85-E5CB-2VT0KIUGRQH20VDOW34W.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명품 수수 의혹 김인택 부장판사 국정감사 증인 신청됐다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/PDTrr</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/17152154-4355-B920-E19F-L6IPSFLGRI566HW4Z19F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['내란 특활비 의혹' 심우정, 업무상 횡령 혐의로 공수처에 고발됐다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/QHW9r</link>
-            <guid>http://newstapa.org/article/QHW9r</guid>
-            <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['내란 특활비 의혹' 심우정, 업무상 횡령 혐의로 공수처에 고발됐다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/16162635-2D98-970F-2D3B-G18J7A4V2AIWJPRI4DGB.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/iz_a3</link>
+            <guid>http://newstapa.org/article/iz_a3</guid>
+            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/25175438-0D9C-FD85-E5CB-2VT0KIUGRQH20VDOW34W.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명품 수수 의혹 김인택 부장판사 국정감사 증인 신청됐다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['성접대 제공 혐의' 노동진 수협중앙회장의 허위 진술 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/11130150-28BF-F010-2BA5-NHWJ0TKVNTTL6Z4J8JYD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차남이 사실상 강제 해직?...김병기 대표의 거짓말 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/mabMX</link>
-            <guid>http://newstapa.org/article/mabMX</guid>
-            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[차남이 사실상 강제 해직?...김병기 대표의 거짓말]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/10174912-74D7-D881-82B4-5AF5HWAP6SD8MXUZD0IC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명품 수수 의혹 김인택 부장판사 국정감사 증인 신청됐다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/13152308-197E-53C9-4662-5ZHMKYLHI0ZMFTNZBWHR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/iz_a3</link>
+            <guid>http://newstapa.org/article/iz_a3</guid>
+            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/25175438-0D9C-FD85-E5CB-2VT0KIUGRQH20VDOW34W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['내란 특활비 의혹' 심우정, 업무상 횡령 혐의로 공수처에 고발됐다 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
             <link>http://newstapa.org/article/QHW9r</link>
             <guid>http://newstapa.org/article/QHW9r</guid>
@@ -510,14 +518,6 @@
             <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[법무부장관 '특활비 공개' 판결로 드러난 심우정의 '거짓말']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/09133328-6B7D-A30D-5453-0T1PFBJA906JMXFP2WUZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건진법사가 숨긴 '관봉 5천만원'...윤석열 정부 '특수활동비'였다 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
-            <link>http://newstapa.org/article/cWWXZ</link>
-            <guid>http://newstapa.org/article/cWWXZ</guid>
-            <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[건진법사가 숨긴 '관봉 5천만원'...윤석열 정부 '특수활동비'였다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/29164200-D786-E963-AAD2-1C3YS5W1OP8QQ1BV14PX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HS효성 조현상 측근, “6억 줄게”, “휴대전화 바꿔라” 증거인멸 시도 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
@@ -3320,6 +3320,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/17163922-DC94-0335-9EFA-ASQ6G2UIBRWLXJAJ7LTB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110902466</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110902466</guid>
+            <pubDate>Thu, 25 Sep 2025 10:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 대통령비서실(대통령실)이 지난 23일 역대 정부 중 처음으로 대통령과 대통령실에서 쓴 특수활동비 등의 예산 자료를 공개했습니다. <br><br>이날 대통령실은 홈페이지에 "그간의 법원 판결을 존중하고, 국민의 귀중한 세금을 올바르게 집행하고 있다는 점을 밝히기 위해 집행정보 공개를 결정하게 되었다"는 내용의 글을 올렸습니다. ▲법원 판결을 존중해 ▲주권자가 세금 부정사용이나 오남용을 충분히 검증할 수 있는 수준의 예산 자료를 공개했다는 취지의 주장입니다.<br><br>뉴스타파는 이 주장이 사실인지 검증했습니다. 그 결과 이재명 대통령실이 ▲법원 판결을 무시하며 ▲세금 부정사용, 오남용 검증에 꼭 필요한 정보를 비공개하거나 삭제한 사실을 확인했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/LWXFEwfbsAI</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/iz_a3</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[명품 수수 의혹 김인택 부장판사 국정감사 증인 신청됐다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/110887995</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/110887995</guid>
@@ -3451,13 +3458,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/110752795</guid>
             <pubDate>Fri, 12 Sep 2025 01:25:05 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파가 사상 최초로 대통령비서실의 특활비 자료를 확보합니다. <br><br>뉴스타파가 확보할 예정인 자료들은 ▲이재명 대통령 취임일부터 지난달 31일까지 이 대통령과 대통령비서실이 집행한 특수활동비 등의 증빙자료와 ▲같은 기간 대통령비서실에서 체결한 수의계약 내역입니다. <br><br>이번 정보공개는 뉴스타파가 2022년 윤석열 정부 대통령비서실을 상대로 정보공개 행정소송을 제기, 2년여 만에 대법원의 공개 확정 판결을 최초로 받아내 얻은 결과입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/dgfTk</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 대전청소년성문화센터장, 근무 시간에 '리박스쿨 늘봄학교' 강사 양성했다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110742846</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110742846</guid>
-            <pubDate>Thu, 11 Sep 2025 05:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[대전광역시청소년성문화센터 센터장이 근무 시간에 리박스쿨(대표 손효숙)에서 '늘봄학교 강사 양성 과정' 교육을 맡은 것으로 확인됐습니다. 청소년들의 "건전한 성 가치관 조성과 성범죄 예방"(아동·청소년의 성 보호에 관한 법률 제47조)을 위해 세금을 투입해 운영하는 청소년성문화센터의 기관장이, 근무 시간을 이용해 극우 단체의 강사 양성을 도운 셈입니다.<br><br>뉴스타파 보도로 존재가 알려진 리박스쿨은, 늘봄학교 강사 자격증을 미끼로 사람들을 모집한 후 이들을 통해 대선 기간 김문수 지지 및 이재명 비방 댓글 공작을 벌인 사실이 드러나 논란이 됐습니다.<br><br>뉴스타파함께재단과 한국탐사저널리즘센터가 연대 협업하는 한국독립언론네트워크(KINN) 회원 언론사인 ＜뉴스앤조이＞는 반동성애 운동을 주도해 온 일부 개신교 활동가 집단이 주도하는 '성교육' 강사 양성 과정이 왜 문제인지, 그리고 이들이 청소년들과 학부모, 지역사회 및 성교육·인권 전문가들에게 어떤 악영향을 미치고 있는지 연속보도를 통해 살펴볼 예정입니다. <br><br>👉뉴스앤조이 전체기사 보기:&nbsp;<span class="link_url">http://bit.ly/41OiqcP</span><br>👉뉴스앤조이 응원하기:&nbsp;<span class="link_url">https://online.mrm.or.kr/YQWOmTu</span>]]></content:encoded>
         </item>
     </channel>
 </rss>

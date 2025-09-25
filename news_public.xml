@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Sep 2025 09:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Sep 2025 10:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실]]></title>
+            <link>http://newstapa.org/article/iz_a3</link>
+            <guid>http://newstapa.org/article/iz_a3</guid>
+            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/25175438-0D9C-FD85-E5CB-2VT0KIUGRQH20VDOW34W.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명품 수수 의혹 김인택 부장판사 국정감사 증인 신청됐다]]></title>
             <link>http://newstapa.org/article/PDTrr</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['성접대 제공 혐의' 노동진 수협중앙회장의 허위 진술 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/11130150-28BF-F010-2BA5-NHWJ0TKVNTTL6Z4J8JYD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차남이 사실상 강제 해직?...김병기 대표의 거짓말]]></title>
-            <link>http://newstapa.org/article/mabMX</link>
-            <guid>http://newstapa.org/article/mabMX</guid>
-            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[차남이 사실상 강제 해직?...김병기 대표의 거짓말]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/10174912-74D7-D881-82B4-5AF5HWAP6SD8MXUZD0IC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

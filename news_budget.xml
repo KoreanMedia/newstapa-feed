@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Sep 2025 09:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Sep 2025 10:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실]]></title>
+            <link>http://newstapa.org/article/iz_a3</link>
+            <guid>http://newstapa.org/article/iz_a3</guid>
+            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/25175438-0D9C-FD85-E5CB-2VT0KIUGRQH20VDOW34W.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['내란 특활비 의혹' 심우정, 업무상 횡령 혐의로 공수처에 고발됐다]]></title>
             <link>http://newstapa.org/article/QHW9r</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[법무부장관 '특활비 공개' 판결로 드러난 심우정의 '거짓말']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/09133328-6B7D-A30D-5453-0T1PFBJA906JMXFP2WUZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건진법사가 숨긴 '관봉 5천만원'...윤석열 정부 '특수활동비'였다]]></title>
-            <link>http://newstapa.org/article/cWWXZ</link>
-            <guid>http://newstapa.org/article/cWWXZ</guid>
-            <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[건진법사가 숨긴 '관봉 5천만원'...윤석열 정부 '특수활동비'였다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/29164200-D786-E963-AAD2-1C3YS5W1OP8QQ1BV14PX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
