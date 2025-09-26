@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Sep 2025 01:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Sep 2025 03:02:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 아리셀 ‘중처법’ 판결…“산재 악순환 끊어야” (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/SYdwP</link>
+            <guid>http://newstapa.org/article/SYdwP</guid>
+            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 아리셀 ‘중처법’ 판결…“산재 악순환 끊어야”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26105442-8714-8EAF-1137-7CB5ZWFTM5WBQIQQZMAB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰, '류희림 사건' 방심위 압수수색... "늦장수사, 전면 재수사 필요" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/pckl1</link>
+            <guid>http://newstapa.org/article/pckl1</guid>
+            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, '류희림 사건' 방심위 압수수색... "늦장수사, 전면 재수사 필요"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26081507-08EF-ECA3-3900-0U3DW8XPVZ9VSCVWLXAF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/iz_a3</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[칼럼] 한동훈 '공판 전 증인신문'에 반대한다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18113017-D6DB-989C-AE85-2KHYO2EP95OW2CXM2J2J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 윤석열 언론공범⑤ 김건희 주가조작 의혹을 차단하다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/AAhKr</link>
-            <guid>http://newstapa.org/article/AAhKr</guid>
-            <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 윤석열 언론공범⑤ 김건희 주가조작 의혹을 차단하다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18104807-863A-A56B-C2FB-E1N6W3JTMXCK5UDESTNK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스타파 v. 윤석열] 압수수색 2년 - 내란범의 명예를 훼손한 기자들의 시간 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/lXNUF</link>
-            <guid>http://newstapa.org/article/lXNUF</guid>
-            <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스타파 v. 윤석열] 압수수색 2년 - 내란범의 명예를 훼손한 기자들의 시간]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/17152154-4355-B920-E19F-L6IPSFLGRI566HW4Z19F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/11130150-28BF-F010-2BA5-NHWJ0TKVNTTL6Z4J8JYD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 아리셀 ‘중처법’ 판결…“산재 악순환 끊어야” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/SYdwP</link>
+            <guid>http://newstapa.org/article/SYdwP</guid>
+            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 아리셀 ‘중처법’ 판결…“산재 악순환 끊어야”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26105442-8714-8EAF-1137-7CB5ZWFTM5WBQIQQZMAB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[명품 수수 의혹 김인택 부장판사 국정감사 증인 신청됐다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/PDTrr</link>
             <guid>http://newstapa.org/article/PDTrr</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 부천화재참사 1주기... 형사재판 쟁점은?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22154956-255D-013E-7097-T4NAO3RS6RMRSD0PYRRC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[반론보도] <윤·김·노 세 사람이 흔든 나라, 그들이 답해야 할 질문들> 기사 관련 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/nQvjy</link>
-            <guid>http://newstapa.org/article/nQvjy</guid>
-            <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[반론보도] &lt;윤·김·노 세 사람이 흔든 나라, 그들이 답해야 할 질문들&gt; 기사 관련]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/13152308-197E-53C9-4662-5ZHMKYLHI0ZMFTNZBWHR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16101058-BAC1-B851-ADDE-WXXIVXPC6ZC47BSRY549.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 아리셀 ‘중처법’ 판결…“산재 악순환 끊어야” (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/SYdwP</link>
+            <guid>http://newstapa.org/article/SYdwP</guid>
+            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 아리셀 ‘중처법’ 판결…“산재 악순환 끊어야”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26105442-8714-8EAF-1137-7CB5ZWFTM5WBQIQQZMAB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] "윤석열 당선은 하나님 기적", "여자는 프러포즈 안 돼"…황당한 넥스트클럽 '성교육 강사 양성' 과정 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/dNTeI</link>
             <guid>http://newstapa.org/article/dNTeI</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 더이상 피 묻은 빵을 먹을 수는 없다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/14132853-3587-7E20-32C0-X3HYEPS3UFA483L85Y60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무엇을 할 것인가 : 사회통합] 결국, 우리는 함께 살아야 한다 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/52j5j</link>
-            <guid>http://newstapa.org/article/52j5j</guid>
-            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[무엇을 할 것인가 : 사회통합] 결국, 우리는 함께 살아야 한다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11181204-39A9-0059-E1C8-5K161KBHFL0GQ0734T82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['경북 산불'이 남긴 21대 대통령의 과제 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/09152236-1B77-B161-2B89-7ZTLS81DH3YYCV3K7R0F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[검찰, '류희림 사건' 방심위 압수수색... "늦장수사, 전면 재수사 필요" (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/pckl1</link>
+            <guid>http://newstapa.org/article/pckl1</guid>
+            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, '류희림 사건' 방심위 압수수색... "늦장수사, 전면 재수사 필요"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26081507-08EF-ECA3-3900-0U3DW8XPVZ9VSCVWLXAF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 윤석열 언론공범⑤ 김건희 주가조작 의혹을 차단하다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/AAhKr</link>
             <guid>http://newstapa.org/article/AAhKr</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] ‘한덕수 대망론’, 언론개혁 절실함을 보여주다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/02144641-0374-43CF-9DCD-E1XCM5MWUENZAMODTSI1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권성동 국민의힘 원내대표, 취재중인 뉴스타파 기자 폭행 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/Yj-k9</link>
-            <guid>http://newstapa.org/article/Yj-k9</guid>
-            <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[권성동 국민의힘 원내대표, 취재중인 뉴스타파 기자 폭행]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/16181134-D820-1993-4E55-OPJM6JQ4O637DZ04FW7L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 21대 대통령선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3320,6 +3320,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/17163922-DC94-0335-9EFA-ASQ6G2UIBRWLXJAJ7LTB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 아리셀 ‘중처법’ 판결…“산재 악순환 끊어야” (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110908306</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110908306</guid>
+            <pubDate>Fri, 26 Sep 2025 03:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[지난 9월 23일, 수원지방법원에서 아리셀 중대재해 참사 1심 선고 공판이 열렸습니다. 재판부는 폭발 화재 가능성을 예견할 수 있었으나 조치를 취하지 않아 사고로 이어졌다며 아리셀 박순관 대표, 박중언 총괄본부장에게 징역 15년이라는 중형을 선고했습니다.<br><br>아리셀 산재피해가족협의회와 대책위원회는 수원지법 앞에서 기자회견을 열고 ""중대재해처벌법의 책임자 의무를 강화하고, 이런 참사들이 더 이상 벌어지지 않게끔 한다는 부분은 그나마 마음이 놓인다”, ""형량은 아쉽지만 판시 내용이 의미하는 것에 대해 우리 사회가 곱씹어봐야 하는 문제”라고 말했습니다. 한국독립언론네트워크 KINN 회원 언론사인 ‘코트워치’가 그 현장을 취재했습니다. <br><br>👉 전체 기사 보기:  <span class="link_url">https://c-watch.org/archives/4828</span> <br>👉 코트워치 응원하기: <span class="link_url">https://online.mrm.or.kr/vZ6ITMu</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[검찰, '류희림 사건' 방심위 압수수색... "늦장수사, 전면 재수사 필요" (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110908060</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110908060</guid>
+            <pubDate>Fri, 26 Sep 2025 03:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[검찰이 최근 방송통신심의위원회(방심위) 사무실을 압수수색했습니다. 뉴스타파가 류희림 전 방심위원장의 각종 범죄 혐의를 보도한 지 무려 22개월 만입니다. <br><br>'늑장 수사'와 함께 '봐주기 수사'란 비판이 이어지고 있습니다. 경찰 수사 단계에서 류 전 위원장의 가장 핵심적인 범죄 혐의, ‘류희림 청부 민원’ 의혹에 이미 무혐의 처분이 내려졌기 때문입니다.<br><br>각계에서는 “류 전 위원장의 청부 민원 의혹은 단순한 범죄 혐의가 아니”라는 지적이 계속됩니다. 언론장악을 목적으로 한 윤석열 정부 차원의 기획이라는 의심입니다. 청부 민원 의혹에 대한 전면 재수사 요구가 이어지는 이윱니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/pckl1</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/110902466</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/110902466</guid>
@@ -3444,20 +3458,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/110779782</guid>
             <pubDate>Mon, 15 Sep 2025 05:22:18 GMT</pubDate>
             <content:encoded><![CDATA[김건희 특검의 윤석열-김건희와 통일교 간 유착 의혹 수사가 속도를 내고 있는 가운데, 조선일보와 미국 전직 고위 정치인 등이 '종교 탄압 프레임'을 내세우며 사실상 통일교를 옹호하고 나섰습니다. <br><br>하지만 조선일보와 미국 전직 정치인, 그리고 통일교의 긴밀한 관계를 볼 때, 이러한 주장은 표면 그대로 받아들이기 힘듭니다. 한국독립언론네트워크 회원 언론사인 '뉴스어디'는 앞서 통일교와 조선미디어의 커넥션을 보도한 바 있는데요, 이번엔 그 후속 보도로 미국 정치인까지 낀 ‘이익 동맹’ 구조를 다뤘습니다. <br><br>👉 전체 기사 보기: <span class="link_url">https://newswhere.org/news/report/2415</span>/<br>👉 뉴스어디 응원하기: <span class="link_url">https://online.mrm.or.kr/UblKLtQ</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파 영화 <압수수색: 내란의 시작> 영화제 공식 초청 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110756689</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110756689</guid>
-            <pubDate>Fri, 12 Sep 2025 05:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파 영화 &lt;압수수색: 내란의 시작&gt; 영화제 공식 초청<br>9/13 관객과의 대화도 예정<br><br>뉴스타파와 윤석열의 7년 전쟁을 다룬 영화 &lt;압수수색: 내란의 시작&gt;이 제17회 DMZ국제다큐멘터리 영화제에 공식 상영작으로 초청받았습니다. 이 영화는 지난 4월 개봉 이후 6만 5천 명 가까운 관객이 관람한 올해 상반기 최고의 화제작으로 윤석열 정권의 무도함에 맞서는 뉴스타파 기자들의 활극을 다룬 다큐멘터리입니다. 이번 영화제 상영이 아직 극장에서 &lt;압수수색: 내란의 시작&gt;을 보지 못한 분들께는 좋은 기회가 될 것입니다. <br><br>상영 후에는 김용진 감독과 한상진 기자가 직접 무대에 올라, 취재의 뒷이야기와 제작 과정을 관객과 나눕니다. 시민 여러분의 많은 관심과 참여 바랍니다.<br><br>📅 상영 일정<br>일시: 9월 13일(토) 저녁 7시<br>장소: CGV 파주야당 1관<br>예매: <span class="link_url">https://dmzdocs.com/kor/addon/00000001/program_view.asp?m_idx=103285&amp;c_idx=283&amp;QueryYear=2025&amp;QueryType=B&amp;QueryStep=2</span><br>(현장 발권도 가능합니다)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘대통령 특활비’ 자료, 사상 최초로 뉴스타파에 공개된다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110752795</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110752795</guid>
-            <pubDate>Fri, 12 Sep 2025 01:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파가 사상 최초로 대통령비서실의 특활비 자료를 확보합니다. <br><br>뉴스타파가 확보할 예정인 자료들은 ▲이재명 대통령 취임일부터 지난달 31일까지 이 대통령과 대통령비서실이 집행한 특수활동비 등의 증빙자료와 ▲같은 기간 대통령비서실에서 체결한 수의계약 내역입니다. <br><br>이번 정보공개는 뉴스타파가 2022년 윤석열 정부 대통령비서실을 상대로 정보공개 행정소송을 제기, 2년여 만에 대법원의 공개 확정 판결을 최초로 받아내 얻은 결과입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/dgfTk</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
