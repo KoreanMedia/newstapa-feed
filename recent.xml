@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Sep 2025 06:32:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Sep 2025 07:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘명품 수수 의혹’ 김인택 부장판사, 서면 조사도 안 받고 사실상 무혐의]]></title>
+            <link>http://newstapa.org/article/bZvND</link>
+            <guid>http://newstapa.org/article/bZvND</guid>
+            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘명품 수수 의혹’ 김인택 부장판사, 서면 조사도 안 받고 사실상 무혐의]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26152830-39BE-AF23-4268-RJNDUSN3453ZXDEOHOYR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공수처, 김병기 차남 의혹 수사 착수...수사3부 배당]]></title>
             <link>http://newstapa.org/article/bGZzW</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[명태균 사건 재판장, 대기업 면세점에서 명품 수수 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18171324-AC51-C3B0-E342-YK7JH2N52DRF4ZSL6K7J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김병기-빗썸' 회동 직후 수상한 채용 공고]]></title>
-            <link>http://newstapa.org/article/8HHdl</link>
-            <guid>http://newstapa.org/article/8HHdl</guid>
-            <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['김병기-빗썸' 회동 직후 수상한 채용 공고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18145508-7616-4BDA-2972-BYTFQLRK0C27GNR10J5T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
