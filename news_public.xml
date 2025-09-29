@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Sep 2025 04:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Sep 2025 05:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특활비로 '격려금', '위로금'... 이재명 대통령실, 예산 오남용 정황]]></title>
+            <link>http://newstapa.org/article/essE0</link>
+            <guid>http://newstapa.org/article/essE0</guid>
+            <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[특활비로 '격려금', '위로금'... 이재명 대통령실, 예산 오남용 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26150255-4401-EBE7-7F29-1BIHIW3K52Q7ON1PG7LR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 김병기 민주당 원내대표가 비판 언론을 대하는 4단계 전략]]></title>
+            <link>http://newstapa.org/article/RP5gq</link>
+            <guid>http://newstapa.org/article/RP5gq</guid>
+            <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 김병기 민주당 원내대표가 비판 언론을 대하는 4단계 전략]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/29134554-51DB-987A-C876-2QR2F7HXO8QXGOU6VWD1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울동부지검은 '특활비 공개' 결정했는데, 실무자는 "바빠서 못 준다"]]></title>
             <link>http://newstapa.org/article/opwTl</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스타파 v. 윤석열] 압수수색 2년 - 내란범의 명예를 훼손한 기자들의 시간]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/17152154-4355-B920-E19F-L6IPSFLGRI566HW4Z19F.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['내란 특활비 의혹' 심우정, 업무상 횡령 혐의로 공수처에 고발됐다]]></title>
-            <link>http://newstapa.org/article/QHW9r</link>
-            <guid>http://newstapa.org/article/QHW9r</guid>
-            <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['내란 특활비 의혹' 심우정, 업무상 횡령 혐의로 공수처에 고발됐다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/16162635-2D98-970F-2D3B-G18J7A4V2AIWJPRI4DGB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘대통령 특활비’ 자료, 사상 최초로 뉴스타파에 공개된다]]></title>
-            <link>http://newstapa.org/article/dgfTk</link>
-            <guid>http://newstapa.org/article/dgfTk</guid>
-            <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘대통령 특활비’ 자료, 사상 최초로 뉴스타파에 공개된다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/12085542-2C74-8969-97F1-0GPF7XBKX585OW5T9M32.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
