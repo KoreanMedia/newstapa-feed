@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Sep 2025 05:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Sep 2025 06:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 대통령실 정보공개, 경과와 의미, 남은 과제들 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/d9Xnz</link>
+            <guid>http://newstapa.org/article/d9Xnz</guid>
+            <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고] 대통령실 정보공개, 경과와 의미, 남은 과제들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/30150628-9DDB-ED62-FAE0-839MTSD702BZR7DFQH6X.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특활비로 '격려금', '위로금'... 이재명 대통령실, 예산 오남용 정황 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/essE0</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/24123943-9878-2887-EC6C-VLA11N1VQU4TCY2E70RG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[타파스] 내란 통에 특활비 뿌린 검찰총장... 특활비 부활, 최선입니까? (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/oOSGt</link>
-            <guid>http://newstapa.org/article/oOSGt</guid>
-            <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 내란 통에 특활비 뿌린 검찰총장... 특활비 부활, 최선입니까?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/22143126-62A3-487E-EAD8-QGSL7391418KI379FRG7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[기고] 대통령실 정보공개, 경과와 의미, 남은 과제들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/d9Xnz</link>
+            <guid>http://newstapa.org/article/d9Xnz</guid>
+            <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고] 대통령실 정보공개, 경과와 의미, 남은 과제들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/30150628-9DDB-ED62-FAE0-839MTSD702BZR7DFQH6X.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특활비로 '격려금', '위로금'... 이재명 대통령실, 예산 오남용 정황 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['김병기-빗썸' 회동 직후 수상한 채용 공고]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18145508-7616-4BDA-2972-BYTFQLRK0C27GNR10J5T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스타파 v. 윤석열] 압수수색 2년 - 내란범의 명예를 훼손한 기자들의 시간 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/lXNUF</link>
-            <guid>http://newstapa.org/article/lXNUF</guid>
-            <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스타파 v. 윤석열] 압수수색 2년 - 내란범의 명예를 훼손한 기자들의 시간]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/17152154-4355-B920-E19F-L6IPSFLGRI566HW4Z19F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘명품 수수 의혹’ 김인택 부장판사, 서면 조사도 안 받고 사실상 무혐의 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
