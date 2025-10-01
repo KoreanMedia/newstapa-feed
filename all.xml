@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Oct 2025 07:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Oct 2025 08:29:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명 대통령실 특활비 ‘4건에 1건꼴’ 오남용 정황 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/xQgtn</link>
+            <guid>http://newstapa.org/article/xQgtn</guid>
+            <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 대통령실 특활비 ‘4건에 1건꼴’ 오남용 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/30164719-B01C-B9E6-1787-PXO1N4VX5GH5ZMHCCHIV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명태균 사건 재판장, 면세점 팀장과 두 차례 해외여행 확인 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/kQKrM</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/24125517-BBE2-1242-0199-F64ERJ68CJF4JCBWNQPE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['95% 명품 할인', '대리 결제'... 명태균 재판장 추가 비위 의혹 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/867TA</link>
-            <guid>http://newstapa.org/article/867TA</guid>
-            <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['95% 명품 할인', '대리 결제'... 명태균 재판장 추가 비위 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/24131326-149C-6EBE-104F-6XMKUNPKQD19S9Y4LF24.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이재명 대통령실 특활비 ‘4건에 1건꼴’ 오남용 정황 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/xQgtn</link>
+            <guid>http://newstapa.org/article/xQgtn</guid>
+            <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 대통령실 특활비 ‘4건에 1건꼴’ 오남용 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/30164719-B01C-B9E6-1787-PXO1N4VX5GH5ZMHCCHIV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명태균 사건 재판장, 면세점 팀장과 두 차례 해외여행 확인 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[권성동, 폭행 현행범에도 딱 한번 서면 조사… “적법 절차와 형평성 위배”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/19111257-9485-0D91-220C-18ZKXQUNH5BR6J4VP5J6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명태균 사건 재판장, 대기업 면세점에서 명품 수수 의혹 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/35UAo</link>
-            <guid>http://newstapa.org/article/35UAo</guid>
-            <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[명태균 사건 재판장, 대기업 면세점에서 명품 수수 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18171324-AC51-C3B0-E342-YK7JH2N52DRF4ZSL6K7J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명태균 사건 재판장, 면세점 팀장과 두 차례 해외여행 확인 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/25174622-3E1D-EEDF-93F2-FBEK35JC239C52BNNAYW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이재명 대통령실 특활비 ‘4건에 1건꼴’ 오남용 정황 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/xQgtn</link>
+            <guid>http://newstapa.org/article/xQgtn</guid>
+            <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 대통령실 특활비 ‘4건에 1건꼴’ 오남용 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/30164719-B01C-B9E6-1787-PXO1N4VX5GH5ZMHCCHIV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[특활비로 '격려금', '위로금'... 이재명 대통령실, 예산 오남용 정황 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
             <link>http://newstapa.org/article/essE0</link>
             <guid>http://newstapa.org/article/essE0</guid>
@@ -510,14 +518,6 @@
             <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[기고]식당명 첫 글자만 공개하라는 판결, 부끄럽다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/19140733-FCA8-6D8B-B949-J6G213J2SZUQPB9LFWUF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 윤석열 해운대 회식비, 대선 앞두고 소 취하를 하는 심정 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
-            <link>http://newstapa.org/article/_eXGc</link>
-            <guid>http://newstapa.org/article/_eXGc</guid>
-            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[기고] 윤석열 해운대 회식비, 대선 앞두고 소 취하를 하는 심정]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/28191147-3DCD-0D9E-73E9-TTS847DFRG37U5Q1K3BD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HS효성 조현상 측근, “6억 줄게”, “휴대전화 바꿔라” 증거인멸 시도 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
@@ -3320,6 +3320,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/17163922-DC94-0335-9EFA-ASQ6G2UIBRWLXJAJ7LTB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이재명 대통령실 특활비 ‘4건에 1건꼴’ 오남용 정황 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110976652</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110976652</guid>
+            <pubDate>Wed, 01 Oct 2025 08:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[최근 뉴스타파는 이재명 대통령비서실의 예산 오남용 의혹을 보도했습니다. 대통령실이 기획재정부 예산집행지침(기재부 지침)을 어기고, 기밀 유지가 필요한 정보 수집 등에 쓰도록 돼 있는 특수활동비(특활비)를 ‘격려금’, ‘위로금’으로 집행한 사실이 확인된 겁니다.<br><br>뉴스타파는 대통령실이 공개한 특활비 집행 내역을 전수 검증했습니다. 그 결과 309건 가운데 최소 86건에서 기재부 지침 위반에 따른 예산 오남용 정황이 나타났습니다. 비율로 치면 전체의 28%, 4건에 1건꼴입니다. 금액으로는 1억 5천여만 원에 이릅니다.<br><br>뉴스타파는 대통령실에 예산 오남용 의혹에 대한 반론과 해명을 요청했지만, 대통령실은 아무런 답변을 하지 않았습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/v4RTFV2N4_I</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/xQgtn</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[명태균 사건 재판장, 면세점 팀장과 두 차례 해외여행 확인 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/110968140</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/110968140</guid>
@@ -3451,13 +3458,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/110827339</guid>
             <pubDate>Fri, 19 Sep 2025 01:28:24 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파는 현직 부장판사가 대기업 면세점에서 200만원 대 명품을 수수했다는 면세점 내부 증거와 진술을 확보했습니다. 지난 4월 서울 용산에 있는 HDC신라면세점의 한 팀장이 타인의 여권을 도용해 명품을 결제했는데, 도용된 여권의 주인이 현직 부장판사였던 겁니다. 또 면세점 시스템에는 이 부장판사가 실제 인천공항 인도장에서 상품을 수령한 것으로 기록돼 있습니다. <br><br>명품 수수 의혹을 받고 있는 인물은 이른바 ‘명태균 게이트’ 재판을 담당하고 있는 김인택 창원지방법원 부장판삽니다. 현직 법관이 대기업으로부터 명품을 받은 의혹이 제기된 것은 이번이 처음입니다. <br><br>김인택 부장판사는 뉴스타파의 질의에 “응하지 않겠다”고 말했다가 몇 시간 뒤 문자를 보내 “언급한 면세품을 받은 사실이 없다”, “여권을 빌려준 바 없다”고 부인했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/1Cq-hSdle0U</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/35UAo</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['김병기-빗썸' 회동 직후 수상한 채용 공고 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110820518</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110820518</guid>
-            <pubDate>Thu, 18 Sep 2025 07:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 뉴스타파는 김병기 더불어민주당 원내대표의 차남이 문제의 중소기업을 퇴사하고 한 가상자산 회사에 입사하는 과정에서 벌어진, 수상하고 공교로운 일들을 추가로 전해드립니다. <br><br>국내 2위 가상자산거래소인 빗썸이 김 원내대표 측과 사적인 만남 직후 인턴 채용 공고를 내고, 김 원내대표의 차남을 채용한 정황이 포착됐습니다. <br><br>빗썸이 요구한 채용 우대 조건은 차남의 경력과 일치했고, 빗썸에 입사한 차남은 실제 해당 공고에 기재된 업무를 수행했던 것으로 확인됐습니다. 당시 차남의 취업에 빗썸과 김 원내대표의 만남이 영향을 미친 게 아니냐는 의혹이 제기됩니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/HjEcjF-YXf4</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/8HHdl</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
