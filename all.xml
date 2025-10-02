@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Oct 2025 06:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Oct 2025 07:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3320,6 +3320,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/17163922-DC94-0335-9EFA-ASQ6G2UIBRWLXJAJ7LTB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[〈추적〉 공개: 추석에 생각해보는 '녹조와 우리의 밥상' (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/110991786</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/110991786</guid>
+            <pubDate>Thu, 02 Oct 2025 07:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[최승호 감독이 17년간 이명박 전 대통령과 4대강을 취재한 영화 &lt;추적&gt;을 추석 연휴 동안 무료 공개합니다. 가족이 모이는 추석에 ‘녹조와 우리의 밥상’을 생각해보는 기회가 됐으면 합니다.<br><br>우리 강이 다시 흘러야 문제가 해결됩니다. 4대강 재자연화를 위한 10만인 서명에 참여해주십시오. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/b9iDJY6TQtQ</span><br>👉 4대강 재자연화를 위한 10만인 서명 동참하기 : <span class="link_url">gourl.kr/4대강재자연화10만서명</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[허가된 착취, 고용허가제라는 굴레 〈다큐 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/110990079</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/110990079</guid>
@@ -3451,13 +3458,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/110836092</guid>
             <pubDate>Fri, 19 Sep 2025 08:28:15 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파 기자를 폭행한 혐의로 피소된 권성동 국민의힘 의원이 다섯 달이 지나도록 경찰의 출석 요구에 단 한 번도 응하지 않은 것으로 확인됐습니다. <br><br>경찰은 권성동 의원에게 모두 세 차례의 출석 요구를 통보했으나, 권 의원 측은 출석 요구에 모두 불응한 채, 한 차례의 서면 의견서만 제출한 겁니다. <br><br>권성동 의원이 서면 진술을 고집하는 것은 적법 절차 원칙과 형평의 원칙에 위배된다는 지적이 나옵니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/BvsE0</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서]국가가 외면한 임신중지, 이제는 각자도생 안 해도 될까? (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110828329</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110828329</guid>
-            <pubDate>Fri, 19 Sep 2025 03:03:16 GMT</pubDate>
-            <content:encoded><![CDATA[세계보건기구는 안전한 임신중지를 필수 의료서비스로 규정하고 있고 대부분의 선진국에서 임신중지 비용을 지원하고 있지만 우리나라는 아직도 각자도생의 영역으로 남아있습니다.건강보험도 적용되지 않고 세계적으로 가장 보편화된 방식인 먹는 임신중지 약도 도입되지 않았습니다.<br>그렇다 보니 당일수술, 항암제 주사에 여성 건강권이 위협받고 있습니다. <br>윤석열 정부에서 꽉 막혀 있던 먹는 임신중지 약 도입과 건강보험 적용이 이재명 정부에서는 실현될 수 있을까요?<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/0TBqM</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
