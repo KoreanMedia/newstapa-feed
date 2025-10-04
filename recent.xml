@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Oct 2025 23:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Oct 2025 01:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케이넘버: 실종돼서 미안해]]></title>
+            <link>http://newstapa.org/article/iyEyC</link>
+            <guid>http://newstapa.org/article/iyEyC</guid>
+            <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[케이넘버: 실종돼서 미안해]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/02165354-1F66-436C-BA56-4CPF3KS438BIEVYAU1E0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[난중칼럼] 조희대의 오래된 약속은 지귀연에게만 지켜지나]]></title>
             <link>http://newstapa.org/article/KWjT4</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/25175438-0D9C-FD85-E5CB-2VT0KIUGRQH20VDOW34W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명품 수수 의혹 김인택 부장판사 국정감사 증인 신청됐다]]></title>
-            <link>http://newstapa.org/article/PDTrr</link>
-            <guid>http://newstapa.org/article/PDTrr</guid>
-            <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[명품 수수 의혹 김인택 부장판사 국정감사 증인 신청됐다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/24172949-35DF-2A47-CD78-ZW6D9N1WUB2BTP0R3FOH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
