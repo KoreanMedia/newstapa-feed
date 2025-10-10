@@ -4,15 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Oct 2025 09:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Oct 2025 10:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[가사열전: 성스럽거나, 사사롭거나 (뉴스타파 ─ 뉴스)]]></title>
+            <title><![CDATA[가사열전: 사사롭거나, 성스럽거나 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/_xo6c</link>
             <guid>http://newstapa.org/article/_xo6c</guid>
             <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가사열전: 성스럽거나, 사사롭거나]]></content:encoded>
+            <content:encoded><![CDATA[가사열전: 사사롭거나, 성스럽거나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/02111127-732D-AB16-398E-AFBKUPJBZC1UU2CV0H1R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
