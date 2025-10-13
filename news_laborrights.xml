@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Oct 2025 04:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Oct 2025 05:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[허가된 착취①] 다치고, 버려지고, 죽는다...고용허가제에 갇힌 이주노동자]]></title>
+            <link>http://newstapa.org/article/3wltG</link>
+            <guid>http://newstapa.org/article/3wltG</guid>
+            <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[허가된 착취①] 다치고, 버려지고, 죽는다...고용허가제에 갇힌 이주노동자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/13133400-53D1-C2F7-F367-2JN5DMLOPIFBRKX2ZHOE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케이넘버: 실종돼서 미안해]]></title>
             <link>http://newstapa.org/article/iyEyC</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[다큐 후일담] 'SPC 빵공장의 죽음' 취재기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/17185430-BBBE-E961-B3F9-6I7K2I82I69FUV4XJP8I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SPC 빵공장의 죽음 더 있었다...과로사 3명 확인]]></title>
-            <link>http://newstapa.org/article/PQMyS</link>
-            <guid>http://newstapa.org/article/PQMyS</guid>
-            <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[SPC 빵공장의 죽음 더 있었다...과로사 3명 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/16115911-72EB-F135-39B0-QYQPY7KK57NPX5TB8TGD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
