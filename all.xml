@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Oct 2025 01:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Oct 2025 03:03:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/rIiss</link>
+            <guid>http://newstapa.org/article/rIiss</guid>
+            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14111315-9D01-E7AE-FFA2-EVNXXHEA51XWFNREISA1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 서부지법 폭동 재판① : 법원을 공격하다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/MkkMN</link>
+            <guid>http://newstapa.org/article/MkkMN</guid>
+            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 서부지법 폭동 재판① : 법원을 공격하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14103508-222E-1D84-7BDF-202644FJA2Q0J0ORV8R3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[허가된 착취①] 다치고, 버려지고, 죽는다...고용허가제에 갇힌 이주노동자 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/3wltG</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘명품 수수 의혹’ 김인택 부장판사, 서면 조사도 안 받고 사실상 무혐의]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26152830-39BE-AF23-4268-RJNDUSN3453ZXDEOHOYR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공수처, 김병기 차남 의혹 수사 착수...수사3부 배당 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/bGZzW</link>
-            <guid>http://newstapa.org/article/bGZzW</guid>
-            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공수처, 김병기 차남 의혹 수사 착수...수사3부 배당]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26150243-2D51-4DA1-ADD7-T09OJ30KEDPO8HNO15ED.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 아리셀 ‘중처법’ 판결…“산재 악순환 끊어야” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/SYdwP</link>
-            <guid>http://newstapa.org/article/SYdwP</guid>
-            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 아리셀 ‘중처법’ 판결…“산재 악순환 끊어야”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26105442-8714-8EAF-1137-7CB5ZWFTM5WBQIQQZMAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['구명로비 의혹' 김장환 목사 통화기록 입체분석 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/19154457-3F96-7BCD-1AE8-ONLBH2RB734J03UMBMBC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 서부지법 폭동 재판① : 법원을 공격하다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/MkkMN</link>
+            <guid>http://newstapa.org/article/MkkMN</guid>
+            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 서부지법 폭동 재판① : 법원을 공격하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14103508-222E-1D84-7BDF-202644FJA2Q0J0ORV8R3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[난중칼럼] 조희대의 오래된 약속은 지귀연에게만 지켜지나 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/KWjT4</link>
             <guid>http://newstapa.org/article/KWjT4</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[법무부·대검찰청, '심우정 내란 특활비 의혹' 진상조사 착수]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/05071644-B1D9-6410-35DD-SZIX2D0SJWY3HOVN1ZFF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '내란의 시작' 노상원 수첩 전문 공개 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/dzKkk</link>
-            <guid>http://newstapa.org/article/dzKkk</guid>
-            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] '내란의 시작' 노상원 수첩 전문 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/28164553-4363-4D58-3560-S6Q4WBL4HJY8XVH8MDV2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명 대통령실 특활비 ‘4건에 1건꼴’ 오남용 정황 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16101058-BAC1-B851-ADDE-WXXIVXPC6ZC47BSRY549.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/rIiss</link>
+            <guid>http://newstapa.org/article/rIiss</guid>
+            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14111315-9D01-E7AE-FFA2-EVNXXHEA51XWFNREISA1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[허가된 착취①] 다치고, 버려지고, 죽는다...고용허가제에 갇힌 이주노동자 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/3wltG</link>
             <guid>http://newstapa.org/article/3wltG</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[부당해고 소송 5년 끌더니 '합의'한 쿠팡... 합의문에는 '입막음 조항']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/23092211-5FED-1BC5-029C-Y7HP1QYSBYT0JO6POZU3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다큐 후일담] 'SPC 빵공장의 죽음' 취재기 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/Wbemt</link>
-            <guid>http://newstapa.org/article/Wbemt</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다큐 후일담] 'SPC 빵공장의 죽음' 취재기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/17185430-BBBE-E961-B3F9-6I7K2I82I69FUV4XJP8I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['경북 산불'이 남긴 21대 대통령의 과제 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -3192,6 +3192,38 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/08174254-A67C-FDA4-0D50-X9ZKL149VVNKQVXB7G6Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 서부지법 폭동 재판① : 법원을 공격하다 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/MkkMN</link>
+            <guid>https://www.newstapa.org/article/MkkMN</guid>
+            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.10.14]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14103508-222E-1D84-7BDF-202644FJA2Q0J0ORV8R3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 아리셀 ‘중처법’ 판결…“산재 악순환 끊어야” (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/SYdwP</link>
+            <guid>https://www.newstapa.org/article/SYdwP</guid>
+            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.09.26]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26105442-8714-8EAF-1137-7CB5ZWFTM5WBQIQQZMAB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] "윤석열 당선은 하나님 기적", "여자는 프러포즈 안 돼"…황당한 넥스트클럽 '성교육 강사 양성' 과정 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/dNTeI</link>
+            <guid>https://www.newstapa.org/article/dNTeI</guid>
+            <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.09.24]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/24123943-9878-2887-EC6C-VLA11N1VQU4TCY2E70RG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 윤석열 언론공범⑤ 김건희 주가조작 의혹을 차단하다 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/AAhKr</link>
+            <guid>https://www.newstapa.org/article/AAhKr</guid>
+            <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.09.18]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18104807-863A-A56B-C2FB-E1N6W3JTMXCK5UDESTNK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 조선일보, 미국 퇴물 정치인 인용 ‘통일교 감싸기’ 앞장 (뉴스타파 ─ 참여)]]></title>
             <link>https://www.newstapa.org/article/y4pe8</link>
             <guid>https://www.newstapa.org/article/y4pe8</guid>
@@ -3288,36 +3320,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/13161745-5011-1DC1-52D3-JMSZJ7QR5JNFWGQXHSL1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[KINN] ‘한덕수 대망론’, 언론개혁 절실함을 보여주다 (뉴스타파 ─ 참여)]]></title>
-            <link>https://www.newstapa.org/article/_drwk</link>
-            <guid>https://www.newstapa.org/article/_drwk</guid>
-            <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025.06.02]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/02144641-0374-43CF-9DCD-E1XCM5MWUENZAMODTSI1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 제주도 해녀와 후쿠시마 여성 활동가가 만났다 (뉴스타파 ─ 참여)]]></title>
-            <link>https://www.newstapa.org/article/s76rx</link>
-            <guid>https://www.newstapa.org/article/s76rx</guid>
-            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025.05.14]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/14155350-342C-9364-3B64-V8QFKBIR1S5U1S2H0B1C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN]내란과 일본언론 5: 윤석열 파면과 일본극우언론의 탄식 (뉴스타파 ─ 참여)]]></title>
-            <link>https://www.newstapa.org/article/LadNG</link>
-            <guid>https://www.newstapa.org/article/LadNG</guid>
-            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.10]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10111622-AC35-5AFB-6AF6-I6QD5A8MCHZJH6GT2UE0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 코트워치 '재판 업데이트' 페이지 신설...첫 소식은 '윤석열 탄핵심판' (뉴스타파 ─ 참여)]]></title>
-            <link>https://www.newstapa.org/article/5BJHJ</link>
-            <guid>https://www.newstapa.org/article/5BJHJ</guid>
-            <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.17]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/17163922-DC94-0335-9EFA-ASQ6G2UIBRWLXJAJ7LTB.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[서부지법 폭동: 법원을 공격하다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/111060065</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/111060065</guid>
+            <pubDate>Tue, 14 Oct 2025 03:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 1월 19일 새벽 '서울서부지법 폭동' 사태가 일어났습니다. 윤석열 구속영장 발부에 항의하는 시위대가 법원에 난입했습니다. 시위대는 경찰을 밀어붙이고, 법원 외벽과 유리창을 부수고, 판사실 문을 강제로 열었습니다.<br><br>이후 검찰은 서부지법 폭동 참가자 128명을 재판에 넘겼습니다. 2025년 10월 현재 이들 중 상당수가 1심 선고를, 일부는 2심 선고까지 받았습니다. 뉴스타파와 연대·협업하는 한국독립언론네트워크(KINN) 회원사 '코트워치'가 서부지법 폭동 관련 재판에서 확인한 사실과 각 재판부의 법적 판단을 살펴봤습니다.<br><br>👉 전체 기사 보기: <span class="link_url">https://c-watch.org/project/storm</span><br>👉 코트워치 응원하기: <span class="link_url">https://online.mrm.or.kr/vZ6ITMu</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뉴스타파 목격자들 10월 정기 공모 (뉴스타파 ─ 카카오톡 채널)]]></title>
@@ -3453,18 +3460,27 @@
             <content:encoded><![CDATA[국민의힘 윤상현 의원이 자신의 공식 유튜브 채널에 올라간 동영상 등 각종 홍보 콘텐츠를 한 업체로부터 1년 6개월에 걸쳐 공짜로 제공받아온 사실이 확인됐습니다.<br><br>뉴스타파의 거듭된 취재에 업체 대표 등은 "윤 의원이 공짜로 제공받은 홍보 콘텐츠가 최소 6,000만 원어치"라고 인정했습니다. <br><br>윤 의원의 정치자금법 위반 의혹이 나옵니다.&nbsp;정치자금과 관련된 범죄는 벌금이 100만 원만 나와도 의원직을 상실합니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/dLM-GN54QZE</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/rczUQ</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[🔴주간 뉴스타파 라이브] 부장판사의 수상한 쇼핑, 그리고 침묵의 사법부 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110884279</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110884279</guid>
-            <pubDate>Wed, 24 Sep 2025 06:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파는 지난주, 현직 부장판사가&nbsp;대기업 면세점으로부터 명품을 건네 받았다는의혹을 보도했습니다. HDC신라면세점 소속 팀장이 현직 부장판사 여권 사진을 들고 가 명품을 대신 구매해줬다는 내용입니다.<br><br>이 부장판사는&nbsp;'명태균 게이트' 재판을 담당하고 있는김인택 창원지방법원 부장판사인데요. 김 부장판사가 이런 불법적인 방식을 통해 실제로 인천공항 인도장에서&nbsp;명품을 수령한 것으로 확인됐습니다.&nbsp;<br><br>하지만 세관과 검찰은&nbsp;김 판사에 대한 조사는 시작하지도 않은 채, 면세점 법인과 팀장만 기소할 예정입니다. 판사라는 직위가 이 사건에 영향을 미친 것은 아닌지,&nbsp;이번주 &lt;주간 뉴스타파&gt;는 추가 의혹 보도와 함께 이 문제 다뤄보겠습니다.<br><br>🔴 뉴스타파 라이브 보러가기 : <span class="link_url">https://www.youtube.com/live/OWOQqF_1bhc?si=lIQ6qjCpkkCFTHp8</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/KpbBk</span>]]></content:encoded>
+            <title><![CDATA[[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20251014110650404</link>
+            <guid>https://v.daum.net/v/20251014110650404</guid>
+            <pubDate>Tue, 14 Oct 2025 03:03:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251014110650404" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사</strong><span class="info_txt"><span class="txt_info">56분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014110704079putv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014110704079putv.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 서부지법 폭동 재판① : 법원을 공격하다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20251014104111040</link>
+            <guid>https://v.daum.net/v/20251014104111040</guid>
+            <pubDate>Tue, 14 Oct 2025 03:03:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251014104111040" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 서부지법 폭동 재판① : 법원을 공격하다</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014104113272mias.webp" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014104113272mias.webp" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[허가된 착취①] 다치고, 버려지고, 죽는다...고용허가제에 갇힌 이주노동자 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20251013133611633</link>
             <guid>https://v.daum.net/v/20251013133611633</guid>
             <pubDate>Mon, 13 Oct 2025 05:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251013133611633" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[허가된 착취①] 다치고, 버려지고, 죽는다...고용허가제에 갇힌 이주노동자</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F13%2Fnewstapa%2F20251013133649580qaew.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251013133611633" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[허가된 착취①] 다치고, 버려지고, 죽는다...고용허가제에 갇힌 이주노동자</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F13%2Fnewstapa%2F20251013133649580qaew.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F13%2Fnewstapa%2F20251013133649580qaew.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3680,22 +3696,6 @@
             <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250919154111243" class="link_column"><div class="cont_thumb"><strong class="tit_txt">권성동, 폭행 현행범에도 딱 한번 서면 조사… “적법 절차와 형평성 위배”</strong><span class="info_txt"><span class="txt_info">2025. 9. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F19%2Fnewstapa%2F20250919154112838wxyw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F19%2Fnewstapa%2F20250919154112838wxyw.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서]국가가 외면한 임신중지, 이제는 각자도생 안 해도 될까? (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250919104111607</link>
-            <guid>https://v.daum.net/v/20250919104111607</guid>
-            <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250919104111607" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서]국가가 외면한 임신중지, 이제는 각자도생 안 해도 될까?</strong><span class="info_txt"><span class="txt_info">2025. 9. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F19%2Fnewstapa%2F20250919104112821kmpd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F19%2Fnewstapa%2F20250919104112821kmpd.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[명태균 사건 재판장, 대기업 면세점에서 명품 수수 의혹 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250919100111495</link>
-            <guid>https://v.daum.net/v/20250919100111495</guid>
-            <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250919100111495" class="link_column"><div class="cont_thumb"><strong class="tit_txt">명태균 사건 재판장, 대기업 면세점에서 명품 수수 의혹</strong><span class="info_txt"><span class="txt_info">2025. 9. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F19%2Fnewstapa%2F20250919100121275qwvo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F19%2Fnewstapa%2F20250919100121275qwvo.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

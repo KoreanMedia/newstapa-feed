@@ -4,15 +4,31 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Oct 2025 01:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Oct 2025 03:03:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사]]></title>
+            <link>https://v.daum.net/v/20251014110650404</link>
+            <guid>https://v.daum.net/v/20251014110650404</guid>
+            <pubDate>Tue, 14 Oct 2025 03:03:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251014110650404" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사</strong><span class="info_txt"><span class="txt_info">56분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014110704079putv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014110704079putv.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 서부지법 폭동 재판① : 법원을 공격하다]]></title>
+            <link>https://v.daum.net/v/20251014104111040</link>
+            <guid>https://v.daum.net/v/20251014104111040</guid>
+            <pubDate>Tue, 14 Oct 2025 03:03:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251014104111040" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 서부지법 폭동 재판① : 법원을 공격하다</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014104113272mias.webp" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014104113272mias.webp" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[[허가된 착취①] 다치고, 버려지고, 죽는다...고용허가제에 갇힌 이주노동자]]></title>
             <link>https://v.daum.net/v/20251013133611633</link>
             <guid>https://v.daum.net/v/20251013133611633</guid>
             <pubDate>Mon, 13 Oct 2025 05:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251013133611633" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[허가된 착취①] 다치고, 버려지고, 죽는다...고용허가제에 갇힌 이주노동자</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F13%2Fnewstapa%2F20251013133649580qaew.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251013133611633" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[허가된 착취①] 다치고, 버려지고, 죽는다...고용허가제에 갇힌 이주노동자</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F13%2Fnewstapa%2F20251013133649580qaew.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F13%2Fnewstapa%2F20251013133649580qaew.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -228,22 +244,6 @@
             <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250919154111243" class="link_column"><div class="cont_thumb"><strong class="tit_txt">권성동, 폭행 현행범에도 딱 한번 서면 조사… “적법 절차와 형평성 위배”</strong><span class="info_txt"><span class="txt_info">2025. 9. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F19%2Fnewstapa%2F20250919154112838wxyw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F19%2Fnewstapa%2F20250919154112838wxyw.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서]국가가 외면한 임신중지, 이제는 각자도생 안 해도 될까?]]></title>
-            <link>https://v.daum.net/v/20250919104111607</link>
-            <guid>https://v.daum.net/v/20250919104111607</guid>
-            <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250919104111607" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서]국가가 외면한 임신중지, 이제는 각자도생 안 해도 될까?</strong><span class="info_txt"><span class="txt_info">2025. 9. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F19%2Fnewstapa%2F20250919104112821kmpd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F19%2Fnewstapa%2F20250919104112821kmpd.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[명태균 사건 재판장, 대기업 면세점에서 명품 수수 의혹]]></title>
-            <link>https://v.daum.net/v/20250919100111495</link>
-            <guid>https://v.daum.net/v/20250919100111495</guid>
-            <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250919100111495" class="link_column"><div class="cont_thumb"><strong class="tit_txt">명태균 사건 재판장, 대기업 면세점에서 명품 수수 의혹</strong><span class="info_txt"><span class="txt_info">2025. 9. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F19%2Fnewstapa%2F20250919100121275qwvo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F19%2Fnewstapa%2F20250919100121275qwvo.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
