@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Oct 2025 01:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 03:06:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 서부지법 폭동 재판④ ‘폭동’ 피고인 49명의 변론과 판결]]></title>
+            <link>http://newstapa.org/article/Td5OT</link>
+            <guid>http://newstapa.org/article/Td5OT</guid>
+            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 서부지법 폭동 재판④ ‘폭동’ 피고인 49명의 변론과 판결]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16104118-DDA2-A00B-D850-0OGQBBINULWEC7GMR6J4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 서부지법 폭동 재판③ “해 뜨면 보자” 바리케이드 치고 버틴 난동자들]]></title>
+            <link>http://newstapa.org/article/tDRXs</link>
+            <guid>http://newstapa.org/article/tDRXs</guid>
+            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 서부지법 폭동 재판③ “해 뜨면 보자” 바리케이드 치고 버틴 난동자들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16104301-F977-78B1-8273-94NYWYL3EXZNLPZTXXJZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간뉴스타파] 감사원을 ‘감사’하다... 감사원 특활비 최초 공개]]></title>
             <link>http://newstapa.org/article/GJgGh</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['구명로비 의혹' 김장환 목사 통화기록 입체분석]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/02164949-1474-92D3-7A77-1HFL14WDLEOE1IE9BK31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다큐 뉴스타파]허가된 착취, 고용허가제의 굴레]]></title>
-            <link>http://newstapa.org/article/5m-9W</link>
-            <guid>http://newstapa.org/article/5m-9W</guid>
-            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다큐 뉴스타파]허가된 착취, 고용허가제의 굴레]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/01171123-F019-518C-4FA3-5T17JY56BWIAQ851W6NK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 대통령실 특활비 ‘4건에 1건꼴’ 오남용 정황]]></title>
-            <link>http://newstapa.org/article/xQgtn</link>
-            <guid>http://newstapa.org/article/xQgtn</guid>
-            <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이재명 대통령실 특활비 ‘4건에 1건꼴’ 오남용 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/30164719-B01C-B9E6-1787-PXO1N4VX5GH5ZMHCCHIV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
