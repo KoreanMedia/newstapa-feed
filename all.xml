@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Oct 2025 05:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 06:39:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 윤석열 언론공범⑥ “시대가 원하는 관상”, “김건희는 백공작” (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/D_XeM</link>
+            <guid>http://newstapa.org/article/D_XeM</guid>
+            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 윤석열 언론공범⑥ “시대가 원하는 관상”, “김건희는 백공작”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16152015-2B7B-9D82-B540-PF14PQFY9A0Y0V0N0MNF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 서부지법 폭동 재판④ ‘폭동’ 피고인 49명의 변론과 판결 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Td5OT</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[난중칼럼] 조희대의 오래된 약속은 지귀연에게만 지켜지나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/02184751-80D2-DDD2-7105-AME1V7G32PVQJYSOVGCR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['구명로비 의혹' 김장환 목사 통화기록 입체분석 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/ODGae</link>
-            <guid>http://newstapa.org/article/ODGae</guid>
-            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['구명로비 의혹' 김장환 목사 통화기록 입체분석]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/02164949-1474-92D3-7A77-1HFL14WDLEOE1IE9BK31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간뉴스타파] 감사원을 ‘감사’하다... 감사원 특활비 최초 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/09152236-1B77-B161-2B89-7ZTLS81DH3YYCV3K7R0F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 윤석열 언론공범⑥ “시대가 원하는 관상”, “김건희는 백공작” (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/D_XeM</link>
+            <guid>http://newstapa.org/article/D_XeM</guid>
+            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 윤석열 언론공범⑥ “시대가 원하는 관상”, “김건희는 백공작”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16152015-2B7B-9D82-B540-PF14PQFY9A0Y0V0N0MNF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[검찰, '류희림 사건' 방심위 압수수색... "늦장수사, 전면 재수사 필요" (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/pckl1</link>
             <guid>http://newstapa.org/article/pckl1</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['1인 5역' 리박스쿨 간부는 국정원 외곽단체 '노노데모' 출신]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/27155620-2F2C-59BF-4302-QZA7KNKSW6ZRLJVAZ2J4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] ‘한덕수 대망론’, 언론개혁 절실함을 보여주다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/_drwk</link>
-            <guid>http://newstapa.org/article/_drwk</guid>
-            <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] ‘한덕수 대망론’, 언론개혁 절실함을 보여주다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/02144641-0374-43CF-9DCD-E1XCM5MWUENZAMODTSI1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 21대 대통령선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3320,6 +3320,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15154039-F0FF-A908-F97A-G9UEKOKOWZHLKVBCJED5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 윤석열 언론공범⑥ “시대가 원하는 관상”, “김건희는 백공작” (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/111089707</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/111089707</guid>
+            <pubDate>Thu, 16 Oct 2025 06:39:06 GMT</pubDate>
+            <content:encoded><![CDATA[내란수괴 윤석열이 검찰총장, 대통령 자리까지 올라가는 동안 많은 언론이 ‘윤비어천가’를 부르며 국민의 눈과 귀를 속였습니다. 하지만 정권이 교체되자 윤석열에게 부역한 언론들은 입을 씻고 표정을 바꿔, 권력의 감시자인 양 행세하고 있습니다. <br><br>그렇다고 과거 행적이 그대로 묻힐 거라 생각하면 오산입니다. KINN 회원사 &lt;뉴스어디&gt;는 이들이 그 시절에 쓴 기사를 알고 있습니다. 윤석열에 대권 가도를 열어준 언론공범의 반성과 사죄 없이 언론개혁은 없습니다. &lt;뉴스어디&gt;가 윤석열 언론공범 추적 시리즈를 시작하는 이유입니다. <br><br>이번엔 윤석열 대선 당선 전후 빚어진 '무속' 논란과 관련해 어떤 매체들이 어떤 보도를 해왔는지 분석했습니다.  <br><br>👉&nbsp;전체 기사 보기:&nbsp; <span class="link_url">https://newswhere.org/news/report/2585</span>/<br>👏 뉴스어디 응원하기: <span class="link_url">https://online.mrm.or.kr/UblKLtQ</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[감사원을 ‘감사’하다... 감사원 특활비 최초 공개 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/111079490</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/111079490</guid>
@@ -3453,18 +3460,19 @@
             <content:encoded><![CDATA[뉴스타파는 그간 김병기 더불어민주당 원내대표의 '아빠 찬스' 의혹에 대해 보도했습니다. 김 원내대표가 차남의 대학 편입 문제를 해결하려 국회 보좌 직원과 소속 지역구 의원을 부당하게 동원했고, 친분이 있던 중소기업 측으로부터 특혜성 지원을 받았다는 의혹이었습니다. 이어 김 원내대표 차남의 가상자산거래소 '빗썸' 채용 과정의 공정성을 의심케 하는 정황을 추가로 보도했습니다.<br><br>그러나 김 원내대표는 합리적 이유 없이 뉴스타파 취재를 거부하고 있습니다. 지난 취재·보도 과정에서 그가 보인 태도는 회피, 낙인, 겁박, 그리고 무시였습니다. 그는 비판 언론의 취재를 계속 피했고, 보도가 나오면 가짜뉴스로 낙인찍거나 소송으로 겁박했습니다. 지금은 아예 의혹의 존재 자체를 무시 중입니다.<br><br>여러 언론 개혁 입법을 추진 중인 거대 여당의 원내대표로서 적절한 언론관일까요. 홍주환 기자가 짚어봤습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/RP5gq</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서울동부지검은 '특활비 공개' 결정했는데, 실무자는 "바빠서 못 준다" (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110932782</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110932782</guid>
-            <pubDate>Tue, 14 Oct 2025 08:28:26 GMT</pubDate>
-            <content:encoded><![CDATA[내일(30일)로 예정됐던 서울동부지검(검사장 임은정) 특수활동비(특활비) 지출증빙자료 공개가 늦어질 걸로 보입니다. 서울동부지검 실무자는 최근 뉴스타파에 전화를 걸어 "바빠서 못 준다"고 했습니다. 서울동부지검이 청구인(뉴스타파)에게 공문으로 통지한 일이 실무자의 판단으로 취소 혹은 연기될 상황입니다. <br><br>국가기관인 검찰이 스스로 정해 청구인(뉴스타파)에게 통보한 결정을 합리적인 이유 없이 철회하는 건 그냥 넘어갈 일이 아닙니다. 뉴스타파는 이해하기 힘든 결정을 통보한 서울동부지검에 공식 답변을 요구할 예정입니다. '특활비 등 검찰 예산' 정보를 제대로 받아내기 위한 추가적인 조치에도 나설 예정입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/opwTl</span>]]></content:encoded>
+            <title><![CDATA[[KINN] 윤석열 언론공범⑥ “시대가 원하는 관상”, “김건희는 백공작” (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20251016152648754</link>
+            <guid>https://v.daum.net/v/20251016152648754</guid>
+            <pubDate>Thu, 16 Oct 2025 06:39:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251016152648754" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 윤석열 언론공범⑥ “시대가 원하는 관상”, “김건희는 백공작”</strong><span class="info_txt"><span class="txt_info">12분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F16%2Fnewstapa%2F20251016152649856bndy.webp" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F16%2Fnewstapa%2F20251016152649856bndy.webp" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[KINN] 서부지법 폭동 재판④ ‘폭동’ 피고인 49명의 변론과 판결 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20251016110649649</link>
             <guid>https://v.daum.net/v/20251016110649649</guid>
             <pubDate>Thu, 16 Oct 2025 03:06:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251016110649649" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 서부지법 폭동 재판④ ‘폭동’ 피고인 49명의 변론과 판결</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F16%2Fnewstapa%2F20251016110650946xgin.webp" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251016110649649" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 서부지법 폭동 재판④ ‘폭동’ 피고인 49명의 변론과 판결</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F16%2Fnewstapa%2F20251016110650946xgin.webp" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F16%2Fnewstapa%2F20251016110650946xgin.webp" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3472,7 +3480,7 @@
             <link>https://v.daum.net/v/20251016110111205</link>
             <guid>https://v.daum.net/v/20251016110111205</guid>
             <pubDate>Thu, 16 Oct 2025 03:06:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251016110111205" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 서부지법 폭동 재판③ “해 뜨면 보자” 바리케이드 치고 버틴 난동자들</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F16%2Fnewstapa%2F20251016110112966nknl.webp" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251016110111205" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 서부지법 폭동 재판③ “해 뜨면 보자” 바리케이드 치고 버틴 난동자들</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F16%2Fnewstapa%2F20251016110112966nknl.webp" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F16%2Fnewstapa%2F20251016110112966nknl.webp" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3480,7 +3488,7 @@
             <link>https://v.daum.net/v/20251015170704594</link>
             <guid>https://v.daum.net/v/20251015170704594</guid>
             <pubDate>Wed, 15 Oct 2025 08:31:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251015170704594" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간뉴스타파] 감사원을 ‘감사’하다... 감사원 특활비 최초 공개</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015170706625dsja.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251015170704594" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간뉴스타파] 감사원을 ‘감사’하다... 감사원 특활비 최초 공개</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015170706625dsja.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015170706625dsja.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3488,7 +3496,7 @@
             <link>https://v.daum.net/v/20251015170657592</link>
             <guid>https://v.daum.net/v/20251015170657592</guid>
             <pubDate>Wed, 15 Oct 2025 08:31:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251015170657592" class="link_column"><div class="cont_thumb"><strong class="tit_txt">감사원을 '감사'하다 ① 2년 9개월의 소송... 감사원 예산 자료 '최초 입수'</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173053126reme.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251015170657592" class="link_column"><div class="cont_thumb"><strong class="tit_txt">감사원을 '감사'하다 ① 2년 9개월의 소송... 감사원 예산 자료 '최초 입수'</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173053126reme.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173053126reme.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3504,7 @@
             <link>https://v.daum.net/v/20251015170650586</link>
             <guid>https://v.daum.net/v/20251015170650586</guid>
             <pubDate>Wed, 15 Oct 2025 08:31:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251015170650586" class="link_column"><div class="cont_thumb"><strong class="tit_txt">감사원을 '감사'하다 ② 단 한 장도 안 남긴 특활비 '증거'</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173056461aojg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251015170650586" class="link_column"><div class="cont_thumb"><strong class="tit_txt">감사원을 '감사'하다 ② 단 한 장도 안 남긴 특활비 '증거'</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173056461aojg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173056461aojg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3512,7 @@
             <link>https://v.daum.net/v/20251015170138310</link>
             <guid>https://v.daum.net/v/20251015170138310</guid>
             <pubDate>Wed, 15 Oct 2025 08:31:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251015170138310" class="link_column"><div class="cont_thumb"><strong class="tit_txt">감사원을 ‘감사’하다 ③ ‘실세’ 유병호, 감사원 특활비 ‘싹쓸이’</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173059941jaqu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251015170138310" class="link_column"><div class="cont_thumb"><strong class="tit_txt">감사원을 ‘감사’하다 ③ ‘실세’ 유병호, 감사원 특활비 ‘싹쓸이’</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173059941jaqu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173059941jaqu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3690,13 +3698,6 @@
             <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250925184612581" class="link_column"><div class="cont_thumb"><strong class="tit_txt">대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실</strong><span class="info_txt"><span class="txt_info">2025. 9. 25.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F25%2Fnewstapa%2F20250925184622871aort.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F25%2Fnewstapa%2F20250925184622871aort.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[명품 수수 의혹 김인택 부장판사 국정감사 증인 신청됐다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250924181650578</link>
-            <guid>https://v.daum.net/v/20250924181650578</guid>
-            <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250924181650578" class="link_column"><div class="cont_thumb"><strong class="tit_txt">명품 수수 의혹 김인택 부장판사 국정감사 증인 신청됐다</strong><span class="info_txt"><span class="txt_info">2025. 9. 24.</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
