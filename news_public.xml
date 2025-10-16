@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Oct 2025 08:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 09:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['검사의 난' 김건희 특검 검사 40명 실명 공개.. 절반이 윤 정부서 '정치 수사']]></title>
+            <link>http://newstapa.org/article/V7mwN</link>
+            <guid>http://newstapa.org/article/V7mwN</guid>
+            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['검사의 난' 김건희 특검 검사 40명 실명 공개.. 절반이 윤 정부서 '정치 수사']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16180149-EB88-5788-1BE1-H2E4TVERO3JRH3ZVN4L9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘검사의 난’ 김건희 특검 검사 명단 인터랙티브 공개]]></title>
+            <link>http://newstapa.org/article/uVNqu</link>
+            <guid>http://newstapa.org/article/uVNqu</guid>
+            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘검사의 난’ 김건희 특검 검사 명단 인터랙티브 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16180452-E95C-267E-45EB-TEA4GRRGGHXG8BCOEP5A.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간뉴스타파] 감사원을 ‘감사’하다... 감사원 특활비 최초 공개]]></title>
             <link>http://newstapa.org/article/GJgGh</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘명품 수수 의혹’ 김인택 부장판사, 서면 조사도 안 받고 사실상 무혐의]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26152830-39BE-AF23-4268-RJNDUSN3453ZXDEOHOYR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공수처, 김병기 차남 의혹 수사 착수...수사3부 배당]]></title>
-            <link>http://newstapa.org/article/bGZzW</link>
-            <guid>http://newstapa.org/article/bGZzW</guid>
-            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공수처, 김병기 차남 의혹 수사 착수...수사3부 배당]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26150243-2D51-4DA1-ADD7-T09OJ30KEDPO8HNO15ED.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실]]></title>
-            <link>http://newstapa.org/article/iz_a3</link>
-            <guid>http://newstapa.org/article/iz_a3</guid>
-            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/25175438-0D9C-FD85-E5CB-2VT0KIUGRQH20VDOW34W.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
