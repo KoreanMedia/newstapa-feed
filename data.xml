@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Oct 2025 23:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Oct 2025 01:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검사의 난, 김건희 특검 검사 40명 실명 공개]]></title>
+            <link>https://pages.newstapa.org/2025/kkh-prosecutor/</link>
+            <guid>https://pages.newstapa.org/2025/kkh-prosecutor/</guid>
+            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 9월 30일 이른바 '항명 파동'을 일으킨 김건희 특검 파견 검사들 40명의 명단과 이력을 공개합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/17095230-223E-0344-A0EB-6NV86S1SXAX2I6YCXG4U.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내란 기획자 노상원의 수첩]]></title>
             <link>https://pages.newstapa.org/2025/RohSangWon/</link>
