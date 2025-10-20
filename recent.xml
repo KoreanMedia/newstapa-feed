@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Oct 2025 03:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Oct 2025 04:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] '정부 감시자' 감사원의 민낯, 특수 활동 없어도 '특활비 포상' 뿌렸다]]></title>
+            <link>http://newstapa.org/article/dHUrc</link>
+            <guid>http://newstapa.org/article/dHUrc</guid>
+            <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] '정부 감시자' 감사원의 민낯, 특수 활동 없어도 '특활비 포상' 뿌렸다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/20112856-B473-D039-0F9A-4OEU2MMKR02WR6DVR7DT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1948, 사라진 병사들: 그들은 돌아오지 않았다]]></title>
             <link>http://newstapa.org/article/ArqDC</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[임성근 전 사단장 인터뷰&amp;검증① “물에 들어가라는 지시 없었다?"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14162636-6CF9-2933-71B8-IYMWMLLEEK7RO3HKLK0L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사]]></title>
-            <link>http://newstapa.org/article/rIiss</link>
-            <guid>http://newstapa.org/article/rIiss</guid>
-            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14111315-9D01-E7AE-FFA2-EVNXXHEA51XWFNREISA1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
