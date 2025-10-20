@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Oct 2025 07:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Oct 2025 08:44:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화]이재명 정부, 청정수소발전 입찰 전격 중단...지난해 물량도 기간 단축 추진 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/sZbYU</link>
+            <guid>http://newstapa.org/article/sZbYU</guid>
+            <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화]이재명 정부, 청정수소발전 입찰 전격 중단...지난해 물량도 기간 단축 추진]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/20171919-C595-8B87-D2FB-L44SHUBQ8RMCGJFNVMMU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] '정부 감시자' 감사원의 민낯, 특수 활동 없어도 '특활비 포상' 뿌렸다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/dHUrc</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[임성근 전 사단장 인터뷰&amp;검증② “맹세코 구명 로비 없었다?"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14171907-F4EA-12F2-3541-NMKNKKIVRX3FTS95KB47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임성근 전 사단장 인터뷰&검증① “물에 들어가라는 지시 없었다?" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/brhFa</link>
-            <guid>http://newstapa.org/article/brhFa</guid>
-            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[임성근 전 사단장 인터뷰&amp;검증① “물에 들어가라는 지시 없었다?"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14162636-6CF9-2933-71B8-IYMWMLLEEK7RO3HKLK0L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공수처, 특검에 채해병 사건 넘기며 '송창진 위증' 쏙 뺐다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/01132009-2223-353F-9114-IBNLWUGMXKAH7RP3VVXC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화]이재명 정부, 청정수소발전 입찰 전격 중단...지난해 물량도 기간 단축 추진 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/sZbYU</link>
+            <guid>http://newstapa.org/article/sZbYU</guid>
+            <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화]이재명 정부, 청정수소발전 입찰 전격 중단...지난해 물량도 기간 단축 추진]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/20171919-C595-8B87-D2FB-L44SHUBQ8RMCGJFNVMMU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[타파스] 수소로 기후위기 대응 만사형통? 윤석열 정부 에너지 정책이 '도박'인 이유 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/rURR9</link>
             <guid>http://newstapa.org/article/rURR9</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크]이준석, 풍력발전은 중국 위한 것이다?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/20180422-64FE-403A-F945-1HEHYJICTBWQE024D2IG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인니, 전 세계 스마트폰에 ‘불법 광물’ 공급 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/YzbJF</link>
-            <guid>http://newstapa.org/article/YzbJF</guid>
-            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[인니, 전 세계 스마트폰에 ‘불법 광물’ 공급]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/16101058-BAC1-B851-ADDE-WXXIVXPC6ZC47BSRY549.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -3328,6 +3328,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15154039-F0FF-A908-F97A-G9UEKOKOWZHLKVBCJED5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화]이재명 정부, 청정수소발전 입찰 전격 중단...지난해 물량도 기간 단축 추진 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/111126036</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/111126036</guid>
+            <pubDate>Mon, 20 Oct 2025 08:44:14 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 정부가 2025년 청정수소발전시장(CHPS) 경쟁입찰을 전격 취소했습니다. 온실가스 감축 효과가 미미할 뿐만 아니라 국민들에게 수 조원의 전기요금 부담을 가중시키는 청정수소 발전 정책 사업이 결국 석탄 발전소의 연명 수단으로 악용되고 있다는 뉴스타파의 보도가 있은 지 40여일 만입니다. 정부는 ‘2040 탈석탄’ 기조에 맞춰 관련 기준을 정비해 입찰을 다시 진행할 방침입니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/sZbYU</span><br>👉 뉴스타파는 광고와 협찬 없이 회원들의 후원금으로만 운영됩니다. 뉴스타파에 힘을 보태주세요 : <span class="link_url">https://newstapa.org/donate</span><br>🌏 해외에서는 Paypal을 통해 후원하실 수 있습니다. Paypal 후원 링크 : <span class="link_url">https://url.kr/7n3hfe</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[1948, 사라진 병사들: 그들은 돌아오지 않았다 〈뉴스타파 목격자들〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/111120260</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/111120260</guid>
@@ -3461,18 +3468,19 @@
             <content:encoded><![CDATA[“여기는 자유가 없어요. 자유가 있었으면 좋겠어요.“<br><br>일은 할 수 있지만, 일터를 떠날 자유는 없는 사람들이 있습니다. 일터에서 맞고, 다치고, 조롱당해도 사장의 동의 없이는 일터를 바꿀 수 없는 사람들. 고용허가제로 일하고 있는 34만 명 이주노동자들의 이야기입니다.<br><br>이들은 제조업, 농어촌, 건설현장 등 내국인이 떠난 일자리를 메우며 한국경제를 떠받치고 있지만, 최소한의 인권도 보장받지 못한 채 위험한 일터에 내몰리는 경우가 많습니다.<br><br>앞서 뉴스타파는 [다큐 뉴스타파] '허가된 착취, 고용허가제의 굴레' 편을 통해 21년 전 도입된 고용허가제의 문제점을 보도한 바 있는데요. 다큐에 모두 담지 못한 이주노동자들의 목소리와 대안을 오늘과 내일에 걸쳐 두 편의 기사로 전합니다. 먼저 고용허가제에 갇힌 이주노동자들의 실태를 홍여진 기자가 전합니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/3wltG</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[난중칼럼] 조희대의 오래된 약속은 지귀연에게만 지켜지나 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/110996797</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/110996797</guid>
-            <pubDate>Tue, 14 Oct 2025 08:28:26 GMT</pubDate>
-            <content:encoded><![CDATA[고위공직자범죄수사처가 지귀연 부장판사에 대해 청구한 압수수색영장을 법원이 기각했다는 사실이 MBC 보도로 확인됐습니다. 희한한 논리를 들어 내란 우두머리 혐의자 윤석열을 풀어줬던 지귀연 부장판사는 룸싸롱 접대 의혹, 증거 인멸 의혹 등을 받고 있습니다. <br><br>법원은 검찰이 청구한 압수수색검증영장의 99%를 발부합니다. 지난해 청구된 53만5,577건 중 5,352건만 기각했습니다. '법원은 영장 자판기'라는 말이 나오는 이유입니다. 산술적으로만 보면, 지귀연 부장판사는 1%의 확율을 뚫고 압수수색을 피한 셈입니다. 무슨 특별한 비결이 있었을까요?<br><br>'윤석열 명예훼손' 혐의로 자택 압수수색을 당하고, 1년 가까이 검찰 수사를 받고, 또 1년 넘게 재판을 받고 있는 김용진 뉴스타파 선임기자가 '지귀연 압수수색영장 기각'이 확인된 법원의 문제점을 정리했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/KWjT4</span>]]></content:encoded>
+            <title><![CDATA[[변화]이재명 정부, 청정수소발전 입찰 전격 중단...지난해 물량도 기간 단축 추진 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20251020172612785</link>
+            <guid>https://v.daum.net/v/20251020172612785</guid>
+            <pubDate>Mon, 20 Oct 2025 08:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251020172612785" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화]이재명 정부, 청정수소발전 입찰 전격 중단...지난해 물량도 기간 단축 추진</strong><span class="info_txt"><span class="txt_info">18분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F20%2Fnewstapa%2F20251020172613981qzru.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F20%2Fnewstapa%2F20251020172613981qzru.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[타파스] '정부 감시자' 감사원의 민낯, 특수 활동 없어도 '특활비 포상' 뿌렸다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20251020132613153</link>
             <guid>https://v.daum.net/v/20251020132613153</guid>
             <pubDate>Mon, 20 Oct 2025 04:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251020132613153" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] '정부 감시자' 감사원의 민낯, 특수 활동 없어도 '특활비 포상' 뿌렸다</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F20%2Fnewstapa%2F20251020132614662nvtj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251020132613153" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] '정부 감시자' 감사원의 민낯, 특수 활동 없어도 '특활비 포상' 뿌렸다</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F20%2Fnewstapa%2F20251020132614662nvtj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F20%2Fnewstapa%2F20251020132614662nvtj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3480,7 +3488,7 @@
             <link>https://v.daum.net/v/20251020111648580</link>
             <guid>https://v.daum.net/v/20251020111648580</guid>
             <pubDate>Mon, 20 Oct 2025 03:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251020111648580" class="link_column"><div class="cont_thumb"><strong class="tit_txt">1948, 사라진 병사들: 그들은 돌아오지 않았다</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F20%2Fnewstapa%2F20251020111653934bqwd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251020111648580" class="link_column"><div class="cont_thumb"><strong class="tit_txt">1948, 사라진 병사들: 그들은 돌아오지 않았다</strong><span class="info_txt"><span class="txt_info">6시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F20%2Fnewstapa%2F20251020111653934bqwd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F20%2Fnewstapa%2F20251020111653934bqwd.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3488,7 +3496,7 @@
             <link>https://v.daum.net/v/20251017164138585</link>
             <guid>https://v.daum.net/v/20251017164138585</guid>
             <pubDate>Fri, 17 Oct 2025 08:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251017164138585" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김낙년 '친일 교과서 집필' 논란에 질타 쏟아진 국감장</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F17%2Fnewstapa%2F20251017164140113emcd.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251017164138585" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김낙년 '친일 교과서 집필' 논란에 질타 쏟아진 국감장</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F17%2Fnewstapa%2F20251017164140113emcd.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F17%2Fnewstapa%2F20251017164140113emcd.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3552,7 +3560,7 @@
             <link>https://v.daum.net/v/20251015170704594</link>
             <guid>https://v.daum.net/v/20251015170704594</guid>
             <pubDate>Wed, 15 Oct 2025 08:31:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251015170704594" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간뉴스타파] 감사원을 ‘감사’하다... 감사원 특활비 최초 공개</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015170706625dsja.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251015170704594" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간뉴스타파] 감사원을 ‘감사’하다... 감사원 특활비 최초 공개</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015170706625dsja.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015170706625dsja.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3560,7 +3568,7 @@
             <link>https://v.daum.net/v/20251015170657592</link>
             <guid>https://v.daum.net/v/20251015170657592</guid>
             <pubDate>Wed, 15 Oct 2025 08:31:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251015170657592" class="link_column"><div class="cont_thumb"><strong class="tit_txt">감사원을 '감사'하다 ① 2년 9개월의 소송... 감사원 예산 자료 '최초 입수'</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173053126reme.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251015170657592" class="link_column"><div class="cont_thumb"><strong class="tit_txt">감사원을 '감사'하다 ① 2년 9개월의 소송... 감사원 예산 자료 '최초 입수'</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173053126reme.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173053126reme.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3568,7 +3576,7 @@
             <link>https://v.daum.net/v/20251015170650586</link>
             <guid>https://v.daum.net/v/20251015170650586</guid>
             <pubDate>Wed, 15 Oct 2025 08:31:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251015170650586" class="link_column"><div class="cont_thumb"><strong class="tit_txt">감사원을 '감사'하다 ② 단 한 장도 안 남긴 특활비 '증거'</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173056461aojg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251015170650586" class="link_column"><div class="cont_thumb"><strong class="tit_txt">감사원을 '감사'하다 ② 단 한 장도 안 남긴 특활비 '증거'</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173056461aojg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173056461aojg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3576,7 +3584,7 @@
             <link>https://v.daum.net/v/20251015170138310</link>
             <guid>https://v.daum.net/v/20251015170138310</guid>
             <pubDate>Wed, 15 Oct 2025 08:31:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251015170138310" class="link_column"><div class="cont_thumb"><strong class="tit_txt">감사원을 ‘감사’하다 ③ ‘실세’ 유병호, 감사원 특활비 ‘싹쓸이’</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173059941jaqu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251015170138310" class="link_column"><div class="cont_thumb"><strong class="tit_txt">감사원을 ‘감사’하다 ③ ‘실세’ 유병호, 감사원 특활비 ‘싹쓸이’</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173059941jaqu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F15%2Fnewstapa%2F20251015173059941jaqu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3584,7 +3592,7 @@
             <link>https://v.daum.net/v/20251014172646142</link>
             <guid>https://v.daum.net/v/20251014172646142</guid>
             <pubDate>Tue, 14 Oct 2025 08:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251014172646142" class="link_column"><div class="cont_thumb"><strong class="tit_txt">임성근 전 사단장 인터뷰&amp;검증② “맹세코 구명 로비 없었다?"</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014172648653hfmc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251014172646142" class="link_column"><div class="cont_thumb"><strong class="tit_txt">임성근 전 사단장 인터뷰&amp;검증② “맹세코 구명 로비 없었다?"</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014172648653hfmc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014172648653hfmc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3592,7 +3600,7 @@
             <link>https://v.daum.net/v/20251014163138956</link>
             <guid>https://v.daum.net/v/20251014163138956</guid>
             <pubDate>Tue, 14 Oct 2025 08:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251014163138956" class="link_column"><div class="cont_thumb"><strong class="tit_txt">임성근 전 사단장 인터뷰&amp;검증① “물에 들어가라는 지시 없었다?"</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014163140185xojz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251014163138956" class="link_column"><div class="cont_thumb"><strong class="tit_txt">임성근 전 사단장 인터뷰&amp;검증① “물에 들어가라는 지시 없었다?"</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014163140185xojz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014163140185xojz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3698,14 +3706,6 @@
             <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250929141649320" class="link_column"><div class="cont_thumb"><strong class="tit_txt">특활비로 '격려금', '위로금'... 이재명 대통령실, 예산 오남용 정황</strong><span class="info_txt"><span class="txt_info">2025. 9. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F29%2Fnewstapa%2F20250929141656171kjue.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F29%2Fnewstapa%2F20250929141656171kjue.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 김병기 민주당 원내대표가 비판 언론을 대하는 4단계 전략 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250929135138947</link>
-            <guid>https://v.daum.net/v/20250929135138947</guid>
-            <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250929135138947" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 김병기 민주당 원내대표가 비판 언론을 대하는 4단계 전략</strong><span class="info_txt"><span class="txt_info">2025. 9. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F29%2Fnewstapa%2F20250929135139685giij.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202509%2F29%2Fnewstapa%2F20250929135139685giij.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
