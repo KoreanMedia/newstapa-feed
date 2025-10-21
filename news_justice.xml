@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Oct 2025 05:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Oct 2025 06:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 김건희 특검은 어떻게 검사들의 '인질'이 되었나]]></title>
+            <link>http://newstapa.org/article/hJtbD</link>
+            <guid>http://newstapa.org/article/hJtbD</guid>
+            <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 김건희 특검은 어떻게 검사들의 '인질'이 되었나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/21145504-3779-6583-1B41-MKOFLUSQR2BSXOTUGVAD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['검사의 난' 김건희 특검 검사 40명 실명 공개.. 절반이 윤 정부서 '정치 수사']]></title>
             <link>http://newstapa.org/article/V7mwN</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파]부장판사의 수상한 쇼핑, 그리고 침묵의 사법부]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/24125517-BBE2-1242-0199-F64ERJ68CJF4JCBWNQPE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['95% 명품 할인', '대리 결제'... 명태균 재판장 추가 비위 의혹]]></title>
-            <link>http://newstapa.org/article/867TA</link>
-            <guid>http://newstapa.org/article/867TA</guid>
-            <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['95% 명품 할인', '대리 결제'... 명태균 재판장 추가 비위 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/24131326-149C-6EBE-104F-6XMKUNPKQD19S9Y4LF24.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
