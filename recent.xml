@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Oct 2025 07:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 08:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['한학자 구속되던 날' 통일교 집단 기도회 잠입 영상]]></title>
+            <link>http://newstapa.org/article/B1-Ci</link>
+            <guid>http://newstapa.org/article/B1-Ci</guid>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['한학자 구속되던 날' 통일교 집단 기도회 잠입 영상]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/24163733-E1F4-CB52-05C2-Y13WFP1WFFJOUEA6B8ZM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 최초 검증, '먹칠 벗은' 검찰 쌈짓돈]]></title>
             <link>http://newstapa.org/article/KTJHU</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘검사의 난’ 김건희 특검 검사 명단 인터랙티브 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16180452-E95C-267E-45EB-TEA4GRRGGHXG8BCOEP5A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 윤석열 언론공범⑥ “시대가 원하는 관상”, “김건희는 백공작”]]></title>
-            <link>http://newstapa.org/article/D_XeM</link>
-            <guid>http://newstapa.org/article/D_XeM</guid>
-            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 윤석열 언론공범⑥ “시대가 원하는 관상”, “김건희는 백공작”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16152015-2B7B-9D82-B540-PF14PQFY9A0Y0V0N0MNF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
