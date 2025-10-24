@@ -4,9 +4,16 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Oct 2025 05:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 06:31:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[반론보도]「'일제 미화' 검정교과서 제작 문건 입수... 대한교조 참여 확인」기사 등 관련]]></title>
+            <link>https://v.daum.net/v/20251024150113459</link>
+            <guid>https://v.daum.net/v/20251024150113459</guid>
+            <pubDate>Fri, 24 Oct 2025 06:31:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251024150113459" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[반론보도]「'일제 미화' 검정교과서 제작 문건 입수... 대한교조 참여 확인」기사 등 관련</strong><span class="info_txt"><span class="txt_info">30분 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[심우정, 서울동부지검장 때 특활비 총액의 15% '셀프 수령']]></title>
             <link>https://v.daum.net/v/20251023133646569</link>
@@ -52,7 +59,7 @@
             <link>https://v.daum.net/v/20251021150138599</link>
             <guid>https://v.daum.net/v/20251021150138599</guid>
             <pubDate>Tue, 21 Oct 2025 06:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251021150138599" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 김건희 특검은 어떻게 검사들의 '인질'이 되었나</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F21%2Fnewstapa%2F20251021150139669ggyi.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251021150138599" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 김건희 특검은 어떻게 검사들의 '인질'이 되었나</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F21%2Fnewstapa%2F20251021150139669ggyi.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F21%2Fnewstapa%2F20251021150139669ggyi.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -238,14 +245,6 @@
             <pubDate>Sat, 11 Oct 2025 07:57:02 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251009100112471" class="link_column"><div class="cont_thumb"><strong class="tit_txt">가사열전: 사사롭거나, 성스럽거나</strong><span class="info_txt"><span class="txt_info">2025. 10. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F13%2Fnewstapa%2F20251013102814567yunt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F13%2Fnewstapa%2F20251013102814567yunt.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[케이넘버: 실종돼서 미안해]]></title>
-            <link>https://v.daum.net/v/20251004100138115</link>
-            <guid>https://v.daum.net/v/20251004100138115</guid>
-            <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251004100138115" class="link_column"><div class="cont_thumb"><strong class="tit_txt">케이넘버: 실종돼서 미안해</strong><span class="info_txt"><span class="txt_info">2025. 10. 4.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F04%2Fnewstapa%2F20251004100147634rqws.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F04%2Fnewstapa%2F20251004100147634rqws.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
