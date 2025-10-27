@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Oct 2025 07:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Oct 2025 08:31:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감사원, 특활비 집행계획서 '전면 비공개'... 유병호 등 고위직 집행 적절성 의문 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/KGMJ8</link>
+            <guid>http://newstapa.org/article/KGMJ8</guid>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[감사원, 특활비 집행계획서 '전면 비공개'... 유병호 등 고위직 집행 적절성 의문]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/27165843-9D33-C2AD-C437-XYIO18BQSXLS4A83NKKR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 명절 떡값, 회식이 특수활동? 마침내 검찰의 '먹칠'을 벗겼습니다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/2NCe9</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/17110523-FC6E-2015-5FA7-GR579E3F0INJ58M07J4H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['검사의 난' 김건희 특검 검사 40명 실명 공개.. 절반이 윤 정부서 '정치 수사' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/V7mwN</link>
-            <guid>http://newstapa.org/article/V7mwN</guid>
-            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['검사의 난' 김건희 특검 검사 40명 실명 공개.. 절반이 윤 정부서 '정치 수사']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16180149-EB88-5788-1BE1-H2E4TVERO3JRH3ZVN4L9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[감사원, 특활비 집행계획서 '전면 비공개'... 유병호 등 고위직 집행 적절성 의문 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/KGMJ8</link>
+            <guid>http://newstapa.org/article/KGMJ8</guid>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[감사원, 특활비 집행계획서 '전면 비공개'... 유병호 등 고위직 집행 적절성 의문]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/27165843-9D33-C2AD-C437-XYIO18BQSXLS4A83NKKR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 최초 검증, '먹칠 벗은' 검찰 쌈짓돈 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[감사원을 ‘감사’하다 ③ ‘실세’ 유병호, 감사원 특활비 ‘싹쓸이’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/15135823-C5D5-1D75-F7EE-JKFL7J7HLDNQMHFY68MF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임성근 전 사단장 인터뷰&검증② “맹세코 구명 로비 없었다?" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/Yk8os</link>
-            <guid>http://newstapa.org/article/Yk8os</guid>
-            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[임성근 전 사단장 인터뷰&amp;검증② “맹세코 구명 로비 없었다?"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14171907-F4EA-12F2-3541-NMKNKKIVRX3FTS95KB47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['명태균 사건' 재판장 명품 수수 의혹, 국감 도마에 올라..."법원 제 식구 감싸기" 질타 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3468,11 +3468,19 @@
             <content:encoded><![CDATA[추석 연휴 직전 이른바 ‘항명 파동’을 일으킨 김건희 특검의 검사들, 이들이 항명을 한 진짜 이유는 무엇일까요.<br><br>뉴스타파가 김건희 특검의 검사 전원의 명단을 입수해 이력을 분석해봤습니다. 그 결과 김건희 특검 검사의 절반 가량은 윤석열 정부에서 ‘김건희 봐주기 수사’나 ‘정치 수사’에 참여한 이력이 있는 것으로 확인됐습니다. 그 덕분인지 4분의 3 정도는 윤석열 정부에서 인사상의 혜택을 본 것으로도 파악됐습니다. 윤석열 정부에 충성하고 그 결과 잘나갔던 검사들이 대다수라는 얘기입니다.  <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/92LhIvRKmDE</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/V7mwN</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[감사원, 특활비 집행계획서 '전면 비공개'... 유병호 등 고위직 집행 적절성 의문 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20251027170111882</link>
+            <guid>https://v.daum.net/v/20251027170111882</guid>
+            <pubDate>Mon, 27 Oct 2025 08:31:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251027170111882" class="link_column"><div class="cont_thumb"><strong class="tit_txt">감사원, 특활비 집행계획서 '전면 비공개'... 유병호 등 고위직 집행 적절성 의문</strong><span class="info_txt"><span class="txt_info">29분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F27%2Fnewstapa%2F20251027170112999hyoy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F27%2Fnewstapa%2F20251027170112999hyoy.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[타파스] 명절 떡값, 회식이 특수활동? 마침내 검찰의 '먹칠'을 벗겼습니다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20251027114611700</link>
             <guid>https://v.daum.net/v/20251027114611700</guid>
             <pubDate>Mon, 27 Oct 2025 03:23:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251027114611700" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 명절 떡값, 회식이 특수활동? 마침내 검찰의 '먹칠'을 벗겼습니다</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F27%2Fnewstapa%2F20251027114612971iavj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251027114611700" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 명절 떡값, 회식이 특수활동? 마침내 검찰의 '먹칠'을 벗겼습니다</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F27%2Fnewstapa%2F20251027114612971iavj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F27%2Fnewstapa%2F20251027114612971iavj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3480,7 +3488,7 @@
             <link>https://v.daum.net/v/20251024170138091</link>
             <guid>https://v.daum.net/v/20251024170138091</guid>
             <pubDate>Fri, 24 Oct 2025 08:29:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251024170138091" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'한학자 구속되던 날' 통일교 집단 기도회 잠입 영상</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F27%2Fnewstapa%2F20251027102115661gnkn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251024170138091" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'한학자 구속되던 날' 통일교 집단 기도회 잠입 영상</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F27%2Fnewstapa%2F20251027102115661gnkn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F27%2Fnewstapa%2F20251027102115661gnkn.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3551,7 +3559,7 @@
             <link>https://v.daum.net/v/20251020172612785</link>
             <guid>https://v.daum.net/v/20251020172612785</guid>
             <pubDate>Mon, 20 Oct 2025 08:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251020172612785" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화]이재명 정부, 청정수소발전 입찰 전격 중단...지난해 물량도 기간 단축 검토</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F20%2Fnewstapa%2F20251020172613981qzru.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251020172612785" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화]이재명 정부, 청정수소발전 입찰 전격 중단...지난해 물량도 기간 단축 검토</strong><span class="info_txt"><span class="txt_info">2025. 10. 20.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F20%2Fnewstapa%2F20251020172613981qzru.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F20%2Fnewstapa%2F20251020172613981qzru.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3697,14 +3705,6 @@
             <pubDate>Tue, 14 Oct 2025 03:03:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251014110650404" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사</strong><span class="info_txt"><span class="txt_info">2025. 10. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014125513722ngpf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014125513722ngpf.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 서부지법 폭동 재판① : 법원을 공격하다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20251014104111040</link>
-            <guid>https://v.daum.net/v/20251014104111040</guid>
-            <pubDate>Tue, 14 Oct 2025 03:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251014104111040" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 서부지법 폭동 재판① : 법원을 공격하다</strong><span class="info_txt"><span class="txt_info">2025. 10. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014104113272mias.webp" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F14%2Fnewstapa%2F20251014104113272mias.webp" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
