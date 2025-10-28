@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Oct 2025 23:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Oct 2025 01:30:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호반그룹 사주 일가 배임 의혹과 의문의 서명]]></title>
+            <link>http://newstapa.org/article/2sMcA</link>
+            <guid>http://newstapa.org/article/2sMcA</guid>
+            <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[호반그룹 사주 일가 배임 의혹과 의문의 서명]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/28100746-72E8-C2C0-5174-HQV5AD8F7DGN26Z1T7CP.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감사원, 특활비 집행계획서 '전면 비공개'... 유병호 등 고위직 집행 적절성 의문]]></title>
             <link>http://newstapa.org/article/KGMJ8</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공수처, 특검에 채해병 사건 넘기며 '송창진 위증' 쏙 뺐다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/17130009-4E66-F3E6-99FC-7AQD4RB6QVOO8CB3WIFZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감사원을 '감사'하다 ④ "기사 짜깁기해도 받는다"... '직원 포상금'으로 쓰인 특활비]]></title>
-            <link>http://newstapa.org/article/5GMy_</link>
-            <guid>http://newstapa.org/article/5GMy_</guid>
-            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[감사원을 '감사'하다 ④ "기사 짜깁기해도 받는다"... '직원 포상금'으로 쓰인 특활비]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/17110523-FC6E-2015-5FA7-GR579E3F0INJ58M07J4H.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
