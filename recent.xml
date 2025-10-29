@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Oct 2025 05:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Oct 2025 06:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이태원 참사' 3주기... 다시 만난 '진실버스' 유가족]]></title>
+            <link>http://newstapa.org/article/HDlKG</link>
+            <guid>http://newstapa.org/article/HDlKG</guid>
+            <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['이태원 참사' 3주기... 다시 만난 '진실버스' 유가족]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/29120027-D2AC-03BE-0D51-P7YSSHLBXXF1IO397NNV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감사원을 감사하다 ⑤ 특활비로 '연말 포상금' 살포...10원까지 떨어 썼다]]></title>
             <link>http://newstapa.org/article/E8bEd</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화]이재명 정부, 청정수소발전 입찰 전격 중단...지난해 물량도 기간 단축 검토]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/20171919-C595-8B87-D2FB-L44SHUBQ8RMCGJFNVMMU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] '정부 감시자' 감사원의 민낯, 특수 활동 없어도 '특활비 포상' 뿌렸다]]></title>
-            <link>http://newstapa.org/article/dHUrc</link>
-            <guid>http://newstapa.org/article/dHUrc</guid>
-            <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] '정부 감시자' 감사원의 민낯, 특수 활동 없어도 '특활비 포상' 뿌렸다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/20112856-B473-D039-0F9A-4OEU2MMKR02WR6DVR7DT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
