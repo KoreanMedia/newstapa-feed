@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-10-31T04:27:17.925Z</updated>
+    <updated>2025-10-31T05:25:32.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/fc30047/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“김만배의 언론작업? 기억 없는데...” 정민용 진술 번복]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/111243281</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/111243281"/>
+        <updated>2025-10-31T05:25:23.620Z</updated>
+        <content type="html"><![CDATA[지난 28일 서울중앙지법에서 &lt;뉴스타파 v. 윤석열&gt; 사건, 이른바&nbsp;‘윤석열 명예훼손’&nbsp;사건 제15차 공판(재판장 백대현)이 진행됐습니다. 정민용 전 성남도시개발공사 전략사업실장(변호사)이 검찰 측 증인으로 나왔습니다.&nbsp;<br><br>정민용은 이날 재판에서&nbsp;‘대장동 사건’,&nbsp;‘윤석열 명예훼손’ 사건 관련 자신의 검찰 진술 내용을 상당부분 뒤집었습니다.&nbsp;“기억이 없다”, “남욱(대장동업자)과 유동규(전 성남도시개발공사 기획본부장)의 말을 듣고 기억이 분명하지 않은 진술을 했다”, “하지 않은 말이 조서에 적혔다”는 취지의 주장을 쏟아냈습니다. 정민용의 검찰 진술 내용이 오염됐을 가능성을 지적하는 주장도 제기돼 논란이 벌어졌습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/MmbzK</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['무증빙' '전액 현금'… 이재명 수사 검사의 특활비 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/111233519</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/111157563"/>
         <updated>2025-10-23T05:22:16.329Z</updated>
         <content type="html"><![CDATA[심우정 전 검찰총장이 기밀 범죄 정보 수집과 수사에 쓰도록 돼 있는 특수활동비를 명절을 앞두고 부하 검사들에게 떡값처럼 나눠줬다는 의혹이 '먹칠 없는' 특수활동비 자료를 통해 사실로 확인됐습니다.<br><br>심 전 총장은 검찰총장 국회 인사청문회 당시 검찰의 특수활동비 부정 사용, 오남용 의혹을 전면 부인한 바 있습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/av-UhamzWYE</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/VGxTU</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심우정, 서울동부지검장 때 특활비 총액의 15% '셀프 수령']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/111157557</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/111157557"/>
-        <updated>2025-10-23T05:22:16.331Z</updated>
-        <content type="html"><![CDATA[심우정 전 검찰총장이 서울동부지검장 재임 중 서울동부지검 특수활동비 총액의 무려 15%를 자신에게 '셀프 지급'한 것으로 확인됐습니다. 당시 서울동부지검의 일선 수사 인력은 약 100명.&nbsp;검찰이 특수활동비를 특수활동에 쓰고 있다면, 지검장 혼자서 지검 전체 특수활동비의 15%를 쓰는 일이 가능할까요?<br><br>심 전 총장 한 명만 이런 게 아니었습니다. '먹칠 없는' 서울동부지검의 특수활동비 자료를 전수 검증한 결과, 지검 특수활동비 총액의 10%를 넘는 돈을 셀프 지급으로 가져간 지검장은 최소 3명(이수권, 김관정, 심우정)이었습니다.&nbsp;검찰 특수활동비가 지검장 등 일부 고위 검사의 '쌈짓돈'으로 쓰이고 있다는 얘기입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/YM3oxHMZjIw</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/9dOSv</span>]]></content>
     </entry>
 </feed>
