@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Nov 2025 06:35:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Nov 2025 07:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현역 동작구의원, 지역 주민 상대로 수차례 성희롱 의혹]]></title>
+            <link>http://newstapa.org/article/VKgCF</link>
+            <guid>http://newstapa.org/article/VKgCF</guid>
+            <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[현역 동작구의원, 지역 주민 상대로 수차례 성희롱 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/03124648-6B2A-0740-F28C-QNAPYTFN8V3S79WCNT2E.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 검찰의 ATM이 된 특활비... 검사장 비서까지 챙겼다]]></title>
             <link>http://newstapa.org/article/FGl6f</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[호반그룹 사주 일가 배임 의혹과 의문의 서명]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/28100746-72E8-C2C0-5174-HQV5AD8F7DGN26Z1T7CP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감사원, 특활비 집행계획서 '전면 비공개'... 유병호 등 고위직 집행 적절성 의문]]></title>
-            <link>http://newstapa.org/article/KGMJ8</link>
-            <guid>http://newstapa.org/article/KGMJ8</guid>
-            <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[감사원, 특활비 집행계획서 '전면 비공개'... 유병호 등 고위직 집행 적절성 의문]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/27165843-9D33-C2AD-C437-XYIO18BQSXLS4A83NKKR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
