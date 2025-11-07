@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Nov 2025 08:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 09:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성상헌 검찰국장 '무증빙 현금' 특활비 800만 원 확인]]></title>
+            <link>http://newstapa.org/article/tUS_u</link>
+            <guid>http://newstapa.org/article/tUS_u</guid>
+            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[성상헌 검찰국장 '무증빙 현금' 특활비 800만 원 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/07111138-4808-A924-F145-2L9WE16ZE67RLIG1GT8Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['무증빙 현금' 특활비 부장검사 12명, 이재명 정부서 승진·영전]]></title>
+            <link>http://newstapa.org/article/onlwJ</link>
+            <guid>http://newstapa.org/article/onlwJ</guid>
+            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['무증빙 현금' 특활비 부장검사 12명, 이재명 정부서 승진·영전]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/07111051-184C-4170-8EF5-1EX0P9P4CCZZ69O0C9RK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감사원을 ‘감사’하다 ⑦ 유병호 등 감사원 간부들 고액 ‘쪼개기’ 결제 관행 포착]]></title>
             <link>http://newstapa.org/article/8b8zO</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[특활비로 '격려금', '위로금'... 이재명 대통령실, 예산 오남용 정황]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26150255-4401-EBE7-7F29-1BIHIW3K52Q7ON1PG7LR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울동부지검은 '특활비 공개' 결정했는데, 실무자는 "바빠서 못 준다"]]></title>
-            <link>http://newstapa.org/article/opwTl</link>
-            <guid>http://newstapa.org/article/opwTl</guid>
-            <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[서울동부지검은 '특활비 공개' 결정했는데, 실무자는 "바빠서 못 준다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/29093533-12C4-CF2C-4E8C-SCY5B7QA582HLYE6E79S.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실]]></title>
-            <link>http://newstapa.org/article/iz_a3</link>
-            <guid>http://newstapa.org/article/iz_a3</guid>
-            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대통령 특활비 첫 공개… 법원 결정 무시한 이재명 대통령실]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/25175438-0D9C-FD85-E5CB-2VT0KIUGRQH20VDOW34W.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
