@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Nov 2025 09:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 10:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명 정부 4대강 재자연화, 의지는 있는데 예산은 없다]]></title>
+            <link>http://newstapa.org/article/D1ISk</link>
+            <guid>http://newstapa.org/article/D1ISk</guid>
+            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 정부 4대강 재자연화, 의지는 있는데 예산은 없다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/07185348-33C9-1B05-B589-YAR88KLD0IW4PO4WFDOM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성상헌 검찰국장 '무증빙 현금' 특활비 800만 원 확인]]></title>
             <link>http://newstapa.org/article/tUS_u</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부가 덮은 '한학자 해외 원정 도박' 물증 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/29182611-8C6C-D145-798A-1VGPL39LY9F5T7WXJZ45.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감사원을 감사하다 ⑤ 특활비로 '연말 포상금' 살포...10원까지 떨어 썼다]]></title>
-            <link>http://newstapa.org/article/E8bEd</link>
-            <guid>http://newstapa.org/article/E8bEd</guid>
-            <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[감사원을 감사하다 ⑤ 특활비로 '연말 포상금' 살포...10원까지 떨어 썼다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/28164337-B495-1100-E46A-QQW77FQWX9L3ROFNWECQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
