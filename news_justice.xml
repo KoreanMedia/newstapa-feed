@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Nov 2025 07:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Nov 2025 08:30:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김건희-삼부토건 연결 고리 첫 확인.... '쓰리원 주가조작' 공범 커넥션 의심]]></title>
+            <link>http://newstapa.org/article/lmpU7</link>
+            <guid>http://newstapa.org/article/lmpU7</guid>
+            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김건희-삼부토건 연결 고리 첫 확인.... '쓰리원 주가조작' 공범 커넥션 의심]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/14162947-5C9C-F158-1FCF-VLFQOPUX20ADE2BZ5AEJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파의 시선] 검찰 독립을 헌법은 용인하지 않는다]]></title>
             <link>http://newstapa.org/article/kRfcX</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['구명로비 의혹' 김장환 목사 통화기록 입체분석]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/02164949-1474-92D3-7A77-1HFL14WDLEOE1IE9BK31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명태균 사건 재판장, 면세점 팀장과 두 차례 해외여행 확인]]></title>
-            <link>http://newstapa.org/article/kQKrM</link>
-            <guid>http://newstapa.org/article/kQKrM</guid>
-            <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[명태균 사건 재판장, 면세점 팀장과 두 차례 해외여행 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/01112412-822F-ED4F-182F-9HKTQG0RK02KAFGMK5CB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 종교</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Nov 2025 07:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Nov 2025 08:30:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["패물 팔아 헌금"... 일본 따라가는 '통일교 정치자금']]></title>
+            <link>http://newstapa.org/article/46K1J</link>
+            <guid>http://newstapa.org/article/46K1J</guid>
+            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["패물 팔아 헌금"... 일본 따라가는 '통일교 정치자금']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/14172102-37B7-B56D-A042-CIDX31E0W2ZUD3EDQ69E.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['한학자 구속되던 날' 통일교 집단 기도회 잠입 영상]]></title>
             <link>http://newstapa.org/article/B1-Ci</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[박문서 전 신부, 배임수재 등 혐의로 또 검찰 고발돼]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/06/561c91f831e4b69e36dbf59f23d28788631539ffe2cefb8dd5849c89d108f27cd760e2ecc2fe351ba3890a854c58c7cdf1314b90fdf2da0ab8eadc0ba4c7c3b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국제성모병원, 박문서 전 부원장 신부 검찰에 수사의뢰]]></title>
-            <link>http://newstapa.org/article/aTcTR</link>
-            <guid>http://newstapa.org/article/aTcTR</guid>
-            <pubDate>Mon, 02 Apr 2018 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국제성모병원, 박문서 전 부원장 신부 검찰에 수사의뢰]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/04/03768f24d0c65451121542cc982c8ff2b778eca9b7aa238bb40b9df6071737af36285b9af3f52dcbac4102afda16003221e5c9e220f3ad2aea5a933eddfb4d3a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
