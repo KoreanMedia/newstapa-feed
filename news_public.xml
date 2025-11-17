@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Nov 2025 07:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Nov 2025 08:33:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“아무 사건 번호나 적는다” 현직 검사의 특활비 부정 사용 증언]]></title>
+            <link>http://newstapa.org/article/4YX11</link>
+            <guid>http://newstapa.org/article/4YX11</guid>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“아무 사건 번호나 적는다” 현직 검사의 특활비 부정 사용 증언]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/17164340-6E22-60C7-9DB8-ZLD6YYPF73ZNYOWFJLBB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] '댓글 여론 조작' 혐의 리박스쿨 대표 검찰로... 뉴스타파 보도 6개월 만]]></title>
             <link>http://newstapa.org/article/d6c1o</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['윤석열-통일교 유착' 특검 공소장 총정리]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/31154653-3F8A-C712-3793-SVRF4LIOE3CLD1LSC3DD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뉴스타파 v. 윤석열> “김만배의 언론작업? 기억 없는데...” 정민용 진술 번복]]></title>
-            <link>http://newstapa.org/article/MmbzK</link>
-            <guid>http://newstapa.org/article/MmbzK</guid>
-            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; “김만배의 언론작업? 기억 없는데...” 정민용 진술 번복]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/31131340-00F0-27BE-3940-5DISPNZU995Q81MYVXU7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

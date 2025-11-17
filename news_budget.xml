@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Nov 2025 07:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Nov 2025 08:33:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“아무 사건 번호나 적는다” 현직 검사의 특활비 부정 사용 증언]]></title>
+            <link>http://newstapa.org/article/4YX11</link>
+            <guid>http://newstapa.org/article/4YX11</guid>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“아무 사건 번호나 적는다” 현직 검사의 특활비 부정 사용 증언]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/17164340-6E22-60C7-9DB8-ZLD6YYPF73ZNYOWFJLBB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 항소 포기엔 '검란', 특활비 떡값엔 침묵? 검찰의 '선택적 정의']]></title>
             <link>http://newstapa.org/article/fb43n</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[4년 6개월의 추적... '먹칠 없는' 검찰 특활비 자료 최초 확보]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/20171551-E70E-AB11-1CAC-H1IDVX6Y75KA7ZTBYY88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] '정부 감시자' 감사원의 민낯, 특수 활동 없어도 '특활비 포상' 뿌렸다]]></title>
-            <link>http://newstapa.org/article/dHUrc</link>
-            <guid>http://newstapa.org/article/dHUrc</guid>
-            <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] '정부 감시자' 감사원의 민낯, 특수 활동 없어도 '특활비 포상' 뿌렸다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/20112856-B473-D039-0F9A-4OEU2MMKR02WR6DVR7DT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
