@@ -4,15 +4,23 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Nov 2025 04:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Nov 2025 05:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[얼굴, 얼굴들]]></title>
+            <link>https://v.daum.net/v/20251118140138215</link>
+            <guid>https://v.daum.net/v/20251118140138215</guid>
+            <pubDate>Tue, 18 Nov 2025 05:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251118140138215" class="link_column"><div class="cont_thumb"><strong class="tit_txt">얼굴, 얼굴들</strong><span class="info_txt"><span class="txt_info">21분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F18%2Fnewstapa%2F20251118140147121ylei.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F18%2Fnewstapa%2F20251118140147121ylei.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[“아무 사건 번호나 적는다” 현직 검사의 특활비 부정 사용 증언]]></title>
             <link>https://v.daum.net/v/20251117165138639</link>
             <guid>https://v.daum.net/v/20251117165138639</guid>
             <pubDate>Mon, 17 Nov 2025 08:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251117165138639" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“아무 사건 번호나 적는다” 현직 검사의 특활비 부정 사용 증언</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F17%2Fnewstapa%2F20251117170016393rzxk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251117165138639" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“아무 사건 번호나 적는다” 현직 검사의 특활비 부정 사용 증언</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F17%2Fnewstapa%2F20251117170016393rzxk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F17%2Fnewstapa%2F20251117170016393rzxk.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -237,14 +245,6 @@
             <pubDate>Wed, 29 Oct 2025 09:25:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251029181138646" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 한화오션 '470억 손배소' 취하가 진정성을 가지려면</strong><span class="info_txt"><span class="txt_info">2025. 10. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F29%2Fnewstapa%2F20251029182940327aaur.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F29%2Fnewstapa%2F20251029182940327aaur.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA['이태원 참사' 3주기... 다시 만난 '진실버스' 유가족]]></title>
-            <link>https://v.daum.net/v/20251029150140502</link>
-            <guid>https://v.daum.net/v/20251029150140502</guid>
-            <pubDate>Wed, 29 Oct 2025 06:34:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251029150140502" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'이태원 참사' 3주기... 다시 만난 '진실버스' 유가족</strong><span class="info_txt"><span class="txt_info">2025. 10. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F29%2Fnewstapa%2F20251029150144344bqaf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F29%2Fnewstapa%2F20251029150144344bqaf.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

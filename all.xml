@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Nov 2025 04:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Nov 2025 05:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[얼굴, 얼굴들 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/rDq1d</link>
+            <guid>http://newstapa.org/article/rDq1d</guid>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴, 얼굴들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/18135941-2C63-0F16-0E4A-LY4BCOA9A4HM44TU1VY3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“아무 사건 번호나 적는다” 현직 검사의 특활비 부정 사용 증언 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/4YX11</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] '허위 증빙'과 '쪼개기 결제' 감사원의 세금 사용법]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/06165219-2002-9D10-B3C3-VGXAIJLEQ74HRK74RKX3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감사원을 ‘감사’하다 ⑥ 국정감사날에도 현장조사했다는 감사위원...업추비·특경비 용도 허위 기재 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/3NKVw</link>
-            <guid>http://newstapa.org/article/3NKVw</guid>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[감사원을 ‘감사’하다 ⑥ 국정감사날에도 현장조사했다는 감사위원...업추비·특경비 용도 허위 기재]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/06113913-73B0-795E-3799-87CVG37SYZKWO7ZWISLT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“아무 사건 번호나 적는다” 현직 검사의 특활비 부정 사용 증언 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/31154653-3F8A-C712-3793-SVRF4LIOE3CLD1LSC3DD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[얼굴, 얼굴들 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/rDq1d</link>
+            <guid>http://newstapa.org/article/rDq1d</guid>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴, 얼굴들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/18135941-2C63-0F16-0E4A-LY4BCOA9A4HM44TU1VY3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김건희-삼부토건 연결 고리 첫 확인.... '쓰리원 주가조작' 공범 커넥션 의심 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/lmpU7</link>
             <guid>http://newstapa.org/article/lmpU7</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[난중칼럼] 조희대의 오래된 약속은 지귀연에게만 지켜지나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/02184751-80D2-DDD2-7105-AME1V7G32PVQJYSOVGCR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['구명로비 의혹' 김장환 목사 통화기록 입체분석 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/ODGae</link>
-            <guid>http://newstapa.org/article/ODGae</guid>
-            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['구명로비 의혹' 김장환 목사 통화기록 입체분석]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/02164949-1474-92D3-7A77-1HFL14WDLEOE1IE9BK31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“아무 사건 번호나 적는다” 현직 검사의 특활비 부정 사용 증언 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/03150058-53B5-17D4-0D8E-W1I449ILZGTZ97F8GQCS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[얼굴, 얼굴들 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/rDq1d</link>
+            <guid>http://newstapa.org/article/rDq1d</guid>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴, 얼굴들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/18135941-2C63-0F16-0E4A-LY4BCOA9A4HM44TU1VY3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[반론보도]「'일제 미화' 검정교과서 제작 문건 입수... 대한교조 참여 확인」기사 등 관련 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/jeELo</link>
             <guid>http://newstapa.org/article/jeELo</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김대중 증언록... 과거가 보낸 ‘내란 극복 해답지’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23112816-6444-0C57-D3BD-E4J8L5WJ3OPRJJZK3NHO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다큐 뉴스타파] <5·18 45주년 특집> 1980년 광주, 죽은 자가 살렸다 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/9gF24</link>
-            <guid>http://newstapa.org/article/9gF24</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다큐 뉴스타파] &lt;5·18 45주년 특집&gt; 1980년 광주, 죽은 자가 살렸다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23103338-47DF-6DEA-054F-FQQ0WJSTQ43H0K961D0Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 미프진과 빛의 혁명 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -3468,11 +3468,19 @@
             <content:encoded><![CDATA[세계평화통일가정연합(통일교)의 핵심 간부가 2022년 3월 대통령 당선인 신분이던 윤석열 씨를 독대한 자리에서 ‘아프리카에 대한 공적개발원조(ODA) 자금 확대’를 청탁한 것으로 드러났습니다. <br><br>청탁 내용 그대로 윤석열 정부의 ‘국정과제 이행계획서’와 우리 정부의 ODA 예산에 실제로 반영된 사실이 확인됐습니다. 윤석열 정부와 통일교 간 정교유착을 뒷받침하는 구체적인 물증이 드러난 건 이번이 처음입니다.<br><br>특정 종교가 국정에 영향을 미친 사상 초유의 정교유착 게이트의 단초를 뉴스타파, 그리고 새로 창간한 아시아 전문 탐사보도매체 '두니아'가 확인했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/-htwogzkNZI</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/iqPjf</span><br>👏 아시아 전문 탐사보도 매체 &lt;두니아&gt; 소개 영상 보러가기 :  <span class="link_url">https://youtu.be/eQrNmZuw76E</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[얼굴, 얼굴들 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20251118140138215</link>
+            <guid>https://v.daum.net/v/20251118140138215</guid>
+            <pubDate>Tue, 18 Nov 2025 05:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251118140138215" class="link_column"><div class="cont_thumb"><strong class="tit_txt">얼굴, 얼굴들</strong><span class="info_txt"><span class="txt_info">21분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F18%2Fnewstapa%2F20251118140147121ylei.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F18%2Fnewstapa%2F20251118140147121ylei.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[“아무 사건 번호나 적는다” 현직 검사의 특활비 부정 사용 증언 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20251117165138639</link>
             <guid>https://v.daum.net/v/20251117165138639</guid>
             <pubDate>Mon, 17 Nov 2025 08:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251117165138639" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“아무 사건 번호나 적는다” 현직 검사의 특활비 부정 사용 증언</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F17%2Fnewstapa%2F20251117170016393rzxk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251117165138639" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“아무 사건 번호나 적는다” 현직 검사의 특활비 부정 사용 증언</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F17%2Fnewstapa%2F20251117170016393rzxk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F17%2Fnewstapa%2F20251117170016393rzxk.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3697,14 +3705,6 @@
             <pubDate>Wed, 29 Oct 2025 09:25:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251029181138646" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 한화오션 '470억 손배소' 취하가 진정성을 가지려면</strong><span class="info_txt"><span class="txt_info">2025. 10. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F29%2Fnewstapa%2F20251029182940327aaur.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F29%2Fnewstapa%2F20251029182940327aaur.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA['이태원 참사' 3주기... 다시 만난 '진실버스' 유가족 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20251029150140502</link>
-            <guid>https://v.daum.net/v/20251029150140502</guid>
-            <pubDate>Wed, 29 Oct 2025 06:34:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251029150140502" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'이태원 참사' 3주기... 다시 만난 '진실버스' 유가족</strong><span class="info_txt"><span class="txt_info">2025. 10. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F29%2Fnewstapa%2F20251029150144344bqaf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202510%2F29%2Fnewstapa%2F20251029150144344bqaf.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
