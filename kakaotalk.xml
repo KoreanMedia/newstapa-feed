@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-11-18T05:23:24.999Z</updated>
+    <updated>2025-11-18T06:34:22.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/fc30047/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[얼굴, 얼굴들 〈뉴스타파 목격자들〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/111426368</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/111426368"/>
+        <updated>2025-11-18T06:34:13.580Z</updated>
+        <content type="html"><![CDATA[〈목격자들〉은 독립 다큐멘터리 창작자들과 뉴스타파가 함께 제작합니다. 2015년 4월 〈세월호 1주년 기획 - 수색 중단, 그날의 기록〉을 시작으로 지금까지 인권, 노동, 경제, 생태, 역사 등 폭넓은 주제를 다룬 200여 편의 다큐멘터리를 제작해 공개했습니다. 권력과 자본의 영향에 취약한 미디어환경에서 기존 언론이 외면하거나 다루기 어려운 사회적 의제와 이슈를 충실히 기록하고 시민들과 공유하는 것이 뉴스타파 〈목격자들〉의 사명이라 믿습니다.<br><br>〈얼굴, 얼굴들〉은 1989년 의문사한 이내창 열사의 주변인들의 지난 30여년 삶을 다룬 다큐멘터리이자  〈안경, 안경들〉의 스핀오프 작품입니다. 장편 영화 〈안경, 안경들〉은 오는 2026년 공개될 예정입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/qRrqa0yiDas</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["아무 사건 번호나 적는다" 현직 검사의 특활비 부정사용 증언]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/111417463</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/111328127"/>
         <updated>2025-11-16T13:27:06.224Z</updated>
         <content type="html"><![CDATA[2020년부터 2024년 사이 서울동부지검 부장검사로 재직하며 '무증빙 현금' 특수활동비(특활비)를 가져간 47명 중 12명이 이재명 정부 출범 이후 검사장, 차장검사로 승진하거나 요직으로 자리를 옮긴 사실이 확인됐습니다.<br><br>이들 12명이 현금 영수증 등 구체적인 증빙자료를 남기지 않은 채 현금으로 가져간 특활비는 4,200여만 원입니다. 일반적으로 공직자가 국가 예산을 현금으로 가져간 뒤 아무런 증빙을 남기지 않으면 승진·영전 대신 횡령 등 예산 범죄 혐의로 감사나 수사를 받습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/onlwJ</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부의 아프리카 ODA... 통일교 청탁대로 대폭 증액 확인]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/111327256</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/111327256"/>
-        <updated>2025-11-16T13:27:06.226Z</updated>
-        <content type="html"><![CDATA[세계평화통일가정연합(통일교)의 핵심 간부가 2022년 3월 대통령 당선인 신분이던 윤석열 씨를 독대한 자리에서 ‘아프리카에 대한 공적개발원조(ODA) 자금 확대’를 청탁한 것으로 드러났습니다. <br><br>청탁 내용 그대로 윤석열 정부의 ‘국정과제 이행계획서’와 우리 정부의 ODA 예산에 실제로 반영된 사실이 확인됐습니다. 윤석열 정부와 통일교 간 정교유착을 뒷받침하는 구체적인 물증이 드러난 건 이번이 처음입니다.<br><br>특정 종교가 국정에 영향을 미친 사상 초유의 정교유착 게이트의 단초를 뉴스타파, 그리고 새로 창간한 아시아 전문 탐사보도매체 '두니아'가 확인했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/-htwogzkNZI</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/iqPjf</span><br>👏 아시아 전문 탐사보도 매체 &lt;두니아&gt; 소개 영상 보러가기 :  <span class="link_url">https://youtu.be/eQrNmZuw76E</span>]]></content>
     </entry>
 </feed>
