@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Nov 2025 08:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Nov 2025 09:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국제범죄조직 돈세탁 통로된 세계 최대 코인거래소]]></title>
+            <link>http://newstapa.org/article/7ceHc</link>
+            <guid>http://newstapa.org/article/7ceHc</guid>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국제범죄조직 돈세탁 통로된 세계 최대 코인거래소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/18144450-0FA9-FDD4-789B-H7XGINKU5LC2WSNRBT4H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 코인거래소, 캄보디아 스캠 사기단 등 돈세탁 통로]]></title>
+            <link>http://newstapa.org/article/AthUW</link>
+            <guid>http://newstapa.org/article/AthUW</guid>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코인거래소, 캄보디아 스캠 사기단 등 돈세탁 통로]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/18144349-8803-47AB-F5C3-YAFY4U2X2SLX308PHMNO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[규제와 감시를 벗어난 가상자산 거래소]]></title>
+            <link>http://newstapa.org/article/9FFjw</link>
+            <guid>http://newstapa.org/article/9FFjw</guid>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[규제와 감시를 벗어난 가상자산 거래소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/18173822-802B-0CAD-3DDF-5JTOIMXH5705ATZFMUEA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[얼굴, 얼굴들]]></title>
             <link>http://newstapa.org/article/rDq1d</link>
@@ -110,30 +134,6 @@
             <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['무증빙 현금' 특활비 부장검사 12명, 이재명 정부서 승진·영전]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/07111051-184C-4170-8EF5-1EX0P9P4CCZZ69O0C9RK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부의 아프리카 ODA... 통일교 청탁대로 대폭 증액 확인]]></title>
-            <link>http://newstapa.org/article/iqPjf</link>
-            <guid>http://newstapa.org/article/iqPjf</guid>
-            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부의 아프리카 ODA... 통일교 청탁대로 대폭 증액 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/07170819-3933-78FD-EA61-EF4FPFFCI3B3E5HMA8S1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 검사장의 특활비 횡령, 누가 수사해야 할까]]></title>
-            <link>http://newstapa.org/article/nIT-L</link>
-            <guid>http://newstapa.org/article/nIT-L</guid>
-            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파의 시선] 검사장의 특활비 횡령, 누가 수사해야 할까]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/07165409-A7ED-979C-4C33-1CWLS1FO011UDPIEYWOW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '허위 증빙'과 '쪼개기 결제' 감사원의 세금 사용법]]></title>
-            <link>http://newstapa.org/article/k-OEj</link>
-            <guid>http://newstapa.org/article/k-OEj</guid>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] '허위 증빙'과 '쪼개기 결제' 감사원의 세금 사용법]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/06165219-2002-9D10-B3C3-VGXAIJLEQ74HRK74RKX3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
