@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Nov 2025 07:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Nov 2025 08:31:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['무증빙 현금' 특활비 권하는 '검찰 자체 지침']]></title>
+            <link>http://newstapa.org/article/dTTcs</link>
+            <guid>http://newstapa.org/article/dTTcs</guid>
+            <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['무증빙 현금' 특활비 권하는 '검찰 자체 지침']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/20163149-9F0F-2CF8-F23C-X6KNW41SBKJPWLBD2S0V.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파의 시선] 법이라는 가위를 든 엿장수 : 3대 특검 영장 기각 논란]]></title>
             <link>http://newstapa.org/article/fTK-Y</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;추적&gt; 제작진, ‘2025 세상을 밝게 만든 사람들’ 환경부문 수상]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/12160357-E835-E31B-BDD0-EJ9JM7CPYIQ4LW5AHZFS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 감사원의 '내로남불' 세금 파티... 망가진 내부 통제 시스템]]></title>
-            <link>http://newstapa.org/article/lSv3X</link>
-            <guid>http://newstapa.org/article/lSv3X</guid>
-            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 감사원의 '내로남불' 세금 파티... 망가진 내부 통제 시스템]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/10145244-8AC0-3939-A03A-AEXWML3E45TSX6PE46R6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
