@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Nov 2025 04:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 05:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[법정서 드러난 김건희의 '선수' 생활..."주식 몰랐다" 검찰의 새빨간 거짓말]]></title>
+            <link>http://newstapa.org/article/SSsIj</link>
+            <guid>http://newstapa.org/article/SSsIj</guid>
+            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법정서 드러난 김건희의 '선수' 생활..."주식 몰랐다" 검찰의 새빨간 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/25134913-2588-DB5E-1FE1-F23LLKEVKK1WM6IW8WTM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감사원을 '감사'하다 ⑨ 한우·킹크랩·참치... 감사원도 연말 '업무추진비 몰아 쓰기']]></title>
             <link>http://newstapa.org/article/ILD6w</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["패물 팔아 헌금"... 일본 따라가는 '통일교 정치자금']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/17111836-2C38-69AD-7672-W1SJB4TYOM9ULGKA103A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희-삼부토건 연결 고리 첫 확인.... '쓰리원 주가조작' 공범 커넥션 의심]]></title>
-            <link>http://newstapa.org/article/lmpU7</link>
-            <guid>http://newstapa.org/article/lmpU7</guid>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희-삼부토건 연결 고리 첫 확인.... '쓰리원 주가조작' 공범 커넥션 의심]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/17111730-2F9F-9537-AC9A-QZUP48PI0Z4HOS0W18UP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

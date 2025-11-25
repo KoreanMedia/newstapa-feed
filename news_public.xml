@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Nov 2025 04:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 05:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[법정서 드러난 김건희의 '선수' 생활..."주식 몰랐다" 검찰의 새빨간 거짓말]]></title>
+            <link>http://newstapa.org/article/SSsIj</link>
+            <guid>http://newstapa.org/article/SSsIj</guid>
+            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법정서 드러난 김건희의 '선수' 생활..."주식 몰랐다" 검찰의 새빨간 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/25134913-2588-DB5E-1FE1-F23LLKEVKK1WM6IW8WTM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감사원을 '감사'하다 ⑨ 한우·킹크랩·참치... 감사원도 연말 '업무추진비 몰아 쓰기']]></title>
             <link>http://newstapa.org/article/ILD6w</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부의 아프리카 ODA... 통일교 청탁대로 대폭 증액 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/07170819-3933-78FD-EA61-EF4FPFFCI3B3E5HMA8S1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 검사장의 특활비 횡령, 누가 수사해야 할까]]></title>
-            <link>http://newstapa.org/article/nIT-L</link>
-            <guid>http://newstapa.org/article/nIT-L</guid>
-            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파의 시선] 검사장의 특활비 횡령, 누가 수사해야 할까]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/07165409-A7ED-979C-4C33-1CWLS1FO011UDPIEYWOW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Nov 2025 04:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 05:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[법정서 드러난 김건희의 '선수' 생활..."주식 몰랐다" 검찰의 새빨간 거짓말]]></title>
+            <link>http://newstapa.org/article/SSsIj</link>
+            <guid>http://newstapa.org/article/SSsIj</guid>
+            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법정서 드러난 김건희의 '선수' 생활..."주식 몰랐다" 검찰의 새빨간 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/25134913-2588-DB5E-1FE1-F23LLKEVKK1WM6IW8WTM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 국회 난동범도 벌금형? 지연되고 훼손된 정의]]></title>
             <link>http://newstapa.org/article/bSXRA</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 서부지법 폭동 재판②: 1차 침입...후문에서 7층까지]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14133754-D4FE-DFB5-7377-C3JLVYHE54G03FJAEMO1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 서부지법 폭동 재판① : 법원을 공격하다]]></title>
-            <link>http://newstapa.org/article/MkkMN</link>
-            <guid>http://newstapa.org/article/MkkMN</guid>
-            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 서부지법 폭동 재판① : 법원을 공격하다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14103508-222E-1D84-7BDF-202644FJA2Q0J0ORV8R3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-11-25T04:29:57.435Z</updated>
+    <updated>2025-11-25T05:24:28.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/026f9e9/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[법정서 드러난 김건희의 '선수' 생활..."주식 몰랐다" 검찰의 새빨간 거짓말]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/111495079</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/111495079"/>
+        <updated>2025-11-25T05:24:18.901Z</updated>
+        <content type="html"><![CDATA[지난해 윤석열 정부의 검찰은 김건희 씨에게 불기소 면죄부를 주면서 “김건희는 주식을 잘 모르는 사람”이라고 했습니다. <br><br>사실이 아니었습니다. 지난 주 재판에서 특검은 도이치모터스 주가조작 작전 시기 김건희 씨가 거래한 종목들을 공개했는데요, 김건희 씨는 그 시기 기존에 알려진 두 개 종목 외에도 추가로 3개의 작전 종목에 손을 대 적게는 수천만 원에서 많게는 수억 원의 시세 차익을 올렸습니다. 증권사 직원과의 대화를 보면 당시에도 미공개 정보를 이용하거나 ‘세력’과의 소통을 한 것으로 의심됩니다. <br><br>김건희 씨가 차명 계좌를 활용해 도이치모터스 주식을 사고 판 사실도 확인됐습니다. 도이치 사건 공범 이 모 씨와 나눈 대화 내용 중 ‘나는 돈을 대고 너는 기술을 댄다’는 내용이 공개되기도 했습니다. 어느 모로 보나, 김건희 씨는 ‘작전’에 익숙하고 거리낌이 없는 사람처럼 보입니다. <br><br>윤석열 정부의 검찰이 내린 말도 안되는 불기소 결정에 책임을 물어야 합니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/SSsIj</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 내란 1년, 사흘 간의 연속 강연 '비상, 비상']]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/111486926</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/111417463"/>
         <updated>2025-11-17T08:32:55.668Z</updated>
         <content type="html"><![CDATA[검사들이 국민 세금인 특수활동비를 '무증빙 현금'으로 가져가는 과정에서 유일하게 남기는 '수령 사유'마저 허위로 작성된 정황이 확인됐습니다. <br><br>뉴스타파는 한 현직 검사로부터 '무증빙 현금' 특수활동비 수령 사유가 허위 작성되는 구체적인 과정에 대한 증언도 확보했습니다. <br><br>허위 공문서 작성 혐의가 적용될 수 있는 대목으로, 대대적인 감사·수사가 필요하다는 지적이 나옵니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/Lp8Z5YMucCg</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/4YX11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[타파스] 항소 포기엔 '검란', 특활비 떡값엔 침묵? 검찰의 '선택적 정의']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/111413688</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/111413688"/>
-        <updated>2025-11-17T05:23:50.318Z</updated>
-        <content type="html"><![CDATA[지난 10일, 전국 지방검찰청장과 지청장 23명이 일명 '대장동 사건' 항소 포기에 대해 항의하는 성명을 냈습니다. 이 사태는 검사들의 반란, '검란'이라는 표현으로 불리고 있는데요.<br><br>그런데 뉴스타파 취재 결과, 이번 '검란'에 참여한 검사들 중 다수가 국민 세금을 부정하게 사용한 의혹이 있는 것으로 드러났습니다. 이번 주 '타파스'는 국민 세금을 허투루 쓴 검사들이 과연 공직자로서 기본 자질을 갖추고 있는지 살펴보겠습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/fb43n</span><br>📨 뉴스레터 타파스를 만나보세요 : <span class="link_url">https://newstapa-tapas.stibee.com/subscribe</span>]]></content>
     </entry>
 </feed>
