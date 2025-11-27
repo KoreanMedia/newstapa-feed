@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-11-27T07:24:21.605Z</updated>
+    <updated>2025-11-27T08:32:24.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/a603128/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<살아지구>를 응원해주세요!!]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/111523778</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/111523778"/>
+        <updated>2025-11-27T08:32:15.527Z</updated>
+        <content type="html"><![CDATA[지난 11월 5일 전남 여수 외딴 섬 거문도에서 4조 원대 해상풍력 환경영향평가 설명회가 열렸습니다.<br>&lt;살아지구&gt;는 기자 한 명만 거문도로 향했습니다. 원래 계획대로라면 두 명의 기자 모두 갔어야하지만 한 명만 갔습니다. 임병선 기자는 모두가 잠든 시간, 취재비를 마련하기 위해 음식물 쓰레기 수거일을 해야 했기 때문입니다.<br><br>그날 &lt;살아지구&gt; 외 어떤 언론도 거문도로 향하는 배에 타지 않았습니다. 주민들이 받아든 자료는 A4 한 장 뿐, 사업자는 촬영을 막았고 재무에 대한 질문엔 제대로 답하지 않았습니다. &lt;살아지구&gt;가 없었다면 그날은 기록되지 않았을 것입니다.<br><br>현장에 답이 있습니다. 자연을 출입처로 삼는 언론은 오직 &lt;살아지구&gt; 뿐입니다.<br><br>지금 &lt;살아지구&gt;의 정기후원자는 37명입니다. 한 분 한 분 모두 고맙습니다. 하지만 올해가 지나면 또 한 명의 기자가 생계를 위해 다른 일을 시작해야 할지 모릅니다.<br><br>정기후원자 500명이면 기자 두 명이 언제든 현장으로 달려갈 수 있습니다. 치열한 기사로 보답하겠습니다. 살아지구의 주춧돌이 되어 주세요.<br><br>😊살아지구 후원하기 <span class="link_url">https://disappearth.org/1anni_donation_campaign</span>/<br>🌏살아지구 기사보기 <span class="link_url">https://disappearth.org/eia/</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['구마적'도 두려웠던 1년 전 그날 밤, 당신의 기억은?]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/111522910</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/111430455"/>
         <updated>2025-11-18T09:26:08.626Z</updated>
         <content type="html"><![CDATA[마약상, 동남아시아 스캠(사기) 조직, 북한 해커그룹 등 국제 범죄조직들이 범죄수익을 주요 글로벌 가상자산 거래소를 통해 세탁해 온 사실이 국제탐사보도언론인협회(ICIJ) 취재 결과 확인됐습니다. <br><br>바이낸스, OKX 등 세계 최대 규모 가상자산 기업들은 범죄와 연관된 ‘지하경제’에 기여하면서 사기나 절도로 갈취한 자금을 유통시켰고, 그 대가로 수수료 수익을 챙겼습니다.<br><br>ICIJ 국제협업 프로젝트 '코인 세탁소'(The Coin Laundry)에는 미국 뉴욕타임스, 프랑스 르몽드, 독일 쥐트도이체차이퉁 등 35개국 37개 파트너 언론사가 참여했습니다. 한국에선 뉴스타파가 참여했습니다. <br><br>자세한 내용은 기사를 확인해주세요.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/UYrM6MzUahQ</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/7ceHc</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 코인거래소, 캄보디아 스캠 사기단 등 돈세탁 통로]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/111430451</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/111430451"/>
-        <updated>2025-11-18T09:26:08.626Z</updated>
-        <content type="html"><![CDATA[뉴스타파는 ICIJ와의 협업 프로젝트 '코인 세탁소' 취재 과정에서, 국내 피해자를 양산한 캄보디아 온라인 스캠 조직 중 한 곳이 범죄수익과 연관된 것으로 추정되는 자금을 바이낸스와 제3의 가상자산 거래소를 통해 세탁한 사실을 확인했습니다. <br><br>이러한 자금세탁 과정에 업비트, 빗썸, 코인원 등과 같은 국내 가상자산 거래소가 자금 출처를 감추기 위한 ‘중간 관문’이나 출금을 위한 ‘종착지’로 활용된 사실도 새롭게 확인됐습니다. <br><br>국경을 넘나드는 범죄조직의 자금 세탁을 막기 위해 가상화폐 거래시 고객확인절차(KYC) 등을 강화해야 한다는 지적이 나오는 이유입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/AthUW</span>]]></content>
     </entry>
 </feed>
