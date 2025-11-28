@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Nov 2025 04:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Nov 2025 05:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가?]]></title>
+            <link>http://newstapa.org/article/WVyef</link>
+            <guid>http://newstapa.org/article/WVyef</guid>
+            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/28134217-B708-28EF-9C5F-HXDHBNK4PP5RW4KTW9UD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[법정서 드러난 김건희의 '선수' 생활..."주식 몰랐다" 검찰의 새빨간 거짓말]]></title>
             <link>http://newstapa.org/article/SSsIj</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[임성근 전 사단장 인터뷰&amp;검증① “물에 들어가라는 지시 없었다?"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14162636-6CF9-2933-71B8-IYMWMLLEEK7RO3HKLK0L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 서부지법 폭동 재판②: 1차 침입...후문에서 7층까지]]></title>
-            <link>http://newstapa.org/article/g8-IG</link>
-            <guid>http://newstapa.org/article/g8-IG</guid>
-            <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 서부지법 폭동 재판②: 1차 침입...후문에서 7층까지]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14133754-D4FE-DFB5-7377-C3JLVYHE54G03FJAEMO1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

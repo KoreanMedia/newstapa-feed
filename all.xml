@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Nov 2025 04:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Nov 2025 05:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가? (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/WVyef</link>
+            <guid>http://newstapa.org/article/WVyef</guid>
+            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/28134217-B708-28EF-9C5F-HXDHBNK4PP5RW4KTW9UD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국민의힘, 장애인고용 의무 어겨 부담금 2,978만 원 납부 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/b2mpH</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 항소 포기엔 '검란', 특활비 떡값엔 침묵? 검찰의 '선택적 정의']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/17132006-88FB-770C-F7BE-A3H01C9FMW6U4JG3E4YW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] '댓글 여론 조작' 혐의 리박스쿨 대표 검찰로... 뉴스타파 보도 6개월 만 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/d6c1o</link>
-            <guid>http://newstapa.org/article/d6c1o</guid>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] '댓글 여론 조작' 혐의 리박스쿨 대표 검찰로... 뉴스타파 보도 6개월 만]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/14211838-D0CC-845F-7D4A-83ZQNWSWU7WXC3OGPPFJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국민의힘, 장애인고용 의무 어겨 부담금 2,978만 원 납부 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/07111051-184C-4170-8EF5-1EX0P9P4CCZZ69O0C9RK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가? (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/WVyef</link>
+            <guid>http://newstapa.org/article/WVyef</guid>
+            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/28134217-B708-28EF-9C5F-HXDHBNK4PP5RW4KTW9UD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[법정서 드러난 김건희의 '선수' 생활..."주식 몰랐다" 검찰의 새빨간 거짓말 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/SSsIj</link>
             <guid>http://newstapa.org/article/SSsIj</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[임성근 전 사단장 인터뷰&amp;검증① “물에 들어가라는 지시 없었다?"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14162636-6CF9-2933-71B8-IYMWMLLEEK7RO3HKLK0L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 서부지법 폭동 재판②: 1차 침입...후문에서 7층까지 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/g8-IG</link>
-            <guid>http://newstapa.org/article/g8-IG</guid>
-            <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 서부지법 폭동 재판②: 1차 침입...후문에서 7층까지]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14133754-D4FE-DFB5-7377-C3JLVYHE54G03FJAEMO1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['무증빙 현금' 특활비 권하는 '검찰 자체 지침' (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3328,6 +3328,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15154039-F0FF-A908-F97A-G9UEKOKOWZHLKVBCJED5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가? (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/111533344</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/111533344</guid>
+            <pubDate>Fri, 28 Nov 2025 05:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[3특검(내란특검, 김건희특검, 채해병특검)이 청구한 영장이 줄줄이 기각되면서 법원에 대한 비판이 제기됩니다. 판사들의 정치적 성향을 문제삼고, 법원의 조직적인 특검 무력화 의혹을 제기하는 목소리까지 나옵니다.  <br><br>특검을 꾸준히 취재해 온 조성식 전문위원이 논란의 실체를 따져봤습니다. 법원과 영장전담판사들이 정치적으로 편향된 판단을 했다고 보기는 어렵지만, 영장 발부의 기준과 원칙에 다소 문제가 있었다고 분석했습니다. 특히 상황에 따라 달라진 법원의 ‘증거 인멸’ 잣대는 심각한 문제라고 판단했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/WVyef</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[제2, 제3의 내란을 막으려면? (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/111524937</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/111524937</guid>
@@ -3461,11 +3468,12 @@
             <content:encoded><![CDATA[2025년 뉴스타파 '회원의밤' 행사가 오는 12월 17일 수요일 저녁 7시 개최됩니다. 뉴스타파는 매년 연말 회원들을 초대해 한 해 동안 있었던 일들을 공유하고, 회원들의 의견·목소리를 청취하고 있습니다.<br><br>올해 회원의밤 주제는 AI 시대에 만들어진 신조어 '근본이즘'입니다. 비영리 탐사보도 매체의 길을 걸어온 뉴스타파에게 이 신조어의 의미는 새롭게 다가왔습니다. 기술· 정치·사회의 변화가 수용자의 요구와 콘텐츠의 외피를 바꾸고 있지만, 뉴스타파는 언제나처럼 처음의 그 자리를 붙들어 지키려 합니다.<br><br>뉴스타파는 회원의밤 본 행사 개최에 앞서 '근본이즘'의 주제를 되새기는 특별한 온라인 공간을 준비했습니다. 회원·독자들이 자유롭게 참여하여 뉴스타파의 근본이 무엇인지 남길 수 있고, 직접 회원의밤 참여 신청을 할 수도 있습니다. 많은 관심과 참여 부탁드립니다.<br><br>👉 2025 뉴스타파 회원의밤 '근본이즘' 특별페이지 바로가기 : <span class="link_url">https://pages.newstapa.org/2025/night/</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[내란 1년, 당신의 이야기를 들려주세요! #비상비상 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/111438699</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/111438699</guid>
-            <pubDate>Wed, 19 Nov 2025 06:33:51 GMT</pubDate>
-            <content:encoded><![CDATA[[내란 1년, 당신의 이야기를 들려주세요! #비상비상]<br><br>보름 뒤면 초유의 비상계엄 사태가 벌어진지 꼭 일 년이 됩니다. 계엄 선포와 해제가 벌어진 12월 3일 충격의 밤, 여러분에게 이날의 기억은 어떻게 남았나요? 또 여의도와 안국동 거리에 서서 염원했던 내란 극복 이후의 세상은 어떤 모습이었나요? 댓글과 SNS 해시태그(#비상비상)로 여러분의 생각을 공유해 주세요. 남겨주신 메시지는 다음 주 수요일(11월 26일)부터 사흘간 방송되는 참여연대X뉴스타파 특별 라이브 &lt;비상, 비상&gt;에 활용될 예정입니다.<br><br>🎬'비상한' #비상비상 참여 방법<br><br>아래 2가지 질문에 대한 짧은 답변을 동영상으로 찍어 이메일(ody@newstapa.org)로 보내주시거나, 해시태그(#비상비상)와 함께 개인 SNS에 올려주세요. 보내주신 영상은 편집해 행사에서 소개할 예정입니다.<br><br>① (나에게) 12.3 비상계엄은 000이다<br>② 내란 1년, 우리 어디까지 날아볼까? (우리가 바라는 세상 상상하기)<br><br>🎙특별 라이브 &lt;비상, 비상&gt;?<br><br>내란 1년, 대표적인 시민단체와 독립언론이 만났습니다. 비상계엄의 '비상'을 날아오름을 뜻하는 '비상'으로 바꾸기 위해 의기투합했습니다. 참여연대와 뉴스타파는 다수의 시민·전문가들이 연속 강연을 이어가는 특별 생방송 &lt;비상, 비상&gt;을 준비했습니다. <br><br>&lt;비상, 비상&gt;은 시민 강연 플랫폼으로서 여러 강연자의 목소리를 통해 내란의 과거를 복기하고 현재를 진단하며 미래를 위한 공론을 만들고자 합니다. <br><br>👥 &lt;비상, 비상&gt; 어떻게 보나요?<br><br>2025년 11월 26일(수)~29일(금) 저녁 7시,  직접 현장에서 방청(선착순 40명 제한) 하시거나 뉴스타파 유튜브 채널을 통해 시청하실 수 있습니다.<br><br>👉&lt;비상, 비상&gt; 방청 신청하기 : <span class="link_url">https://tally.so/r/PdjX2V</span> <br>👉&lt;비상, 비상&gt; 자세한 내용 보기 : <span class="link_url">https://bit.ly/47R285a</span>]]></content:encoded>
+            <title><![CDATA[[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가? (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20251128134612599</link>
+            <guid>https://v.daum.net/v/20251128134612599</guid>
+            <pubDate>Fri, 28 Nov 2025 05:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251128134612599" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가?</strong><span class="info_txt"><span class="txt_info">38분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128134614412bplv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128134614412bplv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[국민의힘, 장애인고용 의무 어겨 부담금 2,978만 원 납부 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3480,7 +3488,7 @@
             <link>https://v.daum.net/v/20251125135111298</link>
             <guid>https://v.daum.net/v/20251125135111298</guid>
             <pubDate>Tue, 25 Nov 2025 05:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251125135111298" class="link_column"><div class="cont_thumb"><strong class="tit_txt">법정서 드러난 김건희의 '선수' 생활..."주식 몰랐다" 검찰의 새빨간 거짓말</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251125135111298" class="link_column"><div class="cont_thumb"><strong class="tit_txt">법정서 드러난 김건희의 '선수' 생활..."주식 몰랐다" 검찰의 새빨간 거짓말</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[감사원을 '감사'하다 ⑨ 한우·킹크랩·참치... 감사원도 연말 '업무추진비 몰아 쓰기' (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3495,7 +3503,7 @@
             <link>https://v.daum.net/v/20251124142149493</link>
             <guid>https://v.daum.net/v/20251124142149493</guid>
             <pubDate>Mon, 24 Nov 2025 05:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251124142149493" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] '개점 휴업'해도 국민 전기료 4800억 원 받는 재벌 석탄발전소</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F24%2Fnewstapa%2F20251124142150502parp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251124142149493" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] '개점 휴업'해도 국민 전기료 4800억 원 받는 재벌 석탄발전소</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F24%2Fnewstapa%2F20251124142150502parp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F24%2Fnewstapa%2F20251124142150502parp.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3696,14 +3704,6 @@
             <pubDate>Thu, 06 Nov 2025 08:30:58 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251106170620859" class="link_column"><div class="cont_thumb"><strong class="tit_txt">감사원을 ‘감사’하다 ⑥ 국정감사날에도 현장조사했다는 감사위원...업추비·특경비 용도 허위 기재</strong><span class="info_txt"><span class="txt_info">2025. 11. 6.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F06%2Fnewstapa%2F20251106170629728llzv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F06%2Fnewstapa%2F20251106170629728llzv.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[감사원을 ‘감사’하다 ⑦ 유병호 등 감사원 간부들 고액 ‘쪼개기’ 결제 관행 포착 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20251106170613849</link>
-            <guid>https://v.daum.net/v/20251106170613849</guid>
-            <pubDate>Thu, 06 Nov 2025 08:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251106170613849" class="link_column"><div class="cont_thumb"><strong class="tit_txt">감사원을 ‘감사’하다 ⑦ 유병호 등 감사원 간부들 고액 ‘쪼개기’ 결제 관행 포착</strong><span class="info_txt"><span class="txt_info">2025. 11. 6.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F06%2Fnewstapa%2F20251106170619944wnfi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F06%2Fnewstapa%2F20251106170619944wnfi.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
