@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Nov 2025 08:31:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Nov 2025 09:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/-MXAJ</link>
+            <guid>http://newstapa.org/article/-MXAJ</guid>
+            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/28174858-475C-0766-E6CF-JMA52NPIXAJPN1VYCSGW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 김병기 전 보좌직원 증언...'차남 대학 편입 과정' 전말 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/ZWazB</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국내 코인거래소, 캄보디아 스캠 사기단 등 돈세탁 통로]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/18144349-8803-47AB-F5C3-YAFY4U2X2SLX308PHMNO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[규제와 감시를 벗어난 가상자산 거래소 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/9FFjw</link>
-            <guid>http://newstapa.org/article/9FFjw</guid>
-            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[규제와 감시를 벗어난 가상자산 거래소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/18173822-802B-0CAD-3DDF-5JTOIMXH5705ATZFMUEA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 김병기 전 보좌직원 증언...'차남 대학 편입 과정' 전말 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/13144930-A115-4939-5A59-M548TMDDCLAT3914F3PB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/-MXAJ</link>
+            <guid>http://newstapa.org/article/-MXAJ</guid>
+            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/28174858-475C-0766-E6CF-JMA52NPIXAJPN1VYCSGW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가? (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/WVyef</link>
             <guid>http://newstapa.org/article/WVyef</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[임성근 전 사단장 인터뷰&amp;검증② “맹세코 구명 로비 없었다?"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14171907-F4EA-12F2-3541-NMKNKKIVRX3FTS95KB47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임성근 전 사단장 인터뷰&검증① “물에 들어가라는 지시 없었다?" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/brhFa</link>
-            <guid>http://newstapa.org/article/brhFa</guid>
-            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[임성근 전 사단장 인터뷰&amp;검증① “물에 들어가라는 지시 없었다?"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14162636-6CF9-2933-71B8-IYMWMLLEEK7RO3HKLK0L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['무증빙 현금' 특활비 권하는 '검찰 자체 지침' (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/14102959-EF48-8407-B4A7-51YUFQYIUE89FP9ATZL0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/-MXAJ</link>
+            <guid>http://newstapa.org/article/-MXAJ</guid>
+            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/28174858-475C-0766-E6CF-JMA52NPIXAJPN1VYCSGW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 윤석열 언론공범⑥ “시대가 원하는 관상”, “김건희는 백공작” (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/D_XeM</link>
             <guid>http://newstapa.org/article/D_XeM</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[무엇을 할 것인가 : 언론] 스스로 고치지 않고 신뢰받는 언론은 없다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/04153828-71AF-AB5A-9F20-EMR3TVCQDLGFWHC5S40I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['1인 5역' 리박스쿨 간부는 국정원 외곽단체 '노노데모' 출신 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/yRzz-</link>
-            <guid>http://newstapa.org/article/yRzz-</guid>
-            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['1인 5역' 리박스쿨 간부는 국정원 외곽단체 '노노데모' 출신]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/27155620-2F2C-59BF-4302-QZA7KNKSW6ZRLJVAZ2J4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 21대 대통령선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3328,6 +3328,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15154039-F0FF-A908-F97A-G9UEKOKOWZHLKVBCJED5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/111538790</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/111538790</guid>
+            <pubDate>Fri, 28 Nov 2025 09:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[내란 우두머리 혐의자 윤석열이 감옥에 갇히고 정권은 바뀌었지만, 내란이 끝났다고 할 수는 없습니다. 거리에서, 또 법정에서 내란은 여전히 진행중입니다. 일종의 저강도 쿠데타입니다. <br><br>김용진 선임기자는 사실상 윤석열 내란을 방조한 책임이 있는 언론이 최근 보이고 있는 행태에 주목합니다. 기득권 언론을 극복하고, 언론생태계를 바꾸지 않고는 민주주의 회복이 어렵다고 말합니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/-MXAJ</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[김병기 전 보좌직원 증언...'차남 대학 편입 과정' 전말 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/111536441</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/111536441</guid>
@@ -3461,18 +3468,19 @@
             <content:encoded><![CDATA[🎙특별 라이브 &lt;비상, 비상&gt;?<br><br>내란 1년, 대표적인 시민단체와 독립언론이 만났습니다. 비상계엄의 '비상'을 날아오름을 뜻하는 '비상'으로 바꾸기 위해 의기투합했습니다. 참여연대와 뉴스타파는 다수의 시민·전문가들이 연속 강연을 이어가는 특별 생방송 &lt;비상, 비상&gt;을 준비했습니다. &lt;비상, 비상&gt;은 시민 강연 플랫폼으로서 여러 강연자의 목소리를 통해 내란의 과거를 복기하고 현재를 진단하며 미래를 위한 공론을 만들고자 합니다. <br><br>😊 &lt;비상, 비상&gt; 누가 강연하나요?<br><br>1화. 시민의 힘으로 깨뜨린 ‘비상(非常)계엄’ (11/26, 수요일)<br>- 진행 : 고태영 아나운서, 이원종 배우<br>- 강연 : 이재정 &lt;광장 그후&gt; 공저자, 이지현 참여연대 사무처장, 우원식 국회의장 (*영상 강연), 김정환 변호사<br><br>2화. 제2, 제3의 내란을 막으려면? (11/27, 목요일)<br>- 진행 : 고태영 아나운서, 이원종 배우<br>- 강연 : 유승익 참여연대 사법감시센터 소장, 장윤선 장윤선의 취재편의점 기자, 조지훈 민변 사무총장<br><br>3화. 날자(飛翔), 민주주의 (11/28, 금요일)<br>- 진행 : 고태영 아나운서, 윤덕원 가수(밴드 브로콜리너마저)<br>- 강연 : 심용환 성공회대 교수, 서복경 서강대 교수, 한상희 건국대학교 명예교수<br><br>👥 &lt;비상, 비상&gt; 어떻게 보나요?<br><br>2025년 11월 26일(수)~29일(금) 저녁 7시,  직접 현장에서 방청(선착순 40명 제한) 하시거나 뉴스타파 유튜브 채널을 통해 시청하실 수 있습니다. 방청 신청 오늘 마감!<br><br>👉&lt;비상, 비상&gt; 방청 신청하기 : <span class="link_url">https://tally.so/r/PdjX2V</span> <br>👉&lt;비상, 비상&gt; 자세한 내용 보기 : <span class="link_url">https://bit.ly/47R285a</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[타파의 시선] 법이라는 가위를 든 엿장수 : 3대 특검 영장 기각 논란 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/111459772</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/111459772</guid>
-            <pubDate>Fri, 21 Nov 2025 03:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[‘오늘 대한민국’에 꼭 필요한 것을 담는 칼럼 &lt;타파의 시선&gt;! 이번 주는 3대 특검 상황을 지속적으로 취재해온 조성식 전문위원이 잇따른 영장 기각 논란과 관련해 생각을 정리했습니다. <br><br>조 전문위원은 법원의 영장 발부의 원칙과 기준이 모호한 점, 정치적으로 치우친 듯한 결정 등은 가볍지 않은 문제이고, 특검의 수사력 부족이나 전략적 실패에 대해서도 비판이 필요하다고 봤습니다. 하지만 비법률적인 주장으로 여론을 오도하거나 지지층에 호소하는 식으로 특검을 비난하는 것도 바람직하지 않다며, 특검이 위축되지 않고 영장 기각을 계기 삼아 탄탄한 기소 논리를 갖추는 데 집중해야 한다고 말했습니다. <br><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/fTK-Y</span>]]></content:encoded>
+            <title><![CDATA[[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20251128175151412</link>
+            <guid>https://v.daum.net/v/20251128175151412</guid>
+            <pubDate>Fri, 28 Nov 2025 09:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251128175151412" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론</strong><span class="info_txt"><span class="txt_info">32분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128175152949jsvp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128175152949jsvp.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[주간뉴스타파] 김병기 전 보좌직원 증언...'차남 대학 편입 과정' 전말 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20251128160620690</link>
             <guid>https://v.daum.net/v/20251128160620690</guid>
             <pubDate>Fri, 28 Nov 2025 07:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251128160620690" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간뉴스타파] 김병기 전 보좌직원 증언...'차남 대학 편입 과정' 전말</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128160622575urwy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251128160620690" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간뉴스타파] 김병기 전 보좌직원 증언...'차남 대학 편입 과정' 전말</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128160622575urwy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128160622575urwy.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3480,7 +3488,7 @@
             <link>https://v.daum.net/v/20251128160613687</link>
             <guid>https://v.daum.net/v/20251128160613687</guid>
             <pubDate>Fri, 28 Nov 2025 07:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251128160613687" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김병기 전 보좌직원 인터뷰① "의원이 아들 편입 방법 찾으라 지시"</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128160619718coec.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251128160613687" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김병기 전 보좌직원 인터뷰① "의원이 아들 편입 방법 찾으라 지시"</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128160619718coec.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128160619718coec.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3488,7 +3496,7 @@
             <link>https://v.daum.net/v/20251128160147514</link>
             <guid>https://v.daum.net/v/20251128160147514</guid>
             <pubDate>Fri, 28 Nov 2025 07:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251128160147514" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김병기 전 보좌직원 인터뷰② 차남과 나눈 카톡…김병기 거짓해명 의혹</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128160152722pdjq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251128160147514" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김병기 전 보좌직원 인터뷰② 차남과 나눈 카톡…김병기 거짓해명 의혹</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128160152722pdjq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128160152722pdjq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3504,7 @@
             <link>https://v.daum.net/v/20251128134612599</link>
             <guid>https://v.daum.net/v/20251128134612599</guid>
             <pubDate>Fri, 28 Nov 2025 05:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251128134612599" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가?</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128134614412bplv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251128134612599" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가?</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128134614412bplv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128134614412bplv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3696,14 +3704,6 @@
             <pubDate>Fri, 07 Nov 2025 09:23:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251107181613871" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'무증빙 현금' 특활비 부장검사 12명, 이재명 정부서 승진·영전</strong><span class="info_txt"><span class="txt_info">2025. 11. 7.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F07%2Fnewstapa%2F20251107181632971lrah.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F07%2Fnewstapa%2F20251107181632971lrah.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부의 아프리카 ODA... 통일교 청탁대로 대폭 증액 확인 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20251107173138535</link>
-            <guid>https://v.daum.net/v/20251107173138535</guid>
-            <pubDate>Fri, 07 Nov 2025 09:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251107173138535" class="link_column"><div class="cont_thumb"><strong class="tit_txt">윤석열 정부의 아프리카 ODA... 통일교 청탁대로 대폭 증액 확인</strong><span class="info_txt"><span class="txt_info">2025. 11. 7.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F08%2Fnewstapa%2F20251108133617146vvmn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F08%2Fnewstapa%2F20251108133617146vvmn.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
