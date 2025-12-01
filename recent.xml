@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Dec 2025 06:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 07:28:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김병기, 전 보좌 직원들에 내용증명... “입막음 협박이었다”]]></title>
+            <link>http://newstapa.org/article/TQh1o</link>
+            <guid>http://newstapa.org/article/TQh1o</guid>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김병기, 전 보좌 직원들에 내용증명... “입막음 협박이었다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/01153626-102D-817A-4D41-QK45FOVR5V6HOM4N90PY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] '의원 아들 편입에 동원, 모욕적이었다' 김병기 전 보좌직원의 고백]]></title>
             <link>http://newstapa.org/article/rzrVW</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아베 같은 윤석열, 자민당 같은 국민의힘을 꿈꿨나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/20145109-CB7D-34B0-706F-HX96FKOWENIPSM86ZQX4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국제범죄조직 돈세탁 통로된 세계 최대 코인거래소]]></title>
-            <link>http://newstapa.org/article/7ceHc</link>
-            <guid>http://newstapa.org/article/7ceHc</guid>
-            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국제범죄조직 돈세탁 통로된 세계 최대 코인거래소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/18144450-0FA9-FDD4-789B-H7XGINKU5LC2WSNRBT4H.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

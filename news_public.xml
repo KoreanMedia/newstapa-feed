@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Dec 2025 06:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 07:28:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김병기, 전 보좌 직원들에 내용증명... “입막음 협박이었다”]]></title>
+            <link>http://newstapa.org/article/TQh1o</link>
+            <guid>http://newstapa.org/article/TQh1o</guid>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김병기, 전 보좌 직원들에 내용증명... “입막음 협박이었다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/01153626-102D-817A-4D41-QK45FOVR5V6HOM4N90PY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] '의원 아들 편입에 동원, 모욕적이었다' 김병기 전 보좌직원의 고백]]></title>
             <link>http://newstapa.org/article/rzrVW</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["패물 팔아 헌금"... 일본 따라가는 '통일교 정치자금']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/17111836-2C38-69AD-7672-W1SJB4TYOM9ULGKA103A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희-삼부토건 연결 고리 첫 확인.... '쓰리원 주가조작' 공범 커넥션 의심]]></title>
-            <link>http://newstapa.org/article/lmpU7</link>
-            <guid>http://newstapa.org/article/lmpU7</guid>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희-삼부토건 연결 고리 첫 확인.... '쓰리원 주가조작' 공범 커넥션 의심]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/17111730-2F9F-9537-AC9A-QZUP48PI0Z4HOS0W18UP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
