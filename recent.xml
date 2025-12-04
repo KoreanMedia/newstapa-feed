@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Dec 2025 07:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Dec 2025 08:32:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“아들 편입 서류 보내달라”… 김병기 배우자, '보좌진 사적 동원' 녹취 입수]]></title>
+            <link>http://newstapa.org/article/qRUpi</link>
+            <guid>http://newstapa.org/article/qRUpi</guid>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“아들 편입 서류 보내달라”… 김병기 배우자, '보좌진 사적 동원' 녹취 입수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/04155516-8417-B00C-CBD4-G59X81A05QY7JN92FRXI.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[“뉴스타파는 멈추지 않았다”...GIJC 총회서 ‘잠입취재·압수수색’ 공유]]></title>
             <link>http://newstapa.org/article/fWLkH</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[감사원을 '감사'하다 ⑨ 한우·킹크랩·참치... 감사원도 연말 '업무추진비 몰아 쓰기']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/24164207-ECD7-0EA4-5B66-3TPF79V67MEL73MWCRA6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] '개점 휴업'해도 국민 전기료 4800억 원 받는 재벌 석탄발전소]]></title>
-            <link>http://newstapa.org/article/eiXJB</link>
-            <guid>http://newstapa.org/article/eiXJB</guid>
-            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] '개점 휴업'해도 국민 전기료 4800억 원 받는 재벌 석탄발전소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/24141601-6557-74C0-4179-SY6BMWPLA00A5543TK4U.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
