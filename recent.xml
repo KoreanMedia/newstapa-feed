@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Dec 2025 01:45:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Dec 2025 03:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“뉴스타파는 멈추지 않았다”...GIJC 총회서 ‘잠입취재·압수수색’ 공유]]></title>
+            <link>http://newstapa.org/article/fWLkH</link>
+            <guid>http://newstapa.org/article/fWLkH</guid>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“뉴스타파는 멈추지 않았다”...GIJC 총회서 ‘잠입취재·압수수색’ 공유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/03133320-EC97-517A-143B-8PTCA73ANMAH60UFWLYF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파] 내란 1년, 파괴자들]]></title>
             <link>http://newstapa.org/article/5rIEl</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] '개점 휴업'해도 국민 전기료 4800억 원 받는 재벌 석탄발전소]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/24141601-6557-74C0-4179-SY6BMWPLA00A5543TK4U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 국회 난동범도 벌금형? 지연되고 훼손된 정의]]></title>
-            <link>http://newstapa.org/article/bSXRA</link>
-            <guid>http://newstapa.org/article/bSXRA</guid>
-            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[기고] 국회 난동범도 벌금형? 지연되고 훼손된 정의]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/24115817-C3CC-2D6A-4CE6-DDLDUQHC21DDCNTCHDW3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
