@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 종교</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Dec 2025 08:32:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Dec 2025 09:29:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 로비 자금의 뿌리... 일본 통일교인 착취 헌금]]></title>
+            <link>http://newstapa.org/article/5viZu</link>
+            <guid>http://newstapa.org/article/5viZu</guid>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 로비 자금의 뿌리... 일본 통일교인 착취 헌금]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/04180245-36E1-19D5-BA9B-VV53WLFYHFUTOCMU3XAW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["패물 팔아 헌금"... 일본 따라가는 '통일교 정치자금']]></title>
             <link>http://newstapa.org/article/46K1J</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 16 Nov 2018 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 조용기 일가의 30년 차명 부동산]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/11/905c52182f90929a1a8e41ac0fa935a9e47378eda3e850b7a01616279c4409fcf7a5728d43ee56c21631d9709f0210da737b02f4b7fde3599d572425e1a6ea35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박문서 전 신부, 배임수재 등 혐의로 또 검찰 고발돼]]></title>
-            <link>http://newstapa.org/article/szh-C</link>
-            <guid>http://newstapa.org/article/szh-C</guid>
-            <pubDate>Mon, 25 Jun 2018 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박문서 전 신부, 배임수재 등 혐의로 또 검찰 고발돼]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/06/561c91f831e4b69e36dbf59f23d28788631539ffe2cefb8dd5849c89d108f27cd760e2ecc2fe351ba3890a854c58c7cdf1314b90fdf2da0ab8eadc0ba4c7c3b3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
