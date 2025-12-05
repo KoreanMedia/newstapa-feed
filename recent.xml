@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Dec 2025 08:31:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 09:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[분석] 해병 특검 '구명 로비 의혹', 끝내 밝히지 못한 이유]]></title>
+            <link>http://newstapa.org/article/9qIHo</link>
+            <guid>http://newstapa.org/article/9qIHo</guid>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[분석] 해병 특검 '구명 로비 의혹', 끝내 밝히지 못한 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05173645-86B3-A9E1-B978-DEQN70P34Q32TXTUBTUZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파의 시선] 이재명 정부, 국정기록관리를 손놓고 있다]]></title>
             <link>http://newstapa.org/article/2zvBn</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김병기 전 보좌직원 인터뷰① "의원이 아들 편입 방법 찾으라 지시"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/27172135-DD3A-F91F-13C1-9VEJJAYLVLLDVISV3RAR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김병기 전 보좌직원 인터뷰② 차남과 나눈 카톡…김병기 거짓해명 의혹]]></title>
-            <link>http://newstapa.org/article/CjUjb</link>
-            <guid>http://newstapa.org/article/CjUjb</guid>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김병기 전 보좌직원 인터뷰② 차남과 나눈 카톡…김병기 거짓해명 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/27172358-B23E-5C56-BB32-TUL1QINDP8WEAY31KTUV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
