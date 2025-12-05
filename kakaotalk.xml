@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-12-05T07:24:52.552Z</updated>
+    <updated>2025-12-05T08:31:42.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/a603128/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[타파의 시선] 이재명 정부, 국정기록관리를 손놓고 있다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/111743814</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/111743814"/>
+        <updated>2025-12-05T08:31:32.746Z</updated>
+        <content type="html"><![CDATA[이재명 정부는 대통령실 조직개편을 단행하면서 윤석열 정부 3년 동안 없어졌던 국정기록비서관을 복원했습니다. 국정을 충실히 기록하겠다는 취지였습니다. <br><br>하지만 노무현 정부 이래 정립된 '기록관리 및 정보공개 정책의 수립과 조정 및 집행'이라는 역할을 이재명 정부가 제대로 수행하고 있는지는 의문입니다. 국가기록관리 전문가인 조해원 뉴스타파 전문위원(전 서울기록원장)이 국기기록관리와 관련, 이재명 정부가 놓친 것, 그리고 시급히 해야 할 일을 정리했습니다.  <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/2zvBn</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈 떠보니 내가 특활비 결재하는 검사장?!]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/111740544</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/111562920"/>
         <updated>2025-12-01T07:26:50.218Z</updated>
         <content type="html"><![CDATA[더불어민주당 김병기 원내대표가 퇴직한 전직 보좌 직원들에게 법적 조치를 예고하는 내용증명을 보냈던 것으로 확인됐습니다. 최근 뉴스타파와 인터뷰한 전직 보좌 직원들은 "김 원내대표의 부당한 사적 지시 사실 등을 언론에 제보하는 걸 막기 위해 협박한 것"이라고 주장했습니다. 실제 뉴스타파가 확보한 내용증명에는 "음해나 허위사실 유포 행위가 발생한다면 형사 고소 및 손해배상 청구를 포함한 모든 법적 조치를 취할 예정이다"고 적혀 있었습니다. <br><br>김 원내대표는 "해당 보좌 직원이 나에 대한 악의적 감정으로 허위 사실을 제보하는 것으로 생각된다"는 입장을 전해 왔습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/TQh1o</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[타파스] '의원 아들 편입에 동원, 모욕적이었다' 김병기 전 보좌직원의 고백]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/111557184</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/111557184"/>
-        <updated>2025-12-01T03:56:37.441Z</updated>
-        <content type="html"><![CDATA[지난 9월 뉴스타파는 김병기 더불어민주당 원내대표의 이른바 '아빠 찬스' 의혹에 대해 보도했습니다. 김 원내대표가 차남 김 모 씨의 숭실대 편입 과정에 관여했고, 그 과정에서 국회 보좌진 등을 사적으로 동원했다는 의혹이었는데요.<br><br>이후 김 원내대표 측은 뉴스타파 보도를 '가짜 뉴스'로 규정하고, 아들의 편입을 위해 보좌진 등을 동원한 사실이 없다고 주장해 왔습니다. 또 뉴스타파를 상대로 10억 원을 배상하라는 내용의 민사소송을 제기하기도 했습니다.<br><br>그런데 뉴스타파는 최근, 김 의원의 주장과 배치되는 증언을 확보했습니다. 바로 김 의원의 전직 보좌직원 A씨의 증언입니다. 오랜 고민 끝에 사실을 알리기로 결심했다는 A씨는 어떤 이야기를 꺼냈을까요?<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/rzrVW</span><br>📨 뉴스레터 타파스를 만나보세요 : <span class="link_url">https://newstapa-tapas.stibee.com/subscribe</span>]]></content>
     </entry>
 </feed>
