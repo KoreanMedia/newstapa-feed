@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Dec 2025 04:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 05:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈 떠보니 내가 특활비 결재하는 검사장?]]></title>
+            <link>https://pages.newstapa.org/2025/prosecutors_quiz/</link>
+            <guid>https://pages.newstapa.org/2025/prosecutors_quiz/</guid>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰의 세금 부정사용·오남용 사례를 직접 체험할 수 있도록 인터랙티브 페이지 ‘눈 떠 보니 내가 특활비를 결재하는 검사장?!’을 제작·공개합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05135848-6425-F1A5-711E-UQLVM0FOWE3XF192PFVM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검사의 난, 김건희 특검 검사 40명 실명 공개]]></title>
             <link>https://pages.newstapa.org/2025/kkh-prosecutor/</link>

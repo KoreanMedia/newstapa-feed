@@ -4,16 +4,24 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Dec 2025 04:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 05:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['눈 떠보니 내가 특활비 결재하는 검사장?' 인터렉티브 페이지 공개]]></title>
+            <link>http://newstapa.org/article/o04B5</link>
+            <guid>http://newstapa.org/article/o04B5</guid>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['눈 떠보니 내가 특활비 결재하는 검사장?' 인터렉티브 페이지 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05135501-08D7-CAAF-B08C-EHC4OS71VUN5AS6HVY4H.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“아들 편입 서류 보내달라”… 김병기 배우자, '보좌진 사적 동원' 녹취 입수]]></title>
             <link>http://newstapa.org/article/qRUpi</link>
             <guid>http://newstapa.org/article/qRUpi</guid>
             <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“아들 편입 서류 보내달라”… 김병기 배우자, '보좌진 사적 동원' 녹취 입수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/04155516-8417-B00C-CBD4-G59X81A05QY7JN92FRXI.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05140108-70E4-D852-EE8A-N2XPRVFJM8KVF3X19D8T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파] 내란 1년, 파괴자들]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 이재명 정부가 떠 안은 ‘좀비 발전소’ 민자 석탄]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/20174519-943D-A268-4147-NKG93JNMMJK7AOHTZ1KP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아베 같은 윤석열, 자민당 같은 국민의힘을 꿈꿨나]]></title>
-            <link>http://newstapa.org/article/Fu4eO</link>
-            <guid>http://newstapa.org/article/Fu4eO</guid>
-            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아베 같은 윤석열, 자민당 같은 국민의힘을 꿈꿨나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/20145109-CB7D-34B0-706F-HX96FKOWENIPSM86ZQX4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

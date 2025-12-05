@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Dec 2025 04:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 05:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['눈 떠보니 내가 특활비 결재하는 검사장?' 인터렉티브 페이지 공개]]></title>
+            <link>http://newstapa.org/article/o04B5</link>
+            <guid>http://newstapa.org/article/o04B5</guid>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['눈 떠보니 내가 특활비 결재하는 검사장?' 인터렉티브 페이지 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05135501-08D7-CAAF-B08C-EHC4OS71VUN5AS6HVY4H.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰의 '특수활동비 현금 저수지'… 물증 나왔다]]></title>
             <link>http://newstapa.org/article/m7Au5</link>
@@ -29,7 +37,7 @@
             <guid>http://newstapa.org/article/qRUpi</guid>
             <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“아들 편입 서류 보내달라”… 김병기 배우자, '보좌진 사적 동원' 녹취 입수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/04155516-8417-B00C-CBD4-G59X81A05QY7JN92FRXI.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05140108-70E4-D852-EE8A-N2XPRVFJM8KVF3X19D8T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“뉴스타파는 멈추지 않았다”...GIJC 총회서 ‘잠입취재·압수수색’ 공유]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/28134217-B708-28EF-9C5F-HXDHBNK4PP5RW4KTW9UD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘, 장애인고용 의무 어겨 부담금 2,978만 원 납부]]></title>
-            <link>http://newstapa.org/article/b2mpH</link>
-            <guid>http://newstapa.org/article/b2mpH</guid>
-            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘, 장애인고용 의무 어겨 부담금 2,978만 원 납부]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/25183047-10FB-5C5A-2128-FKEBHE7HY6MRCV8FJQC1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
