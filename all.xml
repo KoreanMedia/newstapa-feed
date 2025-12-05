@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Dec 2025 01:45:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 03:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰의 '특수활동비 현금 저수지'… 물증 나왔다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/m7Au5</link>
+            <guid>http://newstapa.org/article/m7Au5</guid>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰의 '특수활동비 현금 저수지'… 물증 나왔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/03153504-061B-27EE-8824-YYWRFYFA950QZDDR6VTJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 로비 자금의 뿌리... 일본 통일교인 착취 헌금 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/5viZu</link>
@@ -61,7 +69,7 @@
             <guid>http://newstapa.org/article/1f07c</guid>
             <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[UN '삼성 베트남 공장 환경·보건 우려' 서한 정부와 삼성에 발송]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/01182222-3E65-5A48-46C9-R4KF392JBLCZDV1I5BML.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05112458-E6BB-34DF-3719-6G5JF0XHG93VJL0BY7G0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김병기, 전 보좌 직원들에 내용증명... “입막음 협박이었다” (뉴스타파 ─ 뉴스)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국민의힘, 장애인고용 의무 어겨 부담금 2,978만 원 납부]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/25183047-10FB-5C5A-2128-FKEBHE7HY6MRCV8FJQC1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법정서 드러난 김건희의 '선수' 생활..."주식 몰랐다" 검찰의 새빨간 거짓말 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/SSsIj</link>
-            <guid>http://newstapa.org/article/SSsIj</guid>
-            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법정서 드러난 김건희의 '선수' 생활..."주식 몰랐다" 검찰의 새빨간 거짓말]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/25134913-2588-DB5E-1FE1-F23LLKEVKK1WM6IW8WTM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“아들 편입 서류 보내달라”… 김병기 배우자, '보좌진 사적 동원' 녹취 입수 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14171907-F4EA-12F2-3541-NMKNKKIVRX3FTS95KB47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[검찰의 '특수활동비 현금 저수지'… 물증 나왔다 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/m7Au5</link>
+            <guid>http://newstapa.org/article/m7Au5</guid>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰의 '특수활동비 현금 저수지'… 물증 나왔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/03153504-061B-27EE-8824-YYWRFYFA950QZDDR6VTJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 72억 → 31.5억 원… 검찰 특활비 절반 넘게 삭감 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
             <link>http://newstapa.org/article/6O-XX</link>
             <guid>http://newstapa.org/article/6O-XX</guid>
@@ -512,20 +520,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/23104400-0C39-1C19-B0AD-ONX89L11GTH8I6Z6273R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[심우정, 서울동부지검장 때 특활비 총액의 15% '셀프 수령' (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
-            <link>http://newstapa.org/article/9dOSv</link>
-            <guid>http://newstapa.org/article/9dOSv</guid>
-            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[심우정, 서울동부지검장 때 특활비 총액의 15% '셀프 수령']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/23104505-5442-2532-444A-SE31OHD6FG11UCHBM6SN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[UN '삼성 베트남 공장 환경·보건 우려' 서한 정부와 삼성에 발송 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
             <link>http://newstapa.org/article/1f07c</link>
             <guid>http://newstapa.org/article/1f07c</guid>
             <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[UN '삼성 베트남 공장 환경·보건 우려' 서한 정부와 삼성에 발송]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/01182222-3E65-5A48-46C9-R4KF392JBLCZDV1I5BML.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05112458-E6BB-34DF-3719-6G5JF0XHG93VJL0BY7G0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호반그룹 사주 일가 배임 의혹과 의문의 서명 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
@@ -909,7 +909,7 @@
             <guid>http://newstapa.org/article/1f07c</guid>
             <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[UN '삼성 베트남 공장 환경·보건 우려' 서한 정부와 삼성에 발송]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/01182222-3E65-5A48-46C9-R4KF392JBLCZDV1I5BML.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05112458-E6BB-34DF-3719-6G5JF0XHG93VJL0BY7G0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타파스] '개점 휴업'해도 국민 전기료 4800억 원 받는 재벌 석탄발전소 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
@@ -3328,6 +3328,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15154039-F0FF-A908-F97A-G9UEKOKOWZHLKVBCJED5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[특활비 ‘반토막’ 와중에 검찰 ‘현금 저수지’ 증거가 나왔다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/111738457</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/111738457</guid>
+            <pubDate>Fri, 05 Dec 2025 03:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[검찰이 한 해 예산을 다 못 쓰고 남긴 특수활동비를, 다음 해까지 숨겨뒀다 꺼내 쓴 정황.<br>그동안 ‘현금 저수지’라는 의혹으로만 제기돼 왔지만,<br>실제 장부에서 그 존재를 증명하는 문구가 처음으로 발견됐습니다.<br><br>서울동부지검 특수활동비 장부에 적힌 “미사용 계좌 잔액 507,000원”<br>이 문구는 예산 지출 내역과 정확히 맞아떨어지는 차액이었고,<br>검찰이 예산 잔액을 국고로 반납하지 않고 다음 해로 이월했다는 증거입니다.<br><br>국가재정법 위반, 회계연도 독립 원칙 위반, 그리고 국회에 허위 보고를 했다는 점에서 허위공문서 작성 의혹까지 제기될 수 있는 사안입니다.<br><br>검찰이 왜 ‘잔액표’를 끝까지 먹칠해왔는지, 이제야 명확해졌습니다.<br>감사, 감찰, 수사가 필요한 이유는 더 분명해졌습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/LrRXrjwrQVg</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/m7Au5</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[타임머신을 타지 않아도 과거로 갈 수 있는 곳, 이스탄불 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/111737954</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/111737954</guid>
+            <pubDate>Fri, 05 Dec 2025 03:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[도서출판 뉴스타파의 새 책 &lt;지도 너머 이야기를 걷다&gt;는 ‘관광’을 넘어 역사와 문화를 탐구하는 ‘여행’을 추구하는 저자 김동현의 수십 년에 걸친 세계 인문 탐사 기록입니다.<br><br>도서출판 뉴스타파는 책 출간을 기념해 연속으로 책 내용 일부를 카드뉴스로 공개하고 있습습니다. 이번에는튀르키예 편입니다. <br><br>저자는 튀르키예 이스탄불을 “타임머신을 타지 않아도 인류 초기의 삶을 가늠하는 시간 여행을 할 수 있는 곳”이라고 소개합니다. 인류 문명의 옥외 박물관이라고도 불리는 이스탄불은 그리스 식민지에서 로마 속주였다가, 콘스탄티노플을 거쳐 지금의 이스탄불에 이르기까지 세계 문명을 꽃피운 2700년 역사의 고도입니다. <br><br>강력한 통치권의 상징인 아야소피아와 이에 대적하는 오스만의 아이콘 블루모스크, 비잔틴의 상징 성 소피아 성당에 숨은 이야기와 역사적 배경을 이 책에서 생생하고 흥미롭게 전합니다.<br>저자는 세계를 다니며 지도에는 없는, 관광안내서가 알려주지 않는 이야기를 차곡차곡 거둬 &lt;지도 너머 이야기를 걷다&gt;에 담았습니다.  <br>이 책 판매 수익은 독립언론 연대 협업 사업에 쓰입니다. 네이버 뉴스타파굿즈스토어와 교보문고, 알라딘, 예스24 등 서점에서 만나실 수 있습니다.<br><br>📘도서 구매 바로가기: <span class="link_url">https://bit.ly/47CqMrk</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[윤석열 로비 자금의 뿌리... 일본 통일교인 착취 헌금 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/111732545</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/111732545</guid>
@@ -3454,25 +3468,19 @@
             <content:encoded><![CDATA[내란 우두머리 혐의자 윤석열이 감옥에 갇히고 정권은 바뀌었지만, 내란이 끝났다고 할 수는 없습니다. 거리에서, 또 법정에서 내란은 여전히 진행중입니다. 일종의 저강도 쿠데타입니다. <br><br>김용진 선임기자는 사실상 윤석열 내란을 방조한 책임이 있는 언론이 최근 보이고 있는 행태에 주목합니다. 기득권 언론을 극복하고, 언론생태계를 바꾸지 않고는 민주주의 회복이 어렵다고 말합니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/-MXAJ</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김병기 전 보좌직원 증언...'차남 대학 편입 과정' 전말 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/111536441</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/111536441</guid>
-            <pubDate>Fri, 28 Nov 2025 07:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[오늘(28일) 주간뉴스타파는 김병기 더불어민주당 원내대표 차남의 대학 편입 의혹 관련, 편입 준비에 관여한 전직 보좌 직원의 증언을 전해드립니다. <br><br>뉴스타파는 최근 오랜 설득 끝에 김병기 의원실 전직 보좌 직원 A씨를 만나 인터뷰를 진행했습니다. A씨는 어렵게 용기를 내고 "사실을 알리겠다"며 뉴스타파 카메라 앞에 섰습니다. A씨는 김 원내대표 차남의 대학 편입 관련 자신이 받은 지시를 소상히 털어놨습니다. 김 원내대표가 그간 언론을 상대로 거짓말을 해온 게 아니냐는 의혹도 제기됩니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/I9Z-c06zob0</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/ZWazB</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김병기 전 보좌직원 인터뷰① "의원이 아들 편입 방법 찾으라 지시" (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/111536435</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/111536435</guid>
-            <pubDate>Fri, 28 Nov 2025 07:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파가 보도한 김병기 더불어민주당 원내대표 차남의 대학 편입 관련, 보좌진 사적 동원 의혹을 뒷받침할 새로운 증언이 나왔습니다. 김병기 의원실 전직 보좌 직원 A씨는 지난 2021년 말부터 김병기 의원으로부터 차남의 대학 편입을 알아보라는 지시를 받았다고 밝혔습니다. 앞서 A씨는 지난 9월 뉴스타파 보도 당시, 인터뷰 요청을 거절했는데 "사실을 알리겠다"며 고민 끝에 카메라 앞에 섰습니다.<br><br>또 A씨는 지난 2022년 자신이 숭실대를 방문한 것도 김병기 의원의 지시가 있었기 때문이라고 말했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/DgTmSMWFT_g</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/upURc</span>]]></content:encoded>
+            <title><![CDATA[검찰의 '특수활동비 현금 저수지'… 물증 나왔다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20251205113112658</link>
+            <guid>https://v.daum.net/v/20251205113112658</guid>
+            <pubDate>Fri, 05 Dec 2025 03:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251205113112658" class="link_column"><div class="cont_thumb"><strong class="tit_txt">검찰의 '특수활동비 현금 저수지'… 물증 나왔다</strong><span class="info_txt"><span class="txt_info">51분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F05%2Fnewstapa%2F20251205113123590dwpe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F05%2Fnewstapa%2F20251205113123590dwpe.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[윤석열 로비 자금의 뿌리... 일본 통일교인 착취 헌금 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20251204180650071</link>
             <guid>https://v.daum.net/v/20251204180650071</guid>
             <pubDate>Thu, 04 Dec 2025 09:29:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251204180650071" class="link_column"><div class="cont_thumb"><strong class="tit_txt">윤석열 로비 자금의 뿌리... 일본 통일교인 착취 헌금</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204180651501bpzs.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251204180650071" class="link_column"><div class="cont_thumb"><strong class="tit_txt">윤석열 로비 자금의 뿌리... 일본 통일교인 착취 헌금</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204180651501bpzs.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204180651501bpzs.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3480,7 +3488,7 @@
             <link>https://v.daum.net/v/20251204171709947</link>
             <guid>https://v.daum.net/v/20251204171709947</guid>
             <pubDate>Thu, 04 Dec 2025 08:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251204171709947" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“아들 편입 서류 보내달라”…  김병기 배우자, '보좌진 사적 동원' 녹취 입수</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204171717617hvzm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251204171709947" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“아들 편입 서류 보내달라”…  김병기 배우자, '보좌진 사적 동원' 녹취 입수</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204171717617hvzm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204171717617hvzm.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3488,7 +3496,7 @@
             <link>https://v.daum.net/v/20251204105653308</link>
             <guid>https://v.daum.net/v/20251204105653308</guid>
             <pubDate>Thu, 04 Dec 2025 03:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251204105653308" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“뉴스타파는 멈추지 않았다”...GIJC 총회서 ‘잠입취재·압수수색’ 공유</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204105702718spbg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251204105653308" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“뉴스타파는 멈추지 않았다”...GIJC 총회서 ‘잠입취재·압수수색’ 공유</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204105702718spbg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204105702718spbg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3535,7 +3543,7 @@
             <link>https://v.daum.net/v/20251201113639316</link>
             <guid>https://v.daum.net/v/20251201113639316</guid>
             <pubDate>Mon, 01 Dec 2025 03:56:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251201113639316" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] '의원 아들 편입에 동원, 모욕적이었다' 김병기 전 보좌직원의 고백</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F01%2Fnewstapa%2F20251201113640305nqth.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251201113639316" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] '의원 아들 편입에 동원, 모욕적이었다' 김병기 전 보좌직원의 고백</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F01%2Fnewstapa%2F20251201113640305nqth.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F01%2Fnewstapa%2F20251201113640305nqth.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3696,14 +3704,6 @@
             <pubDate>Mon, 17 Nov 2025 04:30:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251117132613938" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 항소 포기엔 '검란', 특활비 떡값엔 침묵? 검찰의 '선택적 정의'</strong><span class="info_txt"><span class="txt_info">2025. 11. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F17%2Fnewstapa%2F20251117132614339lrnt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F17%2Fnewstapa%2F20251117132614339lrnt.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] '댓글 여론 조작' 혐의 리박스쿨 대표 검찰로... 뉴스타파 보도 6개월 만 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20251114211612408</link>
-            <guid>https://v.daum.net/v/20251114211612408</guid>
-            <pubDate>Fri, 14 Nov 2025 12:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251114211612408" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화] '댓글 여론 조작' 혐의 리박스쿨 대표 검찰로... 뉴스타파 보도 6개월 만</strong><span class="info_txt"><span class="txt_info">2025. 11. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F14%2Fnewstapa%2F20251114211614225qjkb.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F14%2Fnewstapa%2F20251114211614225qjkb.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
