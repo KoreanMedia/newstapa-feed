@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Dec 2025 05:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Dec 2025 06:36:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 윤석열 언론공범⑧ 윤석열 ‘막말’ 감춘 언론]]></title>
+            <link>https://v.daum.net/v/20251209142613891</link>
+            <guid>https://v.daum.net/v/20251209142613891</guid>
+            <pubDate>Tue, 09 Dec 2025 06:36:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251209142613891" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 윤석열 언론공범⑧ 윤석열 ‘막말’ 감춘 언론</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F09%2Fnewstapa%2F20251209142614542smze.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F09%2Fnewstapa%2F20251209142614542smze.png" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 내란 1년, '엘리트' 허울 뒤의 민주주의 파괴자들]]></title>
             <link>https://v.daum.net/v/20251208113649257</link>
@@ -236,14 +244,6 @@
             <pubDate>Tue, 18 Nov 2025 09:26:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251118180119925" class="link_column"><div class="cont_thumb"><strong class="tit_txt">국제범죄조직 돈세탁 통로된 세계 최대 코인거래소</strong><span class="info_txt"><span class="txt_info">2025. 11. 18.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F18%2Fnewstapa%2F20251118180126874sjdu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F18%2Fnewstapa%2F20251118180126874sjdu.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 코인거래소, 캄보디아 스캠 사기단 등 돈세탁 통로]]></title>
-            <link>https://v.daum.net/v/20251118180114918</link>
-            <guid>https://v.daum.net/v/20251118180114918</guid>
-            <pubDate>Tue, 18 Nov 2025 09:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251118180114918" class="link_column"><div class="cont_thumb"><strong class="tit_txt">국내 코인거래소, 캄보디아 스캠 사기단 등 돈세탁 통로</strong><span class="info_txt"><span class="txt_info">2025. 11. 18.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F18%2Fnewstapa%2F20251118180116158grlo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F18%2Fnewstapa%2F20251118180116158grlo.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

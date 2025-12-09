@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Dec 2025 05:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Dec 2025 06:36:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 윤석열 언론공범⑧ 윤석열 ‘막말’ 감춘 언론 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/z2OSq</link>
+            <guid>http://newstapa.org/article/z2OSq</guid>
+            <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 윤석열 언론공범⑧ 윤석열 ‘막말’ 감춘 언론]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/09142242-2E33-AB0A-8CAD-AQYIUQ83LX988JHWGF0R.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 내란 1년, '엘리트' 허울 뒤의 민주주의 파괴자들 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/yU7fA</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/28174858-475C-0766-E6CF-JMA52NPIXAJPN1VYCSGW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 김병기 전 보좌직원 증언...'차남 대학 편입 과정' 전말 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/ZWazB</link>
-            <guid>http://newstapa.org/article/ZWazB</guid>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 김병기 전 보좌직원 증언...'차남 대학 편입 과정' 전말]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/28153833-6FA7-5A6E-68B5-BVY4KO0WGZT3V0VTV0US.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타파스] 내란 1년, '엘리트' 허울 뒤의 민주주의 파괴자들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -3336,6 +3336,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15154039-F0FF-A908-F97A-G9UEKOKOWZHLKVBCJED5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 언론공범⑧ 윤석열 ‘막말’은 예고편, 언론이 놓친 신호들 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/111788719</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/111788719</guid>
+            <pubDate>Tue, 09 Dec 2025 06:36:46 GMT</pubDate>
+            <content:encoded><![CDATA[12.3 비상계엄은 갑작스럽게 등장한 사건이 아닙니다. 윤석열의 문제적 사고 방식이 수시로 경보음을 울렸지만 번번이 언론은 제대로 된 검증에 나서는 대신 그의 ‘실언’ 정도로 사안을 축소했습니다. 언론이 내란의 책임에서 자유로울 수 없는 이유입니다. 하지만 내란 청산 과정에서 언론은 책임을 지지도, 처벌받지도, 잘못이 제대로 기록되지도 않고 있습니다. <br><br>KINN 회원사 뉴스어디는 '윤석열 언론공범' 시리즈를 통해 이러한 언론의 잘못된 과거 행적을 기록해 나가고 있습니다. 시리즈 마지막 기사를 통해 대선후보 시절 윤석열의 막말과 그를 다룬 주요 언론의 모습을 정리했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newswhere.org/news/report/2713/</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[영화 <추적>, 올해의 다큐멘터리상 우수상 수상 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/111785696</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/111785696</guid>
@@ -3469,11 +3476,12 @@
             <content:encoded><![CDATA[12월 3일이면 내란 1년이 됩니다. 뉴스타파와 뉴스타파 함께재단은 내란 1년 전야에 영화 &lt;압수수색: 내란의 시작&gt;을 함께 보고, 주인공 김용진, 한상진, 봉지욱 기자와 함께 하는 ‘내란 1년 특별토크‘를 마련했습니다. 내란 재판 등 내란 세력 청산은 어디까지 왔는지, 윤석열 명예훼손 사건, 즉 &lt;뉴스타파 v. 윤석열&gt; 사건 재판은 어떻게 돼 가고 있는지, 진정한 내란 청산은 어떻게 해야 하는지 등을 함께 이야기하려고 합니다.<br><br>이 행사는 12월 2일 저녁 7시, 뉴스타파 유튜브 채널을 통해 생중계될 예정입니다. 많은 관심과 참여 바랍니다.<br><br>🔴 영화 &lt;압수수색&gt; 주인공과 함께하는 특별 토크 보러가기:   <span class="link_url">https://youtube.com/live/HjBTPUkuEuQ?feature=share</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제8회 한국데이터저널리즘어워드 '올해의 오픈 데이터 상' 수상 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/111571488</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/111571488</guid>
-            <pubDate>Tue, 02 Dec 2025 01:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파의 &lt;명태균 게이트, 판도라의 상자를 열다&gt;가 제8회 한국데이터저널리즘어워드에서 '올해의 오픈 데이터 상'을 수상하였습니다. 11월 28일 오후 5시에 구글스타트업캠퍼스에서 시상식이 열렸습니다. 수상자는 뉴스타파 데이터팀 최윤원·전기환·김강민·연다혜·김지연·변지민 기자, 탐사 1팀 박종화·봉지욱·이명선·조원일 기자, 제작운영팀 이도현 디자이너입니다. <br><br>뉴스타파는 107쪽 분량의 검찰 수사보고서에 포함된 명태균과 윤석열·김건희 부부의 카카오톡 및 텔레그램 대화 화면 캡처 이미지 280건을 모두 복원해 특별 페이지 &lt;명태균 게이트, 판도라의 상자를 열다&gt;를 공개한 바 있습니다. <br><br>데이터저널리즘코리아는 심사평에서 "검찰 수사보고서 107쪽 분량의 문서를 AI 기반 문자인식 기술을 활용하여 데이터화하고, 메신저 화면으로 재현해서 시민들이 직접 접근할 수 있게 했다"라면서 "정치적 혼란 속에서 검증할 수 있는 사실을 제공함으로써 건강한 공론장 형성에 이바지했다"라고 평가했습니다. <br><br>이날 뉴스타파 데이터개발팀 김강민 기자는 "비영리 독립 언론으로써 정보를 독점하는 것이 아니라 우리가 취득한 정보를 여러 사람과 공유할 방법을 열심히 고민하며 언론 생태계에 이바지하겠다"라는 다짐을 전했습니다.<br><br>📰 &lt;명태균 게이트, 판도라의 상자를 열다&gt; 보러가기 : <span class="link_url">https://pages.newstapa.org/2025/pandora/</span>]]></content:encoded>
+            <title><![CDATA[[KINN] 윤석열 언론공범⑧ 윤석열 ‘막말’ 감춘 언론 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20251209142613891</link>
+            <guid>https://v.daum.net/v/20251209142613891</guid>
+            <pubDate>Tue, 09 Dec 2025 06:36:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251209142613891" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 윤석열 언론공범⑧ 윤석열 ‘막말’ 감춘 언론</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F09%2Fnewstapa%2F20251209142614542smze.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F09%2Fnewstapa%2F20251209142614542smze.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[타파스] 내란 1년, '엘리트' 허울 뒤의 민주주의 파괴자들 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3704,14 +3712,6 @@
             <pubDate>Tue, 18 Nov 2025 09:26:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251118180119925" class="link_column"><div class="cont_thumb"><strong class="tit_txt">국제범죄조직 돈세탁 통로된 세계 최대 코인거래소</strong><span class="info_txt"><span class="txt_info">2025. 11. 18.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F18%2Fnewstapa%2F20251118180126874sjdu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F18%2Fnewstapa%2F20251118180126874sjdu.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 코인거래소, 캄보디아 스캠 사기단 등 돈세탁 통로 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20251118180114918</link>
-            <guid>https://v.daum.net/v/20251118180114918</guid>
-            <pubDate>Tue, 18 Nov 2025 09:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251118180114918" class="link_column"><div class="cont_thumb"><strong class="tit_txt">국내 코인거래소, 캄보디아 스캠 사기단 등 돈세탁 통로</strong><span class="info_txt"><span class="txt_info">2025. 11. 18.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F18%2Fnewstapa%2F20251118180116158grlo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F18%2Fnewstapa%2F20251118180116158grlo.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
