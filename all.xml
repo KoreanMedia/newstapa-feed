@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Dec 2025 04:32:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Dec 2025 05:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/18104139-CB94-A5CE-9268-S34NLS364QS45TEUR7P6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 윤석열 언론공범⑧ 윤석열 ‘막말’ 감춘 언론 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/z2OSq</link>
+            <guid>http://newstapa.org/article/z2OSq</guid>
+            <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 윤석열 언론공범⑧ 윤석열 ‘막말’ 감춘 언론]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/09142242-2E33-AB0A-8CAD-AQYIUQ83LX988JHWGF0R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN]윤석열 언론공범⑦ ‘처가 리스크’를 막아준 주류 언론 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/gxIjU</link>
             <guid>http://newstapa.org/article/gxIjU</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 윤석열 언론공범① ‘윤석열대망론’은 누가 띄웠나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11191716-CC9E-A572-35C4-E3NMCLNLVIIXCABPRGT4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리박스쿨 뿌리② 리박의 아버지가 만든 괴물 '아스팔트 삼총사' (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/q12Z8</link>
-            <guid>http://newstapa.org/article/q12Z8</guid>
-            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[리박스쿨 뿌리② 리박의 아버지가 만든 괴물 '아스팔트 삼총사']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10171514-2ABD-175F-CE98-BLV9MZ9FJUV0POTFK3R4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 21대 대통령선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3504,7 +3504,7 @@
             <link>https://v.daum.net/v/20251205134613216</link>
             <guid>https://v.daum.net/v/20251205134613216</guid>
             <pubDate>Fri, 05 Dec 2025 05:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251205134613216" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'눈 떠보니 내가 특활비 결재하는 검사장?' 인터렉티브 페이지 공개</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F05%2Fnewstapa%2F20251205134614603yzdl.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251205134613216" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'눈 떠보니 내가 특활비 결재하는 검사장?' 인터렉티브 페이지 공개</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F05%2Fnewstapa%2F20251205134614603yzdl.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F05%2Fnewstapa%2F20251205134614603yzdl.png" length="0" type="image/q70/"/>
         </item>
         <item>
