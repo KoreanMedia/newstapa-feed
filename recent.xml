@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Dec 2025 05:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Dec 2025 06:37:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투표 대가로 정치 거래… 일본 자민당-국민의힘의 ‘평행이론’]]></title>
+            <link>http://newstapa.org/article/y_n3_</link>
+            <guid>http://newstapa.org/article/y_n3_</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[투표 대가로 정치 거래… 일본 자민당-국민의힘의 ‘평행이론’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/10151053-844E-0423-293F-DYQPSXRG73AOEU3934MA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 나눠 먹기, 성과급 지적에도… 감사원 특활비의 부활]]></title>
+            <link>http://newstapa.org/article/6XlKF</link>
+            <guid>http://newstapa.org/article/6XlKF</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 나눠 먹기, 성과급 지적에도… 감사원 특활비의 부활]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/10142855-4C41-0D35-6B7A-9ZUOFZT8GDRGCCI9YAL6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 대검 각 부서 특활비 공개, 정성호 장관이 결단해야]]></title>
             <link>http://newstapa.org/article/gjEo5</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[UN '삼성 베트남 공장 환경·보건 우려' 서한 정부와 삼성에 발송]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05112458-E6BB-34DF-3719-6G5JF0XHG93VJL0BY7G0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김병기, 전 보좌 직원들에 내용증명... “입막음 협박이었다”]]></title>
-            <link>http://newstapa.org/article/TQh1o</link>
-            <guid>http://newstapa.org/article/TQh1o</guid>
-            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김병기, 전 보좌 직원들에 내용증명... “입막음 협박이었다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/01153626-102D-817A-4D41-QK45FOVR5V6HOM4N90PY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] '의원 아들 편입에 동원, 모욕적이었다' 김병기 전 보좌직원의 고백]]></title>
-            <link>http://newstapa.org/article/rzrVW</link>
-            <guid>http://newstapa.org/article/rzrVW</guid>
-            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] '의원 아들 편입에 동원, 모욕적이었다' 김병기 전 보좌직원의 고백]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/01113423-FD7A-44A8-CB49-4WID8GM3300JCE7X1K4L.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

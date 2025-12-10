@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Dec 2025 05:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Dec 2025 06:37:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투표 대가로 정치 거래… 일본 자민당-국민의힘의 ‘평행이론’]]></title>
+            <link>http://newstapa.org/article/y_n3_</link>
+            <guid>http://newstapa.org/article/y_n3_</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[투표 대가로 정치 거래… 일본 자민당-국민의힘의 ‘평행이론’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/10151053-844E-0423-293F-DYQPSXRG73AOEU3934MA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 나눠 먹기, 성과급 지적에도… 감사원 특활비의 부활]]></title>
+            <link>http://newstapa.org/article/6XlKF</link>
+            <guid>http://newstapa.org/article/6XlKF</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 나눠 먹기, 성과급 지적에도… 감사원 특활비의 부활]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/10142855-4C41-0D35-6B7A-9ZUOFZT8GDRGCCI9YAL6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 내란 1년, '엘리트' 허울 뒤의 민주주의 파괴자들]]></title>
             <link>http://newstapa.org/article/yU7fA</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[법정서 드러난 김건희의 '선수' 생활..."주식 몰랐다" 검찰의 새빨간 거짓말]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/25134913-2588-DB5E-1FE1-F23LLKEVKK1WM6IW8WTM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감사원을 '감사'하다 ⑨ 한우·킹크랩·참치... 감사원도 연말 '업무추진비 몰아 쓰기']]></title>
-            <link>http://newstapa.org/article/ILD6w</link>
-            <guid>http://newstapa.org/article/ILD6w</guid>
-            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[감사원을 '감사'하다 ⑨ 한우·킹크랩·참치... 감사원도 연말 '업무추진비 몰아 쓰기']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/24164207-ECD7-0EA4-5B66-3TPF79V67MEL73MWCRA6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 국회 난동범도 벌금형? 지연되고 훼손된 정의]]></title>
-            <link>http://newstapa.org/article/bSXRA</link>
-            <guid>http://newstapa.org/article/bSXRA</guid>
-            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[기고] 국회 난동범도 벌금형? 지연되고 훼손된 정의]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/24115817-C3CC-2D6A-4CE6-DDLDUQHC21DDCNTCHDW3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Dec 2025 05:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Dec 2025 06:37:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 나눠 먹기, 성과급 지적에도… 감사원 특활비의 부활]]></title>
+            <link>http://newstapa.org/article/6XlKF</link>
+            <guid>http://newstapa.org/article/6XlKF</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 나눠 먹기, 성과급 지적에도… 감사원 특활비의 부활]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/10142855-4C41-0D35-6B7A-9ZUOFZT8GDRGCCI9YAL6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 대검 각 부서 특활비 공개, 정성호 장관이 결단해야]]></title>
             <link>http://newstapa.org/article/gjEo5</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 명절 떡값, 회식이 특수활동? 마침내 검찰의 '먹칠'을 벗겼습니다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/27114029-B622-1F52-6B56-EXIDRGK8RZ9JLMTKCUFE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 최초 검증, '먹칠 벗은' 검찰 쌈짓돈]]></title>
-            <link>http://newstapa.org/article/KTJHU</link>
-            <guid>http://newstapa.org/article/KTJHU</guid>
-            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 최초 검증, '먹칠 벗은' 검찰 쌈짓돈]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/23130609-824D-5914-69F3-VDPBUW9P6YTIJBV71X27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
