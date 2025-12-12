@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Dec 2025 07:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Dec 2025 08:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파의 시선] ‘전두환 프로젝트’ 끝나지 않았다]]></title>
+            <link>http://newstapa.org/article/or0Qt</link>
+            <guid>http://newstapa.org/article/or0Qt</guid>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] ‘전두환 프로젝트’ 끝나지 않았다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/12171425-810E-C5D8-4ACA-2IH3RKDB5FVDBUL5LH1O.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[칼럼] 무소불위 검찰의 식민지 노스탤지어]]></title>
+            <link>http://newstapa.org/article/Qr9Nr</link>
+            <guid>http://newstapa.org/article/Qr9Nr</guid>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 무소불위 검찰의 식민지 노스탤지어]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/12173003-0B6E-A149-3CDF-DYLFK3FGYU7YB2R1XFEQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론]]></title>
             <link>http://newstapa.org/article/-MXAJ</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 서부지법 폭동 재판④ ‘폭동’ 피고인 49명의 변론과 판결]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16104118-DDA2-A00B-D850-0OGQBBINULWEC7GMR6J4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 서부지법 폭동 재판③ “해 뜨면 보자” 바리케이드 치고 버틴 난동자들]]></title>
-            <link>http://newstapa.org/article/tDRXs</link>
-            <guid>http://newstapa.org/article/tDRXs</guid>
-            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 서부지법 폭동 재판③ “해 뜨면 보자” 바리케이드 치고 버틴 난동자들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16104301-F977-78B1-8273-94NYWYL3EXZNLPZTXXJZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임성근 전 사단장 인터뷰&검증② “맹세코 구명 로비 없었다?"]]></title>
-            <link>http://newstapa.org/article/Yk8os</link>
-            <guid>http://newstapa.org/article/Yk8os</guid>
-            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[임성근 전 사단장 인터뷰&amp;검증② “맹세코 구명 로비 없었다?"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14171907-F4EA-12F2-3541-NMKNKKIVRX3FTS95KB47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

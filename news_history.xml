@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Dec 2025 07:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Dec 2025 08:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파의 시선] ‘전두환 프로젝트’ 끝나지 않았다]]></title>
+            <link>http://newstapa.org/article/or0Qt</link>
+            <guid>http://newstapa.org/article/or0Qt</guid>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] ‘전두환 프로젝트’ 끝나지 않았다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/12171425-810E-C5D8-4ACA-2IH3RKDB5FVDBUL5LH1O.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[칼럼] 무소불위 검찰의 식민지 노스탤지어]]></title>
+            <link>http://newstapa.org/article/Qr9Nr</link>
+            <guid>http://newstapa.org/article/Qr9Nr</guid>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 무소불위 검찰의 식민지 노스탤지어]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/12173003-0B6E-A149-3CDF-DYLFK3FGYU7YB2R1XFEQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[얼굴, 얼굴들]]></title>
             <link>http://newstapa.org/article/rDq1d</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[한국전쟁 75년] 미공개 포로 영상...'포로와 판문점' 화보집 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/25141823-3666-4F05-57FC-0SD8QYRPB0MJ8W02D32Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['평화의 소녀상' 훼손범도 리박스쿨 강사]]></title>
-            <link>http://newstapa.org/article/XmVnG</link>
-            <guid>http://newstapa.org/article/XmVnG</guid>
-            <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['평화의 소녀상' 훼손범도 리박스쿨 강사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/23174242-F4BB-3893-8AFD-UP08BUA4XML4KE0JAF0L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김대중 증언록... 과거가 보낸 ‘내란 극복 해답지’]]></title>
-            <link>http://newstapa.org/article/0d0ky</link>
-            <guid>http://newstapa.org/article/0d0ky</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김대중 증언록... 과거가 보낸 ‘내란 극복 해답지’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/23112816-6444-0C57-D3BD-E4J8L5WJ3OPRJJZK3NHO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
