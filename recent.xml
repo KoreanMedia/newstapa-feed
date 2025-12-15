@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Dec 2025 04:44:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Dec 2025 05:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] 내 계좌에선 칼같이 떼는 세금, '선박왕'은 14년째 안 내고 있다고?]]></title>
+            <link>http://newstapa.org/article/02bEk</link>
+            <guid>http://newstapa.org/article/02bEk</guid>
+            <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 내 계좌에선 칼같이 떼는 세금, '선박왕'은 14년째 안 내고 있다고?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/15134517-DC03-16EA-7B79-Z2QTHWT00E2UNTEQYWNK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파의 시선] ‘전두환 프로젝트’ 끝나지 않았다]]></title>
             <link>http://newstapa.org/article/or0Qt</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 내란 1년, '엘리트' 허울 뒤의 민주주의 파괴자들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/08113117-0D07-0955-7E6B-847BKWDY0NZRCYQBGC7A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[분석] 해병 특검 '구명 로비 의혹', 끝내 밝히지 못한 이유]]></title>
-            <link>http://newstapa.org/article/9qIHo</link>
-            <guid>http://newstapa.org/article/9qIHo</guid>
-            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[분석] 해병 특검 '구명 로비 의혹', 끝내 밝히지 못한 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05173645-86B3-A9E1-B978-DEQN70P34Q32TXTUBTUZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
