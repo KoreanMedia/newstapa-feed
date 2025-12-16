@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Dec 2025 07:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Dec 2025 08:34:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권성동 의원 검찰 송치...경찰, '뉴스타파 기자 폭행' 혐의 인정]]></title>
+            <link>http://newstapa.org/article/21ID-</link>
+            <guid>http://newstapa.org/article/21ID-</guid>
+            <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[권성동 의원 검찰 송치...경찰, '뉴스타파 기자 폭행' 혐의 인정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/15142959-EBDF-33C2-18D8-ZC4JCN2H16UQF4NKJNZQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 내 계좌에선 칼같이 떼는 세금, '선박왕'은 14년째 안 내고 있다고?]]></title>
             <link>http://newstapa.org/article/02bEk</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 윤석열 언론공범⑧ 윤석열 ‘막말’ 감춘 언론]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/09142242-2E33-AB0A-8CAD-AQYIUQ83LX988JHWGF0R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 내란 1년, '엘리트' 허울 뒤의 민주주의 파괴자들]]></title>
-            <link>http://newstapa.org/article/yU7fA</link>
-            <guid>http://newstapa.org/article/yU7fA</guid>
-            <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 내란 1년, '엘리트' 허울 뒤의 민주주의 파괴자들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/08113117-0D07-0955-7E6B-847BKWDY0NZRCYQBGC7A.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

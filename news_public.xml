@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Dec 2025 07:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Dec 2025 08:34:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권성동 의원 검찰 송치...경찰, '뉴스타파 기자 폭행' 혐의 인정]]></title>
+            <link>http://newstapa.org/article/21ID-</link>
+            <guid>http://newstapa.org/article/21ID-</guid>
+            <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[권성동 의원 검찰 송치...경찰, '뉴스타파 기자 폭행' 혐의 인정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/15142959-EBDF-33C2-18D8-ZC4JCN2H16UQF4NKJNZQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김병기 전 보좌직원, 경찰에 진술서 제출..."의무 없는 일 강요"]]></title>
             <link>http://newstapa.org/article/496D-</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김병기 전 보좌직원 인터뷰① "의원이 아들 편입 방법 찾으라 지시"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/27172135-DD3A-F91F-13C1-9VEJJAYLVLLDVISV3RAR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김병기 전 보좌직원 인터뷰② 차남과 나눈 카톡…김병기 거짓해명 의혹]]></title>
-            <link>http://newstapa.org/article/CjUjb</link>
-            <guid>http://newstapa.org/article/CjUjb</guid>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김병기 전 보좌직원 인터뷰② 차남과 나눈 카톡…김병기 거짓해명 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/27172358-B23E-5C56-BB32-TUL1QINDP8WEAY31KTUV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

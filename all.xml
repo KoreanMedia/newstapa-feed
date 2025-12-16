@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Dec 2025 07:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Dec 2025 08:34:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권성동 의원 검찰 송치...경찰, '뉴스타파 기자 폭행' 혐의 인정 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/21ID-</link>
+            <guid>http://newstapa.org/article/21ID-</guid>
+            <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[권성동 의원 검찰 송치...경찰, '뉴스타파 기자 폭행' 혐의 인정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/15142959-EBDF-33C2-18D8-ZC4JCN2H16UQF4NKJNZQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 내 계좌에선 칼같이 떼는 세금, '선박왕'은 14년째 안 내고 있다고? (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/02bEk</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/09142242-2E33-AB0A-8CAD-AQYIUQ83LX988JHWGF0R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[타파스] 내란 1년, '엘리트' 허울 뒤의 민주주의 파괴자들 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/yU7fA</link>
-            <guid>http://newstapa.org/article/yU7fA</guid>
-            <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 내란 1년, '엘리트' 허울 뒤의 민주주의 파괴자들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/08113117-0D07-0955-7E6B-847BKWDY0NZRCYQBGC7A.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[권성동 의원 검찰 송치...경찰, '뉴스타파 기자 폭행' 혐의 인정 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/21ID-</link>
+            <guid>http://newstapa.org/article/21ID-</guid>
+            <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[권성동 의원 검찰 송치...경찰, '뉴스타파 기자 폭행' 혐의 인정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/15142959-EBDF-33C2-18D8-ZC4JCN2H16UQF4NKJNZQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김병기 전 보좌직원, 경찰에 진술서 제출..."의무 없는 일 강요" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김병기 전 보좌직원 인터뷰① "의원이 아들 편입 방법 찾으라 지시"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/27172135-DD3A-F91F-13C1-9VEJJAYLVLLDVISV3RAR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김병기 전 보좌직원 인터뷰② 차남과 나눈 카톡…김병기 거짓해명 의혹 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/CjUjb</link>
-            <guid>http://newstapa.org/article/CjUjb</guid>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김병기 전 보좌직원 인터뷰② 차남과 나눈 카톡…김병기 거짓해명 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/27172358-B23E-5C56-BB32-TUL1QINDP8WEAY31KTUV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타파의 시선] ‘전두환 프로젝트’ 끝나지 않았다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3336,6 +3336,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15154039-F0FF-A908-F97A-G9UEKOKOWZHLKVBCJED5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 2025 뉴스타파 회원의 밤 라이브 방송, 오는 수요일 오후 6시 반! (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/111860780</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/111860780</guid>
+            <pubDate>Tue, 16 Dec 2025 08:34:11 GMT</pubDate>
+            <content:encoded><![CDATA[깊어가는 겨울밤, 세상을 바꾸는 따뜻한 동행을 만나는 방법!<br><br>오는 수요일(17일) 저녁, 1년에 한번! 뉴스타파와 회원들이 만나는 '회원의 밤' 행사가 진행됩니다. 올해는 현장에 오지 못하시는 회원, 독자들을 위해 특별히 실시간 중계를 준비했습니다. 이날 라이브 방송은 본 행사 시작 30분 전인 6시 반부터 뉴스타파 유튜브 채널과 다음뉴스 라이브를 통해 시청하실 수 있습니다.<br><br>실시간 중계로 회원의 밤을 시청하시는 뉴스타파 정기회원을 대상으로 소정의 선물을 준비했습니다. 실시간 중계 채팅창에 공개되는 URL로 접속하셔서 신청하시면 추첨을 통해 특별한 선물을 보내드릴 예정입니다.<br><br>수요일 밤 6시 30분, 2025 뉴스타파 회원의 밤 라이브 방송! 많은 관심과 시청 바랍니다.<br><br>👉 '2025 뉴스타파 회원의 밤' 라이브 방송 시청하기<br>① 뉴스타파 유튜브 채널 : <span class="link_url">https://www.youtube.com/live/VkM8BcUOGbc</span><br>② 뉴스타파 다음뉴스 라이브  : <span class="link_url">https://live.v.daum.net/news/nMcQ7HJYGX</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[권성동 의원 검찰 송치...경찰, '뉴스타파 기자 폭행' 혐의 인정 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/111860148</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/111860148</guid>
+            <pubDate>Tue, 16 Dec 2025 08:34:11 GMT</pubDate>
+            <content:encoded><![CDATA[지난 4월, 권성동 국민의힘 의원이 뉴스타파 기자를 폭행한 사건 기억하시나요. 공당의 원내대표가 정당한 취재 활동을 하는 언론인을 폭력으로 억압한 희대의 사건이었습니다.<br><br>사건 직후, 뉴스타파 측 고소로 경찰이 수사에 나선 지 5개월 만에 권 의원이 폭행 혐의로 검찰에 송치된 것으로 확인됐습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/21ID-</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연말정산 기부금영수증 발급 안내 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/111856810</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/111856810</guid>
@@ -3462,18 +3476,12 @@
             <content:encoded><![CDATA[윤석열의 12·3 내란 사태가 발생한지 1년이 지났습니다. 경찰과 군대가 국회를 둘러쌌던 그날 밤, 시민들은 맨몸으로 국회를 향해 달려왔습니다. 그날 시민들은 불법 비상계엄을 막아냈을뿐 아니라 무너질 뻔한 대한민국의 민주주의를 지켜냈습니다. <br><br>반면 당시 국무총리와 각 부처 장관 등 국무위원들은 불법 비상계엄에 침묵하거나 동조하는 모습을 보였습니다. 국민의힘 의원들 중 다수는 계엄 해제 표결에 소극적이었고, 이후 윤석열 대통령 탄핵안 표결은 아예 불참했습니다. 12·3 내란이 이른바 '엘리트'들의 민낯을 드러낸 셈입니다.<br><br>이번 주 '타파스'는 12·3 내란 1년을 맞아, 당시 우리나라 엘리트들이 어떻게 내란에 동조했는지, 그리고 진정한 내란 종식을 위해서는 무엇이 필요한지 살펴봤습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/yU7fA</span><br>📨 뉴스레터 타파스를 만나보세요 : <span class="link_url">https://newstapa-tapas.stibee.com/subscribe</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[분석] 해병 특검 '구명 로비 의혹', 끝내 밝히지 못한 이유 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/111744784</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/111744784</guid>
-            <pubDate>Fri, 05 Dec 2025 09:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[지난 11월 28일 막을 내린 순직해병 특검 수사를 두고 여러 평가가 나오고 있습니다. 특검 출범의 기폭제였던 이른바 VIP 격노설에서 비롯된 수사 외압의 실체를 밝힌 것은 큰 성과이지만, 가장 큰 관심이 모인 구명 로비 의혹을 밝히지 못한 것은 아쉽다는 지적이 나옵니다. <br><br>채해병 사건, 그리고 특검을 처음부터 취재해 온 조성식 전문위원이 구명 로비 의혹을 끝내 밝혀지지 않은 이유를 분석했습니다. 조 위원은 "특검은 주어진 환경에서 최선을 다해 수사했다"고 평가하며 "애초 입증이 힘든 의혹제기였는지 모른다"고 분석했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/9qIHo</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[눈 떠보니 내가 특활비 결재하는 검사장?! (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/111740544</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/111740544</guid>
-            <pubDate>Fri, 05 Dec 2025 05:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[검사장이 자기 밥값에 특활비를 쓴다?<br>심지어 본인 직접 결재까지?<br>모두 실제 서울동부지검에서 벌어진 일입니다.<br>당신의 세금으로요.<br><br>기록은 말합니다.<br>회식, 떡값, 전별금까지 모두 일탈이 아니라 관행이었다고.<br><br>뉴스타파는 서울동부지검의 특활비 자료로 게임을 만들었습니다.<br>그 황당한 현실을 직접 마주해보세요.<br><br>당신은 결재하시겠습니까?<br>👉 <span class="link_url">https://pages.newstapa.org/2025/prosecutors_quiz/</span>]]></content:encoded>
+            <title><![CDATA[권성동 의원 검찰 송치...경찰, '뉴스타파 기자 폭행' 혐의 인정 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20251216163644099</link>
+            <guid>https://v.daum.net/v/20251216163644099</guid>
+            <pubDate>Tue, 16 Dec 2025 08:34:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251216163644099" class="link_column"><div class="cont_thumb"><strong class="tit_txt">권성동 의원 검찰 송치...경찰, '뉴스타파 기자 폭행' 혐의 인정</strong><span class="info_txt"><span class="txt_info">57분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F16%2Fnewstapa%2F20251216163645511hbkn.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F16%2Fnewstapa%2F20251216163645511hbkn.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[타파스] 내 계좌에선 칼같이 떼는 세금, '선박왕'은 14년째 안 내고 있다고? (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3488,7 +3496,7 @@
             <link>https://v.daum.net/v/20251212171647696</link>
             <guid>https://v.daum.net/v/20251212171647696</guid>
             <pubDate>Fri, 12 Dec 2025 08:34:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251212171647696" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] ‘전두환 프로젝트’ 끝나지 않았다</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F12%2Fnewstapa%2F20251212171648864sxrp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251212171647696" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] ‘전두환 프로젝트’ 끝나지 않았다</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F12%2Fnewstapa%2F20251212171648864sxrp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F12%2Fnewstapa%2F20251212171648864sxrp.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3504,7 @@
             <link>https://v.daum.net/v/20251212170116132</link>
             <guid>https://v.daum.net/v/20251212170116132</guid>
             <pubDate>Fri, 12 Dec 2025 08:34:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251212170116132" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'사적 동원과 특혜'...김병기 원내대표가 외면한 두 가지 핵심 의혹 총정리</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F12%2Fnewstapa%2F20251212170117466xjwa.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251212170116132" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'사적 동원과 특혜'...김병기 원내대표가 외면한 두 가지 핵심 의혹 총정리</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F12%2Fnewstapa%2F20251212170117466xjwa.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F12%2Fnewstapa%2F20251212170117466xjwa.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3512,7 @@
             <link>https://v.daum.net/v/20251212170112124</link>
             <guid>https://v.daum.net/v/20251212170112124</guid>
             <pubDate>Fri, 12 Dec 2025 08:34:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251212170112124" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김병기 전 보좌직원, 경찰에 진술서 제출..."의무 없는 일 강요"</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F12%2Fnewstapa%2F20251212170113332vmvg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251212170112124" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김병기 전 보좌직원, 경찰에 진술서 제출..."의무 없는 일 강요"</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F12%2Fnewstapa%2F20251212170113332vmvg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F12%2Fnewstapa%2F20251212170113332vmvg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3512,7 +3520,7 @@
             <link>https://v.daum.net/v/20251212164612633</link>
             <guid>https://v.daum.net/v/20251212164612633</guid>
             <pubDate>Fri, 12 Dec 2025 08:34:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251212164612633" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 무소불위 검찰의 식민지 노스탤지어</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F12%2Fnewstapa%2F20251212164614257awiz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251212164612633" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 무소불위 검찰의 식민지 노스탤지어</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F12%2Fnewstapa%2F20251212164614257awiz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F12%2Fnewstapa%2F20251212164614257awiz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3705,14 +3713,6 @@
             <pubDate>Mon, 01 Dec 2025 03:56:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251201113639316" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] '의원 아들 편입에 동원, 모욕적이었다' 김병기 전 보좌직원의 고백</strong><span class="info_txt"><span class="txt_info">2025. 12. 1.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F01%2Fnewstapa%2F20251201113640305nqth.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F01%2Fnewstapa%2F20251201113640305nqth.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20251128175151412</link>
-            <guid>https://v.daum.net/v/20251128175151412</guid>
-            <pubDate>Fri, 28 Nov 2025 09:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251128175151412" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론</strong><span class="info_txt"><span class="txt_info">2025. 11. 28.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128175152949jsvp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202511%2F28%2Fnewstapa%2F20251128175152949jsvp.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
