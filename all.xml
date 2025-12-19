@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Dec 2025 05:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 07:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/l3mIk</link>
+            <guid>http://newstapa.org/article/l3mIk</guid>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19155806-ED66-215E-D905-2UF1LX2CUMX567YQS8DZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파의 시선] 코스피 4천 시대, 당신이 더 가난해진 이유 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/IklsH</link>
@@ -37,7 +45,7 @@
             <guid>http://newstapa.org/article/VSKYX</guid>
             <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[통일교의 ‘정교일치 실험장’ 추적]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/18165837-4677-E14B-9D53-8GEP6E6SSW29SWEPRRDX.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19144021-1374-02CA-A6D9-9KJBS6YDJDUXLZ8F439F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산 중턱에 ‘통일교 궁전’이 어떻게? 특혜 행정 의혹 (뉴스타파 ─ 뉴스)]]></title>
@@ -128,14 +136,6 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/12173003-0B6E-A149-3CDF-DYLFK3FGYU7YB2R1XFEQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 뉴스타파] 법 위의 선박왕, 세금은 정의로운가 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/w7MLl</link>
-            <guid>http://newstapa.org/article/w7MLl</guid>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 법 위의 선박왕, 세금은 정의로운가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/11171650-69A7-F1FD-2AA8-JJJ4OZ86G0WHYTRXLQGW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[칼럼] 내란특검 최대 미스터리, 김건희가 비상계엄을 몰랐다고? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/dj_oi</link>
             <guid>http://newstapa.org/article/dj_oi</guid>
@@ -157,7 +157,7 @@
             <guid>http://newstapa.org/article/VSKYX</guid>
             <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[통일교의 ‘정교일치 실험장’ 추적]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/18165837-4677-E14B-9D53-8GEP6E6SSW29SWEPRRDX.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19144021-1374-02CA-A6D9-9KJBS6YDJDUXLZ8F439F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산 중턱에 ‘통일교 궁전’이 어떻게? 특혜 행정 의혹 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -405,7 +405,7 @@
             <guid>http://newstapa.org/article/VSKYX</guid>
             <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[통일교의 ‘정교일치 실험장’ 추적]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/18165837-4677-E14B-9D53-8GEP6E6SSW29SWEPRRDX.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19144021-1374-02CA-A6D9-9KJBS6YDJDUXLZ8F439F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산 중턱에 ‘통일교 궁전’이 어떻게? 특혜 행정 의혹 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -518,6 +518,14 @@
             <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 검찰의 ATM이 된 특활비... 검사장 비서까지 챙겼다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/03113226-383C-7077-4152-DSNTL9U4J9BPTBGY1RWO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
+            <link>http://newstapa.org/article/l3mIk</link>
+            <guid>http://newstapa.org/article/l3mIk</guid>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19155806-ED66-215E-D905-2UF1LX2CUMX567YQS8DZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 법 위의 선박왕, 세금은 정의로운가 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
@@ -638,14 +646,6 @@
             <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[다큐 후일담] 'SPC 빵공장의 죽음' 취재기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/17185430-BBBE-E961-B3F9-6I7K2I82I69FUV4XJP8I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다큐 뉴스타파]아무도 책임지지 않는다, SPC 빵공장의 죽음 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/vC1rE</link>
-            <guid>http://newstapa.org/article/vC1rE</guid>
-            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다큐 뉴스타파]아무도 책임지지 않는다, SPC 빵공장의 죽음]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11140012-8489-71C6-BD4F-ZHOGG0C66VEZYBERM2NQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 로비 자금의 뿌리... 일본 통일교인 착취 헌금 (뉴스타파 ─ 뉴스 ─ 종교)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/11/905c52182f90929a1a8e41ac0fa935a9e47378eda3e850b7a01616279c4409fcf7a5728d43ee56c21631d9709f0210da737b02f4b7fde3599d572425e1a6ea35.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
+            <link>http://newstapa.org/article/l3mIk</link>
+            <guid>http://newstapa.org/article/l3mIk</guid>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19155806-ED66-215E-D905-2UF1LX2CUMX567YQS8DZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[타파의 시선] 코스피 4천 시대, 당신이 더 가난해진 이유 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
             <link>http://newstapa.org/article/IklsH</link>
             <guid>http://newstapa.org/article/IklsH</guid>
@@ -894,14 +902,6 @@
             <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[PF위기① 태영건설 워크아웃 '추락의 해부']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/17175240-2060-966F-46FD-SMK1FGWR7VL847YGZJ0P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보이스피싱 범죄에 악용된 KT의 법인폰 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/oxMJY</link>
-            <guid>http://newstapa.org/article/oxMJY</guid>
-            <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[보이스피싱 범죄에 악용된 KT의 법인폰]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/31193903-82A2-FE44-994E-XVFFEFHXZMZCOIA6VAXX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[UN '삼성 베트남 공장 환경·보건 우려' 서한 정부와 삼성에 발송 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
@@ -3336,6 +3336,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15154039-F0FF-A908-F97A-G9UEKOKOWZHLKVBCJED5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파 회원의밤, KINN <살아지구><뉴스하다>로 이어진 '초심' (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/111896421</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/111896421</guid>
+            <pubDate>Fri, 19 Dec 2025 07:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[지난 12월 17일, ‘2025 뉴스타파 회원의 밤’이 끝난 뒤 한 회원님이 조용히 다가오셨습니다.<br><br>그리고 지갑 속에 있던 현금 15만 원을 꺼내 건네주셨습니다. 뉴스타파가 아니라 뉴스타파가 배출한  독립언론 &lt;살아지구&gt;를 위한 후원금이었습니다. 회원님은 “&lt;살아지구&gt;가 우리 아이들을 위한 보도를 해줘서 고맙다”며 “지금 주머니에 이게 전부라 이거밖에 못 준다”고하셨습니다. <br><br>이날 ‘회원의 밤’에는 뉴스타파와 뉴스타파함께재단이 인큐베이팅한 기후·생태 전문 독립언론 &lt;살아지구&gt;와 인천·경기 독립언론 &lt;뉴스하다&gt;도 함께 했습니다. 초창기 뉴스타파 멤버인 이근행 PD와  최경영 기자, 새롭게 독립언론을 시작한 살아지구의 임병선 기자, 뉴스하다의 홍봄 기자가 ‘초심’을 주제로 진솔한 대화를 나눴습니다.<br><br>임병선 기자는 이렇게 말했습니다.<br>“자본과 권력으로부터의 독립뿐 아니라, 이제는 스스로 버틸 수 있는 자립이 필요합니다.”<br><br>임 기자는 현재 취재비를 마련하기 위해 낮에는 기사를 쓰고, 밤에는 배달 라이더로 일하고 있습니다.<br>기후와 생태를 기록하는 일이 ‘돈이 안 되는 분야’가 되어버린 현실 속에서 비영리 독립언론 기자의 삶은 고단합니다. <br><br>기후·생태 문제는 우리 아이들의 삶과 직결된 문제입니다. 그래서 상업성과 무관하게 끝까지 취재할 수 있는 독립언론이 필요합니다. 회원님이 건네주신 15만 원에는 ‘계속해 달라’는 간절한 응원이 담겨 있었습니다.<br><br>이날 회원의 밤이 끝난 후 9명의 회원님이 새롭게 ‘살아지구’의 회원이 되셨습니다. 우리 아이들의 내일을 위해 기후·생태 전문 독립언론을 응원해주세요. 뉴스타파와 뉴스타파함께재단도 작은 독립언론과의 연대와 협업에 최선을 다하겠습니다. <br><br>🌎 독립언론 &lt;살아지구&gt; 후원하기 <span class="link_url">https://disappearth.org</span>/<br>🙌 독립언론 100개 만들기 프로젝트 응원하기 <span class="link_url">https://withnewstapa.org/support</span>/<br>👉 '2025 뉴스타파 회원의 밤' 시청하기 <span class="link_url">https://www.youtube.com/live/VkM8BcUOGbc</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/111896217</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/111896217</guid>
+            <pubDate>Fri, 19 Dec 2025 07:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[세금 4천억 원을 체납하고 있는 ‘선박왕’ 권혁 회장. 국세청은 권혁 회장 소유로 드러난 국내 자산에 압류를 걸어 둔 상태지만다 추징한다해도 여전히 2,000억 원의 세금은 받아내기 어려운 상태입니다. 이런 상황에서 뉴스타파는 권혁 회장이 해외 법인에 있던 돈 1,000억 원을 국내로 들여와 부동산 등에 투자한 사실을 확인했습니다.<br><br>국내에는 자산도 소득도 0원이라며 14년 동안 소송을 벌여 온 권혁 회장이 정작 더 많은 돈을 벌 투자 기회를 놓치지 않기 위해서는 해외에 있는 금고에서 무려 천억 원이 넘는 돈을 꺼내 국내로 들여온 것입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/cqwsFN9Fz0Q</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/l3mIk</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[타파의 시선] 코스피 4천 시대, 당신이 더 가난해진 이유 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/111891466</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/111891466</guid>
@@ -3462,25 +3476,19 @@
             <content:encoded><![CDATA[뉴스타파가 보도한 '차남 대학 편입' 의혹 관련, 더불어민주당 김병기 원내대표는 자신의 SNS에 여러 차례 입장문을 냈습니다. 하지만  그는 '허위·왜곡 보도'라고 주장할 뿐, 의혹의 핵심 내용과 증거들에 대해 답하지 않고 있습니다. 그러면서 뉴스타파를 상대로 추가적인 법적 조치도 예고했는데요.<br><br>뉴스타파는 김 원내대표가 외면하고 있는 차남의 대학 편입 관련 두 가지 핵심 의혹이 무엇인지 다시 정리했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/1ziVEq5-3_s</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/jr0Bt</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김병기 전 보좌직원, 경찰에 진술서 제출..."의무 없는 일 강요" (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/111827524</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/111827524</guid>
-            <pubDate>Fri, 12 Dec 2025 08:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[더불어민주당 김병기 원내대표의 '차남 대학 편입 의혹'을 수사 중인 경찰이 최근 김병기 의원실 전직 보좌 직원 A씨를 불러 참고인 조사를 한 것으로 확인됐습니다. A씨는 김 원내대표 차남의 대학 편입 관련 여러 지시를 받았다고 증언한 핵심 당사자입니다. <br><br>경찰은 A씨로부터 관련 의혹을 뒷받침할 각종 증거 자료가 담긴 진술서도 제출받은 것으로 확인됐습니다. 사건 핵심 당사자의 진술과 자료를 확보한 경찰이 조만간 추가 참고인 조사에 나설지 주목됩니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/oaH_pr-5vUU</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/496D-</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] 무소불위 검찰의 식민지 노스탤지어 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/111827185</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/111827185</guid>
-            <pubDate>Fri, 12 Dec 2025 08:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[폐지가 예정된 검찰을 지키려는 검사들의 시도가 끊이지 않습니다. 무소불위의 권력을 지키려는 시도에는 현직 검사는 물론, 검찰 권력을 매개로 공생하는 전직 검사까지 나섭니다. <br><br>이들이 비정상적인 검찰 권력을 지키려, 일제강점기 시절에서 비롯한 제도까지 뒤틀어 옹호한다고 이범준 전문위원은 지적합니다. <br><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/Qr9Nr</span>]]></content:encoded>
+            <title><![CDATA['4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20251219160150876</link>
+            <guid>https://v.daum.net/v/20251219160150876</guid>
+            <pubDate>Fri, 19 Dec 2025 07:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251219160150876" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인</strong><span class="info_txt"><span class="txt_info">23분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219160202864rxii.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219160202864rxii.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[타파의 시선] 코스피 4천 시대, 당신이 더 가난해진 이유 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20251219112149691</link>
             <guid>https://v.daum.net/v/20251219112149691</guid>
             <pubDate>Fri, 19 Dec 2025 03:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251219112149691" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 코스피 4천 시대, 당신이 더 가난해진 이유</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219112150896xomu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251219112149691" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 코스피 4천 시대, 당신이 더 가난해진 이유</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219112150896xomu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219112150896xomu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3488,7 +3496,7 @@
             <link>https://v.daum.net/v/20251219111149124</link>
             <guid>https://v.daum.net/v/20251219111149124</guid>
             <pubDate>Fri, 19 Dec 2025 03:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251219111149124" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 내란특검 최대 미스터리, 김건희가 비상계엄을 몰랐다고?</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219111151051ickq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251219111149124" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 내란특검 최대 미스터리, 김건희가 비상계엄을 몰랐다고?</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219111151051ickq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219111151051ickq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3504,7 @@
             <link>https://v.daum.net/v/20251218170659490</link>
             <guid>https://v.daum.net/v/20251218170659490</guid>
             <pubDate>Thu, 18 Dec 2025 09:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170659490" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '가평복귀'... 통일교 게이트의 새로운 축을 찾다</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170702303rgnz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170659490" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '가평복귀'... 통일교 게이트의 새로운 축을 찾다</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170702303rgnz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170702303rgnz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3512,7 @@
             <link>https://v.daum.net/v/20251218170651485</link>
             <guid>https://v.daum.net/v/20251218170651485</guid>
             <pubDate>Thu, 18 Dec 2025 09:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170651485" class="link_column"><div class="cont_thumb"><strong class="tit_txt">통일교의 ‘정교일치 실험장’ 추적</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170659057avor.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170651485" class="link_column"><div class="cont_thumb"><strong class="tit_txt">통일교의 ‘정교일치 실험장’ 추적</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170659057avor.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170659057avor.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3512,7 +3520,7 @@
             <link>https://v.daum.net/v/20251218170642480</link>
             <guid>https://v.daum.net/v/20251218170642480</guid>
             <pubDate>Thu, 18 Dec 2025 09:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170642480" class="link_column"><div class="cont_thumb"><strong class="tit_txt">산 중턱에 ‘통일교 궁전’이 어떻게? 특혜 행정 의혹</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170651104sfuv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170642480" class="link_column"><div class="cont_thumb"><strong class="tit_txt">산 중턱에 ‘통일교 궁전’이 어떻게? 특혜 행정 의혹</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170651104sfuv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170651104sfuv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3520,7 +3528,7 @@
             <link>https://v.daum.net/v/20251218170141192</link>
             <guid>https://v.daum.net/v/20251218170141192</guid>
             <pubDate>Thu, 18 Dec 2025 09:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170141192" class="link_column"><div class="cont_thumb"><strong class="tit_txt">통일교 ‘성지순례 유람선’ 사업에 세금 80억 투입 확인</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170150166ssxx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170141192" class="link_column"><div class="cont_thumb"><strong class="tit_txt">통일교 ‘성지순례 유람선’ 사업에 세금 80억 투입 확인</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170150166ssxx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170150166ssxx.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3706,14 +3714,6 @@
             <pubDate>Fri, 05 Dec 2025 03:22:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251205113112658" class="link_column"><div class="cont_thumb"><strong class="tit_txt">검찰의 '특수활동비 현금 저수지'… 물증 나왔다</strong><span class="info_txt"><span class="txt_info">2025. 12. 5.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F05%2Fnewstapa%2F20251205113123590dwpe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F05%2Fnewstapa%2F20251205113123590dwpe.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 로비 자금의 뿌리... 일본 통일교인 착취 헌금 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20251204180650071</link>
-            <guid>https://v.daum.net/v/20251204180650071</guid>
-            <pubDate>Thu, 04 Dec 2025 09:29:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251204180650071" class="link_column"><div class="cont_thumb"><strong class="tit_txt">윤석열 로비 자금의 뿌리... 일본 통일교인 착취 헌금</strong><span class="info_txt"><span class="txt_info">2025. 12. 4.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204180651501bpzs.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204180651501bpzs.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
