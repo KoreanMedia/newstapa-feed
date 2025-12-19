@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Dec 2025 01:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 03:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파의 시선] 코스피 4천 시대, 당신이 더 가난해진 이유]]></title>
+            <link>http://newstapa.org/article/IklsH</link>
+            <guid>http://newstapa.org/article/IklsH</guid>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] 코스피 4천 시대, 당신이 더 가난해진 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19111550-9649-3483-C1F6-OAC0ZJB2ZZQ52E8W30RJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[칼럼] 내란특검 최대 미스터리, 김건희가 비상계엄을 몰랐다고?]]></title>
+            <link>http://newstapa.org/article/dj_oi</link>
+            <guid>http://newstapa.org/article/dj_oi</guid>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 내란특검 최대 미스터리, 김건희가 비상계엄을 몰랐다고?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19110645-BFBE-6ECB-21CC-L85E1J7W9L48O4PTBF92.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] '가평복귀'... 통일교 게이트의 새로운 축을 찾다]]></title>
             <link>http://newstapa.org/article/tGXvH</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 법 위의 선박왕, 세금은 정의로운가]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/11171650-69A7-F1FD-2AA8-JJJ4OZ86G0WHYTRXLQGW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법 위의 선박왕 ① 하루 70억 원 버는데... 세금 4천억 안내고 버텼다]]></title>
-            <link>http://newstapa.org/article/MX6Wn</link>
-            <guid>http://newstapa.org/article/MX6Wn</guid>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법 위의 선박왕 ① 하루 70억 원 버는데... 세금 4천억 안내고 버텼다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/11171320-4AB3-2992-6CC0-4M6FD79LHJBE2V8GAZDT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법 위의 선박왕 ② 14년 소송전... 50만분 1의 확률과 줄어든 세금 1,300억]]></title>
-            <link>http://newstapa.org/article/p8iMb</link>
-            <guid>http://newstapa.org/article/p8iMb</guid>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법 위의 선박왕 ② 14년 소송전... 50만분 1의 확률과 줄어든 세금 1,300억]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/11171551-7B09-1410-944B-XPWA3JE6MEXV3IQPI4DE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

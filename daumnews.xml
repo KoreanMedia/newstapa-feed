@@ -4,15 +4,31 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Dec 2025 01:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 03:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파의 시선] 코스피 4천 시대, 당신이 더 가난해진 이유]]></title>
+            <link>https://v.daum.net/v/20251219112149691</link>
+            <guid>https://v.daum.net/v/20251219112149691</guid>
+            <pubDate>Fri, 19 Dec 2025 03:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251219112149691" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 코스피 4천 시대, 당신이 더 가난해진 이유</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219112150896xomu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219112150896xomu.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
+            <title><![CDATA[[칼럼] 내란특검 최대 미스터리, 김건희가 비상계엄을 몰랐다고?]]></title>
+            <link>https://v.daum.net/v/20251219111149124</link>
+            <guid>https://v.daum.net/v/20251219111149124</guid>
+            <pubDate>Fri, 19 Dec 2025 03:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251219111149124" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 내란특검 최대 미스터리, 김건희가 비상계엄을 몰랐다고?</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219111151051ickq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219111151051ickq.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] '가평복귀'... 통일교 게이트의 새로운 축을 찾다]]></title>
             <link>https://v.daum.net/v/20251218170659490</link>
             <guid>https://v.daum.net/v/20251218170659490</guid>
             <pubDate>Thu, 18 Dec 2025 09:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170659490" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '가평복귀'... 통일교 게이트의 새로운 축을 찾다</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170702303rgnz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170659490" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '가평복귀'... 통일교 게이트의 새로운 축을 찾다</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170702303rgnz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170702303rgnz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://v.daum.net/v/20251218170651485</link>
             <guid>https://v.daum.net/v/20251218170651485</guid>
             <pubDate>Thu, 18 Dec 2025 09:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170651485" class="link_column"><div class="cont_thumb"><strong class="tit_txt">통일교의 ‘정교일치 실험장’ 추적</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170659057avor.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170651485" class="link_column"><div class="cont_thumb"><strong class="tit_txt">통일교의 ‘정교일치 실험장’ 추적</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170659057avor.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170659057avor.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://v.daum.net/v/20251218170642480</link>
             <guid>https://v.daum.net/v/20251218170642480</guid>
             <pubDate>Thu, 18 Dec 2025 09:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170642480" class="link_column"><div class="cont_thumb"><strong class="tit_txt">산 중턱에 ‘통일교 궁전’이 어떻게? 특혜 행정 의혹</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170651104sfuv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170642480" class="link_column"><div class="cont_thumb"><strong class="tit_txt">산 중턱에 ‘통일교 궁전’이 어떻게? 특혜 행정 의혹</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170651104sfuv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170651104sfuv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://v.daum.net/v/20251218170141192</link>
             <guid>https://v.daum.net/v/20251218170141192</guid>
             <pubDate>Thu, 18 Dec 2025 09:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170141192" class="link_column"><div class="cont_thumb"><strong class="tit_txt">통일교 ‘성지순례 유람선’ 사업에 세금 80억 투입 확인</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170150166ssxx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170141192" class="link_column"><div class="cont_thumb"><strong class="tit_txt">통일교 ‘성지순례 유람선’ 사업에 세금 80억 투입 확인</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170150166ssxx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170150166ssxx.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 04 Dec 2025 09:29:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251204180650071" class="link_column"><div class="cont_thumb"><strong class="tit_txt">윤석열 로비 자금의 뿌리... 일본 통일교인 착취 헌금</strong><span class="info_txt"><span class="txt_info">2025. 12. 4.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204180651501bpzs.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204180651501bpzs.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[“아들 편입 서류 보내달라”…  김병기 배우자, '보좌진 사적 동원' 녹취 입수]]></title>
-            <link>https://v.daum.net/v/20251204171709947</link>
-            <guid>https://v.daum.net/v/20251204171709947</guid>
-            <pubDate>Thu, 04 Dec 2025 08:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251204171709947" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“아들 편입 서류 보내달라”…  김병기 배우자, '보좌진 사적 동원' 녹취 입수</strong><span class="info_txt"><span class="txt_info">2025. 12. 4.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204171717617hvzm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204171717617hvzm.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[“뉴스타파는 멈추지 않았다”...GIJC 총회서 ‘잠입취재·압수수색’ 공유]]></title>
-            <link>https://v.daum.net/v/20251204105653308</link>
-            <guid>https://v.daum.net/v/20251204105653308</guid>
-            <pubDate>Thu, 04 Dec 2025 03:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251204105653308" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“뉴스타파는 멈추지 않았다”...GIJC 총회서 ‘잠입취재·압수수색’ 공유</strong><span class="info_txt"><span class="txt_info">2025. 12. 4.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204105702718spbg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F04%2Fnewstapa%2F20251204105702718spbg.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Dec 2025 01:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 03:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] 내란특검 최대 미스터리, 김건희가 비상계엄을 몰랐다고?]]></title>
+            <link>http://newstapa.org/article/dj_oi</link>
+            <guid>http://newstapa.org/article/dj_oi</guid>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 내란특검 최대 미스터리, 김건희가 비상계엄을 몰랐다고?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19110645-BFBE-6ECB-21CC-L85E1J7W9L48O4PTBF92.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<뉴스타파 v. 윤석열> 조현성, “저렇게 진술을 하고자 했던 게 아닌 것 같습니다”]]></title>
             <link>http://newstapa.org/article/j6iuS</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 김건희 특검은 어떻게 검사들의 '인질'이 되었나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/21145504-3779-6583-1B41-MKOFLUSQR2BSXOTUGVAD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['검사의 난' 김건희 특검 검사 40명 실명 공개.. 절반이 윤 정부서 '정치 수사']]></title>
-            <link>http://newstapa.org/article/V7mwN</link>
-            <guid>http://newstapa.org/article/V7mwN</guid>
-            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['검사의 난' 김건희 특검 검사 40명 실명 공개.. 절반이 윤 정부서 '정치 수사']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16180149-EB88-5788-1BE1-H2E4TVERO3JRH3ZVN4L9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
