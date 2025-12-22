@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 종교</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Dec 2025 01:53:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Dec 2025 03:46:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] 내 세금이 통일교 성지순례에 쓰인다? '정교일치' 실험장이 된 가평군]]></title>
+            <link>http://newstapa.org/article/LF4bw</link>
+            <guid>http://newstapa.org/article/LF4bw</guid>
+            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 내 세금이 통일교 성지순례에 쓰인다? '정교일치' 실험장이 된 가평군]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/22110606-B755-4113-8230-6HJTJPXV83VDTAF8LMZQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 로비 자금의 뿌리... 일본 통일교인 착취 헌금]]></title>
             <link>http://newstapa.org/article/5viZu</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 20 Nov 2018 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조용기 일가의 차명 부동산 ① : 순복음교회 선교비 270억의 비밀]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/11/497f27d443dec64f52f7230d255c8ec70214fb315e1f4dc0e953d5423066fb67adf4b5d9a496c1592eca330a5fdd9261a13fbef74717159ce5ed0964c6ac6b57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 조용기 일가의 30년 차명 부동산]]></title>
-            <link>http://newstapa.org/article/YURVu</link>
-            <guid>http://newstapa.org/article/YURVu</guid>
-            <pubDate>Fri, 16 Nov 2018 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[예고] 조용기 일가의 30년 차명 부동산]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/11/905c52182f90929a1a8e41ac0fa935a9e47378eda3e850b7a01616279c4409fcf7a5728d43ee56c21631d9709f0210da737b02f4b7fde3599d572425e1a6ea35.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
