@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Dec 2025 08:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Dec 2025 09:29:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사찰과 보복... 김병기가 쿠팡 대표를 만난 이유]]></title>
+            <link>http://newstapa.org/article/X9sgg</link>
+            <guid>http://newstapa.org/article/X9sgg</guid>
+            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사찰과 보복... 김병기가 쿠팡 대표를 만난 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/23173904-3030-D5E8-90C9-V4TYA8QAKETT827ROVV8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡의 '산재 은폐' 합의서 공개... 언론·노조에 얘기하면 “민형사상 책임”]]></title>
             <link>http://newstapa.org/article/2-93X</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 내 계좌에선 칼같이 떼는 세금, '선박왕'은 14년째 안 내고 있다고?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/15134517-DC03-16EA-7B79-Z2QTHWT00E2UNTEQYWNK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] ‘전두환 프로젝트’ 끝나지 않았다]]></title>
-            <link>http://newstapa.org/article/or0Qt</link>
-            <guid>http://newstapa.org/article/or0Qt</guid>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파의 시선] ‘전두환 프로젝트’ 끝나지 않았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/12171425-810E-C5D8-4ACA-2IH3RKDB5FVDBUL5LH1O.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
