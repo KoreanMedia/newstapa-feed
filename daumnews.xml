@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Dec 2025 09:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Dec 2025 10:28:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://v.daum.net/v/20251223174643500</link>
             <guid>https://v.daum.net/v/20251223174643500</guid>
             <pubDate>Tue, 23 Dec 2025 09:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251223174643500" class="link_column"><div class="cont_thumb"><strong class="tit_txt">사찰과 보복... 김병기가 쿠팡 대표를 만난 이유</strong><span class="info_txt"><span class="txt_info">42분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F23%2Fnewstapa%2F20251223174650933klna.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251223174643500" class="link_column"><div class="cont_thumb"><strong class="tit_txt">사찰과 보복... 김병기가 쿠팡 대표를 만난 이유</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F23%2Fnewstapa%2F20251223174650933klna.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F23%2Fnewstapa%2F20251223174650933klna.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -115,7 +115,7 @@
             <link>https://v.daum.net/v/20251216184701170</link>
             <guid>https://v.daum.net/v/20251216184701170</guid>
             <pubDate>Tue, 16 Dec 2025 10:29:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251216184701170" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;뉴스타파 v. 윤석열&gt; 조현성, “저렇게 진술을 하고자 했던 게 아닌 것 같습니다”</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F16%2Fnewstapa%2F20251216184702703aznk.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251216184701170" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;뉴스타파 v. 윤석열&gt; 조현성, “저렇게 진술을 하고자 했던 게 아닌 것 같습니다”</strong><span class="info_txt"><span class="txt_info">2025. 12. 16.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F16%2Fnewstapa%2F20251216184702703aznk.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F16%2Fnewstapa%2F20251216184702703aznk.png" length="0" type="image/q70/"/>
         </item>
         <item>
