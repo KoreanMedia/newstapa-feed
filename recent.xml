@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Dec 2025 08:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Dec 2025 09:27:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 통일교 궁전에 UN사무국? 막 오르는 '통일교 특검']]></title>
+            <link>http://newstapa.org/article/df8Z4</link>
+            <guid>http://newstapa.org/article/df8Z4</guid>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 통일교 궁전에 UN사무국? 막 오르는 '통일교 특검']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/26174319-9E76-C4B7-0896-1LUCG64ATV0DI6M24M55.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통일교 타운 성지화… ‘특구’ 지정까지 추진]]></title>
+            <link>http://newstapa.org/article/JqxXs</link>
+            <guid>http://newstapa.org/article/JqxXs</guid>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[통일교 타운 성지화… ‘특구’ 지정까지 추진]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/26161516-FD12-8CC6-8430-DHKMTIBB3HTJS85ILEXN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘UN 사무국을 통일교 궁전으로’… 가평군수가 앞장]]></title>
+            <link>http://newstapa.org/article/Gmq3j</link>
+            <guid>http://newstapa.org/article/Gmq3j</guid>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘UN 사무국을 통일교 궁전으로’… 가평군수가 앞장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/26174251-46D6-2CAC-E7BE-OVD6WTORICX8DMX7H134.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“사모가 썼다”… ‘김병기 배우자 업추비 유용’ 자백 녹취 공개]]></title>
             <link>http://newstapa.org/article/d8CGO</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[통일교 ‘성지순례 유람선’ 사업에 세금 80억 투입 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/18144235-6953-3237-4192-Q6ARK6FI7821VEFALQKO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡-김병기 회동 전말... 쿠팡 취업한 보좌진 색출해 '해고 외압' 의혹]]></title>
-            <link>http://newstapa.org/article/UffIO</link>
-            <guid>http://newstapa.org/article/UffIO</guid>
-            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡-김병기 회동 전말... 쿠팡 취업한 보좌진 색출해 '해고 외압' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/17183153-41F2-08CC-EC70-NYC1A8YABAT9KNMUQ6J7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE] 2025 뉴스타파 회원의밤 : 근본이즘]]></title>
-            <link>http://newstapa.org/article/wcMB_</link>
-            <guid>http://newstapa.org/article/wcMB_</guid>
-            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[LIVE] 2025 뉴스타파 회원의밤 : 근본이즘]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/17161602-4B9F-B326-31B1-N83E4ZL4A4684FONDD7I.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뉴스타파 v. 윤석열> 조현성, “저렇게 진술을 하고자 했던 게 아닌 것 같습니다”]]></title>
-            <link>http://newstapa.org/article/j6iuS</link>
-            <guid>http://newstapa.org/article/j6iuS</guid>
-            <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; 조현성, “저렇게 진술을 하고자 했던 게 아닌 것 같습니다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/16184300-C211-5C6C-1D0E-PM2BIVJ78LV2A8D3QJ0R.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
