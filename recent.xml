@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Dec 2025 23:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Dec 2025 01:56:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김병기, 배우자 '업무추진비 유용' 알고도 은폐했다... 육성 녹음 공개]]></title>
+            <link>http://newstapa.org/article/Z7XaW</link>
+            <guid>http://newstapa.org/article/Z7XaW</guid>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김병기, 배우자 '업무추진비 유용' 알고도 은폐했다... 육성 녹음 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/29105324-E922-730D-23F4-KUPHUU1V7Y3SYXPLFF95.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 통일교 궁전에 UN사무국? 막 오르는 '통일교 특검']]></title>
             <link>http://newstapa.org/article/df8Z4</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[산 중턱에 ‘통일교 궁전’이 어떻게? 특혜 행정 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/18144242-B32A-F456-C54E-JP7PWFQSXRICO6Y4EBN3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통일교 ‘성지순례 유람선’ 사업에 세금 80억 투입 확인]]></title>
-            <link>http://newstapa.org/article/V1YWM</link>
-            <guid>http://newstapa.org/article/V1YWM</guid>
-            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[통일교 ‘성지순례 유람선’ 사업에 세금 80억 투입 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/18144235-6953-3237-4192-Q6ARK6FI7821VEFALQKO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
