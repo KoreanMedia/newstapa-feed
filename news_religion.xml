@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 종교</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Dec 2025 04:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Dec 2025 05:32:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] UN 사무국을 가평에? 통일교 숙원 해결 앞장선 가평군수]]></title>
+            <link>http://newstapa.org/article/H23E8</link>
+            <guid>http://newstapa.org/article/H23E8</guid>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] UN 사무국을 가평에? 통일교 숙원 해결 앞장선 가평군수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/29140812-6B63-BB63-B3FE-WPBYUVZLDFVY7TYD0NGK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 내 세금이 통일교 성지순례에 쓰인다? '정교일치' 실험장이 된 가평군]]></title>
             <link>http://newstapa.org/article/LF4bw</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 22 Nov 2018 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조용기 일가의 차명 부동산 ② : "김성혜는 복부인"...교인 동원 달러도 거액 반출]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/11/bc558ec5179bc5306e9e795f5dad33c931411345e754dedba65989b7b5d97c36889ed5b140afd3fb7617473516e3e157ebb81a4021a053a7a2dde6a848731455.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조용기 일가의 차명 부동산 ① : 순복음교회 선교비 270억의 비밀]]></title>
-            <link>http://newstapa.org/article/7O_OA</link>
-            <guid>http://newstapa.org/article/7O_OA</guid>
-            <pubDate>Tue, 20 Nov 2018 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조용기 일가의 차명 부동산 ① : 순복음교회 선교비 270억의 비밀]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/11/497f27d443dec64f52f7230d255c8ec70214fb315e1f4dc0e953d5423066fb67adf4b5d9a496c1592eca330a5fdd9261a13fbef74717159ce5ed0964c6ac6b57.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
