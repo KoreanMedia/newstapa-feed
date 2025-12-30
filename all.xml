@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Dec 2025 06:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Dec 2025 07:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LOOK AGAIN (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/6AbQw</link>
+            <guid>http://newstapa.org/article/6AbQw</guid>
+            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[LOOK AGAIN]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/30161845-AC24-6C3E-217C-3LD51A7XEIEEIIHJFEK2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 쿠팡 ‘마우스피스’ 언론, ‘셀프조사’ 주장을 사실처럼 유통 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/1noiM</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[칼럼] 내란특검 최대 미스터리, 김건희가 비상계엄을 몰랐다고?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19110645-BFBE-6ECB-21CC-L85E1J7W9L48O4PTBF92.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '가평복귀'... 통일교 게이트의 새로운 축을 찾다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/tGXvH</link>
-            <guid>http://newstapa.org/article/tGXvH</guid>
-            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] '가평복귀'... 통일교 게이트의 새로운 축을 찾다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/18165444-875C-F19B-B256-Q9TJ4EADNTE6PN5ZBF50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타파스] UN 사무국을 가평에? 통일교 숙원 해결 앞장선 가평군수 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -3480,7 +3480,7 @@
             <link>https://v.daum.net/v/20251230131141868</link>
             <guid>https://v.daum.net/v/20251230131141868</guid>
             <pubDate>Tue, 30 Dec 2025 04:42:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251230131141868" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 쿠팡 ‘마우스피스’ 언론, ‘셀프조사’ 주장을 사실처럼 유통</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F30%2Fnewstapa%2F20251230131142310erhj.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251230131141868" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 쿠팡 ‘마우스피스’ 언론, ‘셀프조사’ 주장을 사실처럼 유통</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F30%2Fnewstapa%2F20251230131142310erhj.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F30%2Fnewstapa%2F20251230131142310erhj.png" length="0" type="image/q70/"/>
         </item>
         <item>
