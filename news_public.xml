@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Dec 2025 23:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Dec 2025 01:49:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열, "뉴스타파 기자 처벌 원한다" 법원 사실조회 답변]]></title>
+            <link>http://newstapa.org/article/NZBoA</link>
+            <guid>http://newstapa.org/article/NZBoA</guid>
+            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열, "뉴스타파 기자 처벌 원한다" 법원 사실조회 답변]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/31104203-8520-AE1A-D50C-J4UZL7KX51JHZO68LEQY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] UN 사무국을 가평에? 통일교 숙원 해결 앞장선 가평군수]]></title>
             <link>http://newstapa.org/article/H23E8</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡-김병기 회동 전말... 쿠팡 취업한 보좌진 색출해 '해고 외압' 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/17183153-41F2-08CC-EC70-NYC1A8YABAT9KNMUQ6J7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뉴스타파 v. 윤석열> 조현성, “저렇게 진술을 하고자 했던 게 아닌 것 같습니다”]]></title>
-            <link>http://newstapa.org/article/j6iuS</link>
-            <guid>http://newstapa.org/article/j6iuS</guid>
-            <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; 조현성, “저렇게 진술을 하고자 했던 게 아닌 것 같습니다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/16184300-C211-5C6C-1D0E-PM2BIVJ78LV2A8D3QJ0R.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
