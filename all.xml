@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jan 2026 04:44:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 05:29:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파의 시선] 독립이 아닌 독재를 판사들은 원한다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/-Zd2n</link>
+            <guid>http://newstapa.org/article/-Zd2n</guid>
+            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] 독립이 아닌 독재를 판사들은 원한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/02141724-EF94-6492-8AC1-0BGVY186JRA7RCM4CQEI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파] 철탑 위에 아직, 사람이 있다...세종호텔 해고노동자 고진수 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/IfwHr</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/22162103-4D6B-824B-AC12-1F14VQN3IKWTK7JJG42I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[타파스] 내 세금이 통일교 성지순례에 쓰인다? '정교일치' 실험장이 된 가평군 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/LF4bw</link>
-            <guid>http://newstapa.org/article/LF4bw</guid>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 내 세금이 통일교 성지순례에 쓰인다? '정교일치' 실험장이 된 가평군]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/22110606-B755-4113-8230-6HJTJPXV83VDTAF8LMZQ.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[타파의 시선] 독립이 아닌 독재를 판사들은 원한다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/-Zd2n</link>
+            <guid>http://newstapa.org/article/-Zd2n</guid>
+            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] 독립이 아닌 독재를 판사들은 원한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/02141724-EF94-6492-8AC1-0BGVY186JRA7RCM4CQEI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“이재명이가”...‘배우자 비리 은폐’ 김병기, 민주당·국민에 거짓말 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/18144242-B32A-F456-C54E-JP7PWFQSXRICO6Y4EBN3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[통일교 ‘성지순례 유람선’ 사업에 세금 80억 투입 확인 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/V1YWM</link>
-            <guid>http://newstapa.org/article/V1YWM</guid>
-            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[통일교 ‘성지순례 유람선’ 사업에 세금 80억 투입 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/18144235-6953-3237-4192-Q6ARK6FI7821VEFALQKO.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[타파의 시선] 독립이 아닌 독재를 판사들은 원한다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/-Zd2n</link>
+            <guid>http://newstapa.org/article/-Zd2n</guid>
+            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] 독립이 아닌 독재를 판사들은 원한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/02141724-EF94-6492-8AC1-0BGVY186JRA7RCM4CQEI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열, "뉴스타파 기자 처벌 원한다" 법원 사실조회 답변 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[다큐 뉴스타파]헌법 위의 판사, 조희대와 지귀연들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/31142636-6BA2-F83D-58C2-VUB2CL43V2AYJGIBCUXI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뉴스타파 v. 윤석열> “김만배의 언론작업? 기억 없는데...” 정민용 진술 번복 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/MmbzK</link>
-            <guid>http://newstapa.org/article/MmbzK</guid>
-            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; “김만배의 언론작업? 기억 없는데...” 정민용 진술 번복]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/31131340-00F0-27BE-3940-5DISPNZU995Q81MYVXU7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 통일교 궁전에 UN사무국? 막 오르는 '통일교 특검' (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3336,6 +3336,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15154039-F0FF-A908-F97A-G9UEKOKOWZHLKVBCJED5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[타파의 시선] 독립이 아닌 독재를 판사들은 원한다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112027923</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112027923</guid>
+            <pubDate>Fri, 02 Jan 2026 05:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령의 권한을 두고 제왕적이라고 하지만, 대법원장의 권한이야말로 제왕적입니다. 대법원장의 인사권은 비판받지 않습니다. 당사자인 판사들조차 수긍하고 받아들여 그 체제를 완성합니다. 입법, 행정과 달리 사법은 선출되지 않은 권력입니다. 사유화(私有化)한 사법을 바로잡는 최소한의 민주적 통제이자, 그렇게 해서 재판의 독립을 보장할 새로운 장치가 사법행정위원회라고 이범준 뉴스타파 전문위원은 지적합니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/-Zd2n</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[“이재명이가”...‘배우자 비리 은폐’ 김병기, 민주당·국민에 거짓말 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112007453</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112007453</guid>
@@ -3469,11 +3476,12 @@
             <content:encoded><![CDATA[쿠팡이 산업재해를 은폐하기 위해 만든 것으로 추정되는 '내부 문건'이 추가로 확인됐습니다. 업무 중 사고 피해를 입은 노동자와 작성한 '합의서'입니다. 합의서에서 쿠팡은 사고 노동자에게 '기밀 유지'를 요구하며 언론, 노동조합과 접촉을 차단하고 있었습니다. <br><br>최근까지도 쿠팡은 사고 노동자, 사망 노동자 유가족과 계속 합의를 해왔습니다. 쿠팡의 합의 전략에 가려진 더 많은 사고와 죽음이 있을 수 있다는 지적이 나오는 이유입니다. 언론 보도만 집계해도, 지난 2020년부터 쿠팡에서 사망한 노동자는 모두 29명입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/nHLgc656pc8</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/2-93X</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[권혁 탈세 돕고 퇴직 뒤 20억 받은 국세청 공무원 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/111917943</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/111917943</guid>
-            <pubDate>Mon, 22 Dec 2025 07:27:32 GMT</pubDate>
-            <content:encoded><![CDATA[국세청은 선박왕 권혁 씨의 4천억 세금을 추징하지도 못했고, 권혁 회장이 국내에 들여온 1천억 원에 대해서도 알지 못했습니다. 그런데 이런 국세청의 ‘무능’에는 이유가 있었습니다. <br><br>권혁 회장의 국내 자산 압류와 세금 추징을 담당했던 국세청 공무원이 퇴직 뒤 곧바로 권혁 회장의 계열사에 취업해 5년 합계 20억 원 가량의 급여를 지급받은 사실이 확인됐습니다. 그는 스스로 작성한 진술서에서 “현역 시절 권혁 회장에게 1천억 원 이상의 이득을 줬다”고 말했습니다. <br><br>경찰은 현재 이 전직 세무공무원을 부정처사 후 수뢰 혐의로 수사하고 있습니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/GSSGX6pz5Dw</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/C54g9</span>]]></content:encoded>
+            <title><![CDATA[[타파의 시선] 독립이 아닌 독재를 판사들은 원한다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260102142150041</link>
+            <guid>https://v.daum.net/v/20260102142150041</guid>
+            <pubDate>Fri, 02 Jan 2026 05:29:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260102142150041" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 독립이 아닌 독재를 판사들은 원한다</strong><span class="info_txt"><span class="txt_info">7분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F02%2Fnewstapa%2F20260102142151641bygw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F02%2Fnewstapa%2F20260102142151641bygw.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파] 철탑 위에 아직, 사람이 있다...세종호텔 해고노동자 고진수 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3520,7 +3528,7 @@
             <link>https://v.daum.net/v/20251229141141077</link>
             <guid>https://v.daum.net/v/20251229141141077</guid>
             <pubDate>Mon, 29 Dec 2025 05:32:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251229141141077" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] UN 사무국을 가평에? 통일교 숙원 해결 앞장선 가평군수</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F29%2Fnewstapa%2F20251229141142348wxzg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251229141141077" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] UN 사무국을 가평에? 통일교 숙원 해결 앞장선 가평군수</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F29%2Fnewstapa%2F20251229141142348wxzg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F29%2Fnewstapa%2F20251229141142348wxzg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3705,14 +3713,6 @@
             <pubDate>Fri, 12 Dec 2025 08:34:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251212171647696" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] ‘전두환 프로젝트’ 끝나지 않았다</strong><span class="info_txt"><span class="txt_info">2025. 12. 12.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F12%2Fnewstapa%2F20251212171648864sxrp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F12%2Fnewstapa%2F20251212171648864sxrp.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA['사적 동원과 특혜'...김병기 원내대표가 외면한 두 가지 핵심 의혹 총정리 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20251212170116132</link>
-            <guid>https://v.daum.net/v/20251212170116132</guid>
-            <pubDate>Fri, 12 Dec 2025 08:34:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251212170116132" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'사적 동원과 특혜'...김병기 원내대표가 외면한 두 가지 핵심 의혹 총정리</strong><span class="info_txt"><span class="txt_info">2025. 12. 12.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F12%2Fnewstapa%2F20251212170117466xjwa.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F12%2Fnewstapa%2F20251212170117466xjwa.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
