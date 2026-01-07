@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jan 2026 08:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jan 2026 09:31:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통일교 한학자 억대 횡령 자백, 검찰이 7년 뭉갰다]]></title>
+            <link>http://newstapa.org/article/QGGP1</link>
+            <guid>http://newstapa.org/article/QGGP1</guid>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[통일교 한학자 억대 횡령 자백, 검찰이 7년 뭉갰다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/07174711-F7FD-4025-B9D9-QN5LW4IZ0YKP2C3AP6NG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰, 통일교에 수사 기밀 유출 정황]]></title>
+            <link>http://newstapa.org/article/XHcUk</link>
+            <guid>http://newstapa.org/article/XHcUk</guid>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, 통일교에 수사 기밀 유출 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/07174701-5C2D-8587-8B27-FZCMKGP4XQR7CD8VZTZL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파의 시선] 독립이 아닌 독재를 판사들은 원한다]]></title>
             <link>http://newstapa.org/article/-Zd2n</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파의 시선] 검찰 독립을 헌법은 용인하지 않는다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/14130519-B3F5-A2E4-B086-2P55YB1GTUOY0BWZ3NFF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 검사장의 특활비 횡령, 누가 수사해야 할까]]></title>
-            <link>http://newstapa.org/article/nIT-L</link>
-            <guid>http://newstapa.org/article/nIT-L</guid>
-            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파의 시선] 검사장의 특활비 횡령, 누가 수사해야 할까]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/07165409-A7ED-979C-4C33-1CWLS1FO011UDPIEYWOW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다큐 뉴스타파]헌법 위의 판사, 조희대와 지귀연들]]></title>
-            <link>http://newstapa.org/article/-1SLa</link>
-            <guid>http://newstapa.org/article/-1SLa</guid>
-            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다큐 뉴스타파]헌법 위의 판사, 조희대와 지귀연들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/31142636-6BA2-F83D-58C2-VUB2CL43V2AYJGIBCUXI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

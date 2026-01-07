@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jan 2026 08:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jan 2026 09:31:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통일교 한학자 억대 횡령 자백, 검찰이 7년 뭉갰다]]></title>
+            <link>http://newstapa.org/article/QGGP1</link>
+            <guid>http://newstapa.org/article/QGGP1</guid>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[통일교 한학자 억대 횡령 자백, 검찰이 7년 뭉갰다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/07174711-F7FD-4025-B9D9-QN5LW4IZ0YKP2C3AP6NG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰, 통일교에 수사 기밀 유출 정황]]></title>
+            <link>http://newstapa.org/article/XHcUk</link>
+            <guid>http://newstapa.org/article/XHcUk</guid>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, 통일교에 수사 기밀 유출 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/07174701-5C2D-8587-8B27-FZCMKGP4XQR7CD8VZTZL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[통일교가 가평군수 후보자 면접... 현장 영상 공개]]></title>
             <link>http://newstapa.org/article/b8Ook</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“사모가 썼다”… ‘김병기 배우자 업추비 유용’ 자백 녹취 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/26151254-A413-94ED-2898-HLFJZLAH8ACBW63Q8O7N.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 6년의 소송, '잔액 공개'만 남은 검찰 특활비]]></title>
-            <link>http://newstapa.org/article/rN9_1</link>
-            <guid>http://newstapa.org/article/rN9_1</guid>
-            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파의 시선] 6년의 소송, '잔액 공개'만 남은 검찰 특활비]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/26150942-A4D4-E9E9-9274-VJV7RV0GU1KZ0GOZH0ID.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사찰과 보복... 김병기가 쿠팡 대표를 만난 이유]]></title>
-            <link>http://newstapa.org/article/X9sgg</link>
-            <guid>http://newstapa.org/article/X9sgg</guid>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사찰과 보복... 김병기가 쿠팡 대표를 만난 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/23173904-3030-D5E8-90C9-V4TYA8QAKETT827ROVV8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
