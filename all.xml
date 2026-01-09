@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jan 2026 05:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jan 2026 06:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/tIFG6</link>
+            <guid>http://newstapa.org/article/tIFG6</guid>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/09143955-8426-B2D4-E72F-ZW99K19GAZ34YWTXG0BL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 김병기의 끝나지 않은 의혹들... 수사 무마와 사적 동원 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/FGkF_</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/29140812-6B63-BB63-B3FE-WPBYUVZLDFVY7TYD0NGK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김병기, 배우자 '업무추진비 유용' 알고도 은폐했다... 육성 녹음 공개 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Z7XaW</link>
-            <guid>http://newstapa.org/article/Z7XaW</guid>
-            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김병기, 배우자 '업무추진비 유용' 알고도 은폐했다... 육성 녹음 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/29105324-E922-730D-23F4-KUPHUU1V7Y3SYXPLFF95.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/tIFG6</link>
+            <guid>http://newstapa.org/article/tIFG6</guid>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/09143955-8426-B2D4-E72F-ZW99K19GAZ34YWTXG0BL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 김병기의 끝나지 않은 의혹들... 수사 무마와 사적 동원 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/26161516-FD12-8CC6-8430-DHKMTIBB3HTJS85ILEXN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘UN 사무국을 통일교 궁전으로’… 가평군수가 앞장 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/Gmq3j</link>
-            <guid>http://newstapa.org/article/Gmq3j</guid>
-            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘UN 사무국을 통일교 궁전으로’… 가평군수가 앞장]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/26174251-46D6-2CAC-E7BE-OVD6WTORICX8DMX7H134.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/tIFG6</link>
+            <guid>http://newstapa.org/article/tIFG6</guid>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/09143955-8426-B2D4-E72F-ZW99K19GAZ34YWTXG0BL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통일교 한학자 억대 횡령 자백, 검찰이 7년 뭉갰다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김건희-삼부토건 연결 고리 첫 확인.... '쓰리원 주가조작' 공범 커넥션 의심]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/17111730-2F9F-9537-AC9A-QZUP48PI0Z4HOS0W18UP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 검찰 독립을 헌법은 용인하지 않는다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/kRfcX</link>
-            <guid>http://newstapa.org/article/kRfcX</guid>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파의 시선] 검찰 독립을 헌법은 용인하지 않는다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/14130519-B3F5-A2E4-B086-2P55YB1GTUOY0BWZ3NFF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 통일교 궁전에 UN사무국? 막 오르는 '통일교 특검' (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3336,6 +3336,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22154956-255D-013E-7097-T4NAO3RS6RMRSD0PYRRC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112097975</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112097975</guid>
+            <pubDate>Fri, 09 Jan 2026 06:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[3대 특검 후속인 이른바 '2차 종합특검' 출범이 초읽기에 들어갔습니다. 2차 특검 추진이 여론의 지지를 받고 있기는 하지만, 결국 여권이 주도하는 특검이라는 측면에서 공정성 시비가 따를 수밖에 없습니다.<br><br>조성식 전문위원은 3대 특검 수사에 미진한 점이 적지 않지만 2차 특검이 나선다고 해서 미완성이 완성으로 바뀐다는 보장은 없다고 지적합니다. 특히 검찰을 못 믿겠다면서 수사권을 완전히 폐지하려는 마당에 검찰 인력이 주축을 이루는 특검에 자꾸 칼자루를 쥐어 줘야 할 필요가 있을지, 특검이라는 형식에 과도하게 집착하는 건 아닌지 의문을 제기합니다.<br><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/tIFG6</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[김병기의 끝나지 않은 의혹들... 수사 무마와 사적 동원 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112088355</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112088355</guid>
@@ -3469,18 +3476,19 @@
             <content:encoded><![CDATA[음식 배달 알바하며 '지구'를 살리기 위해 달리는 기자가 있다?<br><br>비영리 독립언론 ‘살아지구’ 대표 임병선 기자 이야기입니다.<br><br>창간 1년만에 이재명 대통령 취임 100일 기자회견에 등장해 대통령의 발전소 배출물질 규제 방침 발언을 끌어내고, 전국 초등학교 미세먼지 문제를 들춰내는 등 존재감을 드러내고 있습니다.<br><br>하지만 자본과 권력의 영향에서 자유롭기 위해 광고와 협찬, 홍보비를 일절 받지 않습니다. 그래서 부족한 취재비, 운영비는 알바를 해서 조달합니다. <br><br>봉지욱 기자가 살아지구 임병선 기자를 만나 그의 무모해 보일 정도의 용기 있는 도전에 관해 진솔한 얘기를 나눕니다. 사라지는 지구를 살리기 위해 ‘살아지구’를 응원해주세요!!<br><br>📍 지금 보기: 유튜브 링크 <span class="link_url">https://youtu.be/DSs7duAlW6o</span><br>📍『독립언론, 함께 홀로서기』구매 링크: <span class="link_url">https://smartstore.naver.com/newstapagoods/products/12793769091</span> <br>📍살아지구 응원하기: <span class="link_url">https://online.mrm.or.kr/1EquNwj</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[통일교 궁전에 UN사무국? 막 오르는 '통일교 특검' 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/111961221</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/111961221</guid>
-            <pubDate>Fri, 26 Dec 2025 09:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파는 지난주 ‘지방 정부와 통일교의 유착’ 의혹을 보도했습니다. 이번 주에도 유착 의혹을 둘러싼 취재 결과를 공개합니다.<br><br>지방 정부의 장인 현직 가평군수가 ‘국제기구인 UN의 사무국을 통일교 궁전 안에 유치하겠다’는 다소 황당한 통일교의 사업 추진 과정에 적극 협력하고 있다는 사실 등을 전해드립니다.<br><br>거듭해 말씀드리지만 가평군이 통일교와 유착한 의혹은 한 지방자치단체에서 벌어진 그렇고 그런 문제가 아닙니다. 특정 종교 단체의 편의를 위해 지방 정부의 자치권이라는 공적 시스템이 작동한 초유의 ‘정교유착’ 의혹으로 신속한 발본색출이 필요한 사안입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/jGTkbJnJ9uI</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/df8Z4</span>]]></content:encoded>
+            <title><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260109145642437</link>
+            <guid>https://v.daum.net/v/20260109145642437</guid>
+            <pubDate>Fri, 09 Jan 2026 06:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260109145642437" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나</strong><span class="info_txt"><span class="txt_info">42분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F09%2Fnewstapa%2F20260109145643648cszv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F09%2Fnewstapa%2F20260109145643648cszv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 김병기의 끝나지 않은 의혹들... 수사 무마와 사적 동원 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260108170658120</link>
             <guid>https://v.daum.net/v/20260108170658120</guid>
             <pubDate>Thu, 08 Jan 2026 08:34:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260108170658120" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 김병기의 끝나지 않은 의혹들... 수사 무마와 사적 동원</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F08%2Fnewstapa%2F20260108170700600asii.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260108170658120" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 김병기의 끝나지 않은 의혹들... 수사 무마와 사적 동원</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F08%2Fnewstapa%2F20260108170700600asii.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F08%2Fnewstapa%2F20260108170700600asii.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3488,7 +3496,7 @@
             <link>https://v.daum.net/v/20260108170649117</link>
             <guid>https://v.daum.net/v/20260108170649117</guid>
             <pubDate>Thu, 08 Jan 2026 08:34:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260108170649117" class="link_column"><div class="cont_thumb"><strong class="tit_txt">경찰 확인서에 'assembly'... 김병기, 보좌진 동원해 배우자 연루 '수사 무마' 정황</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F08%2Fnewstapa%2F20260108170657732jnyq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260108170649117" class="link_column"><div class="cont_thumb"><strong class="tit_txt">경찰 확인서에 'assembly'... 김병기, 보좌진 동원해 배우자 연루 '수사 무마' 정황</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F08%2Fnewstapa%2F20260108170657732jnyq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F08%2Fnewstapa%2F20260108170657732jnyq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3504,7 @@
             <link>https://v.daum.net/v/20260108170642112</link>
             <guid>https://v.daum.net/v/20260108170642112</guid>
             <pubDate>Thu, 08 Jan 2026 08:34:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260108170642112" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'집사'된 보좌진들... 김병기 배우자 병원 수행 '현장 포착'</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F08%2Fnewstapa%2F20260108170649335gssm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260108170642112" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'집사'된 보좌진들... 김병기 배우자 병원 수행 '현장 포착'</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F08%2Fnewstapa%2F20260108170649335gssm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F08%2Fnewstapa%2F20260108170649335gssm.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3512,7 @@
             <link>https://v.daum.net/v/20260108170140865</link>
             <guid>https://v.daum.net/v/20260108170140865</guid>
             <pubDate>Thu, 08 Jan 2026 08:34:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260108170140865" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“잠시 써본 영작입니다”...김병기 차남의 황당한 부탁과 편입 전말</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F08%2Fnewstapa%2F20260108170150399szxz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260108170140865" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“잠시 써본 영작입니다”...김병기 차남의 황당한 부탁과 편입 전말</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F08%2Fnewstapa%2F20260108170150399szxz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F08%2Fnewstapa%2F20260108170150399szxz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3705,14 +3713,6 @@
             <pubDate>Fri, 19 Dec 2025 03:27:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251219111149124" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 내란특검 최대 미스터리, 김건희가 비상계엄을 몰랐다고?</strong><span class="info_txt"><span class="txt_info">2025. 12. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219111151051ickq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219111151051ickq.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '가평복귀'... 통일교 게이트의 새로운 축을 찾다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20251218170659490</link>
-            <guid>https://v.daum.net/v/20251218170659490</guid>
-            <pubDate>Thu, 18 Dec 2025 09:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251218170659490" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '가평복귀'... 통일교 게이트의 새로운 축을 찾다</strong><span class="info_txt"><span class="txt_info">2025. 12. 18.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170702303rgnz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F18%2Fnewstapa%2F20251218170702303rgnz.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
