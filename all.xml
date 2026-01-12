@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jan 2026 08:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jan 2026 09:36:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] 작전명 ‘몽구스’에서 작전명 ‘확고한 결의’까지 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/5CveA</link>
+            <guid>http://newstapa.org/article/5CveA</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 작전명 ‘몽구스’에서 작전명 ‘확고한 결의’까지]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12175714-679D-BAEB-8E92-VTJVX447D0IOPRI1OOJ0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['홀리마더 한 영상 내려달라' 세계일보 가처분 신청 기각 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/iWg1n</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“이재명이가”...‘배우자 비리 은폐’ 김병기, 민주당·국민에 거짓말]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/30132507-FCEF-F7E9-1AF8-LNVYDWNBYDN4SU2MAHIF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열, "뉴스타파 기자 처벌 원한다" 법원 사실조회 답변 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/NZBoA</link>
-            <guid>http://newstapa.org/article/NZBoA</guid>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열, "뉴스타파 기자 처벌 원한다" 법원 사실조회 답변]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/31104203-8520-AE1A-D50C-J4UZL7KX51JHZO68LEQY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/23152430-AEC3-9BC8-2A54-XS2OFA8S2IKZR8LUPXAW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[칼럼] 작전명 ‘몽구스’에서 작전명 ‘확고한 결의’까지 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/5CveA</link>
+            <guid>http://newstapa.org/article/5CveA</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 작전명 ‘몽구스’에서 작전명 ‘확고한 결의’까지]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12175714-679D-BAEB-8E92-VTJVX447D0IOPRI1OOJ0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 트럼프 1박 2일에 부쳐: 언제까지 미국을 섬겨야 하나 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/xR5JF</link>
             <guid>http://newstapa.org/article/xR5JF</guid>
@@ -1790,14 +1798,6 @@
             <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[다시 쓰는 공소장] 내란 일당, 북한과의 국지전 시나리오도 준비했다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/11175042-F1C7-09C2-5444-1JACNO2KIPEFFD39YEV7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주미대사 한덕수의 ‘대미 로비’ 실태 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/YjVjU</link>
-            <guid>http://newstapa.org/article/YjVjU</guid>
-            <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[주미대사 한덕수의 ‘대미 로비’ 실태]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/09195319-9010-8986-4D9A-8363AB489EUUCDC5XR1I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“뉴스타파는 멈추지 않았다”...GIJC 총회서 ‘잠입취재·압수수색’ 공유 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/18104139-CB94-A5CE-9268-S34NLS364QS45TEUR7P6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[칼럼] 작전명 ‘몽구스’에서 작전명 ‘확고한 결의’까지 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/5CveA</link>
+            <guid>http://newstapa.org/article/5CveA</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 작전명 ‘몽구스’에서 작전명 ‘확고한 결의’까지]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12175714-679D-BAEB-8E92-VTJVX447D0IOPRI1OOJ0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['홀리마더 한 영상 내려달라' 세계일보 가처분 신청 기각 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/iWg1n</link>
             <guid>http://newstapa.org/article/iWg1n</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN]윤석열 언론공범④ ‘고발사주’ 몰리자 “야성이 돌아왔다” 방어막]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/05183227-0EA3-70AE-F5AA-D4U7C6RVYZX6TUR6MTD2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN]윤석열 언론공범③ 윤석열 지지율이 1%에서 24%가 된 이유 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/jRvnd</link>
-            <guid>http://newstapa.org/article/jRvnd</guid>
-            <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN]윤석열 언론공범③ 윤석열 지지율이 1%에서 24%가 된 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/01170556-3A35-0514-97C4-SGHJ9RTN8721QI0NSDPG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 21대 대통령선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3476,11 +3476,19 @@
             <content:encoded><![CDATA[더불어민주당 김병기 원내대표가 배우자의 '구의회 업무추진비 유용' 사실을 알고도 이를 은폐한 것으로 확인됐습니다. 뉴스타파는 2022년 8월 말 김 원내대표가 당시 보좌 직원과 나눈 통화 녹음 파일을 확보했습니다. <br><br>통화에서 김 원내대표는 보좌진에게 "아내가 업추비를 쓴 식당에 가서 CCTV 영상을 아무한테도 보여주지 말라고 해라"고 말했습니다. 또, 배우자의 업추비 유용 기간과 겹치는 자신의 일정 기록도 모두 삭제하라고 지시했습니다. <br><br>김 원내대표가 배우자의 공금 횡령 의혹을 알고도 덮었다는 점에서 정치적 책임은 물론 강제 수사도 피하기 어려워 보입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/Geam82ku9Z0</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/Z7XaW</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[칼럼] 작전명 ‘몽구스’에서 작전명 ‘확고한 결의’까지 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260112180201500</link>
+            <guid>https://v.daum.net/v/20260112180201500</guid>
+            <pubDate>Mon, 12 Jan 2026 09:36:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260112180201500" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 작전명 ‘몽구스’에서 작전명 ‘확고한 결의’까지</strong><span class="info_txt"><span class="txt_info">34분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112180202706zktq.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112180202706zktq.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA['홀리마더 한 영상 내려달라' 세계일보 가처분 신청 기각 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260112163200338</link>
             <guid>https://v.daum.net/v/20260112163200338</guid>
             <pubDate>Mon, 12 Jan 2026 08:36:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260112163200338" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'홀리마더 한 영상 내려달라' 세계일보 가처분 신청 기각</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112163202292sumj.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260112163200338" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'홀리마더 한 영상 내려달라' 세계일보 가처분 신청 기각</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112163202292sumj.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112163202292sumj.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3488,7 +3496,7 @@
             <link>https://v.daum.net/v/20260112160649122</link>
             <guid>https://v.daum.net/v/20260112160649122</guid>
             <pubDate>Mon, 12 Jan 2026 07:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260112160649122" class="link_column"><div class="cont_thumb"><strong class="tit_txt">지방의회 비리 감추는 국민권익위?</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112160651124ycqb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260112160649122" class="link_column"><div class="cont_thumb"><strong class="tit_txt">지방의회 비리 감추는 국민권익위?</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112160651124ycqb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112160651124ycqb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3504,7 @@
             <link>https://v.daum.net/v/20260112143200870</link>
             <guid>https://v.daum.net/v/20260112143200870</guid>
             <pubDate>Mon, 12 Jan 2026 05:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260112143200870" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112143202136mlql.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260112143200870" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112143202136mlql.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112143202136mlql.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3544,7 +3552,7 @@
             <link>https://v.daum.net/v/20260107175158949</link>
             <guid>https://v.daum.net/v/20260107175158949</guid>
             <pubDate>Wed, 07 Jan 2026 09:31:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260107175158949" class="link_column"><div class="cont_thumb"><strong class="tit_txt">통일교 한학자 억대 횡령 자백, 검찰이 7년 뭉갰다</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F07%2Fnewstapa%2F20260107175159368xotc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260107175158949" class="link_column"><div class="cont_thumb"><strong class="tit_txt">통일교 한학자 억대 횡령 자백, 검찰이 7년 뭉갰다</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F07%2Fnewstapa%2F20260107175159368xotc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F07%2Fnewstapa%2F20260107175159368xotc.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3552,7 +3560,7 @@
             <link>https://v.daum.net/v/20260107175150945</link>
             <guid>https://v.daum.net/v/20260107175150945</guid>
             <pubDate>Wed, 07 Jan 2026 09:31:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260107175150945" class="link_column"><div class="cont_thumb"><strong class="tit_txt">검찰, 통일교에 수사 기밀 유출 정황</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F07%2Fnewstapa%2F20260107175151539knyx.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260107175150945" class="link_column"><div class="cont_thumb"><strong class="tit_txt">검찰, 통일교에 수사 기밀 유출 정황</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F07%2Fnewstapa%2F20260107175151539knyx.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F07%2Fnewstapa%2F20260107175151539knyx.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3706,13 +3714,6 @@
             <pubDate>Mon, 22 Dec 2025 03:46:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251222111141702" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 내 세금이 통일교 성지순례에 쓰인다? '정교일치' 실험장이 된 가평군</strong><span class="info_txt"><span class="txt_info">2025. 12. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F22%2Fnewstapa%2F20251222111142753mplj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F22%2Fnewstapa%2F20251222111142753mplj.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[반론보도] <국민의힘, 장애인고용 의무 어겨 부담금 2,978만 원 납부> 관련 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20251219171549290</link>
-            <guid>https://v.daum.net/v/20251219171549290</guid>
-            <pubDate>Fri, 19 Dec 2025 08:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251219171549290" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[반론보도] &lt;국민의힘, 장애인고용 의무 어겨 부담금 2,978만 원 납부&gt; 관련</strong><span class="info_txt"><span class="txt_info">2025. 12. 19.</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
