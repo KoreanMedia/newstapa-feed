@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jan 2026 06:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jan 2026 07:30:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['홀리마더 한 영상 내려달라' 세계일보 가처분 신청 기각]]></title>
+            <link>http://newstapa.org/article/iWg1n</link>
+            <guid>http://newstapa.org/article/iWg1n</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['홀리마더 한 영상 내려달라' 세계일보 가처분 신청 기각]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12162741-7D84-D846-CBD3-LJPHSWWC1QCSU5VF73LW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지방의회 비리 감추는 국민권익위?]]></title>
+            <link>http://newstapa.org/article/-Yerm</link>
+            <guid>http://newstapa.org/article/-Yerm</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지방의회 비리 감추는 국민권익위?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12160358-EBE0-3420-9245-QHO1ABKY2IWRCLRK2LIS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다]]></title>
             <link>http://newstapa.org/article/kqDg2</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열, "뉴스타파 기자 처벌 원한다" 법원 사실조회 답변]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/31104203-8520-AE1A-D50C-J4UZL7KX51JHZO68LEQY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LOOK AGAIN]]></title>
-            <link>http://newstapa.org/article/6AbQw</link>
-            <guid>http://newstapa.org/article/6AbQw</guid>
-            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[LOOK AGAIN]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/30161845-AC24-6C3E-217C-3LD51A7XEIEEIIHJFEK2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 쿠팡 ‘마우스피스’ 언론, ‘셀프조사’ 주장을 사실처럼 유통]]></title>
-            <link>http://newstapa.org/article/1noiM</link>
-            <guid>http://newstapa.org/article/1noiM</guid>
-            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 쿠팡 ‘마우스피스’ 언론, ‘셀프조사’ 주장을 사실처럼 유통]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/30113012-50AC-9531-0AF6-ME9EQW03ZM9NJU9BKBLD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

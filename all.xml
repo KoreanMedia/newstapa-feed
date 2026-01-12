@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jan 2026 06:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jan 2026 07:30:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['홀리마더 한 영상 내려달라' 세계일보 가처분 신청 기각 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/iWg1n</link>
+            <guid>http://newstapa.org/article/iWg1n</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['홀리마더 한 영상 내려달라' 세계일보 가처분 신청 기각]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12162741-7D84-D846-CBD3-LJPHSWWC1QCSU5VF73LW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지방의회 비리 감추는 국민권익위? (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/-Yerm</link>
+            <guid>http://newstapa.org/article/-Yerm</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지방의회 비리 감추는 국민권익위?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12160358-EBE0-3420-9245-QHO1ABKY2IWRCLRK2LIS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/kqDg2</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열, "뉴스타파 기자 처벌 원한다" 법원 사실조회 답변]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/31104203-8520-AE1A-D50C-J4UZL7KX51JHZO68LEQY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LOOK AGAIN (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/6AbQw</link>
-            <guid>http://newstapa.org/article/6AbQw</guid>
-            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[LOOK AGAIN]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/30161845-AC24-6C3E-217C-3LD51A7XEIEEIIHJFEK2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 쿠팡 ‘마우스피스’ 언론, ‘셀프조사’ 주장을 사실처럼 유통 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/1noiM</link>
-            <guid>http://newstapa.org/article/1noiM</guid>
-            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 쿠팡 ‘마우스피스’ 언론, ‘셀프조사’ 주장을 사실처럼 유통]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/30113012-50AC-9531-0AF6-ME9EQW03ZM9NJU9BKBLD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/17111730-2F9F-9537-AC9A-QZUP48PI0Z4HOS0W18UP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지방의회 비리 감추는 국민권익위? (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/-Yerm</link>
+            <guid>http://newstapa.org/article/-Yerm</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지방의회 비리 감추는 국민권익위?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12160358-EBE0-3420-9245-QHO1ABKY2IWRCLRK2LIS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 통일교 궁전에 UN사무국? 막 오르는 '통일교 특검' (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
             <link>http://newstapa.org/article/df8Z4</link>
             <guid>http://newstapa.org/article/df8Z4</guid>
@@ -510,14 +518,6 @@
             <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['무증빙 현금' 특활비 부장검사 12명, 이재명 정부서 승진·영전]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/07111051-184C-4170-8EF5-1EX0P9P4CCZZ69O0C9RK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감사원을 ‘감사’하다 ⑦ 유병호 등 감사원 간부들 고액 ‘쪼개기’ 결제 관행 포착 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
-            <link>http://newstapa.org/article/8b8zO</link>
-            <guid>http://newstapa.org/article/8b8zO</guid>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[감사원을 ‘감사’하다 ⑦ 유병호 등 감사원 간부들 고액 ‘쪼개기’ 결제 관행 포착]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/07103434-52E1-89E2-53E5-P4HDLS7WQC6TBMEXDMN8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[법 위의 선박왕 ⑤ 권혁 탈세 돕고 퇴직 뒤 20억 받은 국세청 공무원 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/18104139-CB94-A5CE-9268-S34NLS364QS45TEUR7P6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['홀리마더 한 영상 내려달라' 세계일보 가처분 신청 기각 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/iWg1n</link>
+            <guid>http://newstapa.org/article/iWg1n</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['홀리마더 한 영상 내려달라' 세계일보 가처분 신청 기각]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12162741-7D84-D846-CBD3-LJPHSWWC1QCSU5VF73LW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 쿠팡 ‘마우스피스’ 언론, ‘셀프조사’ 주장을 사실처럼 유통 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/1noiM</link>
             <guid>http://newstapa.org/article/1noiM</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN]윤석열 언론공범③ 윤석열 지지율이 1%에서 24%가 된 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/01170556-3A35-0514-97C4-SGHJ9RTN8721QI0NSDPG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, 스카이데일리 '가짜 뉴스'에 민사 1심 승소 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/RAmJ3</link>
-            <guid>http://newstapa.org/article/RAmJ3</guid>
-            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파, 스카이데일리 '가짜 뉴스'에 민사 1심 승소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15132234-C421-17ED-93A5-6BBI3TQJQI1Y13TNB7IH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 21대 대통령선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3476,6 +3476,14 @@
             <content:encoded><![CDATA[더불어민주당 김병기 원내대표가 배우자의 '구의회 업무추진비 유용' 사실을 알고도 이를 은폐한 것으로 확인됐습니다. 뉴스타파는 2022년 8월 말 김 원내대표가 당시 보좌 직원과 나눈 통화 녹음 파일을 확보했습니다. <br><br>통화에서 김 원내대표는 보좌진에게 "아내가 업추비를 쓴 식당에 가서 CCTV 영상을 아무한테도 보여주지 말라고 해라"고 말했습니다. 또, 배우자의 업추비 유용 기간과 겹치는 자신의 일정 기록도 모두 삭제하라고 지시했습니다. <br><br>김 원내대표가 배우자의 공금 횡령 의혹을 알고도 덮었다는 점에서 정치적 책임은 물론 강제 수사도 피하기 어려워 보입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/Geam82ku9Z0</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/Z7XaW</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[지방의회 비리 감추는 국민권익위? (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260112160649122</link>
+            <guid>https://v.daum.net/v/20260112160649122</guid>
+            <pubDate>Mon, 12 Jan 2026 07:30:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260112160649122" class="link_column"><div class="cont_thumb"><strong class="tit_txt">지방의회 비리 감추는 국민권익위?</strong><span class="info_txt"><span class="txt_info">23분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112160651124ycqb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112160651124ycqb.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260112143200870</link>
             <guid>https://v.daum.net/v/20260112143200870</guid>
@@ -3705,14 +3713,6 @@
             <pubDate>Fri, 19 Dec 2025 07:25:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251219160150876" class="link_column"><div class="cont_thumb"><strong class="tit_txt">법위의 선박왕 ④ '4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인</strong><span class="info_txt"><span class="txt_info">2025. 12. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219215943815lqrk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219215943815lqrk.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 코스피 4천 시대, 당신이 더 가난해진 이유 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20251219112149691</link>
-            <guid>https://v.daum.net/v/20251219112149691</guid>
-            <pubDate>Fri, 19 Dec 2025 03:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251219112149691" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 코스피 4천 시대, 당신이 더 가난해진 이유</strong><span class="info_txt"><span class="txt_info">2025. 12. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219112150896xomu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F19%2Fnewstapa%2F20251219112150896xomu.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
