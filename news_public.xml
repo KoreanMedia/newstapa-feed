@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jan 2026 04:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jan 2026 05:33:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다]]></title>
+            <link>http://newstapa.org/article/kqDg2</link>
+            <guid>http://newstapa.org/article/kqDg2</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12134924-8441-D4BC-29B2-DVCQH59W6J7PS1ROXTNO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나]]></title>
             <link>http://newstapa.org/article/tIFG6</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 통일교 궁전에 UN사무국? 막 오르는 '통일교 특검']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/26174319-9E76-C4B7-0896-1LUCG64ATV0DI6M24M55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통일교 타운 성지화… ‘특구’ 지정까지 추진]]></title>
-            <link>http://newstapa.org/article/JqxXs</link>
-            <guid>http://newstapa.org/article/JqxXs</guid>
-            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[통일교 타운 성지화… ‘특구’ 지정까지 추진]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/26161516-FD12-8CC6-8430-DHKMTIBB3HTJS85ILEXN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
