@@ -4,15 +4,23 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jan 2026 06:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 07:28:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['한-캄 우정의 다리'로 본 통일교-윤석열 '정교유착' 전말]]></title>
+            <link>https://v.daum.net/v/20260113160202066</link>
+            <guid>https://v.daum.net/v/20260113160202066</guid>
+            <pubDate>Tue, 13 Jan 2026 07:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260113160202066" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'한-캄 우정의 다리'로 본 통일교-윤석열 '정교유착' 전말</strong><span class="info_txt"><span class="txt_info">26분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F13%2Fnewstapa%2F20260113160219148wmuf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F13%2Fnewstapa%2F20260113160219148wmuf.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[[칼럼] 작전명 ‘몽구스’에서 작전명 ‘확고한 결의’까지]]></title>
             <link>https://v.daum.net/v/20260112180201500</link>
             <guid>https://v.daum.net/v/20260112180201500</guid>
             <pubDate>Mon, 12 Jan 2026 09:36:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260112180201500" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 작전명 ‘몽구스’에서 작전명 ‘확고한 결의’까지</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112180202706zktq.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260112180201500" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 작전명 ‘몽구스’에서 작전명 ‘확고한 결의’까지</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112180202706zktq.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112180202706zktq.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://v.daum.net/v/20260112160649122</link>
             <guid>https://v.daum.net/v/20260112160649122</guid>
             <pubDate>Mon, 12 Jan 2026 07:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260112160649122" class="link_column"><div class="cont_thumb"><strong class="tit_txt">지방의회 비리 감추는 국민권익위?</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112160651124ycqb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260112160649122" class="link_column"><div class="cont_thumb"><strong class="tit_txt">지방의회 비리 감추는 국민권익위?</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112160651124ycqb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112160651124ycqb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 22 Dec 2025 07:27:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251222162701245" class="link_column"><div class="cont_thumb"><strong class="tit_txt">법 위의 선박왕 ⑤ 권혁 탈세 돕고 퇴직 뒤 20억 받은 국세청 공무원</strong><span class="info_txt"><span class="txt_info">2025. 12. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F22%2Fnewstapa%2F20251222162714011peth.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F22%2Fnewstapa%2F20251222162714011peth.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 내 세금이 통일교 성지순례에 쓰인다? '정교일치' 실험장이 된 가평군]]></title>
-            <link>https://v.daum.net/v/20251222111141702</link>
-            <guid>https://v.daum.net/v/20251222111141702</guid>
-            <pubDate>Mon, 22 Dec 2025 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251222111141702" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 내 세금이 통일교 성지순례에 쓰인다? '정교일치' 실험장이 된 가평군</strong><span class="info_txt"><span class="txt_info">2025. 12. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F22%2Fnewstapa%2F20251222111142753mplj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F22%2Fnewstapa%2F20251222111142753mplj.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
