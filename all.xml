@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jan 2026 23:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 01:55:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[알림] 뉴스타파 유튜브 채널 장애 관련 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/bx1Xp</link>
+            <guid>http://newstapa.org/article/bx1Xp</guid>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[알림] 뉴스타파 유튜브 채널 장애 관련]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/14082355-4D0F-EE3C-CE04-UAYN51OLSR9QBBRJYH45.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['한-캄 우정의 다리'로 본 통일교-윤석열 '정교유착' 전말 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/KAKOe</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파의 시선] 독립이 아닌 독재를 판사들은 원한다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/02143027-EF7D-922B-DE4A-GWG3LGRSQ6PH5VYIJM28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다큐 뉴스타파] 철탑 위에 아직, 사람이 있다...세종호텔 해고노동자 고진수 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/IfwHr</link>
-            <guid>http://newstapa.org/article/IfwHr</guid>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다큐 뉴스타파] 철탑 위에 아직, 사람이 있다...세종호텔 해고노동자 고진수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/31154308-21FA-BEFD-B948-9SPT2KZBNPE1VLW5XNI4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['한-캄 우정의 다리'로 본 통일교-윤석열 '정교유착' 전말 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -3336,6 +3336,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22154956-255D-013E-7097-T4NAO3RS6RMRSD0PYRRC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파 유튜브 채널 장애 관련 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112134750</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112134750</guid>
+            <pubDate>Wed, 14 Jan 2026 01:55:06 GMT</pubDate>
+            <content:encoded><![CDATA[14일 새벽 유튜브 측의 일방적 조치에 의해 뉴스타파 공식 유튜브 채널이 삭제된 것으로 확인됐습니다. 뉴스타파는 유튜브 측에 즉각 이의신청을 한 상태이며, 이용자 편의를 위해 신속한 복구 조치에 나서 줄 것을 촉구했습니다. <br><br>회원, 시청자들의 이용에 불편을 드려 죄송합니다. 뉴스타파의 기존 영상 콘텐츠는 네이버 TV의 뉴스타파 페이지(<span class="link_url">https://tv.naver.com/newstapa)를</span> 통해 확인하실 수 있습니다. 신속하게 복구될 수 있도록 최선을 다하겠습니다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[한-캄 우정의 다리를 통해 본 윤석열-통일교 ‘정교유착’의 전말 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112130338</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112130338</guid>
@@ -3469,18 +3476,11 @@
             <content:encoded><![CDATA[뉴스타파의 &lt;댓글공작팀 '리박스쿨' 추적&gt; 보도가 자유언론실천재단에서 수여하는 자유언론실천상 본상을 수상했습니다. <br><br>재단은 “정권과 결탁한 극우세력이 어린 아이들에게 극우 역사관을 주입하는 등 교육을 정치화하는 구조를 폭로함으로써 우리 사회에 큰 충격을 줬다. 어렵고 힘든 여건 속에서도 연속보도를 내보낸 취재팀에 경의를 표한다”고 본상 수상작 선정 이유를 밝혔습니다. <br><br>자유언론실천재단은 매년 ‘언론 운동과 언론 활동을 통해 자유언론실천에 기여한 이’에게 자유언론실천상을 수여하고 있습니다.<br><br>👉 &lt;댓글공작팀 '리박스쿨' 추적&gt; 연속보도 보러가기 : <span class="link_url">https://newstapa.org/tags/%EB%A6%AC%EB%B0%95%EC%8A%A4%EC%BF%A8</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴스타파 ‘목격자들’, 해외 공영방송 방영 소식 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/111979118</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/111979118</guid>
-            <pubDate>Mon, 29 Dec 2025 06:39:22 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2월 뉴스타파 ‘목격자들’을 통해 방송된 &lt;모래 위를 걷는 투명 인간의 발자국&gt;이 2026년 1월 4일(일) 오후 1시, 태국 공영방송 Thai PBS 채널 3에서 방영됩니다. 전 세계 단편 다큐멘터리를 소개하는 프로그램 &lt;What the Doc&gt; 을 통해 태국 시청자들을 만납니다.<br><br>목격자들 &lt;모래 위를 걷는 투명 인간의 발자국&gt;은 독립언론 뉴스타파와 아시아 다큐멘터리의 중요한 장으로 평가받는 DMZ국제다큐멘터리영화제를 통해 처음 공개돼 호평을 받은 바 있습니다. <br><br>이 작품은 트랜스젠더 당사자에 대한 차별의 기록과 증언 그리고 고 변희수 하사의 국립현충원 안장식을 교차하여 보여줌으로써 차별로 인해 세상을 등진 이들을 애도하는 다큐멘터리입니다. <br><br>독립다큐 플랫폼 뉴스타파&lt;목격자들&gt;의 사명은 기성 언론이 외면한 사회적 의제와 이슈를 충실히 기록하고 시민들과 공유하는 것입니다. &lt;목격자들&gt;은 공모를 통해 다양한 다큐멘터리 창작자들과 함께 제작하고 있습니다. 다음 공모는 2026년 1월 예정입니다. 많은 관심바랍니다. <br><br>🎬 &lt;모래 위를 걷는 투명 인간의 발자국&gt; 다시보기 <span class="link_url">https://youtu.be/2opn6wTvsc8?si=XbXKcYZ6HEC-xhvp</span><br>🎥 목격자들 소개 <span class="link_url">https://withnewstapa.org/witness/</span>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['한-캄 우정의 다리'로 본 통일교-윤석열 '정교유착' 전말 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260113160202066</link>
             <guid>https://v.daum.net/v/20260113160202066</guid>
             <pubDate>Tue, 13 Jan 2026 07:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260113160202066" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'한-캄 우정의 다리'로 본 통일교-윤석열 '정교유착' 전말</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F13%2Fnewstapa%2F20260113160219148wmuf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260113160202066" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'한-캄 우정의 다리'로 본 통일교-윤석열 '정교유착' 전말</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F13%2Fnewstapa%2F20260113160219148wmuf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F13%2Fnewstapa%2F20260113160219148wmuf.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
