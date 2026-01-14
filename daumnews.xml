@@ -4,15 +4,23 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jan 2026 09:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 10:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[난중칼럼] 수사사법관? 검사의 난은 계속되고 있다]]></title>
+            <link>https://v.daum.net/v/20260114185626865</link>
+            <guid>https://v.daum.net/v/20260114185626865</guid>
+            <pubDate>Wed, 14 Jan 2026 10:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260114185626865" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[난중칼럼] 수사사법관? 검사의 난은 계속되고 있다</strong><span class="info_txt"><span class="txt_info">32분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F14%2Fnewstapa%2F20260114185627388dbvr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F14%2Fnewstapa%2F20260114185627388dbvr.png" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[[연금개혁의 시간]① 모든 개혁의 분수령, 연금개혁]]></title>
             <link>https://v.daum.net/v/20260114135625793</link>
             <guid>https://v.daum.net/v/20260114135625793</guid>
             <pubDate>Wed, 14 Jan 2026 06:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260114135625793" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의 시간]① 모든 개혁의 분수령, 연금개혁</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F14%2Fnewstapa%2F20260114135626987ejze.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260114135625793" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의 시간]① 모든 개혁의 분수령, 연금개혁</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F14%2Fnewstapa%2F20260114135626987ejze.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F14%2Fnewstapa%2F20260114135626987ejze.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 23 Dec 2025 09:29:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251223174643500" class="link_column"><div class="cont_thumb"><strong class="tit_txt">사찰과 보복... 김병기가 쿠팡 대표를 만난 이유</strong><span class="info_txt"><span class="txt_info">2025. 12. 23.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F23%2Fnewstapa%2F20251223174650933klna.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F23%2Fnewstapa%2F20251223174650933klna.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡의 '산재 은폐' 합의서 공개... 언론·노조에 얘기하면 “민형사상 책임”]]></title>
-            <link>https://v.daum.net/v/20251222175149985</link>
-            <guid>https://v.daum.net/v/20251222175149985</guid>
-            <pubDate>Mon, 22 Dec 2025 09:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251222175149985" class="link_column"><div class="cont_thumb"><strong class="tit_txt">쿠팡의 '산재 은폐' 합의서 공개... 언론·노조에 얘기하면 “민형사상 책임”</strong><span class="info_txt"><span class="txt_info">2025. 12. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F22%2Fnewstapa%2F20251222175157536otoc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F22%2Fnewstapa%2F20251222175157536otoc.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

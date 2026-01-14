@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jan 2026 09:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 10:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[난중칼럼] 수사사법관? 검사의 난은 계속되고 있다]]></title>
+            <link>http://newstapa.org/article/DaKvD</link>
+            <guid>http://newstapa.org/article/DaKvD</guid>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[난중칼럼] 수사사법관? 검사의 난은 계속되고 있다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/14185401-B593-FEB3-FFFA-PO0NXX99Y4V2RNYIA7EF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[연금개혁의 시간]① 모든 개혁의 분수령, 연금개혁]]></title>
             <link>http://newstapa.org/article/G5cbg</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[통일교가 가평군수 후보자 면접... 현장 영상 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/02171237-C54C-1DF3-B3DC-JPBKQRVJHNHWJTHCZZZ4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서태원 가평군수 “평화의 어머니 한학자 총재님의 깊은 뜻”]]></title>
-            <link>http://newstapa.org/article/7b-Rd</link>
-            <guid>http://newstapa.org/article/7b-Rd</guid>
-            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[서태원 가평군수 “평화의 어머니 한학자 총재님의 깊은 뜻”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/02171127-BE35-76D0-5060-52IXMM4V3HJ99R70JTM6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-01-14T09:32:30.185Z</updated>
+    <updated>2026-01-14T10:29:11.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/55f53b4/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[난중칼럼] 수사사법관? 검사의 난은 계속되고 있다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112143453</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112143453"/>
+        <updated>2026-01-14T10:29:03.247Z</updated>
+        <content type="html"><![CDATA[지난 12일 국회에서는 입법 예고된 중수청, 공수청 법안을 놓고 언쟁이 벌어졌습니다. 공소청에 수사사법관 등을 두겠다는 법안 내용이 논란의 중심에 섰습니다.<br><br>윤석열 정부 시절 검찰의 불법적 압수수색을 당한 당사자인 김용진 뉴스타파 기자는 수사사법관 등을 명시한 해당 법안이 기존 검찰의 검사-수사관 자리를 그대로 옮겨 놓을 뿐만 아니라, 오히려 감찰의 위상을 한층 높여주는 '검찰의 복음'에 가깝다고 지적합니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/DaKvD</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연금개혁의 시간]① 모든 개혁의 분수령, 연금개혁]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112139191</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/111993395"/>
         <updated>2025-12-30T08:33:15.158Z</updated>
         <content type="html"><![CDATA[2022년 10월 29일 이태원 참사 이후, 도시는 빠르게 일상으로 돌아갔습니다. 그러나 여전히 참사가 개인의 ‘선택’과 ‘책임’이라는 말들이 남아 있습니다.<br><br>〈LOOK AGAIN〉은 이태원 참사 이후를 살아가는 세 청년의 서로 다른 시선을 따라갑니다.<br>우연히 참사를 기록하게 된 다큐멘터리 감독, 현장에서 살아남았지만 침묵하게 된 생존자,<br>매일 사고가 반복되는 노동 현장에서 죽음을 개인의 몫으로 받아들이게 된 건설노동자가 이 다큐멘터리의 주인공입니다. <br><br>이들은 모두 이태원 참사 이후를 살아가고 있지만, 기억하는 방식도, 대응하는 태도도, 감각의 방향도 서로 다릅니다. 누군가는 기록하고, 누군가는 침묵하며, 누군가는 잊으려 애씁니다.<br><br>이 다큐멘터리는 묻습니다. 참사 이후 우리는 무엇을 놓치고 있는 걸까요?<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/fhMKyXsT58U</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/6AbQw</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠팡 ‘마우스피스’ 언론, ‘셀프조사’ 주장을 사실처럼 유통]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/111989442</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/111989442"/>
-        <updated>2025-12-30T04:42:03.589Z</updated>
-        <content type="html"><![CDATA[지난 25일 쿠팡이 대규모 개인정보 유출 사태와 관련해 자체 조사 결과를 발표했습니다. 경찰 수사 등이 진행되는 가운데 엉뚱하게도 조사 대상인 쿠팡이 이른바 '셀프 조사' 결과를 내놓은 것입니다.<br><br>이후 상당수 언론사가 쿠팡의 주장을 마치 사실처럼 보도하며, 쿠팡 측 보도자료를 그대로 옮긴 기사를 반복적으로 생산했습니다. 해당 기사에는 쿠팡 측에서 작성한 기업 홍보성 문구도 담겨 있었습니다. <br><br>비영리 독립 미디어감시 매체 '뉴스어디'가 쿠팡의 일방적 주장을 사실처럼 유통한 언론들을 분석했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newswhere.org/news/report/2759/</span>]]></content>
     </entry>
 </feed>
