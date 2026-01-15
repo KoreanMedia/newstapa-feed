@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jan 2026 07:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jan 2026 08:35:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김병기 최측근도 '업추비 유용' 의혹... 허위 증빙과 '사모님' 목격 증언]]></title>
+            <link>http://newstapa.org/article/mDxCT</link>
+            <guid>http://newstapa.org/article/mDxCT</guid>
+            <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김병기 최측근도 '업추비 유용' 의혹... 허위 증빙과 '사모님' 목격 증언]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/15171413-E4CF-B160-7D12-EXEHEDNN71ZL0IM6QFRY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 국민의 이름으로... 윤석열 선고 D-1]]></title>
+            <link>http://newstapa.org/article/gbJml</link>
+            <guid>http://newstapa.org/article/gbJml</guid>
+            <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 국민의 이름으로... 윤석열 선고 D-1]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/15135115-5486-0B84-05AA-IK12OY38C9HE25WES9E9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[난중칼럼] 수사사법관? 검사의 난은 계속되고 있다]]></title>
             <link>http://newstapa.org/article/DaKvD</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“이재명이가”...‘배우자 비리 은폐’ 김병기, 민주당·국민에 거짓말]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/30132507-FCEF-F7E9-1AF8-LNVYDWNBYDN4SU2MAHIF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열, "뉴스타파 기자 처벌 원한다" 법원 사실조회 답변]]></title>
-            <link>http://newstapa.org/article/NZBoA</link>
-            <guid>http://newstapa.org/article/NZBoA</guid>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열, "뉴스타파 기자 처벌 원한다" 법원 사실조회 답변]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/31104203-8520-AE1A-D50C-J4UZL7KX51JHZO68LEQY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] UN 사무국을 가평에? 통일교 숙원 해결 앞장선 가평군수]]></title>
-            <link>http://newstapa.org/article/H23E8</link>
-            <guid>http://newstapa.org/article/H23E8</guid>
-            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] UN 사무국을 가평에? 통일교 숙원 해결 앞장선 가평군수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/29140812-6B63-BB63-B3FE-WPBYUVZLDFVY7TYD0NGK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
