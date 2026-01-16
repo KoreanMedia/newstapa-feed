@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-01-16T10:28:25.815Z</updated>
+    <updated>2026-01-16T11:23:24.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/55f53b4/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[타파의 시선] 윤석열 첫 선고 '징역 5년'...이제 사면복권 방지책 마련해야]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112167760</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112167760"/>
+        <updated>2026-01-16T11:23:15.797Z</updated>
+        <content type="html"><![CDATA[내란 우두머리 혐의를 받고 있는 윤석열에 대한 첫 법원판결이 나왔습니다. 징역 5년, 직권남용 등 내란특검이 공소를 제기한 혐의 대부분이 유죄로 인정됐습니다. 윤석열은 내란과 관련된 총 8개의 재판을 받고 있습니다. 며칠전 본 사건이라 할 수 있는 내란 혐의 재판에선 특검이 사형을 구형했습니다. <br><br>첫 선고가 내려진 바로 그 시간 윤석열 지지자들이 모인 서울중앙지방법원 주변을 스케치한 김용진 선임기자는 재판과는 별도로 내란우두마리 혐의자 윤석열의 사면복권을 방지할 대책이 필요하다고 강조합니다.<br><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/GZ51y</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미니 다큐]336일 만에 땅 밟은 세종호텔 해고노동자..."복직 투쟁 멈추지 않아"]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112156145</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112027923"/>
         <updated>2026-01-02T05:29:00.260Z</updated>
         <content type="html"><![CDATA[대통령의 권한을 두고 제왕적이라고 하지만, 대법원장의 권한이야말로 제왕적입니다. 대법원장의 인사권은 비판받지 않습니다. 당사자인 판사들조차 수긍하고 받아들여 그 체제를 완성합니다. 입법, 행정과 달리 사법은 선출되지 않은 권력입니다. 사유화(私有化)한 사법을 바로잡는 최소한의 민주적 통제이자, 그렇게 해서 재판의 독립을 보장할 새로운 장치가 사법행정위원회라고 이범준 뉴스타파 전문위원은 지적합니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/-Zd2n</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이재명이가”...‘배우자 비리 은폐’ 김병기, 민주당·국민에 거짓말]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112007453</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112007453"/>
-        <updated>2025-12-31T06:37:51.199Z</updated>
-        <content type="html"><![CDATA[30일 원내대표 직에서 사퇴한 더불어민주당 김병기 의원이 배우자의 동작구의회 업무추진비 사적 유용 문제를 무마하는 과정에서 이재명 (현 대통령) 당시 당대표 등 민주당 지도부에도 거짓말을 했던 정황이 드러났습니다. <br><br>이 같은 내용이 담긴 김 의원의 육성 녹취록을 뉴스타파가 추가로 입수했습니다. <br><br>이렇게 2022년, 한 차례 사안을 무마시킨 김 의원은 추후 이 사건이 2024년에 다시 공론화되자 의혹 보도를 한 기자들을 고소하는 등 강경 대응을 했습니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/P2SgnPpKeKw</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/pkF3y</span>]]></content>
     </entry>
 </feed>
