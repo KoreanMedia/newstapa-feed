@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-01-17T03:26:21.960Z</updated>
+    <updated>2026-01-17T04:35:58.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/55f53b4/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['무인기 운용 주장' 대학원생, 윤 정부 때 설립된 '대북 침투용' 무인기 제작사 근무]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112170611</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112170611"/>
+        <updated>2026-01-17T04:35:48.873Z</updated>
+        <content type="html"><![CDATA[어제(16일) 채널A는 '자신이 북한에 무인기를 보낸 당사자'라 주장하는 오 모 씨와의 인터뷰를 보도했습니다. <br><br>보도에서 오 씨는 "평범한 대학원생"으로 소개됐습니다. 북한에 무인기를 보낸 목적도 단순 호기심인 것처럼 설명됐습니다.<br><br>그런데 뉴스타파 취재 결과, 오 씨가 윤석열 정부 시절 '북한 무인기 대통령실 상공 침투'에 대응할 목적에서 설립된 무인기 설계·제작 업체의 이사로 근무한 이력이 확인됐습니다.<br><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/hAZAU</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[타파의 시선] 윤석열 첫 선고 '징역 5년'...이제 사면복권 방지책 마련해야]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112167760</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112031358"/>
         <updated>2026-01-02T08:33:42.868Z</updated>
         <content type="html"><![CDATA[뉴스타파는 지방 정부인 가평군이 통일교의 각종 사업에 주권자로부터 위임받은 공적 자원을 그야말로 쏟아붓고 있는 실태, 의혹을 계속해서 보도하고 있습니다.<br><br>가평군과 통일교 사이에는 어떤 연결 고리가 있는 걸까요. 취재 결과, 현직 가평군수와 통일교의 연관성이 심상치 않은 것으로 드러났습니다. <br><br>뉴스타파는 ▲서태원 가평군수가 ‘가평군청 공무원 시절부터 통일교 관련 사업을 챙겼다’고 직접 발언한 것을 포함해 ▲군수에 당선 이후 통일교의 각종 행사에 참여 ▲행사장에서 공개적으로 통일교 한학자 총재를 찬미하는 등의 영상, 사진 자료를 다수 확보했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/WMLqCM1KwOI</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/7b-Rd</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[타파의 시선] 독립이 아닌 독재를 판사들은 원한다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112027923</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112027923"/>
-        <updated>2026-01-02T05:29:00.260Z</updated>
-        <content type="html"><![CDATA[대통령의 권한을 두고 제왕적이라고 하지만, 대법원장의 권한이야말로 제왕적입니다. 대법원장의 인사권은 비판받지 않습니다. 당사자인 판사들조차 수긍하고 받아들여 그 체제를 완성합니다. 입법, 행정과 달리 사법은 선출되지 않은 권력입니다. 사유화(私有化)한 사법을 바로잡는 최소한의 민주적 통제이자, 그렇게 해서 재판의 독립을 보장할 새로운 장치가 사법행정위원회라고 이범준 뉴스타파 전문위원은 지적합니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/-Zd2n</span>]]></content>
     </entry>
 </feed>
