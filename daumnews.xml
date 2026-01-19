@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jan 2026 04:56:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 05:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한강을 꿈꾸다]]></title>
+            <link>https://v.daum.net/v/20260119141639848</link>
+            <guid>https://v.daum.net/v/20260119141639848</guid>
+            <pubDate>Mon, 19 Jan 2026 05:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260119141639848" class="link_column"><div class="cont_thumb"><strong class="tit_txt">한강을 꿈꾸다</strong><span class="info_txt"><span class="txt_info">18분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119141648012ctqz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119141648012ctqz.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA["무인기 내가 보냈다" 대학원생, 윤석열 정부 때 설립된 '대북 침투용' 무인기 제작사 근무]]></title>
             <link>https://v.daum.net/v/20260117131125059</link>
@@ -99,7 +107,7 @@
             <link>https://v.daum.net/v/20260112143200870</link>
             <guid>https://v.daum.net/v/20260112143200870</guid>
             <pubDate>Mon, 12 Jan 2026 05:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260112143200870" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112143202136mlql.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260112143200870" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다</strong><span class="info_txt"><span class="txt_info">2026. 1. 12.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112143202136mlql.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F12%2Fnewstapa%2F20260112143202136mlql.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -237,14 +245,6 @@
             <pubDate>Mon, 29 Dec 2025 03:53:06 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251229105658749" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김병기, 배우자 '업무추진비 유용' 알고도 은폐했다... 육성 녹음 공개</strong><span class="info_txt"><span class="txt_info">2025. 12. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F29%2Fnewstapa%2F20251229105704570lfve.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F29%2Fnewstapa%2F20251229105704570lfve.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 통일교 궁전에 UN사무국? 막 오르는 '통일교 특검']]></title>
-            <link>https://v.daum.net/v/20251226180657576</link>
-            <guid>https://v.daum.net/v/20251226180657576</guid>
-            <pubDate>Fri, 26 Dec 2025 09:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251226180657576" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 통일교 궁전에 UN사무국? 막 오르는 '통일교 특검'</strong><span class="info_txt"><span class="txt_info">2025. 12. 26.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F26%2Fnewstapa%2F20251226180700871garx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F26%2Fnewstapa%2F20251226180700871garx.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

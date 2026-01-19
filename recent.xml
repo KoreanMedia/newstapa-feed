@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jan 2026 04:56:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 05:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한강을 꿈꾸다]]></title>
+            <link>http://newstapa.org/article/WhnMQ</link>
+            <guid>http://newstapa.org/article/WhnMQ</guid>
+            <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한강을 꿈꾸다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/19141205-989D-0DE6-DCAB-8K7OLJPMZ5X82GRHFA28.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["무인기 내가 보냈다" 대학원생, 윤석열 정부 때 설립된 '대북 침투용' 무인기 제작사 근무]]></title>
             <link>http://newstapa.org/article/hAZAU</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/09143955-8426-B2D4-E72F-ZW99K19GAZ34YWTXG0BL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 김병기의 끝나지 않은 의혹들... 수사 무마와 사적 동원]]></title>
-            <link>http://newstapa.org/article/FGkF_</link>
-            <guid>http://newstapa.org/article/FGkF_</guid>
-            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 김병기의 끝나지 않은 의혹들... 수사 무마와 사적 동원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/08161626-01C7-6341-BD7F-PPEKOWVA5P24L1Z120AV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

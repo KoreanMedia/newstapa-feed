@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-01-19T04:56:30.517Z</updated>
+    <updated>2026-01-19T05:35:05.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/55f53b4/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한강을 꿈꾸다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112182947</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112182947"/>
+        <updated>2026-01-19T05:34:57.525Z</updated>
+        <content type="html"><![CDATA[관람차, 한강버스, 예술섬. 오세훈 서울시장은 수천억 원의 혈세를 부어가며 한강 개발 사업을 벌이고 있습니다. 하지만 런던과 뉴욕 등의 유명 건축물을 한강에 이식하려는 오 시장의 시도는 번번이 논란을 빚고 있습니다. 수질은 악화되고, 시민들은 강을 강답게 이용할 수도 없습니다.  <br><br>영화 〈추적〉의 감독 최승호 PD는 이러한 서울시정의 실패가 한강 본래의 모습을 생각하지 않았기 때문이라고 지적합니다. 80년대 '선진국의 환상'에 사로잡혀 보를 만들고 수변에 콘크리트 시설을 설치했습니다. 유람선을 띄우기 위해 흐르는 강은 호수나 다름없게 변했습니다. 최 PD는 체질에 맞지 않는 유럽의 강을 따라할 것이 아니라 한강 본연의 모습에 맞게 자연성을 회복해 나가야 한다고 말합니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/C3qBlCYuCIc</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/WhnMQ</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['무인기 운용 주장' 대학원생, 윤 정부 때 설립된 '대북 침투용' 무인기 제작사 근무]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112170611</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112031365"/>
         <updated>2026-01-02T08:33:42.867Z</updated>
         <content type="html"><![CDATA[2022년 지방선거를 앞두고 통일교가 가평군수 후보를 상대로 ‘자체 면접’ 성격의 간담회를 진행한 사실이 확인됐습니다. <br><br>뉴스타파는 당시 통일교의 ‘가평군수 후보자 간담회’ 영상을 입수했습니다. 영상 속 가평군수 후보자들은 통일교 한학자 총재를 찬양하는 등의 발언을 이어갔습니다. <br><br>또 통일교 측에서 '군수 되면 통일교 사업 잘 도울 거냐'는 취지의 질문을 던지자, 앞다퉈 ‘적극 지원’을 공언하기도 했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/CMu1e4m65XI</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/b8Ook</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서태원 가평군수 “평화의 어머니 한학자 총재님의 깊은 뜻”]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112031358</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112031358"/>
-        <updated>2026-01-02T08:33:42.868Z</updated>
-        <content type="html"><![CDATA[뉴스타파는 지방 정부인 가평군이 통일교의 각종 사업에 주권자로부터 위임받은 공적 자원을 그야말로 쏟아붓고 있는 실태, 의혹을 계속해서 보도하고 있습니다.<br><br>가평군과 통일교 사이에는 어떤 연결 고리가 있는 걸까요. 취재 결과, 현직 가평군수와 통일교의 연관성이 심상치 않은 것으로 드러났습니다. <br><br>뉴스타파는 ▲서태원 가평군수가 ‘가평군청 공무원 시절부터 통일교 관련 사업을 챙겼다’고 직접 발언한 것을 포함해 ▲군수에 당선 이후 통일교의 각종 행사에 참여 ▲행사장에서 공개적으로 통일교 한학자 총재를 찬미하는 등의 영상, 사진 자료를 다수 확보했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/WMLqCM1KwOI</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/7b-Rd</span>]]></content>
     </entry>
 </feed>
