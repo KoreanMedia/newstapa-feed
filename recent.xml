@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jan 2026 05:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 06:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황]]></title>
+            <link>http://newstapa.org/article/6XM4r</link>
+            <guid>http://newstapa.org/article/6XM4r</guid>
+            <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/19153919-B0B1-4934-DA23-NQJXQUZA1SGSB9MCOV3V.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한강을 꿈꾸다]]></title>
             <link>http://newstapa.org/article/WhnMQ</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12134924-8441-D4BC-29B2-DVCQH59W6J7PS1ROXTNO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나]]></title>
-            <link>http://newstapa.org/article/tIFG6</link>
-            <guid>http://newstapa.org/article/tIFG6</guid>
-            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/09143955-8426-B2D4-E72F-ZW99K19GAZ34YWTXG0BL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

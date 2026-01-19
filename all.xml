@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jan 2026 05:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 06:42:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/6XM4r</link>
+            <guid>http://newstapa.org/article/6XM4r</guid>
+            <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/19153919-B0B1-4934-DA23-NQJXQUZA1SGSB9MCOV3V.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한강을 꿈꾸다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/WhnMQ</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12134924-8441-D4BC-29B2-DVCQH59W6J7PS1ROXTNO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/tIFG6</link>
-            <guid>http://newstapa.org/article/tIFG6</guid>
-            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/09143955-8426-B2D4-E72F-ZW99K19GAZ34YWTXG0BL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한강을 꿈꾸다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/24174853-3856-36D7-F892-EUL2QRWHA5YVODHPLRLO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/6XM4r</link>
+            <guid>http://newstapa.org/article/6XM4r</guid>
+            <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/19153919-B0B1-4934-DA23-NQJXQUZA1SGSB9MCOV3V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["무인기 내가 보냈다" 대학원생, 윤석열 정부 때 설립된 '대북 침투용' 무인기 제작사 근무 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/hAZAU</link>
             <guid>http://newstapa.org/article/hAZAU</guid>
@@ -1790,14 +1798,6 @@
             <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['평양행 무인기' 제조사 대표, “VIP 방문 후 제작 요청왔다”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/08173548-54C6-3119-956A-UCL6FXNK8B4JDR1PDHT4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무엇을 할 것인가 : 외교] 평화와 신냉전의 갈림길, 선택이 한반도 운명 가른다 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/lBZ88</link>
-            <guid>http://newstapa.org/article/lBZ88</guid>
-            <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[무엇을 할 것인가 : 외교] 평화와 신냉전의 갈림길, 선택이 한반도 운명 가른다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/02182533-523E-3038-783A-LJC8ODQXEWF9GSGZCN0I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“뉴스타파는 멈추지 않았다”...GIJC 총회서 ‘잠입취재·압수수색’ 공유 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -3476,11 +3476,19 @@
             <content:encoded><![CDATA[2022년 지방선거를 앞두고 통일교가 가평군수 후보를 상대로 ‘자체 면접’ 성격의 간담회를 진행한 사실이 확인됐습니다. <br><br>뉴스타파는 당시 통일교의 ‘가평군수 후보자 간담회’ 영상을 입수했습니다. 영상 속 가평군수 후보자들은 통일교 한학자 총재를 찬양하는 등의 발언을 이어갔습니다. <br><br>또 통일교 측에서 '군수 되면 통일교 사업 잘 도울 거냐'는 취지의 질문을 던지자, 앞다퉈 ‘적극 지원’을 공언하기도 했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/CMu1e4m65XI</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/b8Ook</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260119154124683</link>
+            <guid>https://v.daum.net/v/20260119154124683</guid>
+            <pubDate>Mon, 19 Jan 2026 06:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260119154124683" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황</strong><span class="info_txt"><span class="txt_info">1분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119154125916qkds.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119154125916qkds.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[한강을 꿈꾸다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260119141639848</link>
             <guid>https://v.daum.net/v/20260119141639848</guid>
             <pubDate>Mon, 19 Jan 2026 05:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260119141639848" class="link_column"><div class="cont_thumb"><strong class="tit_txt">한강을 꿈꾸다</strong><span class="info_txt"><span class="txt_info">18분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119141648012ctqz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260119141639848" class="link_column"><div class="cont_thumb"><strong class="tit_txt">한강을 꿈꾸다</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119141648012ctqz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119141648012ctqz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3705,14 +3713,6 @@
             <pubDate>Mon, 29 Dec 2025 05:32:19 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251229141141077" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] UN 사무국을 가평에? 통일교 숙원 해결 앞장선 가평군수</strong><span class="info_txt"><span class="txt_info">2025. 12. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F29%2Fnewstapa%2F20251229141142348wxzg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F29%2Fnewstapa%2F20251229141142348wxzg.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[김병기, 배우자 '업무추진비 유용' 알고도 은폐했다... 육성 녹음 공개 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20251229105658749</link>
-            <guid>https://v.daum.net/v/20251229105658749</guid>
-            <pubDate>Mon, 29 Dec 2025 03:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251229105658749" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김병기, 배우자 '업무추진비 유용' 알고도 은폐했다... 육성 녹음 공개</strong><span class="info_txt"><span class="txt_info">2025. 12. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F29%2Fnewstapa%2F20251229105704570lfve.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F29%2Fnewstapa%2F20251229105704570lfve.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
