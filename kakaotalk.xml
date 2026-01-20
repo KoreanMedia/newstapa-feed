@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-01-20T04:49:14.869Z</updated>
+    <updated>2026-01-20T05:32:56.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/55f53b4/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[🔴라이브] 수면 위로 나온 검찰주의자들의 셀프개혁안 한방에 알려드림!]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112194075</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112194075"/>
+        <updated>2026-01-20T05:32:46.387Z</updated>
+        <content type="html"><![CDATA[지난 12일 국무총리실 검찰개혁지원단이 발표한 공소청·중수청 입법예고안이 여론의 거센 반발을 받고 있습니다. 검사의 권한과 지위를 그대로 살리고, 수사-기소 분리라는 검찰 개혁의 전제가 무너지고 있다는 비판이 나오는 겁니다. <br><br>이 문제의 입법예고안 누가 기획하고 만들었을까요. 뉴스타파는 보이지 않는 손으로 봉욱 민정수석과 법무부 검찰개혁지원단장 김태헌 부장검사를 지목합니다. 개혁의 대상인 검사들이 준비한 문제의 '셀프' 입법예고안. 뉴스타파 강민수 기자와 이범준 전문위원이 짚어봅니다.<br><br>오늘 오후 4시, 뉴스타파 라이브 토크 '검찰주의자들의 셀프 개혁안 한방에 알려드림'에 많은 관심과 시청바랍니다!<br><br>🔴 뉴스타파 라이브 바로가기 : <span class="link_url">https://youtube.com/live/U5AdYMSJcZk</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스타파-저스피스, 지학순 정의평화 다큐멘터리상 제정]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112185862</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112088342"/>
         <updated>2026-01-08T08:34:45.367Z</updated>
         <content type="html"><![CDATA[더불어민주당 김병기 의원의 차남이 자신의 미국 대학 휴학 연장 신청과 간단한 영작문 첨삭까지 김 의원의 보좌진에게 부탁했던 사실이 뉴스타파 취재 결과 확인됐습니다. 김 의원의 차남은 이른바 '숭실대 편입 및 중소기업 특혜 의혹'의 당사잡니다. <br><br>김 의원의 차남이 보좌 직원의 도움을 받아 미국 대학 휴학을 연장한 뒤, 김 의원은 차남의 국내 대학 재편입을 알아보기 시작했습니다. 이어 숭실대 계약학과 과정에 편입했습니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/WW1gswwYoEM</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/2QooX</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰, 통일교에 수사 기밀 유출 정황]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112077247</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112077247"/>
-        <updated>2026-01-07T09:31:47.142Z</updated>
-        <content type="html"><![CDATA[통일교 문선명 초대 총재의 셋째 아들 문현진 현 UCI그룹 회장에 대한 검찰 수사 과정에서 핵심 수사 정보가 통일교 측에 사전에 전달된 정황이 확인됐습니다. <br><br>뉴스타파가 입수한 단체 메신저 대화 내용에는 검찰의 출국금지 및 소환 계획, 승인 여부, 통지 시점까지 구체적으로 공유된 내용이 담겼습니다.<br><br>기밀이 요구되는 검찰의 수사 정보가 통일교 고위 간부들에게 전달되고, 동시에 언론 통제 요청까지 오간 겁니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/XHcUk</span>]]></content>
     </entry>
 </feed>
