@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jan 2026 04:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 05:32:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['북한 무인기' 의혹 에스텔엔지니어링, 군납 목표로 '저가형 정찰 무인기' 개발]]></title>
+            <link>http://newstapa.org/article/B5tdR</link>
+            <guid>http://newstapa.org/article/B5tdR</guid>
+            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['북한 무인기' 의혹 에스텔엔지니어링, 군납 목표로 '저가형 정찰 무인기' 개발]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/21135049-0F3D-972E-D528-2RULH9S2LPB5O7ZZ9907.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황]]></title>
             <link>http://newstapa.org/article/6XM4r</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[기고] 지방의회 비리 감추는 국민권익위?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12160358-EBE0-3420-9245-QHO1ABKY2IWRCLRK2LIS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다]]></title>
-            <link>http://newstapa.org/article/kqDg2</link>
-            <guid>http://newstapa.org/article/kqDg2</guid>
-            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12134924-8441-D4BC-29B2-DVCQH59W6J7PS1ROXTNO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
