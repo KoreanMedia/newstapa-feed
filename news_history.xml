@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/category/%EC%97%AD%EC%82%AC</id>
-    <title>뉴스타파 ─ 뉴스 ─ 역사</title>
-    <updated>2026-01-21T12:54:05.864Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스 ─ 역사</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 21 Jan 2026 13:49:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파의 시선] ‘전두환 프로젝트’ 끝나지 않았다]]></title>
+            <link>http://newstapa.org/article/or0Qt</link>
+            <guid>http://newstapa.org/article/or0Qt</guid>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] ‘전두환 프로젝트’ 끝나지 않았다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/12171425-810E-C5D8-4ACA-2IH3RKDB5FVDBUL5LH1O.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[칼럼] 무소불위 검찰의 식민지 노스탤지어]]></title>
+            <link>http://newstapa.org/article/Qr9Nr</link>
+            <guid>http://newstapa.org/article/Qr9Nr</guid>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 무소불위 검찰의 식민지 노스탤지어]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/12173003-0B6E-A149-3CDF-DYLFK3FGYU7YB2R1XFEQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[얼굴, 얼굴들]]></title>
+            <link>http://newstapa.org/article/rDq1d</link>
+            <guid>http://newstapa.org/article/rDq1d</guid>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴, 얼굴들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/18135941-2C63-0F16-0E4A-LY4BCOA9A4HM44TU1VY3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[반론보도]「'일제 미화' 검정교과서 제작 문건 입수... 대한교조 참여 확인」기사 등 관련]]></title>
+            <link>http://newstapa.org/article/jeELo</link>
+            <guid>http://newstapa.org/article/jeELo</guid>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[반론보도]「'일제 미화' 검정교과서 제작 문건 입수... 대한교조 참여 확인」기사 등 관련]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/24145805-2FA8-CA57-7112-7WRQ43SA6WU01378GJPS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1948, 사라진 병사들: 그들은 돌아오지 않았다]]></title>
+            <link>http://newstapa.org/article/ArqDC</link>
+            <guid>http://newstapa.org/article/ArqDC</guid>
+            <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1948, 사라진 병사들: 그들은 돌아오지 않았다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/23110830-6DC9-9B53-9E2B-FFJCU446OLQ3G4JYZE19.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김낙년 '친일 교과서 집필' 논란에 질타 쏟아진 국감장]]></title>
+            <link>http://newstapa.org/article/PzG0Q</link>
+            <guid>http://newstapa.org/article/PzG0Q</guid>
+            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김낙년 '친일 교과서 집필' 논란에 질타 쏟아진 국감장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/17161329-39C1-2936-C129-BFU4NU1UEJIOKZII28B8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해방80년특집: 숭미의 기원①] 광화문 성조기는 어디서 왔나]]></title>
+            <link>http://newstapa.org/article/d8S6X</link>
+            <guid>http://newstapa.org/article/d8S6X</guid>
+            <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해방80년특집: 숭미의 기원①] 광화문 성조기는 어디서 왔나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14183710-F1D6-8FC2-D34F-MVOE0FHVH7QROFQXLTI9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해방80년 특집] 한일 협정 반대 여론을 막아라…미국의 심리전]]></title>
+            <link>http://newstapa.org/article/pTCAa</link>
+            <guid>http://newstapa.org/article/pTCAa</guid>
+            <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해방80년 특집] 한일 협정 반대 여론을 막아라…미국의 심리전]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14190704-DE4E-1A5B-985A-D7SDGA3E3BDQKFTVWLSI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['주무관'과 '교육감'...수상한 '검정교과서' 계획 문건 공개]]></title>
+            <link>http://newstapa.org/article/EVuEs</link>
+            <guid>http://newstapa.org/article/EVuEs</guid>
+            <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['주무관'과 '교육감'...수상한 '검정교과서' 계획 문건 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/23104241-4A12-876C-C482-41F8971G3PL1K0A504YT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 국방부가 은폐한 '6·25전쟁 참전자 증언록', 뉴스타파 정보공개 소송 2심도 승소]]></title>
+            <link>http://newstapa.org/article/7gxn6</link>
+            <guid>http://newstapa.org/article/7gxn6</guid>
+            <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 국방부가 은폐한 '6·25전쟁 참전자 증언록', 뉴스타파 정보공개 소송 2심도 승소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/16110103-387D-A5CF-D79C-BDFEAAQGOT860P9E6ARP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이승만·박정희의 사법살인 옹호한 '역사교과서' 원고]]></title>
+            <link>http://newstapa.org/article/fM_Ig</link>
+            <guid>http://newstapa.org/article/fM_Ig</guid>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이승만·박정희의 사법살인 옹호한 '역사교과서' 원고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10131913-2BBC-05D6-A251-YKBNWB84YBTJI99NIIRB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[타파스] 리박스쿨과 친일교과서, 윤 정부의 교육 장악 멀티버스]]></title>
+            <link>http://newstapa.org/article/1N1rM</link>
+            <guid>http://newstapa.org/article/1N1rM</guid>
+            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 리박스쿨과 친일교과서, 윤 정부의 교육 장악 멀티버스]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/30150619-5A99-5D47-A998-EIN0GSCQZ679M8KHYPEX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<당신이 보지 못한 한국전쟁> 3부작 완결편 “포로와 판문점” 출판]]></title>
+            <link>http://newstapa.org/article/ttp2f</link>
+            <guid>http://newstapa.org/article/ttp2f</guid>
+            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;당신이 보지 못한 한국전쟁&gt; 3부작 완결편 “포로와 판문점” 출판]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/30165932-E37C-8B01-76F5-FLTJGMHDK8ZLISRBV2CX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['일제 미화' 검정교과서 제작 문건 입수...대한교조 참여 확인]]></title>
+            <link>http://newstapa.org/article/mVPaS</link>
+            <guid>http://newstapa.org/article/mVPaS</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['일제 미화' 검정교과서 제작 문건 입수...대한교조 참여 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26165110-A152-79FC-AEF4-AHY7HLDZWIVZYFG3HNQX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 정부 역사기관장이 쓴 ‘일제 미화’ 교과서 원고 공개]]></title>
+            <link>http://newstapa.org/article/Rhj-j</link>
+            <guid>http://newstapa.org/article/Rhj-j</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤 정부 역사기관장이 쓴 ‘일제 미화’ 교과서 원고 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26163553-93EB-BD80-36D5-BZVB3UHB7LC9QEI1IDO2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[한국전쟁 75년] 미공개 포로 영상...'포로와 판문점' 화보집 공개]]></title>
+            <link>http://newstapa.org/article/WbfXH</link>
+            <guid>http://newstapa.org/article/WbfXH</guid>
+            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[한국전쟁 75년] 미공개 포로 영상...'포로와 판문점' 화보집 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/25141823-3666-4F05-57FC-0SD8QYRPB0MJ8W02D32Y.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
