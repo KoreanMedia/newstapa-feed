@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jan 2026 06:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 07:32:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[연금개혁의 시간]② 기금 소진...가능은 할까? (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/VY1BF</link>
+            <guid>http://newstapa.org/article/VY1BF</guid>
+            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의 시간]② 기금 소진...가능은 할까?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/21153410-708D-33C8-D56B-JIJ72XV106XHKMYMPECL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 두니아, 캄보디아 스캠 조직 내부문건 입수… ‘연가 일수’까지 파악 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/_uRUx</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[칼럼] 작전명 ‘몽구스’에서 작전명 ‘확고한 결의’까지]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12175714-679D-BAEB-8E92-VTJVX447D0IOPRI1OOJ0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['홀리마더 한 영상 내려달라' 세계일보 가처분 신청 기각 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/iWg1n</link>
-            <guid>http://newstapa.org/article/iWg1n</guid>
-            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['홀리마더 한 영상 내려달라' 세계일보 가처분 신청 기각]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12162741-7D84-D846-CBD3-LJPHSWWC1QCSU5VF73LW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한강을 꿈꾸다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1544,6 +1544,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/25141823-3666-4F05-57FC-0SD8QYRPB0MJ8W02D32Y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[연금개혁의 시간]② 기금 소진...가능은 할까? (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/VY1BF</link>
+            <guid>http://newstapa.org/article/VY1BF</guid>
+            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의 시간]② 기금 소진...가능은 할까?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/21153410-708D-33C8-D56B-JIJ72XV106XHKMYMPECL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[연금개혁의 시간]① 모든 개혁의 분수령, 연금개혁 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
             <link>http://newstapa.org/article/G5cbg</link>
             <guid>http://newstapa.org/article/G5cbg</guid>
@@ -1662,14 +1670,6 @@
             <pubDate>Wed, 31 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[도시재생 10년, 길을 잃었나② 주민 짐 된 거점시설, 사업 끝나자 방치]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/31142839-EA70-8FC3-30AD-0YHGSGC2S5LVEH9EPJ3N.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시재생 10년, 길을 잃었나① 예산 써서 도시재생 하더니, 끝나자마자 재개발 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
-            <link>http://newstapa.org/article/kJYdb</link>
-            <guid>http://newstapa.org/article/kJYdb</guid>
-            <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[도시재생 10년, 길을 잃었나① 예산 써서 도시재생 하더니, 끝나자마자 재개발]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/24174853-3856-36D7-F892-EUL2QRWHA5YVODHPLRLO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['북한 무인기' 의혹 에스텔엔지니어링, 군납 목표로 '저가형 정찰 무인기' 개발 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
@@ -3336,6 +3336,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22154956-255D-013E-7097-T4NAO3RS6RMRSD0PYRRC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[연금개혁의 시간]② 기금 소진...가능은 할까? (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112207542</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112207542</guid>
+            <pubDate>Wed, 21 Jan 2026 07:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[기금 소진 이후에도 지속가능할 것으로 예상했던 국민연금의 초기 설계는 더 이상 유효하지 않게 됐습니다. 세계 최저 출산율과 급격한 고령화 때문입니다. 그렇다면 파국은 예정된 것일까요? 기금 소진의 의미와 현실성을 살펴봤습니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/VY1BF</span><br>👉 뉴스타파는 광고와 협찬 없이 회원들의 후원금으로만 운영됩니다. 뉴스타파에 힘을 보태주세요 : <span class="link_url">https://newstapa.org/donate</span><br>🌏 해외에서는 Paypal을 통해 후원하실 수 있습니다. Paypal 후원 링크 : <span class="link_url">https://url.kr/7n3hfe</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뉴스타파 <목격자들> 1월 공모, 이번주 일요일 마감 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112205280</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112205280</guid>
@@ -3469,18 +3476,19 @@
             <content:encoded><![CDATA[더불어민주당 김병기 의원이 지난달 30일 원내대표직에서 물러났습니다. 뉴스타파가 폭로한 여러 의혹과 함께 다른 논란까지 겹치며 결국 사퇴한 겁니다. 경찰은 최근 김 의원에 대한 수사에 착수하고 여러 의혹들의 진위 여부를 확인하고 있습니다. 그러나 김 의원은 제기된 의혹들을 부인하고 있습니다. 특히 배우자가 구의회 업무추진비를 유용했다는 뉴스타파 보도에 대해선 "이미 경찰에서 무혐의 처분을 받았다"고 주장했습니다. <br><br>뉴스타파는 김병기 의원의 기존 주장을 뒤집는 새로운 증거와 자료들을 공개합니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/NrjirfBHvEM</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/FGkF_</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김병기, 보좌진 동원해 배우자 연루 '수사 무마' 정황 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112088349</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112088349</guid>
-            <pubDate>Thu, 08 Jan 2026 08:34:45 GMT</pubDate>
-            <content:encoded><![CDATA[더불어민주당 김병기 의원이 2024년 배우자의 '구의회 업무추진비 유용'에 대한 경찰 수사가 진행될 당시, 보좌진을 동원해 수사를 무마시킨 정황이 포착됐습니다. 김 의원의 보좌진은 뉴스타파에 “김병기 의원의 지시로 배우자에게 업추비 카드를 제공했던 당시 구의원의 '진술 코치'를 해줬다"고 말했습니다. 또, 구의원 명의 확인서가 경찰에 제출됐는데, 이 또한 김 의원의 지시로 보좌진이 작성한 정황이 확인됐습니다.<br><br>이외에 김 의원이 당시 경찰서장에게 전화를 했다는 등 여러 수사 무마 의혹이 제기된 상태입니다. 현재 경찰 수사가 진행 중인 가운데, 과거 김 의원이 관련 수사에 부당한 영향력을 행사했는지 밝혀져야 할 것으로 보입니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/B4VJzcz3_FU</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/jscRn</span>]]></content:encoded>
+            <title><![CDATA[[연금개혁의 시간]② 기금 소진...가능은 할까? (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260121160124506</link>
+            <guid>https://v.daum.net/v/20260121160124506</guid>
+            <pubDate>Wed, 21 Jan 2026 07:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260121160124506" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의 시간]② 기금 소진...가능은 할까?</strong><span class="info_txt"><span class="txt_info">30분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F21%2Fnewstapa%2F20260121160126532grlc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F21%2Fnewstapa%2F20260121160126532grlc.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[KINN] 두니아, 캄보디아 스캠 조직 내부문건 입수… ‘연가 일수’까지 파악 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260121144123477</link>
             <guid>https://v.daum.net/v/20260121144123477</guid>
             <pubDate>Wed, 21 Jan 2026 06:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260121144123477" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 두니아, 캄보디아 스캠 조직 내부문건 입수… ‘연가 일수’까지 파악</strong><span class="info_txt"><span class="txt_info">59분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F21%2Fnewstapa%2F20260121144125100lurz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260121144123477" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 두니아, 캄보디아 스캠 조직 내부문건 입수… ‘연가 일수’까지 파악</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F21%2Fnewstapa%2F20260121144125100lurz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F21%2Fnewstapa%2F20260121144125100lurz.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3488,7 +3496,7 @@
             <link>https://v.daum.net/v/20260121140626245</link>
             <guid>https://v.daum.net/v/20260121140626245</guid>
             <pubDate>Wed, 21 Jan 2026 05:32:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260121140626245" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'북한 무인기' 의혹 에스텔엔지니어링, 군납 목표로 '저가형 정찰 무인기' 개발</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F21%2Fnewstapa%2F20260121140627400enqj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260121140626245" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'북한 무인기' 의혹 에스텔엔지니어링, 군납 목표로 '저가형 정찰 무인기' 개발</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F21%2Fnewstapa%2F20260121140627400enqj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F21%2Fnewstapa%2F20260121140627400enqj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3504,7 @@
             <link>https://v.daum.net/v/20260119154124683</link>
             <guid>https://v.daum.net/v/20260119154124683</guid>
             <pubDate>Mon, 19 Jan 2026 06:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260119154124683" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119154125916qkds.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260119154124683" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119154125916qkds.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119154125916qkds.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3705,14 +3713,6 @@
             <pubDate>Wed, 31 Dec 2025 01:49:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251231104705537" class="link_column"><div class="cont_thumb"><strong class="tit_txt">윤석열, "뉴스타파 기자 처벌 원한다" 법원 사실조회 답변</strong><span class="info_txt"><span class="txt_info">2025. 12. 31.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F31%2Fnewstapa%2F20251231104707157iteh.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F31%2Fnewstapa%2F20251231104707157iteh.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[LOOK AGAIN (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20251230162643299</link>
-            <guid>https://v.daum.net/v/20251230162643299</guid>
-            <pubDate>Tue, 30 Dec 2025 08:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20251230162643299" class="link_column"><div class="cont_thumb"><strong class="tit_txt">LOOK AGAIN</strong><span class="info_txt"><span class="txt_info">2025. 12. 30.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F30%2Fnewstapa%2F20251230162650858zbjk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202512%2F30%2Fnewstapa%2F20251230162650858zbjk.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
