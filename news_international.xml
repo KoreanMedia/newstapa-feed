@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 국제협업</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jan 2026 05:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 06:40:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 두니아, 캄보디아 스캠 조직 내부문건 입수… ‘연가 일수’까지 파악]]></title>
+            <link>http://newstapa.org/article/_uRUx</link>
+            <guid>http://newstapa.org/article/_uRUx</guid>
+            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 두니아, 캄보디아 스캠 조직 내부문건 입수… ‘연가 일수’까지 파악]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/21142354-8BEA-370A-BE30-SI2W8ZL5V02DRZZD3JWZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“뉴스타파는 멈추지 않았다”...GIJC 총회서 ‘잠입취재·압수수색’ 공유]]></title>
             <link>http://newstapa.org/article/fWLkH</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[중국이 외국으로 망명한 반체제인사를 탄압하는 법]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28184957-FC06-6C6F-5166-7Q64JENZZWUQXEG4WASL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국제 정치가 남극크릴 새우에 미치는 영향]]></title>
-            <link>http://newstapa.org/article/8kgX_</link>
-            <guid>http://newstapa.org/article/8kgX_</guid>
-            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국제 정치가 남극크릴 새우에 미치는 영향]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/18104139-CB94-A5CE-9268-S34NLS364QS45TEUR7P6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
