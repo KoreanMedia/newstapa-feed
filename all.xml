@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jan 2026 06:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jan 2026 07:31:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['뉴스타파 기자 폭행' 권성동 의원, 벌금 100만원 약식기소 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/96t-O</link>
+            <guid>http://newstapa.org/article/96t-O</guid>
+            <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['뉴스타파 기자 폭행' 권성동 의원, 벌금 100만원 약식기소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/22103351-F9B3-4ECA-8F1D-D4IMOV59TB01BC92C9VO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[연금개혁의 시간]② 기금 소진...가능은 할까? (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/VY1BF</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/13151423-D945-45C5-0FBA-RP6FVENF09WKOPHR5O7Y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[칼럼] 작전명 ‘몽구스’에서 작전명 ‘확고한 결의’까지 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/5CveA</link>
-            <guid>http://newstapa.org/article/5CveA</guid>
-            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] 작전명 ‘몽구스’에서 작전명 ‘확고한 결의’까지]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12175714-679D-BAEB-8E92-VTJVX447D0IOPRI1OOJ0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['뉴스타파 기자 폭행' 권성동 의원, 벌금 100만원 약식기소 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/96t-O</link>
+            <guid>http://newstapa.org/article/96t-O</guid>
+            <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['뉴스타파 기자 폭행' 권성동 의원, 벌금 100만원 약식기소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/22103351-F9B3-4ECA-8F1D-D4IMOV59TB01BC92C9VO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한강을 꿈꾸다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[통일교가 가평군수 후보자 면접... 현장 영상 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/02171237-C54C-1DF3-B3DC-JPBKQRVJHNHWJTHCZZZ4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서태원 가평군수 “평화의 어머니 한학자 총재님의 깊은 뜻” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/7b-Rd</link>
-            <guid>http://newstapa.org/article/7b-Rd</guid>
-            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[서태원 가평군수 “평화의 어머니 한학자 총재님의 깊은 뜻”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/02171127-BE35-76D0-5060-52IXMM4V3HJ99R70JTM6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타파의 시선] 윤석열 첫 선고 '징역 5년'...이제 사면복권 방지책 마련해야 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3480,7 +3480,7 @@
             <link>https://v.daum.net/v/20260121160124506</link>
             <guid>https://v.daum.net/v/20260121160124506</guid>
             <pubDate>Wed, 21 Jan 2026 07:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260121160124506" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의 시간]② 기금 소진...가능은 할까?</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F21%2Fnewstapa%2F20260121160126532grlc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260121160124506" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의 시간]② 기금 소진...가능은 할까?</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F21%2Fnewstapa%2F20260121160126532grlc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F21%2Fnewstapa%2F20260121160126532grlc.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3504,7 @@
             <link>https://v.daum.net/v/20260119154124683</link>
             <guid>https://v.daum.net/v/20260119154124683</guid>
             <pubDate>Mon, 19 Jan 2026 06:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260119154124683" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119154125916qkds.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260119154124683" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119154125916qkds.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119154125916qkds.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
