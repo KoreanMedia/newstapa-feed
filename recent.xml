@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jan 2026 11:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 12:52:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡의 '해결사' 김앤장의 그림자]]></title>
+            <link>http://newstapa.org/article/4evO9</link>
+            <guid>http://newstapa.org/article/4evO9</guid>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡의 '해결사' 김앤장의 그림자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/23185907-2E7A-93D6-7E81-AZ5WDMT7CIO8Y3L7EFLE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적]]></title>
             <link>http://newstapa.org/article/-PmF4</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[미니 다큐]336일 만에 땅 밟은 세종호텔 해고노동자..."복직 투쟁 멈추지 않아"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/15204246-3D7F-A772-4EC8-J4GQZ3VVO5K2AWOIFDL6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김병기 최측근도 '업추비 유용' 의혹... 허위 증빙과 '사모님' 목격 증언]]></title>
-            <link>http://newstapa.org/article/mDxCT</link>
-            <guid>http://newstapa.org/article/mDxCT</guid>
-            <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김병기 최측근도 '업추비 유용' 의혹... 허위 증빙과 '사모님' 목격 증언]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/15171413-E4CF-B160-7D12-EXEHEDNN71ZL0IM6QFRY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
