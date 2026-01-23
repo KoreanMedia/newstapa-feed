@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jan 2026 05:31:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 06:39:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정보사, "'북한 무인기' 대학원생은 공작부대 협조자" 인정]]></title>
+            <link>http://newstapa.org/article/IKdeC</link>
+            <guid>http://newstapa.org/article/IKdeC</guid>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정보사, "'북한 무인기' 대학원생은 공작부대 협조자" 인정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/23143111-69A3-8435-762B-LTKQAKP3FEZWU3HP7DET.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[통일교 ‘TM 문건’ 대해부① "정치 지도자들을 양육하고 있다"]]></title>
             <link>http://newstapa.org/article/ayeXW</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[연금개혁의 시간]① 모든 개혁의 분수령, 연금개혁]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/14135158-E5E0-16F6-2A1E-SCZ5ZDCPPWAZRXM5BTWI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[알림] 뉴스타파 유튜브 채널 장애 관련]]></title>
-            <link>http://newstapa.org/article/bx1Xp</link>
-            <guid>http://newstapa.org/article/bx1Xp</guid>
-            <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[알림] 뉴스타파 유튜브 채널 장애 관련]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/14082355-4D0F-EE3C-CE04-UAYN51OLSR9QBBRJYH45.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
