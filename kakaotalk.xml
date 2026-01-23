@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-01-23T09:34:55.101Z</updated>
+    <updated>2026-01-23T10:29:31.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/5911a91/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112233043</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112233043"/>
+        <updated>2026-01-23T10:29:21.154Z</updated>
+        <content type="html"><![CDATA[뉴스타파와 협업하고 있는 일본의 탐사보도 매체 탄사(Tansa)가 통일교 내부 문건인 이른바 ‘TM(True Mother·참어머님) 특별보고서’를 토대로 한 심층 취재 결과를 차례로 공개할 예정입니다. 탄사는 창간 초기부터 뉴스타파와 협력 관계를 이어온 파트너 매체입니다. <br><br>탄사는 뉴스타파가 입수한 TM 특별보고서를 공유 받아 공동 분석을 했고, 1월 27일(화요일) 첫 보도를 시작으로 2월 8일까지 관련 취재 결과를 공개할 예정입니다.<br><br>21일 공개된 탄사의 시리즈 예고편은 아래 사이트에서 확인할 수 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/-PmF4</span><br>👉 탄사 'TM특별보고서' 시리즈 보도 예고 : <span class="link_url">https://tansajp.org/investigativejournal/13097/</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이번 주 일요일(1/25), 뉴스타파 <목격자들> 공모 마감]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112231528</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112139191"/>
         <updated>2026-01-14T06:38:11.257Z</updated>
         <content type="html"><![CDATA[지난해 연금개혁에도 불구하고 우리의 연금제도는 소득보장이나 지속가능성에 있어 여전히 취약하기만 합니다.  근본적인 구조개혁이 필요한 이유입니다. 국회는 연금개혁 특위를 가동 중이고 대통령도 연금개혁을 올해 주요 개혁과제로 지목했습니다. 뉴스타파는 연금개혁의 현주소를 짚어보고 대안을 살펴보는 기획시리즈는 시작합니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/G5cbg</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴스타파 유튜브 채널 장애 관련]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112134750</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112134750"/>
-        <updated>2026-01-14T01:55:06.813Z</updated>
-        <content type="html"><![CDATA[14일 새벽 유튜브 측의 일방적 조치에 의해 뉴스타파 공식 유튜브 채널이 삭제된 것으로 확인됐습니다. 뉴스타파는 유튜브 측에 즉각 이의신청을 한 상태이며, 이용자 편의를 위해 신속한 복구 조치에 나서 줄 것을 촉구했습니다. <br><br>회원, 시청자들의 이용에 불편을 드려 죄송합니다. 뉴스타파의 기존 영상 콘텐츠는 네이버 TV의 뉴스타파 페이지(<span class="link_url">https://tv.naver.com/newstapa)를</span> 통해 확인하실 수 있습니다. 신속하게 복구될 수 있도록 최선을 다하겠습니다.]]></content>
     </entry>
 </feed>
