@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jan 2026 01:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jan 2026 03:30:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한학자는 "참어머님" 사장은 "소자"…통일교의 '섭리기관' 세계일보]]></title>
+            <link>http://newstapa.org/article/5aIpp</link>
+            <guid>http://newstapa.org/article/5aIpp</guid>
+            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한학자는 "참어머님" 사장은 "소자"…통일교의 '섭리기관' 세계일보]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/23210547-EA81-8BEC-B086-MAPZZ0ZUOSVG53XHMH3S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통일교 ‘TM 문건’ 대해부③ "한국 언론인 37명 일본 초청, 해저터널 방문"]]></title>
+            <link>http://newstapa.org/article/0ZOls</link>
+            <guid>http://newstapa.org/article/0ZOls</guid>
+            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[통일교 ‘TM 문건’ 대해부③ "한국 언론인 37명 일본 초청, 해저터널 방문"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/22020738-D951-3352-EC2B-PAXY8BN5VLREVVMTUG7R.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[칼럼] 작전명 ‘몽구스’에서 작전명 ‘확고한 결의’까지]]></title>
             <link>http://newstapa.org/article/5CveA</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22131654-D098-9EAC-0041-PS464AKZ8METOG31GSRH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TV조선, 통일교 행사 최소 6회 중계…편당 1억 ‘송출료’ 의혹]]></title>
-            <link>http://newstapa.org/article/C7KPZ</link>
-            <guid>http://newstapa.org/article/C7KPZ</guid>
-            <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[TV조선, 통일교 행사 최소 6회 중계…편당 1억 ‘송출료’ 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/18174341-69F0-F865-2192-IZ2RQGZAENTAI8OJUNQW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN]윤석열 언론공범④ ‘고발사주’ 몰리자 “야성이 돌아왔다” 방어막]]></title>
-            <link>http://newstapa.org/article/cR6Hd</link>
-            <guid>http://newstapa.org/article/cR6Hd</guid>
-            <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN]윤석열 언론공범④ ‘고발사주’ 몰리자 “야성이 돌아왔다” 방어막]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/05183227-0EA3-70AE-F5AA-D4U7C6RVYZX6TUR6MTD2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

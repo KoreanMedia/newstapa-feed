@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jan 2026 01:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jan 2026 03:30:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한학자는 "참어머님" 사장은 "소자"…통일교의 '섭리기관' 세계일보]]></title>
+            <link>http://newstapa.org/article/5aIpp</link>
+            <guid>http://newstapa.org/article/5aIpp</guid>
+            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한학자는 "참어머님" 사장은 "소자"…통일교의 '섭리기관' 세계일보]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/23210547-EA81-8BEC-B086-MAPZZ0ZUOSVG53XHMH3S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통일교 ‘TM 문건’ 대해부③ "한국 언론인 37명 일본 초청, 해저터널 방문"]]></title>
+            <link>http://newstapa.org/article/0ZOls</link>
+            <guid>http://newstapa.org/article/0ZOls</guid>
+            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[통일교 ‘TM 문건’ 대해부③ "한국 언론인 37명 일본 초청, 해저터널 방문"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/22020738-D951-3352-EC2B-PAXY8BN5VLREVVMTUG7R.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡의 '해결사' 김앤장의 그림자]]></title>
             <link>http://newstapa.org/article/4evO9</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파의 시선] 윤석열 첫 선고 '징역 5년'...이제 사면복권 방지책 마련해야]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/16201004-AFE0-65FF-0BA2-69OK4ZDE40XANIVTLUE3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[알림] 뉴스타파 유튜브 채널 복구 완료 안내]]></title>
-            <link>http://newstapa.org/article/cBk41</link>
-            <guid>http://newstapa.org/article/cBk41</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[알림] 뉴스타파 유튜브 채널 복구 완료 안내]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/16022653-F520-B692-BE1B-SXKIWIPCDCMWG7TEAYZH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미니 다큐]336일 만에 땅 밟은 세종호텔 해고노동자..."복직 투쟁 멈추지 않아"]]></title>
-            <link>http://newstapa.org/article/MZJSW</link>
-            <guid>http://newstapa.org/article/MZJSW</guid>
-            <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[미니 다큐]336일 만에 땅 밟은 세종호텔 해고노동자..."복직 투쟁 멈추지 않아"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/15204246-3D7F-A772-4EC8-J4GQZ3VVO5K2AWOIFDL6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
