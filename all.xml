@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jan 2026 05:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jan 2026 06:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,22 +136,6 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/17130342-798C-84F7-D658-JEXKKS30HCJ4PNQ9NYCF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[칼럼] 기대 이상? 기대 이하? 두 내란 재판부의 엇갈린 1심 판결 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/-SR5o</link>
-            <guid>http://newstapa.org/article/-SR5o</guid>
-            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] 기대 이상? 기대 이하? 두 내란 재판부의 엇갈린 1심 판결]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/24132104-8BA7-F270-7E62-VYIEF6FXWREL0JKUWHNY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/-PmF4</link>
-            <guid>http://newstapa.org/article/-PmF4</guid>
-            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/23185041-2D82-6660-4DF0-OGD1T5E5JZQQU6IY3A16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[반론보도] <'윤석열-통일교 유착' 특검 공소장 총정리> 관련 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/1Qvge</link>
             <guid>http://newstapa.org/article/1Qvge</guid>
@@ -262,6 +246,22 @@
             <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12134924-8441-D4BC-29B2-DVCQH59W6J7PS1ROXTNO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/tIFG6</link>
+            <guid>http://newstapa.org/article/tIFG6</guid>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/09143955-8426-B2D4-E72F-ZW99K19GAZ34YWTXG0BL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 김병기의 끝나지 않은 의혹들... 수사 무마와 사적 동원 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/FGkF_</link>
+            <guid>http://newstapa.org/article/FGkF_</guid>
+            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 김병기의 끝나지 않은 의혹들... 수사 무마와 사적 동원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/08161626-01C7-6341-BD7F-PPEKOWVA5P24L1Z120AV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[칼럼] 기대 이상? 기대 이하? 두 내란 재판부의 엇갈린 1심 판결 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1800,6 +1800,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/11185539-47A3-C2DC-B72A-7IY4JG7WGIE9Z38CUJF6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
+            <link>http://newstapa.org/article/-PmF4</link>
+            <guid>http://newstapa.org/article/-PmF4</guid>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/23185041-2D82-6660-4DF0-OGD1T5E5JZQQU6IY3A16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 두니아, 캄보디아 스캠 조직 내부문건 입수… ‘연가 일수’까지 파악 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
             <link>http://newstapa.org/article/_uRUx</link>
             <guid>http://newstapa.org/article/_uRUx</guid>
@@ -1918,14 +1926,6 @@
             <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[중국, 정부 주도로 '비밀경찰' 통해 반체제인사 탄압 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28170840-F7A2-272E-E69A-44RTLI3Z8EPR0NB41QC5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국이 외국으로 망명한 반체제인사를 탄압하는 법 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
-            <link>http://newstapa.org/article/lJer6</link>
-            <guid>http://newstapa.org/article/lJer6</guid>
-            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[중국이 외국으로 망명한 반체제인사를 탄압하는 법]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28184957-FC06-6C6F-5166-7Q64JENZZWUQXEG4WASL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한학자는 "참어머님" 사장은 "소자"…통일교의 '섭리기관' 세계일보 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
@@ -3480,7 +3480,7 @@
             <link>https://v.daum.net/v/20260124132626580</link>
             <guid>https://v.daum.net/v/20260124132626580</guid>
             <pubDate>Sat, 24 Jan 2026 04:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260124132626580" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 기대 이상? 기대 이하? 두 내란 재판부의 엇갈린 1심 판결</strong><span class="info_txt"><span class="txt_info">58분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F24%2Fnewstapa%2F20260124132627348ogws.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260124132626580" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 기대 이상? 기대 이하? 두 내란 재판부의 엇갈린 1심 판결</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F24%2Fnewstapa%2F20260124132627348ogws.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F24%2Fnewstapa%2F20260124132627348ogws.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3488,7 +3488,7 @@
             <link>https://v.daum.net/v/20260124114632841</link>
             <guid>https://v.daum.net/v/20260124114632841</guid>
             <pubDate>Sat, 24 Jan 2026 03:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260124114632841" class="link_column"><div class="cont_thumb"><strong class="tit_txt">한학자는 "참어머님" 사장은 "소자"…통일교의 '섭리기관' 세계일보</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F24%2Fnewstapa%2F20260124114633699glcy.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260124114632841" class="link_column"><div class="cont_thumb"><strong class="tit_txt">한학자는 "참어머님" 사장은 "소자"…통일교의 '섭리기관' 세계일보</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F24%2Fnewstapa%2F20260124114633699glcy.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F24%2Fnewstapa%2F20260124114633699glcy.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3496,7 @@
             <link>https://v.daum.net/v/20260124114626840</link>
             <guid>https://v.daum.net/v/20260124114626840</guid>
             <pubDate>Sat, 24 Jan 2026 03:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260124114626840" class="link_column"><div class="cont_thumb"><strong class="tit_txt">통일교 ‘TM 문건’ 대해부③ "한국 언론인 37명 일본 초청, 해저터널 방문"</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F24%2Fnewstapa%2F20260124114632225hbgl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260124114626840" class="link_column"><div class="cont_thumb"><strong class="tit_txt">통일교 ‘TM 문건’ 대해부③ "한국 언론인 37명 일본 초청, 해저터널 방문"</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F24%2Fnewstapa%2F20260124114632225hbgl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F24%2Fnewstapa%2F20260124114632225hbgl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3504,7 @@
             <link>https://v.daum.net/v/20260123205124137</link>
             <guid>https://v.daum.net/v/20260123205124137</guid>
             <pubDate>Fri, 23 Jan 2026 12:52:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123205124137" class="link_column"><div class="cont_thumb"><strong class="tit_txt">쿠팡의 '해결사' 김앤장의 그림자</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123205125966ulkr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123205124137" class="link_column"><div class="cont_thumb"><strong class="tit_txt">쿠팡의 '해결사' 김앤장의 그림자</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123205125966ulkr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123205125966ulkr.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3512,7 +3512,7 @@
             <link>https://v.daum.net/v/20260123190123575</link>
             <guid>https://v.daum.net/v/20260123190123575</guid>
             <pubDate>Fri, 23 Jan 2026 10:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123190123575" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123190125115rouq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123190123575" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123190125115rouq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123190125115rouq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3520,28 +3520,28 @@
             <link>https://v.daum.net/v/20260123181628898</link>
             <guid>https://v.daum.net/v/20260123181628898</guid>
             <pubDate>Fri, 23 Jan 2026 09:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123181628898" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[반론보도] &lt;"패물 팔아 헌금"... 일본 따라가는 '통일교 정치자금'&gt; 관련</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123181628898" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[반론보도] &lt;"패물 팔아 헌금"... 일본 따라가는 '통일교 정치자금'&gt; 관련</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[반론보도] <윤석열 정부의 아프리카 ODA… 통일교 청탁대로 대폭 증액 확인> 관련 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260123181626897</link>
             <guid>https://v.daum.net/v/20260123181626897</guid>
             <pubDate>Fri, 23 Jan 2026 09:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123181626897" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[반론보도] &lt;윤석열 정부의 아프리카 ODA… 통일교 청탁대로 대폭 증액 확인&gt; 관련</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123181626897" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[반론보도] &lt;윤석열 정부의 아프리카 ODA… 통일교 청탁대로 대폭 증액 확인&gt; 관련</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[반론보도] <'윤석열-통일교 유착' 특검 공소장 총정리> 관련 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260123181625895</link>
             <guid>https://v.daum.net/v/20260123181625895</guid>
             <pubDate>Fri, 23 Jan 2026 09:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123181625895" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[반론보도] &lt;'윤석열-통일교 유착' 특검 공소장 총정리&gt; 관련</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123181625895" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[반론보도] &lt;'윤석열-통일교 유착' 특검 공소장 총정리&gt; 관련</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[통일교 ‘TM 문건’ 대해부② "특별 예산 : 북 및 대선(500)" (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260123170125549</link>
             <guid>https://v.daum.net/v/20260123170125549</guid>
             <pubDate>Fri, 23 Jan 2026 08:34:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123170125549" class="link_column"><div class="cont_thumb"><strong class="tit_txt">통일교 ‘TM 문건’ 대해부② "특별 예산 : 북 및 대선(500)"</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123170133086lrps.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123170125549" class="link_column"><div class="cont_thumb"><strong class="tit_txt">통일교 ‘TM 문건’ 대해부② "특별 예산 : 북 및 대선(500)"</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123170133086lrps.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123170133086lrps.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3549,7 +3549,7 @@
             <link>https://v.daum.net/v/20260123155124869</link>
             <guid>https://v.daum.net/v/20260123155124869</guid>
             <pubDate>Fri, 23 Jan 2026 07:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123155124869" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 이재명 정부가 해야 할 ‘올바른 정보공개’</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123155125723wvzd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123155124869" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 이재명 정부가 해야 할 ‘올바른 정보공개’</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123155125723wvzd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123155125723wvzd.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3557,7 +3557,7 @@
             <link>https://v.daum.net/v/20260123144626122</link>
             <guid>https://v.daum.net/v/20260123144626122</guid>
             <pubDate>Fri, 23 Jan 2026 06:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123144626122" class="link_column"><div class="cont_thumb"><strong class="tit_txt">정보사, "'북한 무인기' 대학원생은 공작부대 협조자" 인정</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123144627569kotv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123144626122" class="link_column"><div class="cont_thumb"><strong class="tit_txt">정보사, "'북한 무인기' 대학원생은 공작부대 협조자" 인정</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123144627569kotv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123144627569kotv.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3589,7 +3589,7 @@
             <link>https://v.daum.net/v/20260121144123477</link>
             <guid>https://v.daum.net/v/20260121144123477</guid>
             <pubDate>Wed, 21 Jan 2026 06:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260121144123477" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 두니아, 캄보디아 스캠 조직 내부문건 입수… ‘연가 일수’까지 파악</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F21%2Fnewstapa%2F20260121144125100lurz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260121144123477" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 두니아, 캄보디아 스캠 조직 내부문건 입수… ‘연가 일수’까지 파악</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F21%2Fnewstapa%2F20260121144125100lurz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F21%2Fnewstapa%2F20260121144125100lurz.png" length="0" type="image/q70/"/>
         </item>
         <item>
