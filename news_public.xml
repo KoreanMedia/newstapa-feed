@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jan 2026 03:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jan 2026 04:38:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] 기대 이상? 기대 이하? 두 내란 재판부의 엇갈린 1심 판결]]></title>
+            <link>http://newstapa.org/article/-SR5o</link>
+            <guid>http://newstapa.org/article/-SR5o</guid>
+            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 기대 이상? 기대 이하? 두 내란 재판부의 엇갈린 1심 판결]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/24132104-8BA7-F270-7E62-VYIEF6FXWREL0JKUWHNY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적]]></title>
             <link>http://newstapa.org/article/-PmF4</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 김병기 보좌진 사적 동원이 사실 무근? 뉴스타파가 직접 찍어왔습니다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12134924-8441-D4BC-29B2-DVCQH59W6J7PS1ROXTNO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나]]></title>
-            <link>http://newstapa.org/article/tIFG6</link>
-            <guid>http://newstapa.org/article/tIFG6</guid>
-            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/09143955-8426-B2D4-E72F-ZW99K19GAZ34YWTXG0BL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
