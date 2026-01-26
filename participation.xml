@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 참여</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jan 2026 04:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jan 2026 05:35:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN]‘통일교 자금(Moonie Money)’, 네팔 정치를 뒤흔들다]]></title>
+            <link>https://www.newstapa.org/article/3DqL7</link>
+            <guid>https://www.newstapa.org/article/3DqL7</guid>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.01.26]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/26140956-4532-EEA4-6110-HX2R1G8BUUCTT0WKISNP.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 쿠팡 ‘마우스피스’ 언론, ‘셀프조사’ 주장을 사실처럼 유통]]></title>
             <link>https://www.newstapa.org/article/1noiM</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2025.08.29]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/29133753-C845-C83D-91D2-2JR4E8N0LQTESHFQ13M8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 부천화재참사 1주기... 형사재판 쟁점은?]]></title>
-            <link>https://www.newstapa.org/article/Wj0Mm</link>
-            <guid>https://www.newstapa.org/article/Wj0Mm</guid>
-            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025.08.22]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22154956-255D-013E-7097-T4NAO3RS6RMRSD0PYRRC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
