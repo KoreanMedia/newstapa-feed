@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jan 2026 05:35:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jan 2026 06:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] '북한 무인기 운용' 민간인 파헤쳐보니... 군-보수단체 연결고리 '주렁주렁']]></title>
+            <link>http://newstapa.org/article/Fo2wK</link>
+            <guid>http://newstapa.org/article/Fo2wK</guid>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] '북한 무인기 운용' 민간인 파헤쳐보니... 군-보수단체 연결고리 '주렁주렁']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/26143747-9618-5B11-54A4-DT8NQ6Y45TURKLXJGZW3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN]‘통일교 자금(Moonie Money)’, 네팔 정치를 뒤흔들다]]></title>
             <link>http://newstapa.org/article/3DqL7</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/19153919-B0B1-4934-DA23-NQJXQUZA1SGSB9MCOV3V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한강을 꿈꾸다]]></title>
-            <link>http://newstapa.org/article/WhnMQ</link>
-            <guid>http://newstapa.org/article/WhnMQ</guid>
-            <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한강을 꿈꾸다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/19141205-989D-0DE6-DCAB-8K7OLJPMZ5X82GRHFA28.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
