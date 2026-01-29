@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-01-29T05:47:09.128Z</updated>
+    <updated>2026-01-29T06:52:54.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/f801dd6/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 재생에너지 VS 원전, 공존은 없다 - 다큐 뉴스타파]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112284962</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112284962"/>
+        <updated>2026-01-29T06:52:46.102Z</updated>
+        <content type="html"><![CDATA[정부가 윤석열 정부에서 밀어붙인 신규 원전 건설을 이어가기로 했습니다. 여론조사와 토론회를 진행했지만, 정부는 원전과 재생에너지가 함께하기 어렵다는 사실을 제대로 알리지 않았습니다. 재생에너지와 원전을 동시에 늘리겠다는 정부의 전략 과연 괜찮을까요? 1월 30일 오후 5시, [다큐 뉴스타파]가 추적했습니다.<br><br>🎥&lt;재생에너지 VS 원전, 공존은 없다&gt; 예고편 영상 보러가기 : <span class="link_url">https://youtu.be/6Gr66qfgpbA</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[🔴뉴스타파 라이브] 노동 없는 성장, 그 공허함 : 한전 비정규직 문제]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112261172</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112182947"/>
         <updated>2026-01-19T05:34:57.525Z</updated>
         <content type="html"><![CDATA[관람차, 한강버스, 예술섬. 오세훈 서울시장은 수천억 원의 혈세를 부어가며 한강 개발 사업을 벌이고 있습니다. 하지만 런던과 뉴욕 등의 유명 건축물을 한강에 이식하려는 오 시장의 시도는 번번이 논란을 빚고 있습니다. 수질은 악화되고, 시민들은 강을 강답게 이용할 수도 없습니다.  <br><br>영화 〈추적〉의 감독 최승호 PD는 이러한 서울시정의 실패가 한강 본래의 모습을 생각하지 않았기 때문이라고 지적합니다. 80년대 '선진국의 환상'에 사로잡혀 보를 만들고 수변에 콘크리트 시설을 설치했습니다. 유람선을 띄우기 위해 흐르는 강은 호수나 다름없게 변했습니다. 최 PD는 체질에 맞지 않는 유럽의 강을 따라할 것이 아니라 한강 본연의 모습에 맞게 자연성을 회복해 나가야 한다고 말합니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/C3qBlCYuCIc</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/WhnMQ</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무인기 운용 주장' 대학원생, 윤 정부 때 설립된 '대북 침투용' 무인기 제작사 근무]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112170611</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112170611"/>
-        <updated>2026-01-17T04:35:48.873Z</updated>
-        <content type="html"><![CDATA[어제(16일) 채널A는 '자신이 북한에 무인기를 보낸 당사자'라 주장하는 오 모 씨와의 인터뷰를 보도했습니다. <br><br>보도에서 오 씨는 "평범한 대학원생"으로 소개됐습니다. 북한에 무인기를 보낸 목적도 단순 호기심인 것처럼 설명됐습니다.<br><br>그런데 뉴스타파 취재 결과, 오 씨가 윤석열 정부 시절 '북한 무인기 대통령실 상공 침투'에 대응할 목적에서 설립된 무인기 설계·제작 업체의 이사로 근무한 이력이 확인됐습니다.<br><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/hAZAU</span>]]></content>
     </entry>
 </feed>
