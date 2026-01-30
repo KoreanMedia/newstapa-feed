@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jan 2026 02:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 04:43:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[난중칼럼] “성공할지도 모른다는 생각에”]]></title>
+            <link>http://newstapa.org/article/yIzr8</link>
+            <guid>http://newstapa.org/article/yIzr8</guid>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[난중칼럼] “성공할지도 모른다는 생각에”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30113445-5AD5-D55B-3BA6-NZXBD5WY75C3R70GKIKK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[타파의 시선] 숨겨지는 국가범죄 기록]]></title>
+            <link>http://newstapa.org/article/QCMti</link>
+            <guid>http://newstapa.org/article/QCMti</guid>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] 숨겨지는 국가범죄 기록]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30112735-374B-4C97-99BA-9FZO6ILPTELV1Z91YDZ6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[연금개혁의시간]③ 선제적 국고 투입...현시점 유일한 대안]]></title>
+            <link>http://newstapa.org/article/Z4SEb</link>
+            <guid>http://newstapa.org/article/Z4SEb</guid>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]③ 선제적 국고 투입...현시점 유일한 대안]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30111959-1EF6-5C1C-38D1-43OUL97FU7R6W8JJXLI7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공수처, 윤상현 '홍보 콘텐츠 공짜 수수' 강제수사… 뉴스타파 보도 넉 달 만]]></title>
             <link>http://newstapa.org/article/edOd-</link>
@@ -110,30 +134,6 @@
             <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[정보사, "'북한 무인기' 대학원생은 공작부대 협조자" 인정]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/23143111-69A3-8435-762B-LTKQAKP3FEZWU3HP7DET.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통일교 ‘TM 문건’ 대해부① "정치 지도자들을 양육하고 있다"]]></title>
-            <link>http://newstapa.org/article/ayeXW</link>
-            <guid>http://newstapa.org/article/ayeXW</guid>
-            <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[통일교 ‘TM 문건’ 대해부① "정치 지도자들을 양육하고 있다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/21185755-20A4-CD54-E956-RSR21BRUWL2RXNOC1XTD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뉴스타파 기자 폭행' 권성동 의원, 벌금 100만원 약식기소]]></title>
-            <link>http://newstapa.org/article/96t-O</link>
-            <guid>http://newstapa.org/article/96t-O</guid>
-            <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['뉴스타파 기자 폭행' 권성동 의원, 벌금 100만원 약식기소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/22103351-F9B3-4ECA-8F1D-D4IMOV59TB01BC92C9VO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 북한 무인기 사건 : 누가 왜 보냈나]]></title>
-            <link>http://newstapa.org/article/iNGGC</link>
-            <guid>http://newstapa.org/article/iNGGC</guid>
-            <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 북한 무인기 사건 : 누가 왜 보냈나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/29181314-9BA0-D2CE-56DA-FTQJF8JW6EO0TFJLY88T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

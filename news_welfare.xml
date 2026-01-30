@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 보건복지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jan 2026 02:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 04:43:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[연금개혁의시간]③ 선제적 국고 투입...현시점 유일한 대안]]></title>
+            <link>http://newstapa.org/article/Z4SEb</link>
+            <guid>http://newstapa.org/article/Z4SEb</guid>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]③ 선제적 국고 투입...현시점 유일한 대안]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30111959-1EF6-5C1C-38D1-43OUL97FU7R6W8JJXLI7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[연금개혁의 시간]② 기금 소진...가능은 할까?]]></title>
             <link>http://newstapa.org/article/VY1BF</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 07 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[도시재생 10년, 길을 잃었나③ 도시재생은 지역맞춤으로…사후관리도 중요]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/07173246-A9FA-8F77-3F6E-76EZTYG39O6T9E9O0NOE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시재생 10년, 길을 잃었나② 주민 짐 된 거점시설, 사업 끝나자 방치]]></title>
-            <link>http://newstapa.org/article/hgFPz</link>
-            <guid>http://newstapa.org/article/hgFPz</guid>
-            <pubDate>Wed, 31 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[도시재생 10년, 길을 잃었나② 주민 짐 된 거점시설, 사업 끝나자 방치]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/31142839-EA70-8FC3-30AD-0YHGSGC2S5LVEH9EPJ3N.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
