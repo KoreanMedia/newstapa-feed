@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jan 2026 07:43:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 08:43:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전직 정보사 블랙 요원 "무인기 대학원생은 '단순 협조자' 아닌 '정식 공작원'"]]></title>
+            <link>http://newstapa.org/article/06FDt</link>
+            <guid>http://newstapa.org/article/06FDt</guid>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전직 정보사 블랙 요원 "무인기 대학원생은 '단순 협조자' 아닌 '정식 공작원'"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30170543-5CCF-4D74-3AE2-3X1TNB470YCYHD398ASU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스텔엔지니어링에 "군복 입은 사람들 왔다 갔다" 증언 첫 확보]]></title>
+            <link>http://newstapa.org/article/4fPVu</link>
+            <guid>http://newstapa.org/article/4fPVu</guid>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[에스텔엔지니어링에 "군복 입은 사람들 왔다 갔다" 증언 첫 확보]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30170515-33FE-2B71-CB64-2DNWOXX5FBYNKPWSH03D.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파] 재생에너지 VS 원전, 공존은 없다 : 블랙아웃의 공포]]></title>
             <link>http://newstapa.org/article/3tWYP</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/23185041-2D82-6660-4DF0-OGD1T5E5JZQQU6IY3A16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통일교 ‘TM 문건’ 대해부② "특별 예산 : 북 및 대선(500)"]]></title>
-            <link>http://newstapa.org/article/ms0S6</link>
-            <guid>http://newstapa.org/article/ms0S6</guid>
-            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[통일교 ‘TM 문건’ 대해부② "특별 예산 : 북 및 대선(500)"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/22010650-FBEA-6479-30DE-OPQGUGCI6K6COGB2TVJW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 이재명 정부가 해야 할 ‘올바른 정보공개’]]></title>
-            <link>http://newstapa.org/article/miXIz</link>
-            <guid>http://newstapa.org/article/miXIz</guid>
-            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파의 시선] 이재명 정부가 해야 할 ‘올바른 정보공개’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/23154729-2906-B8AB-9E1F-MQ4N00DRW5GPLV8UD2Z0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
