@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Feb 2026 06:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 07:53:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 통일교 돈 번 언론① 주요 수사 국면마다 일간지 1면 광고 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/TU0q9</link>
+            <guid>http://newstapa.org/article/TU0q9</guid>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 통일교 돈 번 언론① 주요 수사 국면마다 일간지 1면 광고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/02160227-146F-D004-1357-GZTD83GC5UPWCU44NW7U.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 주가조작 돈 대고 무상 여론조사 바쳐도 되는 나라 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/GbcBD</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한학자는 "참어머님" 사장은 "소자"…통일교의 '섭리기관' 세계일보]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/23210547-EA81-8BEC-B086-MAPZZ0ZUOSVG53XHMH3S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통일교 ‘TM 문건’ 대해부③ "한국 언론인 37명 일본 초청, 해저터널 방문" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/0ZOls</link>
-            <guid>http://newstapa.org/article/0ZOls</guid>
-            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[통일교 ‘TM 문건’ 대해부③ "한국 언론인 37명 일본 초청, 해저터널 방문"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/22020738-D951-3352-EC2B-PAXY8BN5VLREVVMTUG7R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공수처, 윤상현 '홍보 콘텐츠 공짜 수수' 강제수사… 뉴스타파 보도 넉 달 만 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/05/13101608-7BE8-1C94-2E9C-UW4Z01FZ2DUN78437G39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 통일교 돈 번 언론① 주요 수사 국면마다 일간지 1면 광고 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/TU0q9</link>
+            <guid>http://newstapa.org/article/TU0q9</guid>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 통일교 돈 번 언론① 주요 수사 국면마다 일간지 1면 광고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/02160227-146F-D004-1357-GZTD83GC5UPWCU44NW7U.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한학자는 "참어머님" 사장은 "소자"…통일교의 '섭리기관' 세계일보 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/5aIpp</link>
             <guid>http://newstapa.org/article/5aIpp</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파필름 ‘압수수색-내란의 시작’ 일본에서 공식 개봉]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/25174622-3E1D-EEDF-93F2-FBEK35JC239C52BNNAYW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/r72lC</link>
-            <guid>http://newstapa.org/article/r72lC</guid>
-            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22131654-D098-9EAC-0041-PS464AKZ8METOG31GSRH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 21대 대통령선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3336,6 +3336,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/29133753-C845-C83D-91D2-2JR4E8N0LQTESHFQ13M8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[통일교 돈 번 언론]① 주요 수사 국면마다 일간지 1면 광고 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112327324</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112327324</guid>
+            <pubDate>Mon, 02 Feb 2026 07:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[신문 1면은 그 신문의 얼굴이라고 합니다. 그런데 통일교 관련 의혹이 신문 1면 톱을 장식한 날, 그 기사 바로 아래에 어김없이 해당 의혹을 부인하는 통일교 측의 의견 광고가 실렸습니다. 헤드라인으로는 의혹을 제기하고, 또 한편으로는 이 의혹을 부인하는 광고를 실어 돈을 버는 우리 언론의 이율배반을 고스란히 보여줍니다.<br><br>통일교 관련 주요 수사 국면마다 주요 신문에는 통일교 측 반박 의견이 광고 형태로 실렸습니다. 건진법사 전성배 씨가 피의자 신분으로 출석할 때도, 통일교의 정치인 로비 의혹이 제기됐을 때도 마찬가지였습니다. KINN 회원사 '뉴스어디'는 8개 주요 일간지가 이런 식으로 통일교의 일방적인 주장을 지면에 실어준 대가로 얼마나 돈을 받았을지 분석했더니, 최소 14억 원에 이를 것이라는 추산이 나왔습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newswhere.org/news/money/2853/</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[타파스] 주가조작 돈 대고 무상 여론조사 바쳐도 되는 나라 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112324707</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112324707</guid>
@@ -3469,18 +3476,19 @@
             <content:encoded><![CDATA[세계일보는 통일교 계열사가 대부분 주식을 소유한 통일교 언론사입니다. 지난해 7월 김건희 특검이 통일교에 대한 강제수사에 착수하자, 세계일보는 '종교탄압'이라며 반발하는 사설을 썼습니다.<br><br>세계일보 내부에서 "부끄럽다"는 불만이 터져나왔습니다. 통일교가 한학자 총재 등의 범죄 혐의를 감싸기 위해 편집권을 침해했다고 비판하는 세계일보 기자들의 기수 성명도 잇따랐습니다. 그러나 세계일보는 여전히 통일교 지도부를 감싸고 있습니다.<br><br>뉴스타파가 TM보고서를 분석해보니, 그럴만한 이유가 있었습니다. 통일교는 세계일보를 통일교의 이상을 실현하기 위핸 '섭리기관'으로 규정하고 있었습니다. 세계일보 사장은 스스로 '소자(小子)'라고 칭하고, 한학자 총재를 '참어머님'이라고 부르며 수 차례 서신을 보낸 것으로 파악됩니다.<br><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/5aIpp</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[통일교 ‘TM 문건’ 대해부③ "한국 언론인 37명 일본 초청, 해저터널 방문" (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112235635</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112235635</guid>
-            <pubDate>Sat, 24 Jan 2026 03:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파는 3,200쪽이 넘는 통일교 내부 문건 ‘TM(True Mother·참어머님) 특별보고’를 확보해 분석한 내용을 연속해 공개하고 있습니다.<br><br>이번 편에서는 통일교가 교단이 소유한 세계일보를 정보 수집 창구이자 정치권과의 접점을 넓히는 통로로 활용하려 한 정황을 살펴봤습니다.<br><br>‘TM 특별보고’에는 세계일보를 통해 정계 동향을 보고받고, 정치인들과의 교류가 이어지는 과정에서 세계일보가 언급된 내용이 담겨 있었습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/Bz_vDh_PcX8</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/0ZOls</span>]]></content:encoded>
+            <title><![CDATA[[KINN] 통일교 돈 번 언론① 주요 수사 국면마다 일간지 1면 광고 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260202160634930</link>
+            <guid>https://v.daum.net/v/20260202160634930</guid>
+            <pubDate>Mon, 02 Feb 2026 07:53:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260202160634930" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 통일교 돈 번 언론① 주요 수사 국면마다 일간지 1면 광고</strong><span class="info_txt"><span class="txt_info">46분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F02%2Fnewstapa%2F20260202160635354kgpu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F02%2Fnewstapa%2F20260202160635354kgpu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[타파스] 주가조작 돈 대고 무상 여론조사 바쳐도 되는 나라 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260202135625010</link>
             <guid>https://v.daum.net/v/20260202135625010</guid>
             <pubDate>Mon, 02 Feb 2026 05:00:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260202135625010" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 주가조작 돈 대고 무상 여론조사 바쳐도 되는 나라</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F02%2Fnewstapa%2F20260202135627033ngsm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260202135625010" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 주가조작 돈 대고 무상 여론조사 바쳐도 되는 나라</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F02%2Fnewstapa%2F20260202135627033ngsm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F02%2Fnewstapa%2F20260202135627033ngsm.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3702,14 +3710,6 @@
             <pubDate>Wed, 21 Jan 2026 05:32:06 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260121140626245" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'북한 무인기' 의혹 에스텔엔지니어링, 군납 목표로 '저가형 정찰 무인기' 개발</strong><span class="info_txt"><span class="txt_info">2026. 1. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F21%2Fnewstapa%2F20260121140627400enqj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F21%2Fnewstapa%2F20260121140627400enqj.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA['무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260119154124683</link>
-            <guid>https://v.daum.net/v/20260119154124683</guid>
-            <pubDate>Mon, 19 Jan 2026 06:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260119154124683" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황</strong><span class="info_txt"><span class="txt_info">2026. 1. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119154125916qkds.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119154125916qkds.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
