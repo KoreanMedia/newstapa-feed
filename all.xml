@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Feb 2026 02:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 05:00:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] 주가조작 돈 대고 무상 여론조사 바쳐도 되는 나라 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/GbcBD</link>
+            <guid>http://newstapa.org/article/GbcBD</guid>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 주가조작 돈 대고 무상 여론조사 바쳐도 되는 나라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/02135135-9533-E1F1-4927-VA8LAXFT40VP2YB7Z8PW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정보사와 대학원생, 그리고 윤석열… 무인기 사건 중간 정리 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/20jrg</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[통일교 ‘TM 문건’ 대해부③ "한국 언론인 37명 일본 초청, 해저터널 방문"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/22020738-D951-3352-EC2B-PAXY8BN5VLREVVMTUG7R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡의 '해결사' 김앤장의 그림자 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/4evO9</link>
-            <guid>http://newstapa.org/article/4evO9</guid>
-            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡의 '해결사' 김앤장의 그림자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/23185907-2E7A-93D6-7E81-AZ5WDMT7CIO8Y3L7EFLE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공수처, 윤상현 '홍보 콘텐츠 공짜 수수' 강제수사… 뉴스타파 보도 넉 달 만 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/08162214-67FD-8F20-789C-7WRFOY5EA2YQWTUMNZO5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[타파스] 주가조작 돈 대고 무상 여론조사 바쳐도 되는 나라 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/GbcBD</link>
+            <guid>http://newstapa.org/article/GbcBD</guid>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 주가조작 돈 대고 무상 여론조사 바쳐도 되는 나라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/02135135-9533-E1F1-4927-VA8LAXFT40VP2YB7Z8PW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[난중칼럼] “성공할지도 모른다는 생각에” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/yIzr8</link>
             <guid>http://newstapa.org/article/yIzr8</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/28174858-475C-0766-E6CF-JMA52NPIXAJPN1VYCSGW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가? (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/WVyef</link>
-            <guid>http://newstapa.org/article/WVyef</guid>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/28134217-B708-28EF-9C5F-HXDHBNK4PP5RW4KTW9UD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기고] 지방의회 비리 감추는 국민권익위? (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3476,6 +3476,14 @@
             <content:encoded><![CDATA[뉴스타파와 협업하고 있는 일본의 탐사보도 매체 탄사(Tansa)가 통일교 내부 문건인 이른바 ‘TM(True Mother·참어머님) 특별보고서’를 토대로 한 심층 취재 결과를 차례로 공개할 예정입니다. 탄사는 창간 초기부터 뉴스타파와 협력 관계를 이어온 파트너 매체입니다. <br><br>탄사는 뉴스타파가 입수한 TM 특별보고서를 공유 받아 공동 분석을 했고, 1월 27일(화요일) 첫 보도를 시작으로 2월 8일까지 관련 취재 결과를 공개할 예정입니다.<br><br>21일 공개된 탄사의 시리즈 예고편은 아래 사이트에서 확인할 수 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/-PmF4</span><br>👉 탄사 'TM특별보고서' 시리즈 보도 예고 : <span class="link_url">https://tansajp.org/investigativejournal/13097/</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[타파스] 주가조작 돈 대고 무상 여론조사 바쳐도 되는 나라 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260202135625010</link>
+            <guid>https://v.daum.net/v/20260202135625010</guid>
+            <pubDate>Mon, 02 Feb 2026 05:00:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260202135625010" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 주가조작 돈 대고 무상 여론조사 바쳐도 되는 나라</strong><span class="info_txt"><span class="txt_info">4분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F02%2Fnewstapa%2F20260202135627033ngsm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F02%2Fnewstapa%2F20260202135627033ngsm.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[정보사와 대학원생, 그리고 윤석열… 무인기 사건 중간 정리 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260131110123340</link>
             <guid>https://v.daum.net/v/20260131110123340</guid>
@@ -3511,7 +3519,7 @@
             <link>https://v.daum.net/v/20260130131124158</link>
             <guid>https://v.daum.net/v/20260130131124158</guid>
             <pubDate>Fri, 30 Jan 2026 04:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260130131124158" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[난중칼럼] “성공할지도 모른다는 생각에”</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F30%2Fnewstapa%2F20260130131125432djyf.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260130131124158" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[난중칼럼] “성공할지도 모른다는 생각에”</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F30%2Fnewstapa%2F20260130131125432djyf.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F30%2Fnewstapa%2F20260130131125432djyf.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3519,7 +3527,7 @@
             <link>https://v.daum.net/v/20260130130123985</link>
             <guid>https://v.daum.net/v/20260130130123985</guid>
             <pubDate>Fri, 30 Jan 2026 04:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260130130123985" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 숨겨지는 국가범죄 기록</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F30%2Fnewstapa%2F20260130130125137frwg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260130130123985" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 숨겨지는 국가범죄 기록</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F30%2Fnewstapa%2F20260130130125137frwg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F30%2Fnewstapa%2F20260130130125137frwg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3527,7 +3535,7 @@
             <link>https://v.daum.net/v/20260130112625523</link>
             <guid>https://v.daum.net/v/20260130112625523</guid>
             <pubDate>Fri, 30 Jan 2026 04:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260130112625523" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]③ 선제적 국고 투입...현시점 유일한 대안</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F30%2Fnewstapa%2F20260130112626934qucy.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260130112625523" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]③ 선제적 국고 투입...현시점 유일한 대안</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F30%2Fnewstapa%2F20260130112626934qucy.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F30%2Fnewstapa%2F20260130112626934qucy.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3702,14 +3710,6 @@
             <pubDate>Mon, 19 Jan 2026 06:42:48 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260119154124683" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황</strong><span class="info_txt"><span class="txt_info">2026. 1. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119154125916qkds.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119154125916qkds.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[한강을 꿈꾸다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260119141639848</link>
-            <guid>https://v.daum.net/v/20260119141639848</guid>
-            <pubDate>Mon, 19 Jan 2026 05:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260119141639848" class="link_column"><div class="cont_thumb"><strong class="tit_txt">한강을 꿈꾸다</strong><span class="info_txt"><span class="txt_info">2026. 1. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119141648012ctqz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F19%2Fnewstapa%2F20260119141648012ctqz.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

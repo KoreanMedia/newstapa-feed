@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Feb 2026 02:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 05:00:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] 주가조작 돈 대고 무상 여론조사 바쳐도 되는 나라]]></title>
+            <link>http://newstapa.org/article/GbcBD</link>
+            <guid>http://newstapa.org/article/GbcBD</guid>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 주가조작 돈 대고 무상 여론조사 바쳐도 되는 나라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/02135135-9533-E1F1-4927-VA8LAXFT40VP2YB7Z8PW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[난중칼럼] “성공할지도 모른다는 생각에”]]></title>
             <link>http://newstapa.org/article/yIzr8</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/28174858-475C-0766-E6CF-JMA52NPIXAJPN1VYCSGW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가?]]></title>
-            <link>http://newstapa.org/article/WVyef</link>
-            <guid>http://newstapa.org/article/WVyef</guid>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] 서울중앙지법 영장 4인방, 그들은 과연 정치적인가?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/28134217-B708-28EF-9C5F-HXDHBNK4PP5RW4KTW9UD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
