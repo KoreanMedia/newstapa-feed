@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-02-02T05:00:53.899Z</updated>
+    <updated>2026-02-02T06:09:09.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/f801dd6/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[타파스] 주가조작 돈 대고 무상 여론조사 바쳐도 되는 나라]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112324707</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112324707"/>
+        <updated>2026-02-02T06:09:01.433Z</updated>
+        <content type="html"><![CDATA[지난 1월 28일, 주가조작·정치자금법 위반·알선수재 등 혐의를 받고 있는 김건희 씨에 대한 1심 판결이 나왔습니다. <br><br>이날 재판부는 김건희 씨의 주가조작과 정치자금법 위반 혐의에 대해서는 무죄를 선고했고, 알선수재 혐의만 일부 인정하며 징역 1년 8개월을 선고했습니다. 특검의 구형량(징역 15년)에 비하면 10분의 1 수준에 그친 결과였습니다. 1심 재판부가 김건희 씨에게 지나치게 관대한 판결을 내렸다는 비판이 나옵니다.<br><br>뉴스타파는 윤석열 대통령 당선 이전부터 김건희 씨와 관련된 여러 혐의들을 파헤쳐왔습니다. 이번 주 '타파스'는 지금까지 뉴스타파의 보도 내용을 바탕으로 김건희 씨 1심 판결 내용을 분석했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/GbcBD</span><br>📨 뉴스레터 타파스를 만나보세요 : <span class="link_url">https://newstapa-tapas.stibee.com/subscribe</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정보사와 대학원생, 그리고 윤석열… 무인기 사건 중간 정리]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112302100</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112235635"/>
         <updated>2026-01-24T03:30:16.009Z</updated>
         <content type="html"><![CDATA[뉴스타파는 3,200쪽이 넘는 통일교 내부 문건 ‘TM(True Mother·참어머님) 특별보고’를 확보해 분석한 내용을 연속해 공개하고 있습니다.<br><br>이번 편에서는 통일교가 교단이 소유한 세계일보를 정보 수집 창구이자 정치권과의 접점을 넓히는 통로로 활용하려 한 정황을 살펴봤습니다.<br><br>‘TM 특별보고’에는 세계일보를 통해 정계 동향을 보고받고, 정치인들과의 교류가 이어지는 과정에서 세계일보가 언급된 내용이 담겨 있었습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/Bz_vDh_PcX8</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/0ZOls</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112233043</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112233043"/>
-        <updated>2026-01-23T10:29:21.154Z</updated>
-        <content type="html"><![CDATA[뉴스타파와 협업하고 있는 일본의 탐사보도 매체 탄사(Tansa)가 통일교 내부 문건인 이른바 ‘TM(True Mother·참어머님) 특별보고서’를 토대로 한 심층 취재 결과를 차례로 공개할 예정입니다. 탄사는 창간 초기부터 뉴스타파와 협력 관계를 이어온 파트너 매체입니다. <br><br>탄사는 뉴스타파가 입수한 TM 특별보고서를 공유 받아 공동 분석을 했고, 1월 27일(화요일) 첫 보도를 시작으로 2월 8일까지 관련 취재 결과를 공개할 예정입니다.<br><br>21일 공개된 탄사의 시리즈 예고편은 아래 사이트에서 확인할 수 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/-PmF4</span><br>👉 탄사 'TM특별보고서' 시리즈 보도 예고 : <span class="link_url">https://tansajp.org/investigativejournal/13097/</span>]]></content>
     </entry>
 </feed>
