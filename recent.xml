@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Feb 2026 08:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Feb 2026 09:45:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘북한 무인기’ 대학원생 회사에 '한국형 전투기 사업(KF-21) 연구원'도 참여]]></title>
+            <link>http://newstapa.org/article/eFQ5n</link>
+            <guid>http://newstapa.org/article/eFQ5n</guid>
+            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘북한 무인기’ 대학원생 회사에 '한국형 전투기 사업(KF-21) 연구원'도 참여]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/03174318-1829-1D5A-23F3-7NPL2C122BLNQK7YQYE6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[판례로 본 김병기 '직원 단톡방' 사건...취득경위 무관하게 '유죄']]></title>
             <link>http://newstapa.org/article/f0ZVc</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] '북한 무인기 운용' 민간인 파헤쳐보니... 군-보수단체 연결고리 '주렁주렁']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/26143747-9618-5B11-54A4-DT8NQ6Y45TURKLXJGZW3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN]‘통일교 자금(Moonie Money)’, 네팔 정치를 뒤흔들다]]></title>
-            <link>http://newstapa.org/article/3DqL7</link>
-            <guid>http://newstapa.org/article/3DqL7</guid>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN]‘통일교 자금(Moonie Money)’, 네팔 정치를 뒤흔들다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/26140956-4532-EEA4-6110-HX2R1G8BUUCTT0WKISNP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
