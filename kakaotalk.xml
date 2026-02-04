@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-02-04T10:41:55.039Z</updated>
+    <updated>2026-02-04T11:36:40.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/f801dd6/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112357173</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112357173"/>
+        <updated>2026-02-04T11:36:31.263Z</updated>
+        <content type="html"><![CDATA[뉴스타파는 무인기 사건을 취재하며 굵직한 사실을 여럿 건져 올렸습니다. 그 중 하나가 이번 사건의 한가운데에 군의 정보기관인 정보사령부(정보사)가 얽혀 있다는 점입니다.<br><br>무인기 사건을 취재하면서 뉴스타파 취재진은 전직 블랙 요원들과 접촉을 이어가고 있습니다. 취재란 행위도 결국 사람과 사람이 하는 일인지라 다양한 얘기를 주고 받게 되는데요. 그런 와중에 'A 중령'이라는 인물의 사연을 듣게 됐습니다. <br><br>전직 블랙들이 A 중령 관련 얘기를 인용하는 대목은 공통적이었습니다. 12·3 비상계엄, 일명 '윤석열 내란'에 가담한 의혹을 받는 군인들이 제자리를 지키는 반면, '이런 처지에 놓인 사람도 있습니다'라며 소환하는 인물 중 한 명이 바로 A 중령이었습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/Z9RRu</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘북한 무인기’ 대학원생 회사에 '한국형 전투기 사업(KF-21) 연구원'도 참여]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112342913</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112286623"/>
         <updated>2026-01-29T07:43:49.439Z</updated>
         <content type="html"><![CDATA[뉴스타파의 더불어민주당 김병기 전 원내대표 비위 의혹 연속 보도가 한국기자협회가 선정하는 제 424회 이달의 기자상을 받았습니다. (취재기자 강혜인, 홍주환, 강현석, 영상취재기자 이상찬, 신영철, 오준식, 김희주, 편집기자 곽근희, 장주영)<br><br>한국기자협회는 "기자의 역할을 훌륭히 수행하고 언론 본연의 사명을 다하는 데 기여했다"고 평가했습니다.  <br><br>이날 시상식에서 강혜인 기자는 수상 소감으로 "보도를 하는 수개월 동안 고생을 많이 해서 상을 받아 기쁘다"며 "언론의 본령이 살아있는 권력에 대한 견제와 감시라고 하는데, 그 본령을 다하기 위해 앞으로도 최선을 다하겠다"고 밝혔습니다.<br><br>👉 뉴스타파 &lt;김병기 비위 의혹&gt; 연속보도 보러가기 : <span class="link_url">https://newstapa.org/tags/%EA%B9%80%EB%B3%91%EA%B8%B0</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 재생에너지 VS 원전, 공존은 없다 - 다큐 뉴스타파]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112284962</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112284962"/>
-        <updated>2026-01-29T06:52:46.102Z</updated>
-        <content type="html"><![CDATA[정부가 윤석열 정부에서 밀어붙인 신규 원전 건설을 이어가기로 했습니다. 여론조사와 토론회를 진행했지만, 정부는 원전과 재생에너지가 함께하기 어렵다는 사실을 제대로 알리지 않았습니다. 재생에너지와 원전을 동시에 늘리겠다는 정부의 전략 과연 괜찮을까요? 1월 30일 오후 5시, [다큐 뉴스타파]가 추적했습니다.<br><br>🎥&lt;재생에너지 VS 원전, 공존은 없다&gt; 예고편 영상 보러가기 : <span class="link_url">https://youtu.be/6Gr66qfgpbA</span>]]></content>
     </entry>
 </feed>

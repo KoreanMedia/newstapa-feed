@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Feb 2026 10:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Feb 2026 11:36:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Z9RRu</link>
+            <guid>http://newstapa.org/article/Z9RRu</guid>
+            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/04194535-09AE-A97E-EDD5-PJ4VPZLV98WLNULDCBPS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘북한 무인기’ 대학원생 회사에 '한국형 전투기 사업(KF-21) 연구원'도 참여 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/eFQ5n</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 김건희 1심 선고, 불분명한 판결과 분명한 사실들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/29181628-3388-D2A9-433B-9QN2FBAAND7QZBFMKYUY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] '북한 무인기 운용' 민간인 파헤쳐보니... 군-보수단체 연결고리 '주렁주렁' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Fo2wK</link>
-            <guid>http://newstapa.org/article/Fo2wK</guid>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] '북한 무인기 운용' 민간인 파헤쳐보니... 군-보수단체 연결고리 '주렁주렁']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/26143747-9618-5B11-54A4-DT8NQ6Y45TURKLXJGZW3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[판례로 본 김병기 '직원 단톡방' 사건...취득경위 무관하게 '유죄' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/07173246-A9FA-8F77-3F6E-76EZTYG39O6T9E9O0NOE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/Z9RRu</link>
+            <guid>http://newstapa.org/article/Z9RRu</guid>
+            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/04194535-09AE-A97E-EDD5-PJ4VPZLV98WLNULDCBPS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘북한 무인기’ 대학원생 회사에 '한국형 전투기 사업(KF-21) 연구원'도 참여 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/eFQ5n</link>
             <guid>http://newstapa.org/article/eFQ5n</guid>
@@ -1790,14 +1798,6 @@
             <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[해방80년 특집] 대미인식조사⑤ “자유 왕래하는 남북 두 국가가 최선”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22142312-EC50-4636-C37B-T74AXYS7SPPBJSU6TTPW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해방80년 특집] 대미인식조사④ 신냉전 인식...미국·일본 vs 북한·중국·러시아 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/0AXG_</link>
-            <guid>http://newstapa.org/article/0AXG_</guid>
-            <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해방80년 특집] 대미인식조사④ 신냉전 인식...미국·일본 vs 북한·중국·러시아]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/21161117-0534-5C0A-6D3E-EB3V9WHQH330W3F9W9KY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[TM보고서 한일 협업취재] ‘아베–통일교 선거 거래’ 정황 드러나 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -3336,6 +3336,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/29133753-C845-C83D-91D2-2JR4E8N0LQTESHFQ13M8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112357173</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112357173</guid>
+            <pubDate>Wed, 04 Feb 2026 11:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파는 무인기 사건을 취재하며 굵직한 사실을 여럿 건져 올렸습니다. 그 중 하나가 이번 사건의 한가운데에 군의 정보기관인 정보사령부(정보사)가 얽혀 있다는 점입니다.<br><br>무인기 사건을 취재하면서 뉴스타파 취재진은 전직 블랙 요원들과 접촉을 이어가고 있습니다. 취재란 행위도 결국 사람과 사람이 하는 일인지라 다양한 얘기를 주고 받게 되는데요. 그런 와중에 'A 중령'이라는 인물의 사연을 듣게 됐습니다. <br><br>전직 블랙들이 A 중령 관련 얘기를 인용하는 대목은 공통적이었습니다. 12·3 비상계엄, 일명 '윤석열 내란'에 가담한 의혹을 받는 군인들이 제자리를 지키는 반면, '이런 처지에 놓인 사람도 있습니다'라며 소환하는 인물 중 한 명이 바로 A 중령이었습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/Z9RRu</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘북한 무인기’ 대학원생 회사에 '한국형 전투기 사업(KF-21) 연구원'도 참여 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112342913</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112342913</guid>
@@ -3469,11 +3476,11 @@
             <content:encoded><![CDATA[뉴스타파의 더불어민주당 김병기 전 원내대표 비위 의혹 연속 보도가 한국기자협회가 선정하는 제 424회 이달의 기자상을 받았습니다. (취재기자 강혜인, 홍주환, 강현석, 영상취재기자 이상찬, 신영철, 오준식, 김희주, 편집기자 곽근희, 장주영)<br><br>한국기자협회는 "기자의 역할을 훌륭히 수행하고 언론 본연의 사명을 다하는 데 기여했다"고 평가했습니다.  <br><br>이날 시상식에서 강혜인 기자는 수상 소감으로 "보도를 하는 수개월 동안 고생을 많이 해서 상을 받아 기쁘다"며 "언론의 본령이 살아있는 권력에 대한 견제와 감시라고 하는데, 그 본령을 다하기 위해 앞으로도 최선을 다하겠다"고 밝혔습니다.<br><br>👉 뉴스타파 &lt;김병기 비위 의혹&gt; 연속보도 보러가기 : <span class="link_url">https://newstapa.org/tags/%EA%B9%80%EB%B3%91%EA%B8%B0</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[예고] 재생에너지 VS 원전, 공존은 없다 - 다큐 뉴스타파 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112284962</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112284962</guid>
-            <pubDate>Thu, 29 Jan 2026 06:52:46 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 윤석열 정부에서 밀어붙인 신규 원전 건설을 이어가기로 했습니다. 여론조사와 토론회를 진행했지만, 정부는 원전과 재생에너지가 함께하기 어렵다는 사실을 제대로 알리지 않았습니다. 재생에너지와 원전을 동시에 늘리겠다는 정부의 전략 과연 괜찮을까요? 1월 30일 오후 5시, [다큐 뉴스타파]가 추적했습니다.<br><br>🎥&lt;재생에너지 VS 원전, 공존은 없다&gt; 예고편 영상 보러가기 : <span class="link_url">https://youtu.be/6Gr66qfgpbA</span>]]></content:encoded>
+            <title><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260204195125385</link>
+            <guid>https://v.daum.net/v/20260204195125385</guid>
+            <pubDate>Wed, 04 Feb 2026 11:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260204195125385" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령</strong><span class="info_txt"><span class="txt_info">45분 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘북한 무인기’ 대학원생 회사에 '한국형 전투기 사업(KF-21) 연구원'도 참여 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3702,14 +3709,6 @@
             <pubDate>Thu, 22 Jan 2026 11:26:49 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260122202124270" class="link_column"><div class="cont_thumb"><strong class="tit_txt">통일교 ‘TM 문건’ 대해부① "정치 지도자들을 양육하고 있다"</strong><span class="info_txt"><span class="txt_info">2026. 1. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F22%2Fnewstapa%2F20260122202136963pyko.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F22%2Fnewstapa%2F20260122202136963pyko.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA['뉴스타파 기자 폭행' 권성동 의원, 벌금 100만원 약식기소 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260122163124403</link>
-            <guid>https://v.daum.net/v/20260122163124403</guid>
-            <pubDate>Thu, 22 Jan 2026 08:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260122163124403" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'뉴스타파 기자 폭행' 권성동 의원, 벌금 100만원 약식기소</strong><span class="info_txt"><span class="txt_info">2026. 1. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F22%2Fnewstapa%2F20260122163125436jzfr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F22%2Fnewstapa%2F20260122163125436jzfr.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
