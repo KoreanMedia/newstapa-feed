@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Feb 2026 07:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 08:46:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] 중수청 논란과 해법, 무엇이 중한디]]></title>
+            <link>http://newstapa.org/article/LT3_h</link>
+            <guid>http://newstapa.org/article/LT3_h</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 중수청 논란과 해법, 무엇이 중한디]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05163004-D9E0-5B99-C4CF-FD55GJ89ZFBI0DSU97MN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 쿠팡은 고치지 않는다, 로비한다]]></title>
+            <link>http://newstapa.org/article/OhRY3</link>
+            <guid>http://newstapa.org/article/OhRY3</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 쿠팡은 고치지 않는다, 로비한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05170325-9A25-815E-BD0D-JHZXM6KJQWGVL8XFDY9H.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[TM보고서 한일 협업취재] 아베 에르메스, 당선자에 ‘헌신’… 통일교 문건의 정치 거래]]></title>
             <link>http://newstapa.org/article/zHHpJ</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파의 시선] 숨겨지는 국가범죄 기록]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30112735-374B-4C97-99BA-9FZO6ILPTELV1Z91YDZ6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[연금개혁의시간]③ 선제적 국고 투입...현시점 유일한 대안]]></title>
-            <link>http://newstapa.org/article/Z4SEb</link>
-            <guid>http://newstapa.org/article/Z4SEb</guid>
-            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[연금개혁의시간]③ 선제적 국고 투입...현시점 유일한 대안]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30111959-1EF6-5C1C-38D1-43OUL97FU7R6W8JJXLI7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공수처, 윤상현 '홍보 콘텐츠 공짜 수수' 강제수사… 뉴스타파 보도 넉 달 만]]></title>
-            <link>http://newstapa.org/article/edOd-</link>
-            <guid>http://newstapa.org/article/edOd-</guid>
-            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공수처, 윤상현 '홍보 콘텐츠 공짜 수수' 강제수사… 뉴스타파 보도 넉 달 만]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/29180157-7C95-40D7-B154-Q9WZWDKL9N06H2A8CPJI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
