@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Feb 2026 04:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 05:59:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[TM보고서 한일 협업취재] 아베 에르메스, 당선자에 ‘헌신’… 통일교 문건의 정치 거래]]></title>
+            <link>http://newstapa.org/article/zHHpJ</link>
+            <guid>http://newstapa.org/article/zHHpJ</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TM보고서 한일 협업취재] 아베 에르메스, 당선자에 ‘헌신’… 통일교 문건의 정치 거래]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05115414-B90E-CA44-2789-32AFJRGMNY77TDRWGZS4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡, 개인정보 유출 사건 후 검찰·경찰·청와대 등 출신 전관 9명 영입]]></title>
+            <link>http://newstapa.org/article/WXnAD</link>
+            <guid>http://newstapa.org/article/WXnAD</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡, 개인정보 유출 사건 후 검찰·경찰·청와대 등 출신 전관 9명 영입]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05135406-0C7D-A246-BDA1-XKIVYUP81M4D4BTHNQM4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[판례로 본 김병기 '직원 단톡방' 사건...취득경위 무관하게 '유죄']]></title>
             <link>http://newstapa.org/article/f0ZVc</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파의 시선] 누구를 위하여 2차 특검의 종은 울리나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/09143955-8426-B2D4-E72F-ZW99K19GAZ34YWTXG0BL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 김병기의 끝나지 않은 의혹들... 수사 무마와 사적 동원]]></title>
-            <link>http://newstapa.org/article/FGkF_</link>
-            <guid>http://newstapa.org/article/FGkF_</guid>
-            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 김병기의 끝나지 않은 의혹들... 수사 무마와 사적 동원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/08161626-01C7-6341-BD7F-PPEKOWVA5P24L1Z120AV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰 확인서에 'assembly'... 김병기, 보좌진 동원해 배우자 연루 '수사 무마' 정황]]></title>
-            <link>http://newstapa.org/article/jscRn</link>
-            <guid>http://newstapa.org/article/jscRn</guid>
-            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[경찰 확인서에 'assembly'... 김병기, 보좌진 동원해 배우자 연루 '수사 무마' 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/08133022-072D-77FB-2F57-M7GWIX3MFGTOQ6PHPMVR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

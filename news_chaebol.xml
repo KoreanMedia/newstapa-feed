@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 재벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Feb 2026 04:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 05:59:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡, 개인정보 유출 사건 후 검찰·경찰·청와대 등 출신 전관 9명 영입]]></title>
+            <link>http://newstapa.org/article/WXnAD</link>
+            <guid>http://newstapa.org/article/WXnAD</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡, 개인정보 유출 사건 후 검찰·경찰·청와대 등 출신 전관 9명 영입]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05135406-0C7D-A246-BDA1-XKIVYUP81M4D4BTHNQM4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[법 위의 선박왕 ⑤ 권혁 탈세 돕고 퇴직 뒤 20억 받은 국세청 공무원]]></title>
             <link>http://newstapa.org/article/C54g9</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[회장님 목소리 ② 암호명 V... 조현상, 폭스바겐 수입사 '차명 지배'도 자백]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/24170423-4144-96C0-4D17-549AV0WDY84GR85DUL0B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회장님 목소리 ③ 불법 대출 흔적 남긴 직원에 "나쁜 사람들, 이름 알려달라"]]></title>
-            <link>http://newstapa.org/article/HPjfs</link>
-            <guid>http://newstapa.org/article/HPjfs</guid>
-            <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[회장님 목소리 ③ 불법 대출 흔적 남긴 직원에 "나쁜 사람들, 이름 알려달라"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/24170405-8DEF-6539-5217-L81YYH2QAEXPWYOOFYL7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Feb 2026 04:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 05:59:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[TM보고서 한일 협업취재] 아베 에르메스, 당선자에 ‘헌신’… 통일교 문건의 정치 거래]]></title>
+            <link>http://newstapa.org/article/zHHpJ</link>
+            <guid>http://newstapa.org/article/zHHpJ</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TM보고서 한일 협업취재] 아베 에르메스, 당선자에 ‘헌신’… 통일교 문건의 정치 거래]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05115414-B90E-CA44-2789-32AFJRGMNY77TDRWGZS4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡, 개인정보 유출 사건 후 검찰·경찰·청와대 등 출신 전관 9명 영입]]></title>
+            <link>http://newstapa.org/article/WXnAD</link>
+            <guid>http://newstapa.org/article/WXnAD</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡, 개인정보 유출 사건 후 검찰·경찰·청와대 등 출신 전관 9명 영입]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05135406-0C7D-A246-BDA1-XKIVYUP81M4D4BTHNQM4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령]]></title>
             <link>http://newstapa.org/article/Z9RRu</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공수처, 윤상현 '홍보 콘텐츠 공짜 수수' 강제수사… 뉴스타파 보도 넉 달 만]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/29180157-7C95-40D7-B154-Q9WZWDKL9N06H2A8CPJI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡의 위험물 관리 부실...물류센터 안전·화재 우려]]></title>
-            <link>http://newstapa.org/article/SxyYg</link>
-            <guid>http://newstapa.org/article/SxyYg</guid>
-            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡의 위험물 관리 부실...물류센터 안전·화재 우려]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/29174511-7769-6017-0E3E-PUBHHZYZC8YDEPQEDPF4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 김건희 1심 선고, 불분명한 판결과 분명한 사실들]]></title>
-            <link>http://newstapa.org/article/mM5az</link>
-            <guid>http://newstapa.org/article/mM5az</guid>
-            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 김건희 1심 선고, 불분명한 판결과 분명한 사실들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/29181628-3388-D2A9-433B-9QN2FBAAND7QZBFMKYUY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
