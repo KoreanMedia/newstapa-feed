@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-02-06T04:50:43.634Z</updated>
+    <updated>2026-02-06T05:56:39.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/f801dd6/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘무인기 대학원생’, 김진태 연구소에서 국민의힘 의원 정책연구 진행]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112377914</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112377914"/>
+        <updated>2026-02-06T05:56:31.317Z</updated>
+        <content type="html"><![CDATA[민간 무인기 북한 침투 사건의 핵심 피의자인 30대 대학원생 오 모 씨가 김진태 강원도지사가 야인 시절 설립한 JT정치문화연구소에서 활동한 사실이 확인됐습니다.<br><br>오 씨는 국민의힘 의원들이 JT연구소에 발주한 정책연구용역을 맡아 진행하고 2건의 결과 보고서를 직접 작성한 것으로 드러났습니다.<br><br>뉴스타파가 오 씨가 작성한 정책연구보고서를 검증한 결과, 극우적 시각이 담긴 문장도 여럿 등장했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/19jNi</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[타파의 시선] 4천억 '탈세왕' 마저 감싸는 국세청의 비밀주의]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112375522</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112296148"/>
         <updated>2026-01-30T04:43:39.783Z</updated>
         <content type="html"><![CDATA[윤석열 부인 김건희 씨가 1심에서 징역 1년 8개월을 선고받았습니다. 도이치모터스 주가조작(자본시장법 위반), 명태균 사건(정치자금법 위반) 관련 혐의에 대해서는 모조리 무죄가 선고됐습니다. 특검 구형보다 높은 징역 23년이 선고된 한덕수 재판과 비교되면서 논란이 커지고 있습니다. 사법부를 비판하는 목소리가 다시 터져 나오고 있습니다. <br><br>'윤석열 명예훼손' 혐의로 재판을 받고 있는 김용진 뉴스타파 선임기자가 재판부에 따라 제각각인 법원의 소송지휘 문제를 지적했습니다.     <br><br>👉 기사 바로보기 : <span class="link_url">https://newstapa.org/article/yIzr8</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[타파의 시선] 숨겨지는 국가범죄 기록]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112296113</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112296113"/>
-        <updated>2026-01-30T04:43:39.786Z</updated>
-        <content type="html"><![CDATA[기록물은 역사적인 사건에서 중요한 증인이자 증거입니다. 국가는 진실을 규명할 책무 뿐 아니라 같은 사건이 다시는 재발하지 않도록 법적 제도 정비와 피해자 명예회복을 포함하는 단 한 장의 메모라도 공개하는 자세와 법적 장치를 마련해야 합니다. <br><br>기록 전문가인 전갑생 뉴스타파 전문위원은 12.3내란, 그리고 내란 수사와 재판에서 생산되는 기록물들 역시 온전히 보존, 공개될 필요가 있다고 강조합니다. <br><br>👉 기사 바로보기 : <span class="link_url">https://newstapa.org/article/QCMti</span>]]></content>
     </entry>
 </feed>
