@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 외교안보</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Feb 2026 07:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 08:45:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사]]></title>
+            <link>http://newstapa.org/article/XcGHS</link>
+            <guid>http://newstapa.org/article/XcGHS</guid>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06170235-8053-DDA0-31A8-MTRIJGI9RABJX1M7RYXD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행]]></title>
+            <link>http://newstapa.org/article/orn0l</link>
+            <guid>http://newstapa.org/article/orn0l</guid>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06154440-A1CE-1696-AEB1-7EM9E4JKU1SWJFW003IQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령]]></title>
             <link>http://newstapa.org/article/Z9RRu</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 20대 남녀가 보는 ‘두 개의 미국’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/05173523-938C-31D1-F1D3-UMPL7IJDSLMW8SHS2EU9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해방80년 특집] 대미인식조사⑥ "트럼프 취임 후 관계 악화...그래도 미국뿐"]]></title>
-            <link>http://newstapa.org/article/HPk4S</link>
-            <guid>http://newstapa.org/article/HPk4S</guid>
-            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해방80년 특집] 대미인식조사⑥ "트럼프 취임 후 관계 악화...그래도 미국뿐"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/25182148-6721-B280-A7A2-7W4YECXVPUIPPMZK6N9W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해방80년 특집] 대미인식조사⑤ “자유 왕래하는 남북 두 국가가 최선”]]></title>
-            <link>http://newstapa.org/article/8zEtO</link>
-            <guid>http://newstapa.org/article/8zEtO</guid>
-            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해방80년 특집] 대미인식조사⑤ “자유 왕래하는 남북 두 국가가 최선”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22142312-EC50-4636-C37B-T74AXYS7SPPBJSU6TTPW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

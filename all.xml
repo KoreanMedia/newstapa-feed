@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Feb 2026 07:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 08:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/XcGHS</link>
+            <guid>http://newstapa.org/article/XcGHS</guid>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06170235-8053-DDA0-31A8-MTRIJGI9RABJX1M7RYXD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/orn0l</link>
+            <guid>http://newstapa.org/article/orn0l</guid>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06154440-A1CE-1696-AEB1-7EM9E4JKU1SWJFW003IQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/DdZCt</link>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[정보사와 대학원생, 그리고 윤석열… 무인기 사건 중간 정리]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30085112-4346-F1B3-306A-NK452ZB4P4J239X78OXH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전직 정보사 블랙 요원 "무인기 대학원생은 '단순 협조자' 아닌 '정식 공작원'" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/06FDt</link>
-            <guid>http://newstapa.org/article/06FDt</guid>
-            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전직 정보사 블랙 요원 "무인기 대학원생은 '단순 협조자' 아닌 '정식 공작원'"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30170543-5CCF-4D74-3AE2-3X1TNB470YCYHD398ASU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스텔엔지니어링에 "군복 입은 사람들 왔다 갔다" 증언 첫 확보 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/4fPVu</link>
-            <guid>http://newstapa.org/article/4fPVu</guid>
-            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[에스텔엔지니어링에 "군복 입은 사람들 왔다 갔다" 증언 첫 확보]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30170515-33FE-2B71-CB64-2DNWOXX5FBYNKPWSH03D.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/11/bc558ec5179bc5306e9e795f5dad33c931411345e754dedba65989b7b5d97c36889ed5b140afd3fb7617473516e3e157ebb81a4021a053a7a2dde6a848731455.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
+            <link>http://newstapa.org/article/XcGHS</link>
+            <guid>http://newstapa.org/article/XcGHS</guid>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06170235-8053-DDA0-31A8-MTRIJGI9RABJX1M7RYXD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 쿠팡은 고치지 않는다, 로비한다 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
             <link>http://newstapa.org/article/OhRY3</link>
             <guid>http://newstapa.org/article/OhRY3</guid>
@@ -894,14 +902,6 @@
             <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지방소멸, 이대론 막을 수 없다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/26154754-0379-5FD9-04A8-9FK4BNXP21GQ6IGR9T7D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PF 위기③ '낡은 부동산 공화국', 그들만의 '위험한 연착륙' (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/uigJq</link>
-            <guid>http://newstapa.org/article/uigJq</guid>
-            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[PF 위기③ '낡은 부동산 공화국', 그들만의 '위험한 연착륙']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/26162439-6612-F783-DBA7-SUFEX4E3UWA1M4PX3TEF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한강을 꿈꾸다 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
@@ -1672,6 +1672,22 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/07173246-A9FA-8F77-3F6E-76EZTYG39O6T9E9O0NOE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/XcGHS</link>
+            <guid>http://newstapa.org/article/XcGHS</guid>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06170235-8053-DDA0-31A8-MTRIJGI9RABJX1M7RYXD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/orn0l</link>
+            <guid>http://newstapa.org/article/orn0l</guid>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06154440-A1CE-1696-AEB1-7EM9E4JKU1SWJFW003IQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/Z9RRu</link>
             <guid>http://newstapa.org/article/Z9RRu</guid>
@@ -1782,22 +1798,6 @@
             <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 20대 남녀가 보는 ‘두 개의 미국’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/05173523-938C-31D1-F1D3-UMPL7IJDSLMW8SHS2EU9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해방80년 특집] 대미인식조사⑥ "트럼프 취임 후 관계 악화...그래도 미국뿐" (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/HPk4S</link>
-            <guid>http://newstapa.org/article/HPk4S</guid>
-            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해방80년 특집] 대미인식조사⑥ "트럼프 취임 후 관계 악화...그래도 미국뿐"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/25182148-6721-B280-A7A2-7W4YECXVPUIPPMZK6N9W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해방80년 특집] 대미인식조사⑤ “자유 왕래하는 남북 두 국가가 최선” (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/8zEtO</link>
-            <guid>http://newstapa.org/article/8zEtO</guid>
-            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해방80년 특집] 대미인식조사⑤ “자유 왕래하는 남북 두 국가가 최선”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22142312-EC50-4636-C37B-T74AXYS7SPPBJSU6TTPW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[TM보고서 한일 협업취재] ‘아베–통일교 선거 거래’ 정황 드러나 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -3336,6 +3336,27 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/29133753-C845-C83D-91D2-2JR4E8N0LQTESHFQ13M8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['뉴스타파X탄사' 한일 공동취재, 일본 선거판 흔들다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112382240</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112382240</guid>
+            <pubDate>Fri, 06 Feb 2026 08:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파는 일본 탐사매체 탄사(Tansa)와 함께 통일교 내부 문건, 이른바 ‘TM 특별보고’를 검증하는 한일 공동취재를 진행하고 있습니다. 이 내용이 공개되자 일본에서는 자민당과 통일교의 유착 의혹이 다시 주요 쟁점으로 떠올랐습니다. 뉴스타파가 쓴 탄사 시리즈 번역 기사도 X(옛 트위터)에서 약 80만 회 조회되며 일본 네티즌들 사이에서 빠르게 확산되고 있습니다.<br><br>다카이치 사나에는 그동안 “선거 지원도, 행사 참석도, 금전 거래도, 축전도 없었다”며 통일교와의 관련성을 일관되게 부인해 왔습니다. 그러나 TM 보고서와 내부 문건 곳곳에서 다카이치 본인과 측근들의 이름이 반복적으로 등장하면서, 일본 안팎에서는 “이제는 직접 설명해야 하는 것 아니냐”는 비판이 커지고 있습니다.<br><br>이런 가운데 다카이치는 지난 1일 예정돼 있던 NHK ‘여야 당대표 토론’ 출연을 갑작스럽게 취소했습니다. 공식 사유는 관절염 악화였지만, 일본 일부 언론과 정치권에서는 “TM 보고서 공개와 정치자금 의혹이 동시에 불거진 상황에서 부담스러운 질문을 피하려 한 것 아니냐”는 해석도 나오고 있습니다.<br><br>👉 [한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적 : <span class="link_url">https://newstapa.org/article/-PmF4</span><br>👉 [TM보고서 한일 협업취재] ‘아베–통일교 선거 거래’ 정황 드러나 : <span class="link_url">https://newstapa.org/article/qrAMu</span><br>👉 [TM보고서 한일 협업취재] 아베 에르메스, 당선자에 ‘헌신’… 통일교 문건의 정치 거래 : <span class="link_url">https://newstapa.org/article/zHHpJ</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112381644</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112381644</guid>
+            <pubDate>Fri, 06 Feb 2026 08:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[미국 하원 법사위원회가 해롤드 로저스 쿠팡 한국 임시 대표에게 2월 23일 열리는 하원 법사위 비공개 증언 청취 절차에 출석하라는 소환장을 발부했습니다. 이와 관련해 한국 정부 고위관계자는 “로비 때문인 것으로 안다”라고 말했는데요.<br><br>뉴스타파는 쿠팡이 미국 의회를 상대로 로비한 데이터를 전수조사했습니다. 쿠팡은 지난 2023년 이래로 꾸준히 의회 로비 규모를 늘려왔습니다. 작년 말까지 상하원을 통틀어 유력 정치인 총 29명에게 정치자금을 후원해왔는데요. 쿠팡 개인정보유출 사태 이후 ‘쿠팡 지키기’에 목소리를 낸 대럴 아이사, 에이드리언 스미스, 캐롤 밀러, 수잔 델베네에게는 공통점이 있습니다. 모두 쿠팡으로부터 정치자금을 후원받은 의원이라는 점입니다. 또한 이 의원들의 전 보좌직원이나 고문 등이 쿠팡 로비스트로 활동한 사실도 확인됐습니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/XcGHS</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112381460</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112381460</guid>
+            <pubDate>Fri, 06 Feb 2026 08:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[민간 무인기 북한 침투 사건의 핵심 피의자 중 한 명인 장 모 씨가 윤석열 정부 때인 2023년 정부 지원금을 받아 무인기와 관련한 각종 연구를 진행했던 사실이 확인됐습니다.<br><br>윤석열 정부에서 지원금을 지급하기 시작한 시점은 장 씨가 ‘무인기 대학원생’ 오 씨 등과 함께 대북 침투용 무인기 제작사인 ‘에스텔엔지니어링’을 설립하기 반 년 전부텁니다.<br><br>이번 무인기 사건의 뿌리에 윤석열 정부가 있는지 철저히 수사해야 한다는 목소리가 이어지는 가운데 이들의 연관성을 의심케 하는 사실이 뉴스타파 취재를 통해 추가로 드러났습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/orn0l</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[📣 제1회 지학순 정의평화 다큐멘터리상의 주인공을 찾습니다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112379865</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112379865</guid>
@@ -3455,32 +3476,27 @@
             <content:encoded><![CDATA[2026년 1월 10일 북한이 ‘남한의 무인기가 자신들의 영공에 침투했다’고 주장했습니다. 새해벽두부터 한반도가 긴장 국면에 들어섰습니다. <br><br>일주일 뒤 채널에이가 북한에 무인기를 보냈다고 주장하는 30대 남성 오 모 씨와의 인터뷰 내용을 공개했습니다. 채널에이 보도에 따르면, 오 씨는 ‘호기심에서 북한에 무인기를 날려본 평범한 대학원생’이었습니다.<br><br>뉴스타파의 취재 결과는 180도 달랐습니다. 드론작전사령부와 정보사령부 등 윤석열 정부의 군과의 연관성이 뉴스타파의 보도로 속속 드러나고 있습니다. <br><br>현 시점, 가장 뜨거운 이슈 가운데 하나인 '무인기 사건'과 관련해 지금까지 뉴스타파가 확인한 사실, 그리고 드러난 의혹을 정리했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/acbLUjOvIeA</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/20jrg</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전직 정보사 블랙 요원 "무인기 대학원생은 '단순 협조자' 아닌 '정식 공작원'" (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112301227</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112301227</guid>
-            <pubDate>Fri, 06 Feb 2026 07:50:53 GMT</pubDate>
-            <content:encoded><![CDATA[정보사령부(정보사)가 자신들과 민간 무인기 북한 침투 사건의 핵심 피의자인 대학원생 오 모 씨와의 관계를 여당 의원실에 축소 보고한 정황이 확인됐습니다. <br><br>부승찬 더불어민주당 의원실에 따르면 정보사가 대면 보고를 통해 의원실 측에 밝힌 오 씨와의 관계는 '협조자'였습니다. <br><br>그런데 최근 뉴스타파와 접촉한 전직 정보사 블랙 요원(공작관)은 "오 씨는 '단순 협조자'가 아닌 '정식 공작원'일 가능성이 매우 높다"고 주장했습니다. 오 씨가 최근 진행된&nbsp;군·경합동조사TF 조사 과정에서 인정한 '정보사 공작금의 정기 지급' 사실이 근겁니다.<br><br>정보사에서 공작원은 가장 높은 등급의 민간인 정보원으로 협조자보다 한 등급 위로 분류·관리됩니다. 정보사와 오 씨의 관계가 지금까지 밝혀진 것보다 훨씬 깊을 수도 있다는 얘깁니다.<br><br>👉 기사 바로보기 : <span class="link_url">https://newstapa.org/article/06FDt</span>]]></content:encoded>
+            <title><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260206170630943</link>
+            <guid>https://v.daum.net/v/20260206170630943</guid>
+            <pubDate>Fri, 06 Feb 2026 08:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206170630943" class="link_column"><div class="cont_thumb"><strong class="tit_txt">쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사</strong><span class="info_txt"><span class="txt_info">38분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206170631287fepy.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206170631287fepy.png" length="0" type="image/q70/"/>
         </item>
         <item>
-            <title><![CDATA[에스텔엔지니어링에 "군복 입은 사람들 왔다 갔다" 증언 첫 확보 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112301187</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112301187</guid>
-            <pubDate>Fri, 06 Feb 2026 07:50:53 GMT</pubDate>
-            <content:encoded><![CDATA[민간인 무인기 북한 침투 사건의 핵심 피의자 오 모 씨가 2023년 9월에 설립한 회사 '에스텔엔지니어링'에 ""군복 입은 사람들이 오갔다""는 증언이 처음으로 확보됐습니다.<br><br>30일&nbsp;에스텔엔지니어링과 사무실을 함께 사용했던 A씨는 뉴스타파와의 전화통화에서 ""저희 직원들 말로는 군복 입은 사람들이 한두 명씩 왔다갔다 했던 것을 봤다""고 말했습니다.<br><br>오 씨와 '윤석열 군부'의 연관성을 둘러싼 의혹이 이어지는 상황에서 에스텔엔지니어링의 설립 배후에 군이 있을 가능성을 뒷받침하는 새로운 증언입니다.<br><br>👉 기사 바로보기 : <span class="link_url">https://newstapa.org/article/4fPVu</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[재생에너지 VS 원전, 공존은 없다 : 블랙아웃의 공포 〈다큐 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112300995</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112300995</guid>
-            <pubDate>Fri, 06 Feb 2026 07:50:53 GMT</pubDate>
-            <content:encoded><![CDATA[이재명 정부가 윤석열 정부에서 밀어붙인 신규 원전 건설 계획을 계승하기로 했습니다. 여론을 따랐다고 하지만, 정부는 원전과 재생에너지가 공존하기 어렵다는 사실을 국민들에게 제대로 알리지 않았습니다. 재생에너지와 원전을 동시에 늘리겠다는 정부, 전문가들은 대정전의 위험이 일상화 되고 있다고 경고합니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/m3Y_ber0yMA</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/3tWYP</span>]]></content:encoded>
+            <title><![CDATA[에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260206165629525</link>
+            <guid>https://v.daum.net/v/20260206165629525</guid>
+            <pubDate>Fri, 06 Feb 2026 08:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206165629525" class="link_column"><div class="cont_thumb"><strong class="tit_txt">에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행</strong><span class="info_txt"><span class="txt_info">48분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206165630244kgul.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206165630244kgul.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260206153123088</link>
             <guid>https://v.daum.net/v/20260206153123088</guid>
             <pubDate>Fri, 06 Feb 2026 06:59:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206153123088" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206153125161qdfj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206153123088" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206153125161qdfj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206153125161qdfj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3488,7 +3504,7 @@
             <link>https://v.daum.net/v/20260206135625894</link>
             <guid>https://v.daum.net/v/20260206135625894</guid>
             <pubDate>Fri, 06 Feb 2026 05:56:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206135625894" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘무인기 대학원생’, 김진태 연구소에서 국민의힘 의원 정책연구 진행</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206135626574uapx.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206135625894" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘무인기 대학원생’, 김진태 연구소에서 국민의힘 의원 정책연구 진행</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206135626574uapx.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206135626574uapx.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3512,7 @@
             <link>https://v.daum.net/v/20260206110124350</link>
             <guid>https://v.daum.net/v/20260206110124350</guid>
             <pubDate>Fri, 06 Feb 2026 02:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206110124350" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 4천억 '탈세왕' 마저 감싸는 국세청의 비밀주의</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206110125401ejkv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206110124350" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 4천억 '탈세왕' 마저 감싸는 국세청의 비밀주의</strong><span class="info_txt"><span class="txt_info">6시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206110125401ejkv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206110125401ejkv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3520,7 @@
             <link>https://v.daum.net/v/20260205170635209</link>
             <guid>https://v.daum.net/v/20260205170635209</guid>
             <pubDate>Thu, 05 Feb 2026 08:46:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260205170635209" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 쿠팡은 고치지 않는다, 로비한다</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F05%2Fnewstapa%2F20260205170637906bzox.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260205170635209" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 쿠팡은 고치지 않는다, 로비한다</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F05%2Fnewstapa%2F20260205170637906bzox.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F05%2Fnewstapa%2F20260205170637906bzox.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3591,14 +3607,14 @@
             <link>https://v.daum.net/v/20260130171126750</link>
             <guid>https://v.daum.net/v/20260130171126750</guid>
             <pubDate>Fri, 30 Jan 2026 08:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260130171126750" class="link_column"><div class="cont_thumb"><strong class="tit_txt">전직 정보사 블랙 요원 "무인기 대학원생은 '단순 협조자' 아닌 '정식 공작원'"</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260130171126750" class="link_column"><div class="cont_thumb"><strong class="tit_txt">전직 정보사 블랙 요원 "무인기 대학원생은 '단순 협조자' 아닌 '정식 공작원'"</strong><span class="info_txt"><span class="txt_info">2026. 1. 30.</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[에스텔엔지니어링에 "군복 입은 사람들 왔다 갔다" 증언 첫 확보 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260130171125743</link>
             <guid>https://v.daum.net/v/20260130171125743</guid>
             <pubDate>Fri, 30 Jan 2026 08:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260130171125743" class="link_column"><div class="cont_thumb"><strong class="tit_txt">에스텔엔지니어링에 "군복 입은 사람들 왔다 갔다" 증언 첫 확보</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F30%2Fnewstapa%2F20260130171126430zwry.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260130171125743" class="link_column"><div class="cont_thumb"><strong class="tit_txt">에스텔엔지니어링에 "군복 입은 사람들 왔다 갔다" 증언 첫 확보</strong><span class="info_txt"><span class="txt_info">2026. 1. 30.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F30%2Fnewstapa%2F20260130171126430zwry.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F30%2Fnewstapa%2F20260130171126430zwry.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3696,22 +3712,6 @@
             <pubDate>Sat, 24 Jan 2026 03:30:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260124114626840" class="link_column"><div class="cont_thumb"><strong class="tit_txt">통일교 ‘TM 문건’ 대해부③ "한국 언론인 37명 일본 초청, 해저터널 방문"</strong><span class="info_txt"><span class="txt_info">2026. 1. 24.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F24%2Fnewstapa%2F20260124114632225hbgl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F24%2Fnewstapa%2F20260124114632225hbgl.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡의 '해결사' 김앤장의 그림자 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260123205124137</link>
-            <guid>https://v.daum.net/v/20260123205124137</guid>
-            <pubDate>Fri, 23 Jan 2026 12:52:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123205124137" class="link_column"><div class="cont_thumb"><strong class="tit_txt">쿠팡의 '해결사' 김앤장의 그림자</strong><span class="info_txt"><span class="txt_info">2026. 1. 23.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123205125966ulkr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123205125966ulkr.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260123190123575</link>
-            <guid>https://v.daum.net/v/20260123190123575</guid>
-            <pubDate>Fri, 23 Jan 2026 10:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260123190123575" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적</strong><span class="info_txt"><span class="txt_info">2026. 1. 23.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123190125115rouq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F23%2Fnewstapa%2F20260123190125115rouq.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
