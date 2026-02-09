@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Feb 2026 06:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Feb 2026 08:01:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“김병기 배우자 병원 의전·특혜는 사실”... 추가 물증·증언 공개 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/O2Xw1</link>
+            <guid>http://newstapa.org/article/O2Xw1</guid>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“김병기 배우자 병원 의전·특혜는 사실”... 추가 물증·증언 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/09164731-C00B-8AB0-9C97-6UWI5YVECP5OB3PPV25B.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 쿠팡이 미국 의회를 움직이는 법 (feat. 로비 160억) (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/o6K-7</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/03145010-8DE0-7649-D631-0Y5AAIEDVH64JL2ZPJM2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[KINN] 통일교 돈 번 언론① 주요 수사 국면마다 일간지 1면 광고 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/TU0q9</link>
-            <guid>http://newstapa.org/article/TU0q9</guid>
-            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 통일교 돈 번 언론① 주요 수사 국면마다 일간지 1면 광고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/02160227-146F-D004-1357-GZTD83GC5UPWCU44NW7U.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[“김병기 배우자 병원 의전·특혜는 사실”... 추가 물증·증언 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/O2Xw1</link>
+            <guid>http://newstapa.org/article/O2Xw1</guid>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“김병기 배우자 병원 의전·특혜는 사실”... 추가 물증·증언 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/09164731-C00B-8AB0-9C97-6UWI5YVECP5OB3PPV25B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[TM보고서 한일 협업취재] 전 통일교 관계자, 다카이치 응원 자민당 후보 회계 책임자 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김병기 최측근도 '업추비 유용' 의혹... 허위 증빙과 '사모님' 목격 증언]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/15171413-E4CF-B160-7D12-EXEHEDNN71ZL0IM6QFRY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 국민의 이름으로... 윤석열 선고 D-1 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/gbJml</link>
-            <guid>http://newstapa.org/article/gbJml</guid>
-            <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 국민의 이름으로... 윤석열 선고 D-1]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/15135115-5486-0B84-05AA-IK12OY38C9HE25WES9E9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[칼럼] 중수청 논란과 해법, 무엇이 중한디 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3476,11 +3476,19 @@
             <content:encoded><![CDATA[신문 1면은 그 신문의 얼굴이라고 합니다. 그런데 통일교 관련 의혹이 신문 1면 톱을 장식한 날, 그 기사 바로 아래에 어김없이 해당 의혹을 부인하는 통일교 측의 의견 광고가 실렸습니다. 헤드라인으로는 의혹을 제기하고, 또 한편으로는 이 의혹을 부인하는 광고를 실어 돈을 버는 우리 언론의 이율배반을 고스란히 보여줍니다.<br><br>통일교 관련 주요 수사 국면마다 주요 신문에는 통일교 측 반박 의견이 광고 형태로 실렸습니다. 건진법사 전성배 씨가 피의자 신분으로 출석할 때도, 통일교의 정치인 로비 의혹이 제기됐을 때도 마찬가지였습니다. KINN 회원사 '뉴스어디'는 8개 주요 일간지가 이런 식으로 통일교의 일방적인 주장을 지면에 실어준 대가로 얼마나 돈을 받았을지 분석했더니, 최소 14억 원에 이를 것이라는 추산이 나왔습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newswhere.org/news/money/2853/</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[“김병기 배우자 병원 의전·특혜는 사실”... 추가 물증·증언 공개 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260209165625618</link>
+            <guid>https://v.daum.net/v/20260209165625618</guid>
+            <pubDate>Mon, 09 Feb 2026 08:01:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260209165625618" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“김병기 배우자 병원 의전·특혜는 사실”... 추가 물증·증언 공개</strong><span class="info_txt"><span class="txt_info">4분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F09%2Fnewstapa%2F20260209165631958pzaa.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F09%2Fnewstapa%2F20260209165631958pzaa.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[타파스] 쿠팡이 미국 의회를 움직이는 법 (feat. 로비 160억) (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260209135625446</link>
             <guid>https://v.daum.net/v/20260209135625446</guid>
             <pubDate>Mon, 09 Feb 2026 05:04:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260209135625446" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 쿠팡이 미국 의회를 움직이는 법 (feat. 로비 160억)</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F09%2Fnewstapa%2F20260209135626837wdqa.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260209135625446" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 쿠팡이 미국 의회를 움직이는 법 (feat. 로비 160억)</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F09%2Fnewstapa%2F20260209135626837wdqa.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F09%2Fnewstapa%2F20260209135626837wdqa.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3512,7 @@
             <link>https://v.daum.net/v/20260206165629525</link>
             <guid>https://v.daum.net/v/20260206165629525</guid>
             <pubDate>Fri, 06 Feb 2026 08:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206165629525" class="link_column"><div class="cont_thumb"><strong class="tit_txt">에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206165630244kgul.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206165629525" class="link_column"><div class="cont_thumb"><strong class="tit_txt">에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206165630244kgul.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206165630244kgul.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3512,7 +3520,7 @@
             <link>https://v.daum.net/v/20260206153123088</link>
             <guid>https://v.daum.net/v/20260206153123088</guid>
             <pubDate>Fri, 06 Feb 2026 06:59:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206153123088" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206153125161qdfj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206153123088" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206153125161qdfj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206153125161qdfj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3544,7 +3552,7 @@
             <link>https://v.daum.net/v/20260205163638340</link>
             <guid>https://v.daum.net/v/20260205163638340</guid>
             <pubDate>Thu, 05 Feb 2026 08:46:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260205163638340" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 중수청 논란과 해법, 무엇이 중한디</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F05%2Fnewstapa%2F20260205163639688lvxb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260205163638340" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 중수청 논란과 해법, 무엇이 중한디</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F05%2Fnewstapa%2F20260205163639688lvxb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F05%2Fnewstapa%2F20260205163639688lvxb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3583,7 +3591,7 @@
             <link>https://v.daum.net/v/20260203152625753</link>
             <guid>https://v.daum.net/v/20260203152625753</guid>
             <pubDate>Tue, 03 Feb 2026 06:56:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260203152625753" class="link_column"><div class="cont_thumb"><strong class="tit_txt">판례로 본 김병기 '직원 단톡방' 사건...취득경위 무관하게 '유죄'</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F03%2Fnewstapa%2F20260203152626513fqrn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260203152625753" class="link_column"><div class="cont_thumb"><strong class="tit_txt">판례로 본 김병기 '직원 단톡방' 사건...취득경위 무관하게 '유죄'</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F03%2Fnewstapa%2F20260203152626513fqrn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F03%2Fnewstapa%2F20260203152626513fqrn.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3599,7 +3607,7 @@
             <link>https://v.daum.net/v/20260202160634930</link>
             <guid>https://v.daum.net/v/20260202160634930</guid>
             <pubDate>Mon, 02 Feb 2026 07:53:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260202160634930" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 통일교 돈 번 언론① 주요 수사 국면마다 일간지 1면 광고</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F02%2Fnewstapa%2F20260202160635354kgpu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260202160634930" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 통일교 돈 번 언론① 주요 수사 국면마다 일간지 1면 광고</strong><span class="info_txt"><span class="txt_info">2026. 2. 2.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F02%2Fnewstapa%2F20260202160635354kgpu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F02%2Fnewstapa%2F20260202160635354kgpu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3704,14 +3712,6 @@
             <pubDate>Mon, 26 Jan 2026 05:35:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260126140123658" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN]‘통일교 자금(Moonie Money)’, 네팔 정치를 뒤흔들다</strong><span class="info_txt"><span class="txt_info">2026. 1. 26.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F26%2Fnewstapa%2F20260126140125258lcfx.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F26%2Fnewstapa%2F20260126140125258lcfx.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] 기대 이상? 기대 이하? 두 내란 재판부의 엇갈린 1심 판결 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260124132626580</link>
-            <guid>https://v.daum.net/v/20260124132626580</guid>
-            <pubDate>Sat, 24 Jan 2026 04:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260124132626580" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 기대 이상? 기대 이하? 두 내란 재판부의 엇갈린 1심 판결</strong><span class="info_txt"><span class="txt_info">2026. 1. 24.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F24%2Fnewstapa%2F20260124132627348ogws.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F24%2Fnewstapa%2F20260124132627348ogws.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
