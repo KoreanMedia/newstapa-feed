@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Feb 2026 05:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Feb 2026 07:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[연금개혁의시간]④ 선제적 국고투입이 미래세대에 가져올 혜택 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/NSpHj</link>
+            <guid>http://newstapa.org/article/NSpHj</guid>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]④ 선제적 국고투입이 미래세대에 가져올 혜택]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/10153831-BBAE-02CF-AA0B-ZDTYI2W1UM49ZBR2E88S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“김병기 배우자 병원 의전·특혜는 사실”... 추가 물증·증언 공개 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/O2Xw1</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[판례로 본 김병기 '직원 단톡방' 사건...취득경위 무관하게 '유죄']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/03152057-411B-77B2-B300-8XC7XAI4HEW8Z4WS3GR0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TM보고서 한일 협업취재] ‘아베–통일교 선거 거래’ 정황 드러나 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/qrAMu</link>
-            <guid>http://newstapa.org/article/qrAMu</guid>
-            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[TM보고서 한일 협업취재] ‘아베–통일교 선거 거래’ 정황 드러나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/03145010-8DE0-7649-D631-0Y5AAIEDVH64JL2ZPJM2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“김병기 배우자 병원 의전·특혜는 사실”... 추가 물증·증언 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1544,6 +1544,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26163553-93EB-BD80-36D5-BZVB3UHB7LC9QEI1IDO2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[연금개혁의시간]④ 선제적 국고투입이 미래세대에 가져올 혜택 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/NSpHj</link>
+            <guid>http://newstapa.org/article/NSpHj</guid>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]④ 선제적 국고투입이 미래세대에 가져올 혜택]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/10153831-BBAE-02CF-AA0B-ZDTYI2W1UM49ZBR2E88S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[연금개혁의시간]③ 선제적 국고 투입...현시점 유일한 대안 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
             <link>http://newstapa.org/article/Z4SEb</link>
             <guid>http://newstapa.org/article/Z4SEb</guid>
@@ -1662,14 +1670,6 @@
             <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] &lt;진단명: 리베이트 중독&gt; 보도 제약사, 3년여 만에 공정위 제재]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/13135449-3CE7-5D51-FC31-Z9BK1RBWKGGEK1QV7C1R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시재생 10년, 길을 잃었나③ 도시재생은 지역맞춤으로…사후관리도 중요 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
-            <link>http://newstapa.org/article/L79mS</link>
-            <guid>http://newstapa.org/article/L79mS</guid>
-            <pubDate>Wed, 07 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[도시재생 10년, 길을 잃었나③ 도시재생은 지역맞춤으로…사후관리도 중요]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/07173246-A9FA-8F77-3F6E-76EZTYG39O6T9E9O0NOE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
@@ -3336,6 +3336,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/29133753-C845-C83D-91D2-2JR4E8N0LQTESHFQ13M8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[연금개혁의시간]④ 선제적 국고투입이 미래세대에 가져올 혜택 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112415352</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112415352</guid>
+            <pubDate>Tue, 10 Feb 2026 07:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[국민연금 기금에 선제적으로 국고를 투입하면 미래세대와 미래정부의 부담을 더는 것 뿐만아니라 국내외 투자자산을 모두 매각해야하는 부담에서도 자유로와집니다. 또한 국내의 다양한 공공 인프라 확충에 기금을 장기적으로 투자할 수 있게 됩니다. 데이터센터와 전력기반시설, 보육시설, 임대주택 등 그 혜택은  모두 미래세대에 돌아갑니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/NSpHj</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[한국전력공사, 도서전력노동자 직고용 추진! (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112410317</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112410317</guid>
@@ -3469,18 +3476,19 @@
             <content:encoded><![CDATA[[🔴라이브 예고]  재생에너지와 원전, 미래를 준비하기 위한 중요한 선택이지만 제대로 알고 판단하기 위해서는 문턱이 높은 주제입니다. 지난주 다큐 뉴스타파는 '재생에너지 vs 원전 : 공존은 없다' 편을 통해 이 문제를 심도 있게 다뤘는데요. 오늘은 이 내용 토대로 시청자들의 궁금증을 풀어보는 시간을 마련했습니다.<br><br>오늘 오후 5시 반, 뉴스타파 라이브에는 관련 주제를 탐사 취재해 온 조원일 기자와 복잡한 에너지 문제를 대중들에게 쉽고 편하게 풀어주고 계신 홍종호 서울대 환경대학원 교수가 출연하여 미래를 위해 바람직한 에너지 믹스 정책 방향에 대해 이야기 나눕니다. 앞서 다큐 뉴스타파 시청 후 시청자들이 남겨준 의견에 답하는 '댓글 읽기'도 마련돼 있습니다. 실시간 의견, 참여도 환영! 많은 관심과 참여 바랍니다!<br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://youtube.com/live/8KD5uBeeNhA</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[TM보고서 한일 협업취재] ‘아베–통일교 선거 거래’ 정황 드러나 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112339758</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112339758</guid>
-            <pubDate>Fri, 06 Feb 2026 07:50:53 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파와 협업하는 일본 탐사보도 매체 탄사(Tansa)가 통일교 내부 문건을 분석한 결과, 통일교가 아베 신조 전 일본 총리의 가문과 밀접한 관계를 유지하며 자민당을 위해 조직적인 선거 지원에 나선 정황이 확인됐습니다. 선거 지원 요청에 관여한 인물에는 아베 전 총리뿐만 아니라, 다카이치 사나에 현 총리의 측근으로 분류되는 하기우다 고이치 자민당 간사당 대행도 있었습니다.<br><br>탄사가 입수해 분석한 문건은 ‘TM 특별보고’라는 제목의 통일교 내부 보고서다. 탄사는 뉴스타파와의 국제협업취재를 통해 이 문건을 검증·보도하고 있습니다. 탄사가 최근 보도한 연재 기사 1~4편 주요 내용을 정리했습니다.&nbsp;<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/qrAMu</span>]]></content:encoded>
+            <title><![CDATA[[연금개혁의시간]④ 선제적 국고투입이 미래세대에 가져올 혜택 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260210154123594</link>
+            <guid>https://v.daum.net/v/20260210154123594</guid>
+            <pubDate>Tue, 10 Feb 2026 07:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260210154123594" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]④ 선제적 국고투입이 미래세대에 가져올 혜택</strong><span class="info_txt"><span class="txt_info">26분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F10%2Fnewstapa%2F20260210154125193kczx.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F10%2Fnewstapa%2F20260210154125193kczx.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[“김병기 배우자 병원 의전·특혜는 사실”... 추가 물증·증언 공개 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260209165625618</link>
             <guid>https://v.daum.net/v/20260209165625618</guid>
             <pubDate>Mon, 09 Feb 2026 08:01:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260209165625618" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“김병기 배우자 병원 의전·특혜는 사실”... 추가 물증·증언 공개</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F09%2Fnewstapa%2F20260209165631958pzaa.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260209165625618" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“김병기 배우자 병원 의전·특혜는 사실”... 추가 물증·증언 공개</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F09%2Fnewstapa%2F20260209165631958pzaa.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F09%2Fnewstapa%2F20260209165631958pzaa.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3520,7 +3528,7 @@
             <link>https://v.daum.net/v/20260206153123088</link>
             <guid>https://v.daum.net/v/20260206153123088</guid>
             <pubDate>Fri, 06 Feb 2026 06:59:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206153123088" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206153125161qdfj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206153123088" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206153125161qdfj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206153125161qdfj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3560,7 +3568,7 @@
             <link>https://v.daum.net/v/20260205141123333</link>
             <guid>https://v.daum.net/v/20260205141123333</guid>
             <pubDate>Thu, 05 Feb 2026 05:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260205141123333" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[TM보고서 한일 협업취재] 아베 에르메스, 당선자에 ‘헌신’… 통일교 문건의 정치 거래</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F05%2Fnewstapa%2F20260205141125188kejm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260205141123333" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[TM보고서 한일 협업취재] 아베 에르메스, 당선자에 ‘헌신’… 통일교 문건의 정치 거래</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F05%2Fnewstapa%2F20260205141125188kejm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F05%2Fnewstapa%2F20260205141125188kejm.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3591,7 +3599,7 @@
             <link>https://v.daum.net/v/20260203152625753</link>
             <guid>https://v.daum.net/v/20260203152625753</guid>
             <pubDate>Tue, 03 Feb 2026 06:56:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260203152625753" class="link_column"><div class="cont_thumb"><strong class="tit_txt">판례로 본 김병기 '직원 단톡방' 사건...취득경위 무관하게 '유죄'</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F03%2Fnewstapa%2F20260203152626513fqrn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260203152625753" class="link_column"><div class="cont_thumb"><strong class="tit_txt">판례로 본 김병기 '직원 단톡방' 사건...취득경위 무관하게 '유죄'</strong><span class="info_txt"><span class="txt_info">2026. 2. 3.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F03%2Fnewstapa%2F20260203152626513fqrn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F03%2Fnewstapa%2F20260203152626513fqrn.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3599,7 +3607,7 @@
             <link>https://v.daum.net/v/20260203150125341</link>
             <guid>https://v.daum.net/v/20260203150125341</guid>
             <pubDate>Tue, 03 Feb 2026 06:56:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260203150125341" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[TM보고서 한일 협업취재] ‘아베–통일교 선거 거래’ 정황 드러나</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F03%2Fnewstapa%2F20260203150126617wbyi.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260203150125341" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[TM보고서 한일 협업취재] ‘아베–통일교 선거 거래’ 정황 드러나</strong><span class="info_txt"><span class="txt_info">2026. 2. 3.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F03%2Fnewstapa%2F20260203150126617wbyi.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F03%2Fnewstapa%2F20260203150126617wbyi.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3704,14 +3712,6 @@
             <pubDate>Mon, 26 Jan 2026 06:41:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260126144641372" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] '북한 무인기 운용' 민간인 파헤쳐보니... 군-보수단체 연결고리 '주렁주렁'</strong><span class="info_txt"><span class="txt_info">2026. 1. 26.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F26%2Fnewstapa%2F20260126144642765snuf.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F26%2Fnewstapa%2F20260126144642765snuf.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN]‘통일교 자금(Moonie Money)’, 네팔 정치를 뒤흔들다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260126140123658</link>
-            <guid>https://v.daum.net/v/20260126140123658</guid>
-            <pubDate>Mon, 26 Jan 2026 05:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260126140123658" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN]‘통일교 자금(Moonie Money)’, 네팔 정치를 뒤흔들다</strong><span class="info_txt"><span class="txt_info">2026. 1. 26.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F26%2Fnewstapa%2F20260126140125258lcfx.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F26%2Fnewstapa%2F20260126140125258lcfx.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
