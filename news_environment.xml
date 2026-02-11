@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 환경</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Feb 2026 02:30:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Feb 2026 05:06:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["공기 중 녹조 독소 불검출" 발표에 환경단체 "녹조 적을 때 한 예비조사"]]></title>
+            <link>http://newstapa.org/article/KEolZ</link>
+            <guid>http://newstapa.org/article/KEolZ</guid>
+            <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["공기 중 녹조 독소 불검출" 발표에 환경단체 "녹조 적을 때 한 예비조사"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/11140016-1D6C-A26C-8FFE-3S08CZBEIZT90I5BNIHF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한강을 꿈꾸다]]></title>
             <link>http://newstapa.org/article/WhnMQ</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[기후 도박] ① 부풀려진 용인 산단 '수소 발전' 평가서… 환경부 개입 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/18112840-ACC4-635E-6E2E-QQIYBP7BPKPVNOLIUQE6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기후 도박] ② "수소 혼소 발전, 에너지 80% 낭비"... 국민 비용 전가 우려]]></title>
-            <link>http://newstapa.org/article/rcxvO</link>
-            <guid>http://newstapa.org/article/rcxvO</guid>
-            <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[기후 도박] ② "수소 혼소 발전, 에너지 80% 낭비"... 국민 비용 전가 우려]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/18111713-CEFE-0D86-D37A-ZXCBLEH33367QABZK2TZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
