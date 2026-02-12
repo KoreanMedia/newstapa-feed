@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Feb 2026 08:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 09:54:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 피고인 변호사와 골프여행, 이 판결 믿을 수 있습니까]]></title>
+            <link>http://newstapa.org/article/_NzqR</link>
+            <guid>http://newstapa.org/article/_NzqR</guid>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 피고인 변호사와 골프여행, 이 판결 믿을 수 있습니까]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/12181431-8CED-8C76-9E72-BQLE6QL0810EMIOMHDWV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민간 무인기 북한 침투 현장에 '9공수' 소속 현역 장교 동행]]></title>
             <link>http://newstapa.org/article/RAiCo</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 쿠팡은 고치지 않는다, 로비한다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05170325-9A25-815E-BD0D-JHZXM6KJQWGVL8XFDY9H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TM보고서 한일 협업취재] 아베 에르메스, 당선자에 ‘헌신’… 통일교 문건의 정치 거래]]></title>
-            <link>http://newstapa.org/article/zHHpJ</link>
-            <guid>http://newstapa.org/article/zHHpJ</guid>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[TM보고서 한일 협업취재] 아베 에르메스, 당선자에 ‘헌신’… 통일교 문건의 정치 거래]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05115414-B90E-CA44-2789-32AFJRGMNY77TDRWGZS4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
