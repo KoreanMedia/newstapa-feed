@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Feb 2026 06:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 07:55:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘명태균 무죄’ 재판장, 형사 피고인·변호인과 ‘재판 코칭’ 해외여행 정황]]></title>
+            <link>http://newstapa.org/article/dSh7C</link>
+            <guid>http://newstapa.org/article/dSh7C</guid>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘명태균 무죄’ 재판장, 형사 피고인·변호인과 ‘재판 코칭’ 해외여행 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/12164323-FB5E-28D0-D6BF-4MS31CP1VZF4FBPZ84CJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["사실무근"이라더니... 김병기 아들 '이재명 대선 캠프' 출근, 사실로 확인]]></title>
             <link>http://newstapa.org/article/ngA2m</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡, 개인정보 유출 사건 후 검찰·경찰·청와대 등 출신 전관 9명 영입]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05135406-0C7D-A246-BDA1-XKIVYUP81M4D4BTHNQM4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령]]></title>
-            <link>http://newstapa.org/article/Z9RRu</link>
-            <guid>http://newstapa.org/article/Z9RRu</guid>
-            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/04194535-09AE-A97E-EDD5-PJ4VPZLV98WLNULDCBPS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
