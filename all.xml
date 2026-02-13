@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Feb 2026 23:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 02:27:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파의 시선] 강선우, 김경만이 그랬을까? (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/GuwSl</link>
+            <guid>http://newstapa.org/article/GuwSl</guid>
+            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] 강선우, 김경만이 그랬을까?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13111437-AB83-F3CB-5C70-0KVIRLIWH3WG4F9A7JTY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 피고인 변호사와 골프여행, 이 판결 믿을 수 있습니까 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/_NzqR</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05163004-D9E0-5B99-C4CF-FD55GJ89ZFBI0DSU97MN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 뉴스타파] 쿠팡은 고치지 않는다, 로비한다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/OhRY3</link>
-            <guid>http://newstapa.org/article/OhRY3</guid>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 쿠팡은 고치지 않는다, 로비한다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05170325-9A25-815E-BD0D-JHZXM6KJQWGVL8XFDY9H.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[타파의 시선] 강선우, 김경만이 그랬을까? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/GuwSl</link>
+            <guid>http://newstapa.org/article/GuwSl</guid>
+            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] 강선우, 김경만이 그랬을까?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13111437-AB83-F3CB-5C70-0KVIRLIWH3WG4F9A7JTY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘명태균 무죄’ 재판장, 형사 피고인·변호인과 ‘재판 코칭’ 해외여행 정황 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['뉴스타파 기자 폭행' 권성동 의원, 벌금 100만원 약식기소]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/22103351-F9B3-4ECA-8F1D-D4IMOV59TB01BC92C9VO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한강을 꿈꾸다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/WhnMQ</link>
-            <guid>http://newstapa.org/article/WhnMQ</guid>
-            <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한강을 꿈꾸다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/19141205-989D-0DE6-DCAB-8K7OLJPMZ5X82GRHFA28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 피고인 변호사와 골프여행, 이 판결 믿을 수 있습니까 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3336,6 +3336,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/29133753-C845-C83D-91D2-2JR4E8N0LQTESHFQ13M8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[타파의 시선] 강선우, 김경만이 그랬을까? (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112450298</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112450298</guid>
+            <pubDate>Fri, 13 Feb 2026 02:27:01 GMT</pubDate>
+            <content:encoded><![CDATA[공천을 대가로 1억원을 주고 받았다는 혐의로 김경 전 서울시의원과 강선우 국회의원을 상대로 구속영장이 청구됐습니다. 이 사건을 보면서 드는 생각은 ‘과연 이들만 그랬을까?’라는 것입니다. 그동안 지방의원 공천을 둘러싼 비리 의혹은 끊임없이 제기되어 왔기 때문입니다.<br><br>하승수 뉴스타파 전문위원은 이러한 공천 비리가 '휴먼 에러'가 아닌 '시스템 에러'라고 지적합니다.  거대정당의 공천이 당선에 절대적인 영향력을 미치다 보니 지방의원이 되고 싶은 사람은 돈을 주고서라도 공천을 받으려고 하고, 공천에 영향력을 미칠 수 있는 국회의원이나 당협위원장은 공천을 대가로 돈을 받고 싶은 유혹에 빠질 수밖에 없다는 것입니다.  <br><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/GuwSl</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[민간 무인기 북한 침투 현장에 '9공수' 소속 현역 장교 동행 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112442771</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112442771</guid>
@@ -3469,18 +3476,19 @@
             <content:encoded><![CDATA[민간 무인기 북한 침투 사건의 핵심 피의자인 30대 대학원생 오 모 씨가 김진태 강원도지사가 야인 시절 설립한 JT정치문화연구소에서 활동한 사실이 확인됐습니다.<br><br>오 씨는 국민의힘 의원들이 JT연구소에 발주한 정책연구용역을 맡아 진행하고 2건의 결과 보고서를 직접 작성한 것으로 드러났습니다.<br><br>뉴스타파가 오 씨가 작성한 정책연구보고서를 검증한 결과, 극우적 시각이 담긴 문장도 여럿 등장했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/19jNi</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[타파의 시선] 4천억 '탈세왕' 마저 감싸는 국세청의 비밀주의 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112375522</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112375522</guid>
-            <pubDate>Fri, 06 Feb 2026 07:50:53 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파가 ‘법 위의 선박왕’ 첫 보도를 내놓은 바로 다음 날, 국세청은 고액 상습 체납자의 명단을 공개했습니다. 1위는 당연히 3,938억을 체납한 권혁, 법인 부문에서도 1위부터 4위까지가 모두 권혁과 관련된 법인이었습니다. 그런데 이상한 것은 국세청이 고액 상습 체납자의 명단을 매년 공개하는데, 지금까지 권혁은 단 한 번도 이 명단에 오른 일이 없었다는 점입니다. <br><br>뉴스타파는 국세청에 질의를 했지만, 답은 없었습니다. 전가의 보도처럼 쓰는 '과세 정보 누설 금지' 법 조항이 관련 정보 비공개의 근거였는데요, 국세청의 '비밀주의' 태도가 유독 고액 체납자의 개인 정보를 보호하는 데 이용되는 것은 아닌지 의문입니다. '법 위의 선박왕' 연속 보도를 하고 있는 심인보 기자의 '타파의 시선' 칼럼입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/UR74Z</span>]]></content:encoded>
+            <title><![CDATA[[타파의 시선] 강선우, 김경만이 그랬을까? (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260213110125926</link>
+            <guid>https://v.daum.net/v/20260213110125926</guid>
+            <pubDate>Fri, 13 Feb 2026 02:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260213110125926" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 강선우, 김경만이 그랬을까?</strong><span class="info_txt"><span class="txt_info">25분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F13%2Fnewstapa%2F20260213110126794juqa.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F13%2Fnewstapa%2F20260213110126794juqa.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 피고인 변호사와 골프여행, 이 판결 믿을 수 있습니까 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260212182126092</link>
             <guid>https://v.daum.net/v/20260212182126092</guid>
             <pubDate>Thu, 12 Feb 2026 09:54:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260212182126092" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 피고인 변호사와 골프여행, 이 판결 믿을 수 있습니까</strong><span class="info_txt"><span class="txt_info">14시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F12%2Fnewstapa%2F20260212182130343fqrc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260212182126092" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 피고인 변호사와 골프여행, 이 판결 믿을 수 있습니까</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F12%2Fnewstapa%2F20260212182130343fqrc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F12%2Fnewstapa%2F20260212182130343fqrc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3488,7 +3496,7 @@
             <link>https://v.daum.net/v/20260212170125020</link>
             <guid>https://v.daum.net/v/20260212170125020</guid>
             <pubDate>Thu, 12 Feb 2026 08:52:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260212170125020" class="link_column"><div class="cont_thumb"><strong class="tit_txt">민간 무인기 북한 침투 현장에 '9공수' 소속 현역 장교 동행</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F12%2Fnewstapa%2F20260212170126260goou.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260212170125020" class="link_column"><div class="cont_thumb"><strong class="tit_txt">민간 무인기 북한 침투 현장에 '9공수' 소속 현역 장교 동행</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F12%2Fnewstapa%2F20260212170126260goou.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F12%2Fnewstapa%2F20260212170126260goou.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3504,7 @@
             <link>https://v.daum.net/v/20260212164640166</link>
             <guid>https://v.daum.net/v/20260212164640166</guid>
             <pubDate>Thu, 12 Feb 2026 07:55:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260212164640166" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘명태균 무죄’ 재판장, 형사 피고인·변호인과 ‘재판 코칭’ 해외여행 정황</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F12%2Fnewstapa%2F20260212164646589wfri.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260212164640166" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘명태균 무죄’ 재판장, 형사 피고인·변호인과 ‘재판 코칭’ 해외여행 정황</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F12%2Fnewstapa%2F20260212164646589wfri.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F12%2Fnewstapa%2F20260212164646589wfri.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3584,7 +3592,7 @@
             <link>https://v.daum.net/v/20260206110124350</link>
             <guid>https://v.daum.net/v/20260206110124350</guid>
             <pubDate>Fri, 06 Feb 2026 02:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206110124350" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 4천억 '탈세왕' 마저 감싸는 국세청의 비밀주의</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206110125401ejkv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206110124350" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 4천억 '탈세왕' 마저 감싸는 국세청의 비밀주의</strong><span class="info_txt"><span class="txt_info">2026. 2. 6.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206110125401ejkv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206110125401ejkv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3704,14 +3712,6 @@
             <pubDate>Fri, 30 Jan 2026 04:43:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260130131124158" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[난중칼럼] “성공할지도 모른다는 생각에”</strong><span class="info_txt"><span class="txt_info">2026. 1. 30.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F30%2Fnewstapa%2F20260130131125432djyf.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F30%2Fnewstapa%2F20260130131125432djyf.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 숨겨지는 국가범죄 기록 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260130130123985</link>
-            <guid>https://v.daum.net/v/20260130130123985</guid>
-            <pubDate>Fri, 30 Jan 2026 04:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260130130123985" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 숨겨지는 국가범죄 기록</strong><span class="info_txt"><span class="txt_info">2026. 1. 30.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F30%2Fnewstapa%2F20260130130125137frwg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202601%2F30%2Fnewstapa%2F20260130130125137frwg.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

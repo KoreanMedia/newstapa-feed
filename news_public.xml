@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Feb 2026 23:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 02:27:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파의 시선] 강선우, 김경만이 그랬을까?]]></title>
+            <link>http://newstapa.org/article/GuwSl</link>
+            <guid>http://newstapa.org/article/GuwSl</guid>
+            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] 강선우, 김경만이 그랬을까?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13111437-AB83-F3CB-5C70-0KVIRLIWH3WG4F9A7JTY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘명태균 무죄’ 재판장, 형사 피고인·변호인과 ‘재판 코칭’ 해외여행 정황]]></title>
             <link>http://newstapa.org/article/dSh7C</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['뉴스타파 기자 폭행' 권성동 의원, 벌금 100만원 약식기소]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/22103351-F9B3-4ECA-8F1D-D4IMOV59TB01BC92C9VO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한강을 꿈꾸다]]></title>
-            <link>http://newstapa.org/article/WhnMQ</link>
-            <guid>http://newstapa.org/article/WhnMQ</guid>
-            <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한강을 꿈꾸다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/19141205-989D-0DE6-DCAB-8K7OLJPMZ5X82GRHFA28.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
