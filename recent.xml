@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Feb 2026 04:56:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Feb 2026 06:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 내란법정의 161인: 프롤로그]]></title>
+            <link>http://newstapa.org/article/z2ySt</link>
+            <guid>http://newstapa.org/article/z2ySt</guid>
+            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 내란법정의 161인: 프롤로그]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19132107-D737-BBF0-3502-86LM5EJ6RM4JBYET60R5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 내란법정의 161인 : 내란 법정에 선 사령관들 외]]></title>
+            <link>http://newstapa.org/article/G__an</link>
+            <guid>http://newstapa.org/article/G__an</guid>
+            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 내란법정의 161인 : 내란 법정에 선 사령관들 외]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19133403-8F9B-88F0-EC01-XTTBI0UZJ0W0FHM7C8DY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 내란법정의 161인 : 방첩사와 경찰, 합동체포조 ‘라쇼몽’ 외]]></title>
+            <link>http://newstapa.org/article/TigLO</link>
+            <guid>http://newstapa.org/article/TigLO</guid>
+            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 내란법정의 161인 : 방첩사와 경찰, 합동체포조 ‘라쇼몽’ 외]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19134102-8EBA-E792-83B2-D4ZFXOQYUKD026IER63T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빛을 만드는 사람들]]></title>
             <link>http://newstapa.org/article/T-0C8</link>
@@ -110,30 +134,6 @@
             <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[TM보고서 한일 협업취재] 전 통일교 관계자, 다카이치 응원 자민당 후보 회계 책임자]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/07113213-BE80-ED0F-78F7-1FFW8106KAD42HVH2A1O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사]]></title>
-            <link>http://newstapa.org/article/XcGHS</link>
-            <guid>http://newstapa.org/article/XcGHS</guid>
-            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06170235-8053-DDA0-31A8-MTRIJGI9RABJX1M7RYXD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행]]></title>
-            <link>http://newstapa.org/article/orn0l</link>
-            <guid>http://newstapa.org/article/orn0l</guid>
-            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06154440-A1CE-1696-AEB1-7EM9E4JKU1SWJFW003IQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소]]></title>
-            <link>http://newstapa.org/article/DdZCt</link>
-            <guid>http://newstapa.org/article/DdZCt</guid>
-            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06140631-85E5-95E4-BC38-5Y1EO0P10B47SF4W38ZC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
