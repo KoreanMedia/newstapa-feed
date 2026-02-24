@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Feb 2026 11:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 13:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://v.daum.net/v/20260224150639449</link>
             <guid>https://v.daum.net/v/20260224150639449</guid>
             <pubDate>Tue, 24 Feb 2026 06:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260224150639449" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 타이-캄보디아 국경, 7만 9천 명의 ‘멈춰버린 시간’</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F24%2Fnewstapa%2F20260224150646685ddkh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260224150639449" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 타이-캄보디아 국경, 7만 9천 명의 ‘멈춰버린 시간’</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F24%2Fnewstapa%2F20260224150646685ddkh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F24%2Fnewstapa%2F20260224150646685ddkh.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://v.daum.net/v/20260219210124765</link>
             <guid>https://v.daum.net/v/20260219210124765</guid>
             <pubDate>Thu, 19 Feb 2026 13:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260219210124765" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '무기징역' 윤석열, 그리고 내란 극복의 길</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F20%2Fnewstapa%2F20260220142641183qitz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260219210124765" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '무기징역' 윤석열, 그리고 내란 극복의 길</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F20%2Fnewstapa%2F20260220142641183qitz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F20%2Fnewstapa%2F20260220142641183qitz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
