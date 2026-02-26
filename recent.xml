@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Feb 2026 04:53:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 06:00:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김병기, 첫 경찰 조사... 뉴스타파 최초 보도 이후 6개월 만]]></title>
+            <link>http://newstapa.org/article/BRGQq</link>
+            <guid>http://newstapa.org/article/BRGQq</guid>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김병기, 첫 경찰 조사... 뉴스타파 최초 보도 이후 6개월 만]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/26140309-31EE-1627-29DF-2OXCDYLMYVV13UQV778R.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 타이-캄보디아 국경, 7만 9천 명의 ‘멈춰버린 시간’]]></title>
             <link>http://newstapa.org/article/lK1_n</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["사실무근"이라더니... 김병기 아들 '이재명 대선 캠프' 출근, 사실로 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/11145739-EA37-4129-E449-9UUHCVL7MTE9VBOWA75L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["공기 중 녹조 독소 불검출" 발표에 환경단체 "녹조 적을 때 한 예비조사"]]></title>
-            <link>http://newstapa.org/article/KEolZ</link>
-            <guid>http://newstapa.org/article/KEolZ</guid>
-            <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["공기 중 녹조 독소 불검출" 발표에 환경단체 "녹조 적을 때 한 예비조사"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/11140016-1D6C-A26C-8FFE-3S08CZBEIZT90I5BNIHF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
