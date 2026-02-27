@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-02-26T23:33:57.567Z</updated>
+    <updated>2026-02-27T02:09:12.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/3d8129d/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] 이재명의 약속, 낙동강은 아직 기다린다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112565692</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112565692"/>
+        <updated>2026-02-27T02:09:03.735Z</updated>
+        <content type="html"><![CDATA[이재명 정부가 출범한 뒤 9개월의 시간이 흘렀지만, 4대강 자연성 회복을 제1 환경 공약으로 내건 이재명 대통령의 약속은 아직 지켜질 기미가 보이지 않습니다. 문재인 정부가 지방선거를 앞두고 보 처리 결정을 미뤘던 그 장면이 다시 펼쳐지는 것은 아닌지, 우려의 목소리가 커지고 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/FoItw</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스타파 홍주환 기자·뉴스어디 박채린 기자, 2025 미디어공공성포럼 언론상 수상]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112559884</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112426090"/>
         <updated>2026-02-11T07:04:54.138Z</updated>
         <content type="html"><![CDATA[기후부가 어제 낙동강 일대에서 공기 중 녹조 독조를 조사했지만 불검출됐다고 발표하자 환경단체들이 반발하고 있습니다. 조사기간이 녹조가 사라지는 9월 중순인데다, 측정 중 비가 오는 상황이 많아서 결과에 영향을 줬을 가능성이 높다는 지적입니다.<br><br>정부는 이번 결과가 민관공동조사로 나온 것이라고 밝혔지만 시민단체는 사실과 다르다는 반응입니다. 이번 조사는 예비조사에 불과했고, 정부가 책정한 조사 예산 역시 턱없이 부족했다는 목소리가 나옵니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/KEolZ</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[🔴뉴스타파 라이브 예고] 진격의 다카이치 체제, 한-일의 갈림길]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112416058</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112416058"/>
-        <updated>2026-02-10T08:59:40.507Z</updated>
-        <content type="html"><![CDATA[[🔴라이브 예고] 다카이치 사나에 일본 총리의 승부수가 통했습니다. 지난 8일 있었던 51회 일본 중의원 선거에서 다카이치 총리가 이끄는 자민당이 단독으로 의석 3분의 2를 장악하는 대승을 거뒀습니다. 다카이치 총리의 의지에 따라 입법이 가능한 것은 물론, 개헌까지 넘볼 수 있는 상황입니다.<br><br>다카이치는 이번 선거에서 '도전', '개척', '강한 일본' 등의 구호를 외치며 표심을 얻었습니다. 전문가들은 일본이 한층 더 우경화하면서 동북아 지역의 긴장을 높일 것이라 전망하고 있습니다. 이미 미-중 양국의 패권 경쟁이 첨예한 상황에서, 우리 정부는 평화를 위해 더 어려운 함수를 풀어야 하는 상황이 됐습니다.<br><br>뉴스타파 라이브는 언론가의 대표적인 '일본통' 길윤형 한겨레 논설위원과 함께 중의원 선거 이후의 일본, 그리고 우리 정부의 대응에 대해 이야기 나누는 시간을 마련했습니다. 또 이번 선거에서 뉴스타파와의 국제 협업 보도로 큰 주목을 받았던 일본 비영리 탐사보도 매체 '탄사'의 와타나베 마코토 편집장과의 인터뷰도 만나실 수 있습니다.   <br><br>앞으로 뉴스타파 라이브는 저녁 9시로 옮겨 시청자들을 만날 예정입니다. 많은 관심과 시청 바랍니다!<br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://youtube.com/live/W2z9n-Af9Cc</span>]]></content>
     </entry>
 </feed>
