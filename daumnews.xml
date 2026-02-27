@@ -4,15 +4,23 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Feb 2026 04:49:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 05:56:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘내란’ 판결문 실명 복원… “역사는 익명 뒤에 숨을 수 없다”]]></title>
+            <link>https://v.daum.net/v/20260227135637351</link>
+            <guid>https://v.daum.net/v/20260227135637351</guid>
+            <pubDate>Fri, 27 Feb 2026 05:56:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260227135637351" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘내란’ 판결문 실명 복원… “역사는 익명 뒤에 숨을 수 없다”</strong><span class="info_txt"><span class="txt_info">59분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F27%2Fnewstapa%2F20260227135638511gicr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F27%2Fnewstapa%2F20260227135638511gicr.png" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 이재명의 약속, 낙동강은 아직 기다린다]]></title>
             <link>https://v.daum.net/v/20260227102624939</link>
             <guid>https://v.daum.net/v/20260227102624939</guid>
             <pubDate>Fri, 27 Feb 2026 02:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260227102624939" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 이재명의 약속, 낙동강은 아직 기다린다</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F27%2Fnewstapa%2F20260227102626556sucy.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260227102624939" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 이재명의 약속, 낙동강은 아직 기다린다</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F27%2Fnewstapa%2F20260227102626556sucy.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F27%2Fnewstapa%2F20260227102626556sucy.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://v.daum.net/v/20260226140625311</link>
             <guid>https://v.daum.net/v/20260226140625311</guid>
             <pubDate>Thu, 26 Feb 2026 06:00:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260226140625311" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김병기, 첫 경찰 조사... 뉴스타파 최초 보도 이후 6개월 만</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F26%2Fnewstapa%2F20260226140627343gtjd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260226140625311" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김병기, 첫 경찰 조사... 뉴스타파 최초 보도 이후 6개월 만</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F26%2Fnewstapa%2F20260226140627343gtjd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F26%2Fnewstapa%2F20260226140627343gtjd.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://v.daum.net/v/20260223142125004</link>
             <guid>https://v.daum.net/v/20260223142125004</guid>
             <pubDate>Mon, 23 Feb 2026 06:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260223142125004" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 윤석열 무기징역, 지귀연의 판결에는 '국민'이 없었다</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F23%2Fnewstapa%2F20260223142127070lcaq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260223142125004" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 윤석열 무기징역, 지귀연의 판결에는 '국민'이 없었다</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F23%2Fnewstapa%2F20260223142127070lcaq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F23%2Fnewstapa%2F20260223142127070lcaq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -237,14 +245,6 @@
             <pubDate>Thu, 05 Feb 2026 08:46:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260205163638340" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 중수청 논란과 해법, 무엇이 중한디</strong><span class="info_txt"><span class="txt_info">2026. 2. 5.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F05%2Fnewstapa%2F20260205163639688lvxb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F05%2Fnewstapa%2F20260205163639688lvxb.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[TM보고서 한일 협업취재] 아베 에르메스, 당선자에 ‘헌신’… 통일교 문건의 정치 거래]]></title>
-            <link>https://v.daum.net/v/20260205141123333</link>
-            <guid>https://v.daum.net/v/20260205141123333</guid>
-            <pubDate>Thu, 05 Feb 2026 05:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260205141123333" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[TM보고서 한일 협업취재] 아베 에르메스, 당선자에 ‘헌신’… 통일교 문건의 정치 거래</strong><span class="info_txt"><span class="txt_info">2026. 2. 5.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F05%2Fnewstapa%2F20260205141125188kejm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F05%2Fnewstapa%2F20260205141125188kejm.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
