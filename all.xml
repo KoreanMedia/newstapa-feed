@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Feb 2026 05:00:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 05:39:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[종걸과 이치노헤 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/PgFCX</link>
+            <guid>http://newstapa.org/article/PgFCX</guid>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[종걸과 이치노헤]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/28112218-123B-9459-7A92-0LZ4GR739B4ACYIFCT9P.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[칼럼] ‘우리 편’보다 중요한 것은? 집권여당의 길 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/-Tit-</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 통일교 돈 번 언론② 정교유착? 통일교 띄워준 언교유착이 더 심하다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13181001-F069-36D8-853D-5RT6Q8F4KGFT519AK6XB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 강선우, 김경만이 그랬을까? (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/GuwSl</link>
-            <guid>http://newstapa.org/article/GuwSl</guid>
-            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파의 시선] 강선우, 김경만이 그랬을까?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13111437-AB83-F3CB-5C70-0KVIRLIWH3WG4F9A7JTY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[칼럼] ‘우리 편’보다 중요한 것은? 집권여당의 길 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/03150058-53B5-17D4-0D8E-W1I449ILZGTZ97F8GQCS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[종걸과 이치노헤 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/PgFCX</link>
+            <guid>http://newstapa.org/article/PgFCX</guid>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[종걸과 이치노헤]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/28112218-123B-9459-7A92-0LZ4GR739B4ACYIFCT9P.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[타파의 시선] 숨겨지는 국가범죄 기록 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/QCMti</link>
             <guid>http://newstapa.org/article/QCMti</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['일제 미화' 검정교과서 제작 문건 입수...대한교조 참여 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26165110-A152-79FC-AEF4-AHY7HLDZWIVZYFG3HNQX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 정부 역사기관장이 쓴 ‘일제 미화’ 교과서 원고 공개 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/Rhj-j</link>
-            <guid>http://newstapa.org/article/Rhj-j</guid>
-            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤 정부 역사기관장이 쓴 ‘일제 미화’ 교과서 원고 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26163553-93EB-BD80-36D5-BZVB3UHB7LC9QEI1IDO2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[연금개혁의시간]④ 선제적 국고투입이 미래세대에 가져올 혜택 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -3484,6 +3484,14 @@
             <content:encoded><![CDATA[1974년 천주교 원주교구장이던 지학순 주교는 유신헌법이 무효라는 양심선언을 합니다. 이러한 지학순 주교의 행동은 천주교 정의구현전국사제단의 탄생으로 이어졌습니다. 이후 정의구현사제단은 국가폭력과 부당한 권력에 맞서며, 사회가 외면한 이들과 함께해왔습니다.<br><br>뉴스타파와 저스피스재단이 &lt;지학순 정의평화 다큐멘터리상&gt;을 제정합니다. 지금 우리사회는 과거 군사독재 시절의 노골적인 탄압은 사라졌지만 왜곡된 정보, 혐오와 배제, 권력과 자본의 전횡, 그리고 사회적 무관심 등이 여전히 민주주의를 위협하고 있습니다. <br><br>이러한 환경 속에서도 여전히 더 나은 세상을 위해 기록하고 있는 다큐멘터리스트들이 있습니다.  뉴스타파와 저스피스는 드러나지 않는 곳에서 본연의 역할을 수행하고 있는 다큐멘터리 창작자,  단체, 작품을 찾아 지원하고자 합니다. 수상자에게는 2천만 원의 상금과 상패를 드립니다. <br><br>후보 추천 마감은 오는 2월22일(금)입니다. 제 1회 지학순 정의평화 다큐멘터리상 후보작 추천에 참여해 주세요. <br><br> 👉지학순 정의평화 다큐멘터리상 추천하기 :  <span class="link_url">https://bit.ly/4a5hwfl</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[종걸과 이치노헤 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260228140201210</link>
+            <guid>https://v.daum.net/v/20260228140201210</guid>
+            <pubDate>Sat, 28 Feb 2026 05:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260228140201210" class="link_column"><div class="cont_thumb"><strong class="tit_txt">종걸과 이치노헤</strong><span class="info_txt"><span class="txt_info">37분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F28%2Fnewstapa%2F20260228140210827zgkj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F28%2Fnewstapa%2F20260228140210827zgkj.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[칼럼] ‘우리 편’보다 중요한 것은? 집권여당의 길 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260227174626584</link>
             <guid>https://v.daum.net/v/20260227174626584</guid>
@@ -3512,7 +3520,7 @@
             <link>https://v.daum.net/v/20260226140625311</link>
             <guid>https://v.daum.net/v/20260226140625311</guid>
             <pubDate>Thu, 26 Feb 2026 06:00:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260226140625311" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김병기, 첫 경찰 조사... 뉴스타파 최초 보도 이후 6개월 만</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F26%2Fnewstapa%2F20260226140627343gtjd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260226140625311" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김병기, 첫 경찰 조사... 뉴스타파 최초 보도 이후 6개월 만</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F26%2Fnewstapa%2F20260226140627343gtjd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F26%2Fnewstapa%2F20260226140627343gtjd.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3528,7 +3536,7 @@
             <link>https://v.daum.net/v/20260223142125004</link>
             <guid>https://v.daum.net/v/20260223142125004</guid>
             <pubDate>Mon, 23 Feb 2026 06:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260223142125004" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 윤석열 무기징역, 지귀연의 판결에는 '국민'이 없었다</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F23%2Fnewstapa%2F20260223142127070lcaq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260223142125004" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 윤석열 무기징역, 지귀연의 판결에는 '국민'이 없었다</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F23%2Fnewstapa%2F20260223142127070lcaq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F23%2Fnewstapa%2F20260223142127070lcaq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3713,14 +3721,6 @@
             <pubDate>Fri, 06 Feb 2026 02:10:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206110124350" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 4천억 '탈세왕' 마저 감싸는 국세청의 비밀주의</strong><span class="info_txt"><span class="txt_info">2026. 2. 6.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206110125401ejkv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206110125401ejkv.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 쿠팡은 고치지 않는다, 로비한다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260205170635209</link>
-            <guid>https://v.daum.net/v/20260205170635209</guid>
-            <pubDate>Thu, 05 Feb 2026 08:46:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260205170635209" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 쿠팡은 고치지 않는다, 로비한다</strong><span class="info_txt"><span class="txt_info">2026. 2. 5.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F05%2Fnewstapa%2F20260205170637906bzox.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F05%2Fnewstapa%2F20260205170637906bzox.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

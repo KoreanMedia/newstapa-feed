@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Feb 2026 05:00:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 05:39:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[종걸과 이치노헤]]></title>
+            <link>http://newstapa.org/article/PgFCX</link>
+            <guid>http://newstapa.org/article/PgFCX</guid>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[종걸과 이치노헤]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/28112218-123B-9459-7A92-0LZ4GR739B4ACYIFCT9P.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[칼럼] ‘우리 편’보다 중요한 것은? 집권여당의 길]]></title>
             <link>http://newstapa.org/article/-Tit-</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 통일교 돈 번 언론② 정교유착? 통일교 띄워준 언교유착이 더 심하다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13181001-F069-36D8-853D-5RT6Q8F4KGFT519AK6XB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 강선우, 김경만이 그랬을까?]]></title>
-            <link>http://newstapa.org/article/GuwSl</link>
-            <guid>http://newstapa.org/article/GuwSl</guid>
-            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파의 시선] 강선우, 김경만이 그랬을까?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13111437-AB83-F3CB-5C70-0KVIRLIWH3WG4F9A7JTY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
