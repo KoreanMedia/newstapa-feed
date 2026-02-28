@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Feb 2026 07:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 08:33:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://v.daum.net/v/20260228140201210</link>
             <guid>https://v.daum.net/v/20260228140201210</guid>
             <pubDate>Sat, 28 Feb 2026 05:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260228140201210" class="link_column"><div class="cont_thumb"><strong class="tit_txt">종걸과 이치노헤</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F28%2Fnewstapa%2F20260228140210827zgkj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260228140201210" class="link_column"><div class="cont_thumb"><strong class="tit_txt">종걸과 이치노헤</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F28%2Fnewstapa%2F20260228140210827zgkj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F28%2Fnewstapa%2F20260228140210827zgkj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://v.daum.net/v/20260227174626584</link>
             <guid>https://v.daum.net/v/20260227174626584</guid>
             <pubDate>Fri, 27 Feb 2026 09:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260227174626584" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] ‘우리 편’보다 중요한 것은? 집권여당의 길</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F27%2Fnewstapa%2F20260227174628100ltdi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260227174626584" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] ‘우리 편’보다 중요한 것은? 집권여당의 길</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F27%2Fnewstapa%2F20260227174628100ltdi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F27%2Fnewstapa%2F20260227174628100ltdi.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
