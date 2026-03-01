@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Mar 2026 05:55:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 06:52:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,7 +52,7 @@
             <link>https://v.daum.net/v/20260224150639449</link>
             <guid>https://v.daum.net/v/20260224150639449</guid>
             <pubDate>Tue, 24 Feb 2026 06:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260224150639449" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 타이-캄보디아 국경, 7만 9천 명의 ‘멈춰버린 시간’</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F24%2Fnewstapa%2F20260224150646685ddkh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260224150639449" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 타이-캄보디아 국경, 7만 9천 명의 ‘멈춰버린 시간’</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F24%2Fnewstapa%2F20260224150646685ddkh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F24%2Fnewstapa%2F20260224150646685ddkh.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
