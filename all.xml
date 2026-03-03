@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Mar 2026 04:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 05:53:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] 김병기에게 권력이란... 자녀 편입·취업 특혜가 '음해'라고? (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/CcFyJ</link>
+            <guid>http://newstapa.org/article/CcFyJ</guid>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 김병기에게 권력이란... 자녀 편입·취업 특혜가 '음해'라고?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/03140910-A77B-B8B3-9C9F-1ME1CQDQLAZEKI7MMFVU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[종걸과 이치노헤 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/PgFCX</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13202804-96C2-9845-56B2-PVDCQQAZ77IB23VJPV53.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[KINN] 통일교 돈 번 언론② 정교유착? 통일교 띄워준 언교유착이 더 심하다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/BLAES</link>
-            <guid>http://newstapa.org/article/BLAES</guid>
-            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 통일교 돈 번 언론② 정교유착? 통일교 띄워준 언교유착이 더 심하다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13181001-F069-36D8-853D-5RT6Q8F4KGFT519AK6XB.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[타파스] 김병기에게 권력이란... 자녀 편입·취업 특혜가 '음해'라고? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/CcFyJ</link>
+            <guid>http://newstapa.org/article/CcFyJ</guid>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 김병기에게 권력이란... 자녀 편입·취업 특혜가 '음해'라고?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/03140910-A77B-B8B3-9C9F-1ME1CQDQLAZEKI7MMFVU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[칼럼] ‘우리 편’보다 중요한 것은? 집권여당의 길 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06140631-85E5-95E4-BC38-5Y1EO0P10B47SF4W38ZC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘무인기 대학원생’, 김진태 연구소에서 국민의힘 의원 정책연구 진행 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/19jNi</link>
-            <guid>http://newstapa.org/article/19jNi</guid>
-            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘무인기 대학원생’, 김진태 연구소에서 국민의힘 의원 정책연구 진행]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06135053-6D6A-A822-FF5B-0XSAYAZMKLF9MUNN32Y7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[칼럼] ‘우리 편’보다 중요한 것은? 집권여당의 길 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3484,11 +3484,19 @@
             <content:encoded><![CDATA[[🔴라이브 예고] 바야흐로 법원의 시간입니다. 명태균 게이트, 김건희 게이트, 윤석열 내란 재판 등 사법부의 심판이 이어지고 있습니다. 과거의 문제를 청산하고 힘차게 2026년 한 해를 시작하려는 국민들의 바람과 달리, 어쩐지 최근 선고 결과는 '오락가락', '불안불안'한 양상입니다.<br><br>사법 불신이 '국민 탓, 기분 탓'이라는 사법부 엘리트들의 변명과 달리, 판결 내용에는 상식과 배치되는 부분들이 적지 않습니다. 최근의 판결을 두고 '판결이 복불복이 되었다', '판사 누구를 만나느냐로 유무죄가 갈린다'는 비판의 목소리가 나오는 실정입니다. 뿌리 깊은 사법부의 문제, 이재명 정부의 개혁은 어디까지 왔고, 어디로 가야 할까요.<br> <br>오늘 주간 뉴스타파는 '명태균 사건 재판장' 김인택 부장판사의 해외여행 의혹에서 추가로 드러난 사실을 전해드립니다. 더불어 계속되는 사법 불신의 뿌리를 되짚고, 진정한 사법 개혁을 위한 방안들에 대해 이야기 나눠 봅니다. 김인택 부장판사 비위 의혹을 취재하고 있는 강민수 기자, 유승익 참여연대 사법감시센터 소장이 출연합니다. <br><br>오늘 오후 5시, 라이브로 진행되는 주간 뉴스타파에 많은 시청과 관심 부탁드립니다!<br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://www.youtube.com/live/UVkSnxoiFEs</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[타파스] 김병기에게 권력이란... 자녀 편입·취업 특혜가 '음해'라고? (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260303141124267</link>
+            <guid>https://v.daum.net/v/20260303141124267</guid>
+            <pubDate>Tue, 03 Mar 2026 05:53:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260303141124267" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 김병기에게 권력이란... 자녀 편입·취업 특혜가 '음해'라고?</strong><span class="info_txt"><span class="txt_info">42분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F03%2Fnewstapa%2F20260303141125558wjwc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F03%2Fnewstapa%2F20260303141125558wjwc.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[종걸과 이치노헤 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260228140201210</link>
             <guid>https://v.daum.net/v/20260228140201210</guid>
             <pubDate>Sat, 28 Feb 2026 05:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260228140201210" class="link_column"><div class="cont_thumb"><strong class="tit_txt">종걸과 이치노헤</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F28%2Fnewstapa%2F20260228140210827zgkj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260228140201210" class="link_column"><div class="cont_thumb"><strong class="tit_txt">종걸과 이치노헤</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F28%2Fnewstapa%2F20260228140210827zgkj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F28%2Fnewstapa%2F20260228140210827zgkj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3512,7 @@
             <link>https://v.daum.net/v/20260227135637351</link>
             <guid>https://v.daum.net/v/20260227135637351</guid>
             <pubDate>Fri, 27 Feb 2026 05:56:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260227135637351" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘내란’ 판결문 실명 복원… “역사는 익명 뒤에 숨을 수 없다”</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F27%2Fnewstapa%2F20260227135638511gicr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260227135637351" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘내란’ 판결문 실명 복원… “역사는 익명 뒤에 숨을 수 없다”</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F27%2Fnewstapa%2F20260227135638511gicr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F27%2Fnewstapa%2F20260227135638511gicr.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3520,7 +3528,7 @@
             <link>https://v.daum.net/v/20260226140625311</link>
             <guid>https://v.daum.net/v/20260226140625311</guid>
             <pubDate>Thu, 26 Feb 2026 06:00:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260226140625311" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김병기, 첫 경찰 조사... 뉴스타파 최초 보도 이후 6개월 만</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F26%2Fnewstapa%2F20260226140627343gtjd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260226140625311" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김병기, 첫 경찰 조사... 뉴스타파 최초 보도 이후 6개월 만</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F26%2Fnewstapa%2F20260226140627343gtjd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F26%2Fnewstapa%2F20260226140627343gtjd.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3713,14 +3721,6 @@
             <pubDate>Fri, 06 Feb 2026 05:56:38 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206135625894" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘무인기 대학원생’, 김진태 연구소에서 국민의힘 의원 정책연구 진행</strong><span class="info_txt"><span class="txt_info">2026. 2. 6.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206135626574uapx.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206135626574uapx.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 4천억 '탈세왕' 마저 감싸는 국세청의 비밀주의 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260206110124350</link>
-            <guid>https://v.daum.net/v/20260206110124350</guid>
-            <pubDate>Fri, 06 Feb 2026 02:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206110124350" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 4천억 '탈세왕' 마저 감싸는 국세청의 비밀주의</strong><span class="info_txt"><span class="txt_info">2026. 2. 6.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206110125401ejkv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206110125401ejkv.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
