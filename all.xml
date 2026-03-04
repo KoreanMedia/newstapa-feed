@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Mar 2026 02:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 04:44:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[연금개혁의시간]⑤ 국고 투입 크레디트 확대...청년세대 노후 위한 투자 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/3IyA8</link>
+            <guid>http://newstapa.org/article/3IyA8</guid>
+            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]⑤ 국고 투입 크레디트 확대...청년세대 노후 위한 투자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/04111155-4040-6587-8B25-SJ8X03LS2RFDXEKNYF25.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 김병기에게 권력이란... 자녀 편입·취업 특혜가 '음해'라고? (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/CcFyJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[빛을 만드는 사람들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/12180058-6B98-EFEA-54FC-KGT6X2H07DVHC8ZWX5CR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] 명태균이 무죄가 될 수밖에 없었던 이유 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/kT3Y6</link>
-            <guid>http://newstapa.org/article/kT3Y6</guid>
-            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] 명태균이 무죄가 될 수밖에 없었던 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13202804-96C2-9845-56B2-PVDCQQAZ77IB23VJPV53.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타파스] 김병기에게 권력이란... 자녀 편입·취업 특혜가 '음해'라고? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1544,6 +1544,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26165110-A152-79FC-AEF4-AHY7HLDZWIVZYFG3HNQX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[연금개혁의시간]⑤ 국고 투입 크레디트 확대...청년세대 노후 위한 투자 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/3IyA8</link>
+            <guid>http://newstapa.org/article/3IyA8</guid>
+            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]⑤ 국고 투입 크레디트 확대...청년세대 노후 위한 투자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/04111155-4040-6587-8B25-SJ8X03LS2RFDXEKNYF25.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[연금개혁의시간]④ 선제적 국고투입이 미래세대에 가져올 혜택 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
             <link>http://newstapa.org/article/NSpHj</link>
             <guid>http://newstapa.org/article/NSpHj</guid>
@@ -1662,14 +1670,6 @@
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[성평등 국회 ②진전없는 '여성 안전'...국회는 없었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29200936-09D5-BDEA-3E24-ZBICES89HXIFRZ74K1LQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] <진단명: 리베이트 중독> 보도 제약사, 3년여 만에 공정위 제재 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
-            <link>http://newstapa.org/article/ZOwKs</link>
-            <guid>http://newstapa.org/article/ZOwKs</guid>
-            <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] &lt;진단명: 리베이트 중독&gt; 보도 제약사, 3년여 만에 공정위 제재]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/13135449-3CE7-5D51-FC31-Z9BK1RBWKGGEK1QV7C1R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KINN] 타이-캄보디아 국경, 7만 9천 명의 ‘멈춰버린 시간’ (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
@@ -3344,6 +3344,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18104807-863A-A56B-C2FB-E1N6W3JTMXCK5UDESTNK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[연금개혁의시간]⑤ 국고 투입 크레디트 확대...청년세대 노후 위한 투자 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112616416</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112616416</guid>
+            <pubDate>Wed, 04 Mar 2026 04:43:53 GMT</pubDate>
+            <content:encoded><![CDATA[OECD 최악 수준인 한국의 노인빈곤율은 현재의 청년세대가 노인이 되어도 그리 나아질 기미가 보이지 않습니다. 연금 가입기간이 20년 정도로 짧아 연금 선진국과 10년 이상 차이가 나기 때문입니다. 그 차이는 국가가 청년세대에 폭넓은 크레디트를 지원하느냐 하지 않느냐에서 생깁니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/3IyA8</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[🔴라이브] 트럼프의 위험한 도박, 미국-이스라엘의 이란 공습 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112610034</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112610034</guid>
@@ -3477,18 +3484,19 @@
             <content:encoded><![CDATA["한 사람이 열 걸음 나가는 것보다도 열 사람이 한 걸음 나가는 게 더 의미가 있습니다" 2026년 2월 11일 충무로 뉴스타파함께센터에서 다큐 협업 플랫폼 〈목격자들〉의 2026년 1분기 제작지원금 전달식이 열렸습니다.  이번 공모 선정작은 장민경 감독 〈파랑: 투명인간과 살아가는 법〉, 유소영 감독 〈공순이: 이름이 된 직업〉, 이원식 감독 〈지하호〉입니다. 세 작품과 감독들의 이야기와 트레일러를 담았습니다. <br>이번에 선정된 작품은 2026년 하반기 뉴스타파 채널을 통해 공개할 예정입니다. 많은 관심 바랍니다.<br><br>👉 〈목격자들〉 트레일러 영상 보러가기 : <span class="link_url">https://youtu.be/K1uRhY-KSio</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘명태균 무죄’ 재판장, 형사 피고인·변호인과 ‘재판 코칭’ 해외여행 정황 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112442491</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112442491</guid>
-            <pubDate>Thu, 12 Feb 2026 07:55:19 GMT</pubDate>
-            <content:encoded><![CDATA[이른바 ‘명태균 게이트 무죄’ 판결로 논란이 된 김인택 창원지방법원 부장판사가 명태균 씨에게 무죄를 선고하기 바로 전날, 벌금 500만원에 약식 기소됐습니다. HDC신라면세점 황 모 팀장으로부터 해외 여행을 접대 받은 혐의입니다. <br><br>뉴스타파, 취재 결과 문제의 해외 여행에 김인택 부장판사가 면세점 황 모 팀장, 그리고 그의 변호사와도 함께 다녀온 것으로 새롭게 확인됐습니다. <br><br>김인택 부장판사가 명품 코트 95%특혜 할인과 여행 경비 대납과 변호사 동반한 여행까지, 이 모든 일이 황 모 팀장 사건 관련 ‘재판 코칭’의 대가가 아닌지 추가 수사의 필요성이 제기됩니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/CkVLhudhiNI</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/dSh7C</span>]]></content:encoded>
+            <title><![CDATA[[연금개혁의시간]⑤ 국고 투입 크레디트 확대...청년세대 노후 위한 투자 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260304111653721</link>
+            <guid>https://v.daum.net/v/20260304111653721</guid>
+            <pubDate>Wed, 04 Mar 2026 04:44:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260304111653721" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]⑤ 국고 투입 크레디트 확대...청년세대 노후 위한 투자</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F04%2Fnewstapa%2F20260304111654383ewxz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F04%2Fnewstapa%2F20260304111654383ewxz.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[타파스] 김병기에게 권력이란... 자녀 편입·취업 특혜가 '음해'라고? (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260303141124267</link>
             <guid>https://v.daum.net/v/20260303141124267</guid>
             <pubDate>Tue, 03 Mar 2026 05:53:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260303141124267" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 김병기에게 권력이란... 자녀 편입·취업 특혜가 '음해'라고?</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F03%2Fnewstapa%2F20260303141125558wjwc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260303141124267" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 김병기에게 권력이란... 자녀 편입·취업 특혜가 '음해'라고?</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F03%2Fnewstapa%2F20260303141125558wjwc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F03%2Fnewstapa%2F20260303141125558wjwc.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3713,14 +3721,6 @@
             <pubDate>Fri, 06 Feb 2026 06:59:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206153123088" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소</strong><span class="info_txt"><span class="txt_info">2026. 2. 6.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206153125161qdfj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206153125161qdfj.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘무인기 대학원생’, 김진태 연구소에서 국민의힘 의원 정책연구 진행 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260206135625894</link>
-            <guid>https://v.daum.net/v/20260206135625894</guid>
-            <pubDate>Fri, 06 Feb 2026 05:56:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206135625894" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘무인기 대학원생’, 김진태 연구소에서 국민의힘 의원 정책연구 진행</strong><span class="info_txt"><span class="txt_info">2026. 2. 6.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206135626574uapx.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206135626574uapx.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
