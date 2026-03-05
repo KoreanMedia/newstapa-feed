@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Mar 2026 07:45:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 08:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/468dI</link>
+            <guid>http://newstapa.org/article/468dI</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05172058-B310-58E1-6C63-WKZG64KZHCUMF5F0RTW2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/lhPMw</link>
+            <guid>http://newstapa.org/article/lhPMw</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05164527-0D65-E836-68F9-G4EXFIT2YEGF1AIUZAE9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팔레스타인 리포트 ⑨팔레스타인 앰뷸런스 운전사가 총탄 속에도 멈추지 않는 이유 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/j6T_0</link>
@@ -120,20 +136,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19193632-5D97-859E-ECBE-PM752807TMJY3EH65BXH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[KINN] 내란법정의 161인: 프롤로그 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/z2ySt</link>
-            <guid>http://newstapa.org/article/z2ySt</guid>
-            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 내란법정의 161인: 프롤로그]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19132107-D737-BBF0-3502-86LM5EJ6RM4JBYET60R5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/468dI</link>
+            <guid>http://newstapa.org/article/468dI</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05172058-B310-58E1-6C63-WKZG64KZHCUMF5F0RTW2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[KINN] 내란법정의 161인 : 내란 법정에 선 사령관들 외 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/G__an</link>
-            <guid>http://newstapa.org/article/G__an</guid>
-            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 내란법정의 161인 : 내란 법정에 선 사령관들 외]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19133403-8F9B-88F0-EC01-XTTBI0UZJ0W0FHM7C8DY.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/lhPMw</link>
+            <guid>http://newstapa.org/article/lhPMw</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05164527-0D65-E836-68F9-G4EXFIT2YEGF1AIUZAE9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타파스] 김병기에게 권력이란... 자녀 편입·취업 특혜가 '음해'라고? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -246,22 +262,6 @@
             <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“김병기 배우자 병원 의전·특혜는 사실”... 추가 물증·증언 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/09164731-C00B-8AB0-9C97-6UWI5YVECP5OB3PPV25B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TM보고서 한일 협업취재] 전 통일교 관계자, 다카이치 응원 자민당 후보 회계 책임자 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/V3a7o</link>
-            <guid>http://newstapa.org/article/V3a7o</guid>
-            <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[TM보고서 한일 협업취재] 전 통일교 관계자, 다카이치 응원 자민당 후보 회계 책임자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/07113213-BE80-ED0F-78F7-1FFW8106KAD42HVH2A1O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/DdZCt</link>
-            <guid>http://newstapa.org/article/DdZCt</guid>
-            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06140631-85E5-95E4-BC38-5Y1EO0P10B47SF4W38ZC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[칼럼] ‘우리 편’보다 중요한 것은? 집권여당의 길 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1928,6 +1928,22 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/24171002-B847-7ABB-7570-RKZCSRQ49N1ARSKYUR1A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/468dI</link>
+            <guid>http://newstapa.org/article/468dI</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05172058-B310-58E1-6C63-WKZG64KZHCUMF5F0RTW2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/lhPMw</link>
+            <guid>http://newstapa.org/article/lhPMw</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05164527-0D65-E836-68F9-G4EXFIT2YEGF1AIUZAE9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 통일교 돈 번 언론② 정교유착? 통일교 띄워준 언교유착이 더 심하다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/BLAES</link>
             <guid>http://newstapa.org/article/BLAES</guid>
@@ -2038,22 +2054,6 @@
             <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘한국판 마가(MAGA)’ 엠킴과 한미 극우의 거대한 연대]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/16110702-891C-FA6D-C389-358M48V2HH8WQX4XPLX3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 조선일보, 미국 퇴물 정치인 인용 ‘통일교 감싸기’ 앞장 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/y4pe8</link>
-            <guid>http://newstapa.org/article/y4pe8</guid>
-            <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 조선일보, 미국 퇴물 정치인 인용 ‘통일교 감싸기’ 앞장]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/15135311-C46C-08A6-2D32-MG4Z17V2VWVNYQD5FTLV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 어메이징타워와 흠뻑쇼 ... 누가 한국 언론을 동정할 것인가 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/3y6-V</link>
-            <guid>http://newstapa.org/article/3y6-V</guid>
-            <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 어메이징타워와 흠뻑쇼 ... 누가 한국 언론을 동정할 것인가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/27172857-E108-99AC-63A2-6MZOV6K4CNT1G05ZULN8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 21대 대통령선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3344,6 +3344,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18104807-863A-A56B-C2FB-E1N6W3JTMXCK5UDESTNK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112636136</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112636136</guid>
+            <pubDate>Thu, 05 Mar 2026 08:45:23 GMT</pubDate>
+            <content:encoded><![CDATA[최근 감사원은 류희림 민원사주 의혹에 대해 증거가 없어 사주 여부를 "단정할 수 없다"고 결론 내렸습니다. 휴대폰 분실과 PC 초기화로 핵심 증거들이 이미 사라졌기 때문입니다. 하지만 탁동삼 방송미디어통신심의위원회 연구위원은 증거조차 제대로 확보하지 못한 채 부실한 결과를 포장한 감사원에 결코 면죄부를 줄 수 없다고 강도 높게 비판합니다.<br><br>증거가 사라진 원인은 무엇이었을까요.  탁 위원은 권익위와 경찰에 있다고 말합니다. 정권의 눈치를 보며 무려 485일이나 시간을 끈 권익위, 그리고 피의자는 방치한 채 공익신고자 색출에만 대대적인 압수수색과 수사력을 낭비한 경찰의 노골적인 직무유기 때문입니다.<br><br>내부고발자는 가혹한 수사를 견디고 국가 기관은 합심해 진실에 눈을 감아버린 기막힌 현실 속에서, 마지막 남은 경찰 재수사가 반드시 짚어야 할 본질이 무엇인지 탁동삼 위원의 뼈아픈 일침을 생생한 글로 직접 확인해 보시기 바랍니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/468dI</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112636125</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112636125</guid>
+            <pubDate>Thu, 05 Mar 2026 08:45:23 GMT</pubDate>
+            <content:encoded><![CDATA[류희림 전 방송통신심위원장의 '청부 민원' 사태가 촉발된 '청부민원 지시 단톡방'의 실체가 사건 발생 2년여 만에 감사원 조사를 통해 처음으로 확인되었습니다.<br><br>하지만 사건의 스모킹건이 될 수 있었던 이 카카오톡 단체 대화방의 대화 내역 등 핵심 물증은 이미 모두 증발한 상태입니다. 지난 2년 3개월간 권익위와 경찰이 의도적으로 조사를 지연시키고 공익신고자 탄압에만 열을 올리는 사이, 류 전 위원장을 비롯한 관련자들이 휴대전화를 교체하고 대화방을 삭제해버렸기 때문입니다.<br><br>진실을 밝힐 '골든타임'을 날려버린 국가 기관들의 뼈아픈 직무유기 속에서, 언론에 재갈을 물리려 희대의 자작극을 벌인 류 전 위원장은 지금도 법적 처벌을 피하고 있습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/_LeDoOwMa4I</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/lhPMw</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[🔴주간 뉴스타파] 꼬리에 꼬리를 무는, 류희림 청부민원 덮기 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112634664</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112634664</guid>
@@ -3470,18 +3484,20 @@
             <content:encoded><![CDATA[[🔴라이브 예고] 잠시 후 윤석열 '내란 우두머리' 혐의 1심 선고가 내려집니다. 앞서 조은석 특검은 윤 씨에게 사형을 구형한 바 있습니다. 김용현 전 국방부 장관과 조지호 전 경찰청장 등 내란 가담자들에 대한 판결도 함께 선고됩니다. 12·3 내란 이후 1년여, 이번 선고를 계기로 우리 사회는 지난한 내란 정국을 딛고 한층 도약할 수 있을까요?    <br><br>오늘 주간 뉴스타파는 이 판결의 쟁점과 내용, 의미를 깊이 들여다봅니다. 이 사건 탐사 취재해 온 홍우람 기자, 민변 공익인권변론센터 소속으로 사건을 모니터링 해온 최새얀 변호사가 출연해 한층 더 깊이 있는 판결 분석을 할 예정입니다. 이어 윤석열 정권의 언론탄압 최일선에서 맞서 온 김용진 뉴스타파 선임기자가 출연하여 '윤석열 v. 뉴스타파'의 근황과 소회, 앞으로의 민주주의와 언론에 대해 생각을 나눌 예정입니다.<br><br>오늘 저녁 9시 라이브로 진행되는 주간 뉴스타파, 많은 시청과 관심 바랍니다!<br><br>👉 뉴스타파 유튜브 채널 바로가기 : <span class="link_url">https://youtube.com/newstapa</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[KINN] 내란 법정의 161인 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112484202</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112484202</guid>
-            <pubDate>Thu, 19 Feb 2026 06:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[피고인 13인 그리고 증인 148인. 오늘 1심 선고가 나오는 윤석열 등에 대한 내란 혐의 재판에 등장한 인물의 수입니다.<br><br>KINN 회원사 코트워치는 이들 161명의 법정 발언과 행적을 전수 분석했습니다. 그날 밤, 무엇이 ‘12·3 내란’을 시작하게 했고, 작동하게 했고, 멈추게 했는지 추적했습니다. 모든 내용은 재판 과정에서 드러난 기록을 바탕으로 했고, 관련자 직책은 2024년 12월 3일 기준으로 표기했습니다.<br><br>📰'[KINN] 내란법정의 161인: 프롤로그' 기사 보러가기 : <span class="link_url">https://c-watch.org/project/insurrection</span><br>📰①내란 법정에 선 사령관들 : <span class="link_url">https://c-watch.org/archives/5347</span><br>📰②경찰 지휘부와 계엄 포고령 : <span class="link_url">https://c-watch.org/archives/5377</span><br>📰③국회경비대 본연의 임무 : <span class="link_url">https://c-watch.org/archives/5396</span><br>📰④방첩사의 트라우마 : <span class="link_url">https://c-watch.org/archives/5439</span><br>📰⑤방첩사와 경찰, 합동체포조 ‘라쇼몽’ : <span class="link_url">https://c-watch.org/archives/5458</span><br>📰⑥특전사 위법성의 단초 : <span class="link_url">https://c-watch.org/archives/5480</span><br>📰⑦현장 지휘관과 시민들 : <span class="link_url">https://c-watch.org/archives/5502</span><br>👉코트워치 응원하기: <span class="link_url">https://online.mrm.or.kr/vZ6ITMu</span>]]></content:encoded>
+            <title><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260305172637466</link>
+            <guid>https://v.daum.net/v/20260305172637466</guid>
+            <pubDate>Thu, 05 Mar 2026 08:45:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260305172637466" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[기고] 누가 '민원사주'의 증거를 지웠나</strong><span class="info_txt"><span class="txt_info">18분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305172638484znwg.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305172638484znwg.png" length="0" type="image/q70/"/>
         </item>
         <item>
-            <title><![CDATA[[칼럼] 명태균이 무죄가 될 수밖에 없었던 이유 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112460294</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112460294</guid>
-            <pubDate>Fri, 13 Feb 2026 11:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[정치브로커 명태균 씨가 1심에서 사실상 무죄를 선고받은 후 곳곳에서 분노에 찬 비난이 쏟아져 나오고 있습니다. 명 씨가 김영선 전 국민의힘 의원한테 받은 돈이 공천 대가임이 분명한데, 무죄가 말이 되느냐는 것입니다. 여기에는 명 씨에 대해 광범위하게 퍼진 부정적 인식과 내란 척결의 걸림돌로 여겨지는 ‘조희대 사법부’에 대한 깊은 불신이 깔려 있습니다.<br><br>법원 판결의 타당성은 언제나 사실과 증거로 따질 수밖에 없습니다. 아무리 대의명분이 있고 제기된 의혹이 그럴듯하더라도, 사실을 무시하거나 왜곡하면 선동으로 비칠 수 있습니다. 사건 전문기자인 조성식 전문위원은 "집권여당인 민주당이 무분별한 의혹 제기에 휘둘리거나 앞장서는 듯한 모습은 위험해 보인다"고 지적합니다.<br><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/kT3Y6</span>]]></content:encoded>
+            <title><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260305172625461</link>
+            <guid>https://v.daum.net/v/20260305172625461</guid>
+            <pubDate>Thu, 05 Mar 2026 08:45:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260305172625461" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인</strong><span class="info_txt"><span class="txt_info">19분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305172636953sxua.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305172636953sxua.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[팔레스타인 리포트 ⑨팔레스타인 앰뷸런스 운전사가 총탄 속에도 멈추지 않는 이유 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3705,22 +3721,6 @@
             <pubDate>Mon, 09 Feb 2026 05:04:21 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260209135625446" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 쿠팡이 미국 의회를 움직이는 법 (feat. 로비 160억)</strong><span class="info_txt"><span class="txt_info">2026. 2. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F09%2Fnewstapa%2F20260209135626837wdqa.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F09%2Fnewstapa%2F20260209135626837wdqa.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[TM보고서 한일 협업취재] 전 통일교 관계자, 다카이치 응원 자민당 후보 회계 책임자 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260207123124883</link>
-            <guid>https://v.daum.net/v/20260207123124883</guid>
-            <pubDate>Sat, 07 Feb 2026 04:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260207123124883" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[TM보고서 한일 협업취재] 전 통일교 관계자, 다카이치 응원 자민당 후보 회계 책임자</strong><span class="info_txt"><span class="txt_info">2026. 2. 7.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F07%2Fnewstapa%2F20260207123126443habc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F07%2Fnewstapa%2F20260207123126443habc.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260206170630943</link>
-            <guid>https://v.daum.net/v/20260206170630943</guid>
-            <pubDate>Fri, 06 Feb 2026 08:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260206170630943" class="link_column"><div class="cont_thumb"><strong class="tit_txt">쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사</strong><span class="info_txt"><span class="txt_info">2026. 2. 6.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206170631287fepy.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F06%2Fnewstapa%2F20260206170631287fepy.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

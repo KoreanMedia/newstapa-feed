@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Mar 2026 07:45:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 08:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나]]></title>
+            <link>http://newstapa.org/article/468dI</link>
+            <guid>http://newstapa.org/article/468dI</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05172058-B310-58E1-6C63-WKZG64KZHCUMF5F0RTW2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인]]></title>
+            <link>http://newstapa.org/article/lhPMw</link>
+            <guid>http://newstapa.org/article/lhPMw</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05164527-0D65-E836-68F9-G4EXFIT2YEGF1AIUZAE9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팔레스타인 리포트 ⑨팔레스타인 앰뷸런스 운전사가 총탄 속에도 멈추지 않는 이유]]></title>
             <link>http://newstapa.org/article/j6T_0</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] '무기징역' 윤석열, 그리고 내란 극복의 길]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19193632-5D97-859E-ECBE-PM752807TMJY3EH65BXH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 내란법정의 161인: 프롤로그]]></title>
-            <link>http://newstapa.org/article/z2ySt</link>
-            <guid>http://newstapa.org/article/z2ySt</guid>
-            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 내란법정의 161인: 프롤로그]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19132107-D737-BBF0-3502-86LM5EJ6RM4JBYET60R5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 내란법정의 161인 : 내란 법정에 선 사령관들 외]]></title>
-            <link>http://newstapa.org/article/G__an</link>
-            <guid>http://newstapa.org/article/G__an</guid>
-            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 내란법정의 161인 : 내란 법정에 선 사령관들 외]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19133403-8F9B-88F0-EC01-XTTBI0UZJ0W0FHM7C8DY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

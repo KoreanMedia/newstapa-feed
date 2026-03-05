@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Mar 2026 07:45:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 08:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나]]></title>
+            <link>http://newstapa.org/article/468dI</link>
+            <guid>http://newstapa.org/article/468dI</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05172058-B310-58E1-6C63-WKZG64KZHCUMF5F0RTW2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인]]></title>
+            <link>http://newstapa.org/article/lhPMw</link>
+            <guid>http://newstapa.org/article/lhPMw</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05164527-0D65-E836-68F9-G4EXFIT2YEGF1AIUZAE9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 통일교 돈 번 언론② 정교유착? 통일교 띄워준 언교유착이 더 심하다]]></title>
             <link>http://newstapa.org/article/BLAES</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘한국판 마가(MAGA)’ 엠킴과 한미 극우의 거대한 연대]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/16110702-891C-FA6D-C389-358M48V2HH8WQX4XPLX3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 조선일보, 미국 퇴물 정치인 인용 ‘통일교 감싸기’ 앞장]]></title>
-            <link>http://newstapa.org/article/y4pe8</link>
-            <guid>http://newstapa.org/article/y4pe8</guid>
-            <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 조선일보, 미국 퇴물 정치인 인용 ‘통일교 감싸기’ 앞장]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/15135311-C46C-08A6-2D32-MG4Z17V2VWVNYQD5FTLV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 어메이징타워와 흠뻑쇼 ... 누가 한국 언론을 동정할 것인가]]></title>
-            <link>http://newstapa.org/article/3y6-V</link>
-            <guid>http://newstapa.org/article/3y6-V</guid>
-            <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 어메이징타워와 흠뻑쇼 ... 누가 한국 언론을 동정할 것인가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/27172857-E108-99AC-63A2-6MZOV6K4CNT1G05ZULN8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

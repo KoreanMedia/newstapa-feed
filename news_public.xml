@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Mar 2026 07:45:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 08:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나]]></title>
+            <link>http://newstapa.org/article/468dI</link>
+            <guid>http://newstapa.org/article/468dI</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05172058-B310-58E1-6C63-WKZG64KZHCUMF5F0RTW2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인]]></title>
+            <link>http://newstapa.org/article/lhPMw</link>
+            <guid>http://newstapa.org/article/lhPMw</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05164527-0D65-E836-68F9-G4EXFIT2YEGF1AIUZAE9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 김병기에게 권력이란... 자녀 편입·취업 특혜가 '음해'라고?]]></title>
             <link>http://newstapa.org/article/CcFyJ</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“김병기 배우자 병원 의전·특혜는 사실”... 추가 물증·증언 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/09164731-C00B-8AB0-9C97-6UWI5YVECP5OB3PPV25B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TM보고서 한일 협업취재] 전 통일교 관계자, 다카이치 응원 자민당 후보 회계 책임자]]></title>
-            <link>http://newstapa.org/article/V3a7o</link>
-            <guid>http://newstapa.org/article/V3a7o</guid>
-            <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[TM보고서 한일 협업취재] 전 통일교 관계자, 다카이치 응원 자민당 후보 회계 책임자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/07113213-BE80-ED0F-78F7-1FFW8106KAD42HVH2A1O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소]]></title>
-            <link>http://newstapa.org/article/DdZCt</link>
-            <guid>http://newstapa.org/article/DdZCt</guid>
-            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 명태균 1심 무죄 재판장, 청탁금지법 위반 혐의로 약식 기소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06140631-85E5-95E4-BC38-5Y1EO0P10B47SF4W38ZC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
