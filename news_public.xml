@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Mar 2026 11:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 13:05:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꼬리에 꼬리를 무는 '류희림 청부민원' 덮기]]></title>
+            <link>http://newstapa.org/article/aXJQW</link>
+            <guid>http://newstapa.org/article/aXJQW</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[꼬리에 꼬리를 무는 '류희림 청부민원' 덮기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05184107-0EE3-0C1F-8869-WW1XUEAP9MEUPUEKEC4N.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나]]></title>
             <link>http://newstapa.org/article/468dI</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["사실무근"이라더니... 김병기 아들 '이재명 대선 캠프' 출근, 사실로 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/11145739-EA37-4129-E449-9UUHCVL7MTE9VBOWA75L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“김병기 배우자 병원 의전·특혜는 사실”... 추가 물증·증언 공개]]></title>
-            <link>http://newstapa.org/article/O2Xw1</link>
-            <guid>http://newstapa.org/article/O2Xw1</guid>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“김병기 배우자 병원 의전·특혜는 사실”... 추가 물증·증언 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/09164731-C00B-8AB0-9C97-6UWI5YVECP5OB3PPV25B.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,23 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Mar 2026 11:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 13:05:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꼬리에 꼬리를 무는 '류희림 청부민원' 덮기]]></title>
+            <link>https://v.daum.net/v/20260305210123868</link>
+            <guid>https://v.daum.net/v/20260305210123868</guid>
+            <pubDate>Thu, 05 Mar 2026 13:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260305210123868" class="link_column"><div class="cont_thumb"><strong class="tit_txt">꼬리에 꼬리를 무는 '류희림 청부민원' 덮기</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305210127108ulla.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305210127108ulla.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나]]></title>
             <link>https://v.daum.net/v/20260305172637466</link>
             <guid>https://v.daum.net/v/20260305172637466</guid>
             <pubDate>Thu, 05 Mar 2026 08:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260305172637466" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[기고] 누가 '민원사주'의 증거를 지웠나</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305172638484znwg.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260305172637466" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[기고] 누가 '민원사주'의 증거를 지웠나</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305172638484znwg.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305172638484znwg.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://v.daum.net/v/20260305172625461</link>
             <guid>https://v.daum.net/v/20260305172625461</guid>
             <pubDate>Thu, 05 Mar 2026 08:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260305172625461" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305172636953sxua.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260305172625461" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305172636953sxua.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305172636953sxua.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -237,14 +245,6 @@
             <pubDate>Mon, 09 Feb 2026 08:01:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260209165625618" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“김병기 배우자 병원 의전·특혜는 사실”... 추가 물증·증언 공개</strong><span class="info_txt"><span class="txt_info">2026. 2. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F09%2Fnewstapa%2F20260209165631958pzaa.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F09%2Fnewstapa%2F20260209165631958pzaa.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 쿠팡이 미국 의회를 움직이는 법 (feat. 로비 160억)]]></title>
-            <link>https://v.daum.net/v/20260209135625446</link>
-            <guid>https://v.daum.net/v/20260209135625446</guid>
-            <pubDate>Mon, 09 Feb 2026 05:04:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260209135625446" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 쿠팡이 미국 의회를 움직이는 법 (feat. 로비 160억)</strong><span class="info_txt"><span class="txt_info">2026. 2. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F09%2Fnewstapa%2F20260209135626837wdqa.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F09%2Fnewstapa%2F20260209135626837wdqa.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
