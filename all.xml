@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Mar 2026 07:41:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 08:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] 2026 10대 극우화 보고서, 소년 극우가 온다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/mQx_V</link>
+            <guid>http://newstapa.org/article/mQx_V</guid>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파] 2026 10대 극우화 보고서, 소년 극우가 온다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/06165418-5916-A890-5D9E-7IFQCODTZUGT37V0RG60.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["4대강 재자연화 의지 없다" 환경단체, 김성환 기후부 장관 사퇴 촉구 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/0dKhA</link>
+            <guid>http://newstapa.org/article/0dKhA</guid>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["4대강 재자연화 의지 없다" 환경단체, 김성환 기후부 장관 사퇴 촉구]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/06164942-D028-4886-B933-UNS5P8DIFIUG2MSHBSAJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[간송미술관장, 29억 횡령 의혹… 제작사엔 "돈 없다" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/hV8Lo</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김병기, 첫 경찰 조사... 뉴스타파 최초 보도 이후 6개월 만]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/26140309-31EE-1627-29DF-2OXCDYLMYVV13UQV778R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 타이-캄보디아 국경, 7만 9천 명의 ‘멈춰버린 시간’ (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/lK1_n</link>
-            <guid>http://newstapa.org/article/lK1_n</guid>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 타이-캄보디아 국경, 7만 9천 명의 ‘멈춰버린 시간’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/24144124-EAC9-A49A-E149-SQF0XI59MZ17ATPSOT78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 윤석열 무기징역, 지귀연의 판결에는 '국민'이 없었다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/6GBid</link>
-            <guid>http://newstapa.org/article/6GBid</guid>
-            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 윤석열 무기징역, 지귀연의 판결에는 '국민'이 없었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/23141918-6DDC-4E99-4CAF-1122WMMVNEQQRYREJ3JE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꼬리에 꼬리를 무는 '류희림 청부민원' 덮기 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/18133639-62E7-44A0-7482-53CBL5AVIAH403ST5Z23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["4대강 재자연화 의지 없다" 환경단체, 김성환 기후부 장관 사퇴 촉구 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/0dKhA</link>
+            <guid>http://newstapa.org/article/0dKhA</guid>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["4대강 재자연화 의지 없다" 환경단체, 김성환 기후부 장관 사퇴 촉구]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/06164942-D028-4886-B933-UNS5P8DIFIUG2MSHBSAJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 이재명의 약속, 낙동강은 아직 기다린다 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/FoItw</link>
             <guid>http://newstapa.org/article/FoItw</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 발전소 배출 물질 추적① 생명이 사라진 갯바위]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22132801-EBBD-5342-975E-6OQBLOBNFZ00EP3T013J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/r72lC</link>
-            <guid>http://newstapa.org/article/r72lC</guid>
-            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[말 안 듣다 쫓겨난 언론인, ‘4대강’을 대하는 ‘한국 언론’의 자세]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22131654-D098-9EAC-0041-PS464AKZ8METOG31GSRH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빛을 만드는 사람들 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -3344,6 +3344,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18104807-863A-A56B-C2FB-E1N6W3JTMXCK5UDESTNK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["4대강 재자연화 의지 없다" 환경단체, 김성환 기후부 장관 사퇴 촉구 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112649534</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112649534</guid>
+            <pubDate>Fri, 06 Mar 2026 08:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[김성환 기후환경부 장관은 지난해 7월 인사청문회에서 4대강 재자연화에 대한 의지를 밝히며, 4대강의 자연성을 회복하고 수질과 수생태계를 획기적으로 개선하겠다고 약속했습니다. 그로부터 8개월이 지난 지금 환경단체들은 김성환 기후부 장관이 “강을 살릴 의지도 실력도 없다”며 사퇴를 요구하고 나섰습니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/0iB2Kb5Pcrg</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/0dKhA</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] 2026 10대 극우화 보고서, 소년 극우가 온다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112649517</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112649517</guid>
+            <pubDate>Fri, 06 Mar 2026 08:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[한국 사회의 민주주의 근간을 뒤흔드는 극우화 현상이 10대들에게 뿌리 깊게 침투했습니다. 뉴스타파는 인스타그램을 대안 언론으로 인식하며 왜곡된 세계관을 형성하고 직접 시위 현장에 참여하는 15살 극우 소년을 직접 만나, 윤석열 내란 이후 그가 거리에 나설 수밖에 없는 이유는 무엇인지 물었습니다. 또한 윤석열 내란 이후 1년이 넘도록 온오프라인에서 ’윤 어게인’을 외치며 다양한 극우 콘텐츠를 생산하고 있는 ‘자유대학’의 실체에 대해서도 집중 취재했습니다. <br><br>[다큐 뉴스타파] ’2026 10대 극우화 보고서, 소년 극우가 온다’ 편을 통해 미디어의 위기와 민주주의 교육의 부재 속에서 심화되고 있는 10대 극우화 문제의 현실을 살펴보길 바랍니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/o9ExNllLUYY</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/mQx_V</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[간송미술관장, 29억 횡령 의혹… 제작사엔 “돈 없다” (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112646894</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112646894</guid>
@@ -3470,25 +3484,27 @@
             <content:encoded><![CDATA[지난 2025년 5월 시작된 태국-캄보디아 간 국경 분쟁은 해를 넘겨 2026년 2월 현재 소강 상태에 접어들었습니다. 하지만 7만 9천여 명에 달하는 피란민들은 여전히 집으로 돌아가지 못하고 있습니다.<br><br>태국군의 포격으로 집이 파괴된 주민들 중에는 태국에서 번 돈으로 생활하는 노동자들도 있었습니다. 태국군은 표면적으로 국경 지역의 '스캠 범죄 소탕'을 명분으로 내세우고 있지만, 그 이면에는 뿌리 깊은 영토 분쟁과 민족주의가 자리하고 있습니다. 아시아 탐사보도 전문 매체 '두니아'가 태국-캄보디아 국경 분쟁의 최전선을 직접 찾았습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://thedunia.org/thai-cambodia-border-conflict-emerald-triangle-displacement-2025-2026/</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[타파스] 윤석열 무기징역, 지귀연의 판결에는 '국민'이 없었다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112516881</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112516881</guid>
-            <pubDate>Mon, 23 Feb 2026 06:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[지난 19일, '내란 우두머리' 윤석열 피고인에게 1심 무기징역 판결이 나왔습니다. <br><br>이 판결을 두고 납득할만 하다는 평이 나오는 한편, 아쉬운 판결이라는 목소리도 나옵니다. 무엇보다 12·3 내란을 막아낸 국민들에 대한 언급이 없었다는 비판이 나옵니다. 이번 주 타파스는 '내란 우두머리' 윤석열 1심 선고와 그 쟁점들에 대해 이야기해 보겠습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/6GBid</span><br>📨 뉴스레터 타파스를 만나보세요 : <span class="link_url">https://newstapa-tapas.stibee.com/subscribe</span>]]></content:encoded>
+            <title><![CDATA[[다큐 뉴스타파] 2026 10대 극우화 보고서, 소년 극우가 온다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260306171625367</link>
+            <guid>https://v.daum.net/v/20260306171625367</guid>
+            <pubDate>Fri, 06 Mar 2026 08:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260306171625367" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파] 2026 10대 극우화 보고서, 소년 극우가 온다</strong><span class="info_txt"><span class="txt_info">25분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F06%2Fnewstapa%2F20260306171637748vqkq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F06%2Fnewstapa%2F20260306171637748vqkq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
-            <title><![CDATA[[타파의 시선] 헌법 제103조는 AI 양형을 요구한다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112498866</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112498866</guid>
-            <pubDate>Fri, 20 Feb 2026 08:44:08 GMT</pubDate>
-            <content:encoded><![CDATA[어제(19일) '내란 우두머리' 윤석열 전 대통령에 대해 1심 무기징역 판결이 나왔습니다. 재판부는 피고인의 오랜 공직생활과, 65세 고령이라는 점 등을 감형 사유로 들었습니다.<br><br>최근 미심쩍은 양형 판단이 반복되면서 'AI 양형' 시스템에 대한 논의가 활발해지고 있습니다. AI 양형 시스템이 법관의 양심을 해칠 것이라는 비판이 제기되는 한편, 오히려 법관이 가진 편견을 벗어나는 데 도움을 줄 것이라는 전망도 나옵니다. AI 양형 시스템을 둘러싼 논쟁을 이범준 뉴스타파 전문위원이 정리했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/uG3L_</span>]]></content:encoded>
+            <title><![CDATA["4대강 재자연화 의지 없다" 환경단체, 김성환 기후부 장관 사퇴 촉구 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260306165653645</link>
+            <guid>https://v.daum.net/v/20260306165653645</guid>
+            <pubDate>Fri, 06 Mar 2026 08:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260306165653645" class="link_column"><div class="cont_thumb"><strong class="tit_txt">"4대강 재자연화 의지 없다" 환경단체, 김성환 기후부 장관 사퇴 촉구</strong><span class="info_txt"><span class="txt_info">45분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F06%2Fnewstapa%2F20260306165703363jlsa.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F06%2Fnewstapa%2F20260306165703363jlsa.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[간송미술관장, 29억 횡령 의혹… 제작사엔 "돈 없다" (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260306150655484</link>
             <guid>https://v.daum.net/v/20260306150655484</guid>
             <pubDate>Fri, 06 Mar 2026 06:54:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260306150655484" class="link_column"><div class="cont_thumb"><strong class="tit_txt">간송미술관장, 29억 횡령 의혹… 제작사엔 "돈 없다"</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F06%2Fnewstapa%2F20260306150702875lvza.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260306150655484" class="link_column"><div class="cont_thumb"><strong class="tit_txt">간송미술관장, 29억 횡령 의혹… 제작사엔 "돈 없다"</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F06%2Fnewstapa%2F20260306150702875lvza.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F06%2Fnewstapa%2F20260306150702875lvza.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3512,7 @@
             <link>https://v.daum.net/v/20260305210123868</link>
             <guid>https://v.daum.net/v/20260305210123868</guid>
             <pubDate>Thu, 05 Mar 2026 13:05:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260305210123868" class="link_column"><div class="cont_thumb"><strong class="tit_txt">꼬리에 꼬리를 무는 '류희림 청부민원' 덮기</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305210127108ulla.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260305210123868" class="link_column"><div class="cont_thumb"><strong class="tit_txt">꼬리에 꼬리를 무는 '류희림 청부민원' 덮기</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305210127108ulla.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305210127108ulla.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3520,7 @@
             <link>https://v.daum.net/v/20260305172637466</link>
             <guid>https://v.daum.net/v/20260305172637466</guid>
             <pubDate>Thu, 05 Mar 2026 08:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260305172637466" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[기고] 누가 '민원사주'의 증거를 지웠나</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305172638484znwg.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260305172637466" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[기고] 누가 '민원사주'의 증거를 지웠나</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305172638484znwg.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305172638484znwg.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3512,7 +3528,7 @@
             <link>https://v.daum.net/v/20260305172625461</link>
             <guid>https://v.daum.net/v/20260305172625461</guid>
             <pubDate>Thu, 05 Mar 2026 08:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260305172625461" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305172636953sxua.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260305172625461" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305172636953sxua.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F05%2Fnewstapa%2F20260305172636953sxua.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3705,22 +3721,6 @@
             <pubDate>Wed, 11 Feb 2026 07:05:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260211150124316" class="link_column"><div class="cont_thumb"><strong class="tit_txt">"사실무근"이라더니... 김병기 아들 '이재명 대선 캠프' 출근, 사실로 확인</strong><span class="info_txt"><span class="txt_info">2026. 2. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F11%2Fnewstapa%2F20260211150131325pfmb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F11%2Fnewstapa%2F20260211150131325pfmb.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA["공기 중 녹조 독소 불검출" 발표에 환경단체 "녹조 적을 때 한 예비조사" (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260211140626385</link>
-            <guid>https://v.daum.net/v/20260211140626385</guid>
-            <pubDate>Wed, 11 Feb 2026 07:05:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260211140626385" class="link_column"><div class="cont_thumb"><strong class="tit_txt">"공기 중 녹조 독소 불검출" 발표에 환경단체 "녹조 적을 때 한 예비조사"</strong><span class="info_txt"><span class="txt_info">2026. 2. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F11%2Fnewstapa%2F20260211140627813lrbe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F11%2Fnewstapa%2F20260211140627813lrbe.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[연금개혁의시간]④ 선제적 국고투입이 미래세대에 가져올 혜택 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260210154123594</link>
-            <guid>https://v.daum.net/v/20260210154123594</guid>
-            <pubDate>Tue, 10 Feb 2026 07:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260210154123594" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]④ 선제적 국고투입이 미래세대에 가져올 혜택</strong><span class="info_txt"><span class="txt_info">2026. 2. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F10%2Fnewstapa%2F20260210154125193kczx.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F10%2Fnewstapa%2F20260210154125193kczx.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
