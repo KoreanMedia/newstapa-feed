@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Mar 2026 02:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 04:55:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] '청부민원' 수사 2년 3개월, 누가 류희림에게 면죄부를 주었나 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/P2dou</link>
+            <guid>http://newstapa.org/article/P2dou</guid>
+            <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] '청부민원' 수사 2년 3개월, 누가 류희림에게 면죄부를 주었나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/09133331-9B75-EAD3-2CA4-3AZ4XLSBGR95MZPOFH4Q.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파] 2026 10대 극우화 보고서, 소년 극우가 온다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/mQx_V</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/27095148-C947-45A1-0074-ZY3USEHDR9R6OCLX33CX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김병기, 첫 경찰 조사... 뉴스타파 최초 보도 이후 6개월 만 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/BRGQq</link>
-            <guid>http://newstapa.org/article/BRGQq</guid>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김병기, 첫 경찰 조사... 뉴스타파 최초 보도 이후 6개월 만]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/26140309-31EE-1627-29DF-2OXCDYLMYVV13UQV778R.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[타파스] '청부민원' 수사 2년 3개월, 누가 류희림에게 면죄부를 주었나 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/P2dou</link>
+            <guid>http://newstapa.org/article/P2dou</guid>
+            <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] '청부민원' 수사 2년 3개월, 누가 류희림에게 면죄부를 주었나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/09133331-9B75-EAD3-2CA4-3AZ4XLSBGR95MZPOFH4Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꼬리에 꼬리를 무는 '류희림 청부민원' 덮기 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘명태균 무죄’ 재판장, 형사 피고인·변호인과 ‘재판 코칭’ 해외여행 정황]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/12164323-FB5E-28D0-D6BF-4MS31CP1VZF4FBPZ84CJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["사실무근"이라더니... 김병기 아들 '이재명 대선 캠프' 출근, 사실로 확인 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/ngA2m</link>
-            <guid>http://newstapa.org/article/ngA2m</guid>
-            <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["사실무근"이라더니... 김병기 아들 '이재명 대선 캠프' 출근, 사실로 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/11145739-EA37-4129-E449-9UUHCVL7MTE9VBOWA75L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[칼럼] ‘우리 편’보다 중요한 것은? 집권여당의 길 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3484,6 +3484,14 @@
             <content:encoded><![CDATA[지난 2025년 5월 시작된 태국-캄보디아 간 국경 분쟁은 해를 넘겨 2026년 2월 현재 소강 상태에 접어들었습니다. 하지만 7만 9천여 명에 달하는 피란민들은 여전히 집으로 돌아가지 못하고 있습니다.<br><br>태국군의 포격으로 집이 파괴된 주민들 중에는 태국에서 번 돈으로 생활하는 노동자들도 있었습니다. 태국군은 표면적으로 국경 지역의 '스캠 범죄 소탕'을 명분으로 내세우고 있지만, 그 이면에는 뿌리 깊은 영토 분쟁과 민족주의가 자리하고 있습니다. 아시아 탐사보도 전문 매체 '두니아'가 태국-캄보디아 국경 분쟁의 최전선을 직접 찾았습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://thedunia.org/thai-cambodia-border-conflict-emerald-triangle-displacement-2025-2026/</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[타파스] '청부민원' 수사 2년 3개월, 누가 류희림에게 면죄부를 주었나 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260309134144633</link>
+            <guid>https://v.daum.net/v/20260309134144633</guid>
+            <pubDate>Mon, 09 Mar 2026 04:55:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260309134144633" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] '청부민원' 수사 2년 3개월, 누가 류희림에게 면죄부를 주었나</strong><span class="info_txt"><span class="txt_info">13분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F09%2Fnewstapa%2F20260309134145724xydj.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F09%2Fnewstapa%2F20260309134145724xydj.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[다큐 뉴스타파] 2026 10대 극우화 보고서, 소년 극우가 온다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260306171625367</link>
             <guid>https://v.daum.net/v/20260306171625367</guid>
@@ -3552,7 +3560,7 @@
             <link>https://v.daum.net/v/20260304111653721</link>
             <guid>https://v.daum.net/v/20260304111653721</guid>
             <pubDate>Wed, 04 Mar 2026 04:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260304111653721" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]⑤ 국고 투입 크레디트 확대...청년세대 노후 위한 투자</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F04%2Fnewstapa%2F20260304111654383ewxz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260304111653721" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]⑤ 국고 투입 크레디트 확대...청년세대 노후 위한 투자</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F04%2Fnewstapa%2F20260304111654383ewxz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F04%2Fnewstapa%2F20260304111654383ewxz.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3713,14 +3721,6 @@
             <pubDate>Thu, 12 Feb 2026 07:55:26 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260212164640166" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘명태균 무죄’ 재판장, 형사 피고인·변호인과 ‘재판 코칭’ 해외여행 정황</strong><span class="info_txt"><span class="txt_info">2026. 2. 12.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F12%2Fnewstapa%2F20260212164646589wfri.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F12%2Fnewstapa%2F20260212164646589wfri.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA["사실무근"이라더니... 김병기 아들 '이재명 대선 캠프' 출근, 사실로 확인 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260211150124316</link>
-            <guid>https://v.daum.net/v/20260211150124316</guid>
-            <pubDate>Wed, 11 Feb 2026 07:05:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260211150124316" class="link_column"><div class="cont_thumb"><strong class="tit_txt">"사실무근"이라더니... 김병기 아들 '이재명 대선 캠프' 출근, 사실로 확인</strong><span class="info_txt"><span class="txt_info">2026. 2. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F11%2Fnewstapa%2F20260211150131325pfmb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F11%2Fnewstapa%2F20260211150131325pfmb.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Mar 2026 02:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 04:55:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] '청부민원' 수사 2년 3개월, 누가 류희림에게 면죄부를 주었나]]></title>
+            <link>http://newstapa.org/article/P2dou</link>
+            <guid>http://newstapa.org/article/P2dou</guid>
+            <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] '청부민원' 수사 2년 3개월, 누가 류희림에게 면죄부를 주었나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/09133331-9B75-EAD3-2CA4-3AZ4XLSBGR95MZPOFH4Q.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꼬리에 꼬리를 무는 '류희림 청부민원' 덮기]]></title>
             <link>http://newstapa.org/article/aXJQW</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘명태균 무죄’ 재판장, 형사 피고인·변호인과 ‘재판 코칭’ 해외여행 정황]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/12164323-FB5E-28D0-D6BF-4MS31CP1VZF4FBPZ84CJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["사실무근"이라더니... 김병기 아들 '이재명 대선 캠프' 출근, 사실로 확인]]></title>
-            <link>http://newstapa.org/article/ngA2m</link>
-            <guid>http://newstapa.org/article/ngA2m</guid>
-            <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["사실무근"이라더니... 김병기 아들 '이재명 대선 캠프' 출근, 사실로 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/11145739-EA37-4129-E449-9UUHCVL7MTE9VBOWA75L.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
