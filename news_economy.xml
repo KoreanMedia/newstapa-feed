@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 경제소비자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Mar 2026 07:44:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 08:46:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장1열] 기름값 치솟은 날, 도로 위 사람들의 이야기를 듣다]]></title>
+            <link>http://newstapa.org/article/sAPAI</link>
+            <guid>http://newstapa.org/article/sAPAI</guid>
+            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장1열] 기름값 치솟은 날, 도로 위 사람들의 이야기를 듣다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/10173652-EF5E-D246-80A0-9M0AN3745HUJT1KJJSD5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[간송미술관장, 전시 자금으로 '빚 갈아타기' 의혹]]></title>
+            <link>http://newstapa.org/article/G3UK3</link>
+            <guid>http://newstapa.org/article/G3UK3</guid>
+            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[간송미술관장, 전시 자금으로 '빚 갈아타기' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/10151849-115F-2FC5-9019-1BO6MB3VI7FQICW63V4L.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[간송미술관장, 29억 횡령 의혹… 제작사엔 "돈 없다"]]></title>
             <link>http://newstapa.org/article/hV8Lo</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[무엇을 할 것인가 : 경제] 기울어진 기틀에 바로 서는 경제는 없다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/27190633-0C12-A285-7D0B-WNH9LN31Z5M3QQFQ7XVV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 탄핵 늦추는 내란 동조자들, 볼모 잡힌 2025년 경제]]></title>
-            <link>http://newstapa.org/article/r1_k0</link>
-            <guid>http://newstapa.org/article/r1_k0</guid>
-            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 탄핵 늦추는 내란 동조자들, 볼모 잡힌 2025년 경제]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/02173423-8D2D-BC8B-679E-KUF145EDXTKXCLRFBC6Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 트럼피즘, 협상 테이블 위에 멀리건은 없다]]></title>
-            <link>http://newstapa.org/article/tTJ1F</link>
-            <guid>http://newstapa.org/article/tTJ1F</guid>
-            <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[돌아온 트럼피즘, 협상 테이블 위에 멀리건은 없다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/18133639-62E7-44A0-7482-53CBL5AVIAH403ST5Z23.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
