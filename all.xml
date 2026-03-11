@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Mar 2026 02:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 04:46:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[연금개혁의시간]⑥ 국민연금 사각지대 해소 없이 연금개혁 없다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/3ZrJL</link>
+            <guid>http://newstapa.org/article/3ZrJL</guid>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]⑥ 국민연금 사각지대 해소 없이 연금개혁 없다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/11111224-DDA3-EFE5-5E3B-KFZ7AM6KR5L3JUTOSWTU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장1열] 기름값 치솟은 날, 도로 위 사람들의 이야기를 듣다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/sAPAI</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[칼럼] ‘우리 편’보다 중요한 것은? 집권여당의 길]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/27174124-3F61-2A40-050F-KDY5YOAMTUX10CYY4COF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘내란’ 판결문 실명 복원… “역사는 익명 뒤에 숨을 수 없다” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/jLYZ-</link>
-            <guid>http://newstapa.org/article/jLYZ-</guid>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘내란’ 판결문 실명 복원… “역사는 익명 뒤에 숨을 수 없다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/27134547-C791-66FA-CF67-HU3UTUTWU6PS5DTY3A3U.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타파스] '청부민원' 수사 2년 3개월, 누가 류희림에게 면죄부를 주었나 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1544,6 +1544,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26165110-A152-79FC-AEF4-AHY7HLDZWIVZYFG3HNQX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[연금개혁의시간]⑥ 국민연금 사각지대 해소 없이 연금개혁 없다 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/3ZrJL</link>
+            <guid>http://newstapa.org/article/3ZrJL</guid>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]⑥ 국민연금 사각지대 해소 없이 연금개혁 없다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/11111224-DDA3-EFE5-5E3B-KFZ7AM6KR5L3JUTOSWTU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[연금개혁의시간]⑤ 국고 투입 크레디트 확대...청년세대 노후 위한 투자 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
             <link>http://newstapa.org/article/3IyA8</link>
             <guid>http://newstapa.org/article/3IyA8</guid>
@@ -1662,14 +1670,6 @@
             <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[보건복지부, 타당성 없다는 예타 무시하고 자생한방병원에 세금 지원]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08200109-43F0-C2DC-BB5F-8R6BR4MI8I7MJZZOI8CU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성평등 국회 ②진전없는 '여성 안전'...국회는 없었다 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
-            <link>http://newstapa.org/article/KrOlK</link>
-            <guid>http://newstapa.org/article/KrOlK</guid>
-            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[성평등 국회 ②진전없는 '여성 안전'...국회는 없었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29200936-09D5-BDEA-3E24-ZBICES89HXIFRZ74K1LQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KINN] 타이-캄보디아 국경, 7만 9천 명의 ‘멈춰버린 시간’ (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
@@ -3344,6 +3344,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18104807-863A-A56B-C2FB-E1N6W3JTMXCK5UDESTNK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[연금개혁의시간]⑥ 국민연금 사각지대 해소 없이 연금개혁 없다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112689438</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112689438</guid>
+            <pubDate>Wed, 11 Mar 2026 04:46:37 GMT</pubDate>
+            <content:encoded><![CDATA[국민연금 보험료를 못내고 있거나 가입조차 안돼 있는 사람이 천만 명에 이릅니다. 가입대상 3명 가운데 1명 꼴입니다. 특수고용 노동자를 사업장가입자로 전환하고 저소득 지역가입자에 정부가 지원을 대폭 확대해야 합니다. 사각지대 해소 없이 연금개혁은 공염불이나 마찬가지입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/3ZrJL</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[간송미술관장, 전시 자금으로 '빚 갈아타기' 의혹 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112682430</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112682430</guid>
@@ -3477,18 +3484,19 @@
             <content:encoded><![CDATA[이재명 정부가 출범한 뒤 9개월의 시간이 흘렀지만, 4대강 자연성 회복을 제1 환경 공약으로 내건 이재명 대통령의 약속은 아직 지켜질 기미가 보이지 않습니다. 문재인 정부가 지방선거를 앞두고 보 처리 결정을 미뤘던 그 장면이 다시 펼쳐지는 것은 아닌지, 우려의 목소리가 커지고 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/FoItw</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴스타파 홍주환 기자·뉴스어디 박채린 기자, 2025 미디어공공성포럼 언론상 수상 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112559884</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112559884</guid>
-            <pubDate>Thu, 26 Feb 2026 08:53:58 GMT</pubDate>
-            <content:encoded><![CDATA[오늘(26일) 뉴스타파 홍주환 기자가 ‘2025 미디어공공성포럼 언론상’ 특별상을 수상했습니다. 홍주환 기자는 지난해 한겨레신문, MBC와 공동 취재를 통해 쿠팡 ‘중대재해 대응 매뉴얼’의 실체를 보도했습니다. <br><br>미디어공공성포럼은 “‘플랫폼 시대, 미디어 공공성을 다시 생각한다’는 문제 의식 아래 플랫폼 자본의 지배력 확대, 자본 권력과 언론의 왜곡된 관계 등을 다룬 보도들을 선정했습니다. <br><br>심사위원회(위원장 이창현 국민대 교수)는 “쿠팡 노동자의 반복적인 죽음에 대한 잠입 취재 및 기업의 비윤리적 대응 매뉴얼을 심층 조명한 한겨레21 류석우 기자의 보도와 MBC·한겨레·뉴스타파의 ‘쿠팡 위기관리 대응 지침’ 공동취재팀의 실천을 올해 가장 상징적인 사례로 평가해 특별상 부문 수상자로 선정했다”고 밝혔습니다. 또 심사위원회는 “서로 다른 언론사 소속 기자들이 공통의 문제의식 아래 개별 특종 경쟁을 넘어선 집합적 저널리즘의 가능성을 보여주었다는 점에서 의의가 크다”고 평가하기도 했습니다.<br><br>KINN 소속 ‘뉴스어디‘의 박채린 기자는 본상을 수상했습니다. <br><br>수상 사유에 대해 심사위원회는 “뉴스어디는 약화된 미디어 비평의 공백을 메우는 1인 미디어로서 언론의 왜곡 보도와 편향적 프레이밍을 지속적으로 감시하고 비판하는 역할을 수행해오고 있다”고 밝혔습니다.<br><br>박채린 기자는 “처음 독립언론을 시작할 때는 밑빠진 독에 물붓기라는 말을 들었다. 그런데 기사를 쓰는 과정에서 많은 분들이 후원을 해주셨다. 밑빠진 독이 아니라 깊은 독이 될 수 있도록 노력하겠다”고 수상 소감을 밝혔습니다]]></content:encoded>
+            <title><![CDATA[[연금개혁의시간]⑥ 국민연금 사각지대 해소 없이 연금개혁 없다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260311112123730</link>
+            <guid>https://v.daum.net/v/20260311112123730</guid>
+            <pubDate>Wed, 11 Mar 2026 04:46:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260311112123730" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]⑥ 국민연금 사각지대 해소 없이 연금개혁 없다</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F11%2Fnewstapa%2F20260311112125070xelr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F11%2Fnewstapa%2F20260311112125070xelr.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[현장1열] 기름값 치솟은 날, 도로 위 사람들의 이야기를 듣다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260310174144352</link>
             <guid>https://v.daum.net/v/20260310174144352</guid>
             <pubDate>Tue, 10 Mar 2026 08:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260310174144352" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장1열] 기름값 치솟은 날, 도로 위 사람들의 이야기를 듣다</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F10%2Fnewstapa%2F20260310174149049hqjm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260310174144352" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장1열] 기름값 치솟은 날, 도로 위 사람들의 이야기를 듣다</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F10%2Fnewstapa%2F20260310174149049hqjm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F10%2Fnewstapa%2F20260310174149049hqjm.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3504,7 @@
             <link>https://v.daum.net/v/20260310165124029</link>
             <guid>https://v.daum.net/v/20260310165124029</guid>
             <pubDate>Tue, 10 Mar 2026 08:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260310165124029" class="link_column"><div class="cont_thumb"><strong class="tit_txt">간송미술관장, 전시 자금으로 '빚 갈아타기' 의혹</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F10%2Fnewstapa%2F20260310165132405hghc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260310165124029" class="link_column"><div class="cont_thumb"><strong class="tit_txt">간송미술관장, 전시 자금으로 '빚 갈아타기' 의혹</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F10%2Fnewstapa%2F20260310165132405hghc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F10%2Fnewstapa%2F20260310165132405hghc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3512,7 @@
             <link>https://v.daum.net/v/20260309134144633</link>
             <guid>https://v.daum.net/v/20260309134144633</guid>
             <pubDate>Mon, 09 Mar 2026 04:55:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260309134144633" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] '청부민원' 수사 2년 3개월, 누가 류희림에게 면죄부를 주었나</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F09%2Fnewstapa%2F20260309134145724xydj.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260309134144633" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] '청부민원' 수사 2년 3개월, 누가 류희림에게 면죄부를 주었나</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F09%2Fnewstapa%2F20260309134145724xydj.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F09%2Fnewstapa%2F20260309134145724xydj.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3576,7 +3584,7 @@
             <link>https://v.daum.net/v/20260304111653721</link>
             <guid>https://v.daum.net/v/20260304111653721</guid>
             <pubDate>Wed, 04 Mar 2026 04:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260304111653721" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]⑤ 국고 투입 크레디트 확대...청년세대 노후 위한 투자</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F04%2Fnewstapa%2F20260304111654383ewxz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260304111653721" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]⑤ 국고 투입 크레디트 확대...청년세대 노후 위한 투자</strong><span class="info_txt"><span class="txt_info">2026. 3. 4.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F04%2Fnewstapa%2F20260304111654383ewxz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F04%2Fnewstapa%2F20260304111654383ewxz.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3713,14 +3721,6 @@
             <pubDate>Fri, 13 Feb 2026 02:27:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260213110125926" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파의 시선] 강선우, 김경만이 그랬을까?</strong><span class="info_txt"><span class="txt_info">2026. 2. 13.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F13%2Fnewstapa%2F20260213110126794juqa.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F13%2Fnewstapa%2F20260213110126794juqa.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 피고인 변호사와 골프여행, 이 판결 믿을 수 있습니까 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260212182126092</link>
-            <guid>https://v.daum.net/v/20260212182126092</guid>
-            <pubDate>Thu, 12 Feb 2026 09:54:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260212182126092" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 피고인 변호사와 골프여행, 이 판결 믿을 수 있습니까</strong><span class="info_txt"><span class="txt_info">2026. 2. 12.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F12%2Fnewstapa%2F20260212182130343fqrc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F12%2Fnewstapa%2F20260212182130343fqrc.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
