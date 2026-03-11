@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-03-11T05:52:57.822Z</updated>
+    <updated>2026-03-11T06:58:24.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/3d8129d/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴스타파X하승수, 전·현직 대통령실의 금고를 열어라]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112692326</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112692326"/>
+        <updated>2026-03-11T06:58:15.295Z</updated>
+        <content type="html"><![CDATA[뉴스타파가 대통령실 예산 자료의 공개를 위한 추가 행정소송에 돌입했습니다.<br><br>소송 대상 정보는 윤석열 대통령실, 그리고 이재명 대통령실에서 집행한 특수활동비 등의 지출 세부 내역과 증빙 자료입니다.<br><br>뉴스타파는 앞으로 진행될 소송 과정을 면밀히 취재·보도할 계획입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/L6kYO</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연금개혁의시간]⑥ 국민연금 사각지대 해소 없이 연금개혁 없다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112689438</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112570419"/>
         <updated>2026-02-27T05:56:03.862Z</updated>
         <content type="html"><![CDATA[지난 2월, 대한민국 헌정사상 초유의 ‘위로부터의 내란’을 주도한 윤석열 전 대통령과 한덕수, 이상민 등 핵심 피고인들에 대한 1심 선고가 내려졌습니다. 3개의 재판부 모두 이 사건을 명백한 '내란'으로 규정했으나, 피고인들은 단 한 명도 자신의 죄를 인정하지 않은 채 끝까지 변명만 늘어놓았습니다.<br><br>뉴스타파는 3개의 판결문 속에 담긴 피고인들의 궤변과 이를 조목조목 반박한 사법부의 준엄한 판단을 시민들이 직접 확인할 수 있도록 특별페이지를 제작하여 공개합니다.<br><br>👉 [윤석열의 내란 PART 3. 기록된 변명] 특별 페이지 보러가기 : <span class="link_url">https://pages.newstapa.org/2026/excuses/</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서] 이재명의 약속, 낙동강은 아직 기다린다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112565692</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112565692"/>
-        <updated>2026-02-27T02:09:03.735Z</updated>
-        <content type="html"><![CDATA[이재명 정부가 출범한 뒤 9개월의 시간이 흘렀지만, 4대강 자연성 회복을 제1 환경 공약으로 내건 이재명 대통령의 약속은 아직 지켜질 기미가 보이지 않습니다. 문재인 정부가 지방선거를 앞두고 보 처리 결정을 미뤘던 그 장면이 다시 펼쳐지는 것은 아닌지, 우려의 목소리가 커지고 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/FoItw</span>]]></content>
     </entry>
 </feed>
