@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 재벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Mar 2026 11:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 13:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조선일보 둘째 아들, 회삿돈 500만 달러 배임 의혹]]></title>
+            <link>http://newstapa.org/article/U20YK</link>
+            <guid>http://newstapa.org/article/U20YK</guid>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조선일보 둘째 아들, 회삿돈 500만 달러 배임 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/12200858-8375-C3AE-FA70-I1EL17FZ75P4MAZBHH0I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“조용히 하려면 브릿지로” 방정오, 500만 달러 집행 직접 승인 정황]]></title>
+            <link>http://newstapa.org/article/eWftf</link>
+            <guid>http://newstapa.org/article/eWftf</guid>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“조용히 하려면 브릿지로” 방정오, 500만 달러 집행 직접 승인 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/12165944-8E05-430E-DAEB-ECO34RJ970N7YCV3TBNU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 500만불 움직인 Mr.Big, 방정오를 향한 배임 증거]]></title>
+            <link>http://newstapa.org/article/VqmBJ</link>
+            <guid>http://newstapa.org/article/VqmBJ</guid>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 500만불 움직인 Mr.Big, 방정오를 향한 배임 증거]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/12213828-B370-8FB3-D3CB-U7NTQGXAHE4PFBBRLIY9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡, 개인정보 유출 사건 후 검찰·경찰·청와대 등 출신 전관 9명 영입]]></title>
             <link>http://newstapa.org/article/WXnAD</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사라진 보증금 67억 원... 조현상 횡령 배임 혐의 '풀풀']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/21164432-EA59-8F40-7338-02A2UVRPU01LR103YCAA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 회장님 목소리, HS효성 조현상 ‘불법 자백’ 육성 공개]]></title>
-            <link>http://newstapa.org/article/-6bJ3</link>
-            <guid>http://newstapa.org/article/-6bJ3</guid>
-            <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 회장님 목소리, HS효성 조현상 ‘불법 자백’ 육성 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/24172847-18B3-C834-342E-ARMVURYV7H7THL81VJ60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회장님 목소리 ① ‘디베스트’ 차명 법인 맞다, 조현상 육성으로 확인]]></title>
-            <link>http://newstapa.org/article/SInlV</link>
-            <guid>http://newstapa.org/article/SInlV</guid>
-            <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[회장님 목소리 ① ‘디베스트’ 차명 법인 맞다, 조현상 육성으로 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/24165728-7B10-D460-2A78-UO8JIUWNQVEQ3JS5V4QD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회장님 목소리 ② 암호명 V... 조현상, 폭스바겐 수입사 '차명 지배'도 자백]]></title>
-            <link>http://newstapa.org/article/YcMBQ</link>
-            <guid>http://newstapa.org/article/YcMBQ</guid>
-            <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[회장님 목소리 ② 암호명 V... 조현상, 폭스바겐 수입사 '차명 지배'도 자백]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/24170423-4144-96C0-4D17-549AV0WDY84GR85DUL0B.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

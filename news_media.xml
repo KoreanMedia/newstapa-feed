@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Mar 2026 11:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 13:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조선일보 둘째 아들, 회삿돈 500만 달러 배임 의혹]]></title>
+            <link>http://newstapa.org/article/U20YK</link>
+            <guid>http://newstapa.org/article/U20YK</guid>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조선일보 둘째 아들, 회삿돈 500만 달러 배임 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/12200858-8375-C3AE-FA70-I1EL17FZ75P4MAZBHH0I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“조용히 하려면 브릿지로” 방정오, 500만 달러 집행 직접 승인 정황]]></title>
+            <link>http://newstapa.org/article/eWftf</link>
+            <guid>http://newstapa.org/article/eWftf</guid>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“조용히 하려면 브릿지로” 방정오, 500만 달러 집행 직접 승인 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/12165944-8E05-430E-DAEB-ECO34RJ970N7YCV3TBNU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 500만불 움직인 Mr.Big, 방정오를 향한 배임 증거]]></title>
+            <link>http://newstapa.org/article/VqmBJ</link>
+            <guid>http://newstapa.org/article/VqmBJ</guid>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 500만불 움직인 Mr.Big, 방정오를 향한 배임 증거]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/12213828-B370-8FB3-D3CB-U7NTQGXAHE4PFBBRLIY9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꼬리에 꼬리를 무는 '류희림 청부민원' 덮기]]></title>
             <link>http://newstapa.org/article/aXJQW</link>
@@ -110,30 +134,6 @@
             <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/28174858-475C-0766-E6CF-JMA52NPIXAJPN1VYCSGW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 윤석열 언론공범⑥ “시대가 원하는 관상”, “김건희는 백공작”]]></title>
-            <link>http://newstapa.org/article/D_XeM</link>
-            <guid>http://newstapa.org/article/D_XeM</guid>
-            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 윤석열 언론공범⑥ “시대가 원하는 관상”, “김건희는 백공작”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16152015-2B7B-9D82-B540-PF14PQFY9A0Y0V0N0MNF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, '류희림 사건' 방심위 압수수색... "늦장수사, 전면 재수사 필요"]]></title>
-            <link>http://newstapa.org/article/pckl1</link>
-            <guid>http://newstapa.org/article/pckl1</guid>
-            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, '류희림 사건' 방심위 압수수색... "늦장수사, 전면 재수사 필요"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26081507-08EF-ECA3-3900-0U3DW8XPVZ9VSCVWLXAF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 윤석열 언론공범⑤ 김건희 주가조작 의혹을 차단하다]]></title>
-            <link>http://newstapa.org/article/AAhKr</link>
-            <guid>http://newstapa.org/article/AAhKr</guid>
-            <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 윤석열 언론공범⑤ 김건희 주가조작 의혹을 차단하다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18104807-863A-A56B-C2FB-E1N6W3JTMXCK5UDESTNK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
