@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Mar 2026 05:53:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 06:58:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 원전 '롤모델' 프랑스도 원전vs재생에너지 충돌 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/dT-dX</link>
+            <guid>http://newstapa.org/article/dT-dX</guid>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국 원전 '롤모델' 프랑스도 원전vs재생에너지 충돌]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/13152432-8C52-4E5C-0C7E-O7MXN53WN7T2PDQEPMAJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조선일보 둘째 아들, 회삿돈 500만 달러 배임 의혹 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/U20YK</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05164527-0D65-E836-68F9-G4EXFIT2YEGF1AIUZAE9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔레스타인 리포트 ⑨팔레스타인 앰뷸런스 운전사가 총탄 속에도 멈추지 않는 이유 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/j6T_0</link>
-            <guid>http://newstapa.org/article/j6T_0</guid>
-            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[팔레스타인 리포트 ⑨팔레스타인 앰뷸런스 운전사가 총탄 속에도 멈추지 않는 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/04151723-3C1F-B711-A6C3-ZEPWLVXPZXK2YL8X0DIM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타파스] '청부민원' 수사 2년 3개월, 누가 류희림에게 면죄부를 주었나 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/27190633-0C12-A285-7D0B-WNH9LN31Z5M3QQFQ7XVV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국 원전 '롤모델' 프랑스도 원전vs재생에너지 충돌 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/dT-dX</link>
+            <guid>http://newstapa.org/article/dT-dX</guid>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국 원전 '롤모델' 프랑스도 원전vs재생에너지 충돌]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/13152432-8C52-4E5C-0C7E-O7MXN53WN7T2PDQEPMAJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["4대강 재자연화 의지 없다" 환경단체, 김성환 기후부 장관 사퇴 촉구 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/0dKhA</link>
             <guid>http://newstapa.org/article/0dKhA</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 발전소 배출 물질 추적 ② 굴을 녹이는 건 '온도'가 아니었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/29133753-C845-C83D-91D2-2JR4E8N0LQTESHFQ13M8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 발전소 배출 물질 추적① 생명이 사라진 갯바위 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/5xdsE</link>
-            <guid>http://newstapa.org/article/5xdsE</guid>
-            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 발전소 배출 물질 추적① 생명이 사라진 갯바위]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/22132801-EBBD-5342-975E-6OQBLOBNFZ00EP3T013J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빛을 만드는 사람들 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -3344,6 +3344,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/18104807-863A-A56B-C2FB-E1N6W3JTMXCK5UDESTNK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국 원전 '롤모델' 프랑스도 원전vs재생에너지 충돌 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112718571</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112718571</guid>
+            <pubDate>Fri, 13 Mar 2026 06:58:31 GMT</pubDate>
+            <content:encoded><![CDATA[한국 원전이 기술 개발 ‘롤 모델’로 삼고 있는 프랑스 원전이 재생에너지 증가로 인해 심각한 설비 문제에 직면한 사실이 공식 보고서를 통해 확인됐습니다. 프랑스 또한 에너지전환이라는 세계적 흐름에 맞춰 재생에너지를 늘리고 있지만, 그 여파로 전력 과잉공급 위기와 원전의 출력조절이 급증하면서 관련 설비 유지·보수에 경고등이 켜진 것입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/WQSONAEpMZM</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/dT-dX</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[“조용히 하려면 브릿지로”... 방정오, 500만 달러 집행 직접 승인 정황 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112709725</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112709725</guid>
@@ -3477,18 +3484,19 @@
             <content:encoded><![CDATA[세계의 화약고라고 불리는 팔레스타인 땅에서 구급대원으로 산다는 것은 어떤 걸까요? 이스라엘 군용차량은 구급차를 가로막아 세우고, 군인이 이송 중인 환자를 검문하고, 구급차를 향해 실탄 사격을 하기도 합니다. 가장 안전해야 할 구급차가 총격의 표적이 되고 있는 겁니다.<br> <br>지난 10월, 팔레스타인 현지 '스피크업' 기자들이 직접 앰뷸런스에 올라타고 서안지구 구급대원들의 이야기를 들었습니다. '스피크업'은 사단법인 아디가 팔레스타인 현지 여성 청년들을 독립언론인으로 육성하는 프로젝트인데요. 뉴스타파는 지난해부터 아디와 협업해 팔레스타인 사람들의 시각과 목소리가 담긴  현지 소식을 독자분들께 전하고 있습니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/2zluMrGLszY</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/j6T_0</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[팔레스타인 리포트 ⑧이스라엘의 '물 도둑질'...서안지구 주민들 생존 위협 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112621461</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112621461</guid>
-            <pubDate>Wed, 04 Mar 2026 07:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[이스라엘과 미국의 이란 공습으로 중동 전역에 전면전의 불안감이 확산하고 있습니다. 그에 앞서 전쟁이 일어난 팔레스타인에서는 소리 없는 비극이 진행 중입니다.<br><br>이스라엘이 팔레스타인 서안지구의 수자원을 통제하며 팔레스타인 주민들의 생존권을 위협하고 있습니다. 최근에는 이스라엘 불법 정착촌의 정착민들이 고의로 물길을 틀어 원주민들의 물을 약탈하는 일까지 벌어졌는데요. 물을 빼앗긴 팔레스타인 선주민들은 생존을 위해 다른 지역으로 이주하게 됩니다. '물 도둑질'이 이스라엘의 불법 정착촌 확대와 서안지구 합병을 위한 '치밀한 계획'이라고 비판받는 이유입니다.<br><br>아전인수. 내 논에 물 대기라는 뜻이죠. 이스라엘의 아전인수를 서안지구 '스피크업' 기자들이 취재했습니다. '스피크업'은 사단법인 아디가 팔레스타인 현지 여성 청년들을 독립언론인으로 육성하는 프로젝트인데요. 뉴스타파는 지난해부터 아디와 협업해 팔레스타인 사람들의 시각과 목소리가 담긴 현지 소식을 독자분들께 전하고 있습니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/_J7utEbJlN8</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/YZ56J</span>]]></content:encoded>
+            <title><![CDATA[한국 원전 '롤모델' 프랑스도 원전vs재생에너지 충돌 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260313153656348</link>
+            <guid>https://v.daum.net/v/20260313153656348</guid>
+            <pubDate>Fri, 13 Mar 2026 06:58:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260313153656348" class="link_column"><div class="cont_thumb"><strong class="tit_txt">한국 원전 '롤모델' 프랑스도 원전vs재생에너지 충돌</strong><span class="info_txt"><span class="txt_info">21분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F13%2Fnewstapa%2F20260313153705063ohlk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F13%2Fnewstapa%2F20260313153705063ohlk.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 500만불 움직인 Mr.Big, 방정오를 향한 배임 증거 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260312214123856</link>
             <guid>https://v.daum.net/v/20260312214123856</guid>
             <pubDate>Thu, 12 Mar 2026 13:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260312214123856" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 500만불 움직인 Mr.Big, 방정오를 향한 배임 증거</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F12%2Fnewstapa%2F20260312214127247kpkn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260312214123856" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 500만불 움직인 Mr.Big, 방정오를 향한 배임 증거</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F12%2Fnewstapa%2F20260312214127247kpkn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F12%2Fnewstapa%2F20260312214127247kpkn.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3504,7 @@
             <link>https://v.daum.net/v/20260312211137380</link>
             <guid>https://v.daum.net/v/20260312211137380</guid>
             <pubDate>Thu, 12 Mar 2026 13:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260312211137380" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“조용히 하려면 브릿지로” 방정오, 500만 달러 집행 직접 승인 정황</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F12%2Fnewstapa%2F20260312211146673fnju.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260312211137380" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“조용히 하려면 브릿지로” 방정오, 500만 달러 집행 직접 승인 정황</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F12%2Fnewstapa%2F20260312211146673fnju.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F12%2Fnewstapa%2F20260312211146673fnju.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3512,7 @@
             <link>https://v.daum.net/v/20260312211123371</link>
             <guid>https://v.daum.net/v/20260312211123371</guid>
             <pubDate>Thu, 12 Mar 2026 13:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260312211123371" class="link_column"><div class="cont_thumb"><strong class="tit_txt">조선일보 둘째 아들, 회삿돈 500만 달러 배임 의혹</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F12%2Fnewstapa%2F20260312211136773fpma.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260312211123371" class="link_column"><div class="cont_thumb"><strong class="tit_txt">조선일보 둘째 아들, 회삿돈 500만 달러 배임 의혹</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F12%2Fnewstapa%2F20260312211136773fpma.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F12%2Fnewstapa%2F20260312211136773fpma.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3512,7 +3520,7 @@
             <link>https://v.daum.net/v/20260312164144555</link>
             <guid>https://v.daum.net/v/20260312164144555</guid>
             <pubDate>Thu, 12 Mar 2026 07:52:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260312164144555" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“2011년 대검 윤석열 수사팀, ‘조우형 불법 수수료’ 알았다”... 이강길 법정 증언</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F12%2Fnewstapa%2F20260312164145931tkki.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260312164144555" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“2011년 대검 윤석열 수사팀, ‘조우형 불법 수수료’ 알았다”... 이강길 법정 증언</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F12%2Fnewstapa%2F20260312164145931tkki.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F12%2Fnewstapa%2F20260312164145931tkki.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3520,7 +3528,7 @@
             <link>https://v.daum.net/v/20260311145659072</link>
             <guid>https://v.daum.net/v/20260311145659072</guid>
             <pubDate>Wed, 11 Mar 2026 06:58:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260311145659072" class="link_column"><div class="cont_thumb"><strong class="tit_txt">뉴스타파X하승수, 전·현직 대통령실의 금고를 열어라</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F11%2Fnewstapa%2F20260311145700838oikc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260311145659072" class="link_column"><div class="cont_thumb"><strong class="tit_txt">뉴스타파X하승수, 전·현직 대통령실의 금고를 열어라</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F11%2Fnewstapa%2F20260311145700838oikc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F11%2Fnewstapa%2F20260311145700838oikc.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3576,7 +3584,7 @@
             <link>https://v.daum.net/v/20260306150655484</link>
             <guid>https://v.daum.net/v/20260306150655484</guid>
             <pubDate>Fri, 06 Mar 2026 06:54:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260306150655484" class="link_column"><div class="cont_thumb"><strong class="tit_txt">간송미술관장, 29억 횡령 의혹… 제작사엔 "돈 없다"</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F06%2Fnewstapa%2F20260306150702875lvza.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260306150655484" class="link_column"><div class="cont_thumb"><strong class="tit_txt">간송미술관장, 29억 횡령 의혹… 제작사엔 "돈 없다"</strong><span class="info_txt"><span class="txt_info">2026. 3. 6.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F06%2Fnewstapa%2F20260306150702875lvza.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F06%2Fnewstapa%2F20260306150702875lvza.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3714,14 +3722,6 @@
             <pubDate>Thu, 19 Feb 2026 06:02:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260219140134535" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 내란법정의 161인 : 방첩사와 경찰, 합동체포조 ‘라쇼몽’ 외</strong><span class="info_txt"><span class="txt_info">2026. 2. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F19%2Fnewstapa%2F20260219140135228prmm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F19%2Fnewstapa%2F20260219140135228prmm.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 내란법정의 161인 : 내란 법정에 선 사령관들 외 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260219140130532</link>
-            <guid>https://v.daum.net/v/20260219140130532</guid>
-            <pubDate>Thu, 19 Feb 2026 06:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260219140130532" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 내란법정의 161인 : 내란 법정에 선 사령관들 외</strong><span class="info_txt"><span class="txt_info">2026. 2. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F19%2Fnewstapa%2F20260219140132302bdhm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202602%2F19%2Fnewstapa%2F20260219140132302bdhm.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
