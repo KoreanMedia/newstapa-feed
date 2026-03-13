@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Mar 2026 08:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 09:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] '입틀막 행동대장' 김우석의 방미심위 귀환]]></title>
+            <link>http://newstapa.org/article/vlC0N</link>
+            <guid>http://newstapa.org/article/vlC0N</guid>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] '입틀막 행동대장' 김우석의 방미심위 귀환]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/13175545-7C60-948F-6669-2FN1HASQHHT1YC0QRQ5I.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조선일보 둘째 아들, 회삿돈 500만 달러 배임 의혹]]></title>
             <link>http://newstapa.org/article/U20YK</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN]윤석열 언론공범⑦ ‘처가 리스크’를 막아준 주류 언론]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/02154017-F097-223E-A022-JCS4T45V4C50IJJDZS2F.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론]]></title>
-            <link>http://newstapa.org/article/-MXAJ</link>
-            <guid>http://newstapa.org/article/-MXAJ</guid>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파의 시선] 하드 쿠데타와 소프트 쿠데타, 그리고 언론]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/28174858-475C-0766-E6CF-JMA52NPIXAJPN1VYCSGW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

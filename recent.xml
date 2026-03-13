@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Mar 2026 08:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 09:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장1열] 3년 5개월, 그날의 책임을 묻다]]></title>
+            <link>http://newstapa.org/article/9xUbv</link>
+            <guid>http://newstapa.org/article/9xUbv</guid>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장1열] 3년 5개월, 그날의 책임을 묻다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/13181031-6CCB-8533-8212-BT1KB1YOX32IDKB2M4WP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘인력난’ 2차 종합특검, 내란 특검과 삐걱대는 사연]]></title>
+            <link>http://newstapa.org/article/l1-tb</link>
+            <guid>http://newstapa.org/article/l1-tb</guid>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘인력난’ 2차 종합특검, 내란 특검과 삐걱대는 사연]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/13180432-B7D0-3D13-16EA-VBRZCRX8IEQ9WO7MQ8BO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] '입틀막 행동대장' 김우석의 방미심위 귀환]]></title>
+            <link>http://newstapa.org/article/vlC0N</link>
+            <guid>http://newstapa.org/article/vlC0N</guid>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] '입틀막 행동대장' 김우석의 방미심위 귀환]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/13175545-7C60-948F-6669-2FN1HASQHHT1YC0QRQ5I.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 원전 '롤모델' 프랑스도 원전vs재생에너지 충돌]]></title>
             <link>http://newstapa.org/article/dT-dX</link>
@@ -110,30 +134,6 @@
             <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[간송미술관장, 29억 횡령 의혹… 제작사엔 "돈 없다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/06144226-D95E-CA52-29FF-76P1L377ZLMAGB4LOCCG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꼬리에 꼬리를 무는 '류희림 청부민원' 덮기]]></title>
-            <link>http://newstapa.org/article/aXJQW</link>
-            <guid>http://newstapa.org/article/aXJQW</guid>
-            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[꼬리에 꼬리를 무는 '류희림 청부민원' 덮기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05184107-0EE3-0C1F-8869-WW1XUEAP9MEUPUEKEC4N.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나]]></title>
-            <link>http://newstapa.org/article/468dI</link>
-            <guid>http://newstapa.org/article/468dI</guid>
-            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05172058-B310-58E1-6C63-WKZG64KZHCUMF5F0RTW2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인]]></title>
-            <link>http://newstapa.org/article/lhPMw</link>
-            <guid>http://newstapa.org/article/lhPMw</guid>
-            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05164527-0D65-E836-68F9-G4EXFIT2YEGF1AIUZAE9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
