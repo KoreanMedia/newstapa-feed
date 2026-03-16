@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Mar 2026 07:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 09:00:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['명태균 무죄' 재판장의 골프 여행 접대, 조희대 대법원 '뒷북' 제도 개선 검토]]></title>
+            <link>http://newstapa.org/article/-x0UE</link>
+            <guid>http://newstapa.org/article/-x0UE</guid>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['명태균 무죄' 재판장의 골프 여행 접대, 조희대 대법원 '뒷북' 제도 개선 검토]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/16173104-95F6-CA0E-0126-63UDVHERZGQJ7LXQMJXF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[반론보도] <현역 동작구의원, 지역 주민 상대로 수차례 성희롱 의혹> 보도 관련]]></title>
             <link>http://newstapa.org/article/qBvb2</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[칼럼] 명태균이 무죄가 될 수밖에 없었던 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13202804-96C2-9845-56B2-PVDCQQAZ77IB23VJPV53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 강선우, 김경만이 그랬을까?]]></title>
-            <link>http://newstapa.org/article/GuwSl</link>
-            <guid>http://newstapa.org/article/GuwSl</guid>
-            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파의 시선] 강선우, 김경만이 그랬을까?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13111437-AB83-F3CB-5C70-0KVIRLIWH3WG4F9A7JTY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

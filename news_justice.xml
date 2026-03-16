@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Mar 2026 07:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 09:00:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['명태균 무죄' 재판장의 골프 여행 접대, 조희대 대법원 '뒷북' 제도 개선 검토]]></title>
+            <link>http://newstapa.org/article/-x0UE</link>
+            <guid>http://newstapa.org/article/-x0UE</guid>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['명태균 무죄' 재판장의 골프 여행 접대, 조희대 대법원 '뒷북' 제도 개선 검토]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/16173104-95F6-CA0E-0126-63UDVHERZGQJ7LXQMJXF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘인력난’ 2차 종합특검, 내란 특검과 삐걱대는 사연]]></title>
             <link>http://newstapa.org/article/l1-tb</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[난중칼럼] “성공할지도 모른다는 생각에”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30113445-5AD5-D55B-3BA6-NZXBD5WY75C3R70GKIKK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 김건희 1심 선고, 불분명한 판결과 분명한 사실들]]></title>
-            <link>http://newstapa.org/article/mM5az</link>
-            <guid>http://newstapa.org/article/mM5az</guid>
-            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 김건희 1심 선고, 불분명한 판결과 분명한 사실들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/29181628-3388-D2A9-433B-9QN2FBAAND7QZBFMKYUY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
