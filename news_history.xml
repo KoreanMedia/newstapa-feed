@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Mar 2026 08:57:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 09:59:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동투·조투 결성 51주년..."민형사 명예회복 재차 나설 것"]]></title>
+            <link>http://newstapa.org/article/cJ9Ia</link>
+            <guid>http://newstapa.org/article/cJ9Ia</guid>
+            <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[동투·조투 결성 51주년..."민형사 명예회복 재차 나설 것"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/17175723-D757-B1A7-9420-XTWD5LF2VXW134ATU72X.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[종걸과 이치노헤]]></title>
             <link>http://newstapa.org/article/PgFCX</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;당신이 보지 못한 한국전쟁&gt; 3부작 완결편 “포로와 판문점” 출판]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/30165932-E37C-8B01-76F5-FLTJGMHDK8ZLISRBV2CX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['일제 미화' 검정교과서 제작 문건 입수...대한교조 참여 확인]]></title>
-            <link>http://newstapa.org/article/mVPaS</link>
-            <guid>http://newstapa.org/article/mVPaS</guid>
-            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['일제 미화' 검정교과서 제작 문건 입수...대한교조 참여 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26165110-A152-79FC-AEF4-AHY7HLDZWIVZYFG3HNQX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
