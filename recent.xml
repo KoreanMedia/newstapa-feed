@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Mar 2026 06:01:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 07:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘명태균 무죄 재판장’ 명품 대리 구매·밀수 면세점에 과징금 4억...재판장은?]]></title>
+            <link>http://newstapa.org/article/G6mlS</link>
+            <guid>http://newstapa.org/article/G6mlS</guid>
+            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘명태균 무죄 재판장’ 명품 대리 구매·밀수 면세점에 과징금 4억...재판장은?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/19133203-B401-C0D4-9A44-CXIS0RXU7DYLZZ7J5H3Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 참사 청문회로 드러난 '정부 실패'의 단면들]]></title>
+            <link>http://newstapa.org/article/NIfg2</link>
+            <guid>http://newstapa.org/article/NIfg2</guid>
+            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 참사 청문회로 드러난 '정부 실패'의 단면들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/18180011-3BE5-665A-5930-0AB2JSWVM1GMUCWIJR6T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 바람을 판 나라① 낙월해상풍력의 숨겨진 주인]]></title>
             <link>http://newstapa.org/article/cb5cG</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“2011년 대검 윤석열 수사팀, ‘조우형 불법 수수료’ 알았다”... 이강길 법정 증언]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/12163800-4F81-570F-6BD2-98DGFQ8JYWU1OYJVSF7P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파X하승수, 전·현직 대통령실의 금고를 열어라]]></title>
-            <link>http://newstapa.org/article/L6kYO</link>
-            <guid>http://newstapa.org/article/L6kYO</guid>
-            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파X하승수, 전·현직 대통령실의 금고를 열어라]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/11145118-8F58-C7CE-C525-UQL8J43KHAPXWSHACCBP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[연금개혁의시간]⑥ 국민연금 사각지대 해소 없이 연금개혁 없다]]></title>
-            <link>http://newstapa.org/article/3ZrJL</link>
-            <guid>http://newstapa.org/article/3ZrJL</guid>
-            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[연금개혁의시간]⑥ 국민연금 사각지대 해소 없이 연금개혁 없다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/11111224-DDA3-EFE5-5E3B-KFZ7AM6KR5L3JUTOSWTU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
