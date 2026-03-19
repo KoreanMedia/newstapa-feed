@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 재벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Mar 2026 11:39:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 13:09:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“방정오 법적 문제될 수도” 500만 달러 송금 위법성 인식 정황]]></title>
+            <link>http://newstapa.org/article/nHVX2</link>
+            <guid>http://newstapa.org/article/nHVX2</guid>
+            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“방정오 법적 문제될 수도” 500만 달러 송금 위법성 인식 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/19174801-77D6-B03A-F292-MT811NP587Z9SOUJVL4Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“방정오 개인 이익 위해…” 하이그라운드 전직 대표 진술서 입수]]></title>
+            <link>http://newstapa.org/article/_uGLU</link>
+            <guid>http://newstapa.org/article/_uGLU</guid>
+            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“방정오 개인 이익 위해…” 하이그라운드 전직 대표 진술서 입수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/18223001-51B4-A2A5-3D9C-58UXWKPKG4EACHP2XQ40.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['조선일보 차남' 방정오, 500만 달러 배임 혐의 검찰 고발 당해]]></title>
             <link>http://newstapa.org/article/ANWoL</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[호반그룹 사주 일가 배임 의혹과 의문의 서명]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/28100746-72E8-C2C0-5174-HQV5AD8F7DGN26Z1T7CP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HS효성 조현상 측근, “6억 줄게”, “휴대전화 바꿔라” 증거인멸 시도]]></title>
-            <link>http://newstapa.org/article/XuCoU</link>
-            <guid>http://newstapa.org/article/XuCoU</guid>
-            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[HS효성 조현상 측근, “6억 줄게”, “휴대전화 바꿔라” 증거인멸 시도]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/01181258-A8A1-D705-A41E-BCRUO47XD0ZPSTRTO74B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 집사게이트 조현상의 '비리 백화점' A타워를 파헤치다]]></title>
-            <link>http://newstapa.org/article/e2G_M</link>
-            <guid>http://newstapa.org/article/e2G_M</guid>
-            <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 집사게이트 조현상의 '비리 백화점' A타워를 파헤치다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/21164635-D2E3-2DAB-5102-XGN3DK25RYRUT7QZMN92.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
