@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Mar 2026 23:32:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 02:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...” (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Tav_S</link>
+            <guid>http://newstapa.org/article/Tav_S</guid>
+            <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/23103505-6412-9CBA-F1C0-J74A1IP4V3OM7U0QY6U8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] AI와 전쟁① "개처럼 쫓아냈다"...트럼프와 앤트로픽의 대결 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/_i9vH</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] '입틀막 행동대장' 김우석의 방미심위 귀환]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/13175545-7C60-948F-6669-2FN1HASQHHT1YC0QRQ5I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 원전 '롤모델' 프랑스도 원전vs재생에너지 충돌 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/dT-dX</link>
-            <guid>http://newstapa.org/article/dT-dX</guid>
-            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국 원전 '롤모델' 프랑스도 원전vs재생에너지 충돌]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/13152432-8C52-4E5C-0C7E-O7MXN53WN7T2PDQEPMAJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘명태균 무죄 재판장’ 명품 대리 구매·밀수 면세점에 과징금 4억...재판장은? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -520,6 +520,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/07111138-4808-A924-F145-2L9WE16ZE67RLIG1GT8Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...” (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
+            <link>http://newstapa.org/article/Tav_S</link>
+            <guid>http://newstapa.org/article/Tav_S</guid>
+            <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/23103505-6412-9CBA-F1C0-J74A1IP4V3OM7U0QY6U8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“방정오 법적 문제될 수도” 500만 달러 송금 위법성 인식 정황 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
             <link>http://newstapa.org/article/nHVX2</link>
             <guid>http://newstapa.org/article/nHVX2</guid>
@@ -638,14 +646,6 @@
             <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[UN '삼성 베트남 공장 환경·보건 우려' 서한 정부와 삼성에 발송]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05112458-E6BB-34DF-3719-6G5JF0XHG93VJL0BY7G0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호반그룹 사주 일가 배임 의혹과 의문의 서명 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/2sMcA</link>
-            <guid>http://newstapa.org/article/2sMcA</guid>
-            <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[호반그룹 사주 일가 배임 의혹과 의문의 서명]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/28100746-72E8-C2C0-5174-HQV5AD8F7DGN26Z1T7CP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타파스] UN 사무국을 가평에? 통일교 숙원 해결 앞장선 가평군수 (뉴스타파 ─ 뉴스 ─ 종교)]]></title>
@@ -3344,6 +3344,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/24123943-9878-2887-EC6C-VLA11N1VQU4TCY2E70RG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...” (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112803796</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112803796</guid>
+            <pubDate>Mon, 23 Mar 2026 02:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[방정오 TV조선 부사장이 최대 주주로 있던 회사 '하이그라운드'의 500만 달러 송금 의혹과 관련해 새로운 정황이 드러났습니다. 500만 달러를 가상자산 사업에 투자했던 당시 이미 법적 위험성을 알고 있었고, 이 사실을 방상훈 조선일보 회장 역시 인지하고 있었다는 정황입니다.<br><br>이런 법적 위험에도 불구하고 하이그라운드는 왜 투자를 감행한걸까요? 하이그라운드 전 대표 우 모 씨의 진술에 따르면, 문제의 500만 달러 투자는 모두 "방정오 개인의 이익 때문"이었습니다. 500만 달러 투자의 배후에 하이그라운드 최대 주주이자 실질적 지배자인 방정오 씨가 있었다는 말입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/Tav_S</span><br>📨 뉴스레터 타파스를 만나보세요 : <span class="link_url">https://newstapa-tapas.stibee.com/subscribe</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[KINN] AI와 전쟁① "개처럼 쫓아냈다"...트럼프와 앤트로픽의 대결 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112787394</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112787394</guid>
@@ -3477,11 +3484,12 @@
             <content:encoded><![CDATA[한국 원전이 기술 개발 ‘롤 모델’로 삼고 있는 프랑스 원전이 재생에너지 증가로 인해 심각한 설비 문제에 직면한 사실이 공식 보고서를 통해 확인됐습니다. 프랑스 또한 에너지전환이라는 세계적 흐름에 맞춰 재생에너지를 늘리고 있지만, 그 여파로 전력 과잉공급 위기와 원전의 출력조절이 급증하면서 관련 설비 유지·보수에 경고등이 켜진 것입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/WQSONAEpMZM</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/dT-dX</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“조용히 하려면 브릿지로”... 방정오, 500만 달러 집행 직접 승인 정황 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112709725</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112709725</guid>
-            <pubDate>Thu, 12 Mar 2026 13:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[TV조선 방정오 부사장이 최대주주인 콘텐츠 업체 하이그라운드가 2019년 해외로 송금한 500만 달러, 약 60억 원을 두고 배임 의혹이 제기됐습니다.<br><br>그렇다면 이 송금을 승인한 사람, 즉 책임져야 할 사람은 누굴까. 뉴스타파는 하이그라운드가 이 500만 달러를 두고 미국 뉴욕주법원에서 사업가 이 모 씨를 상대로 벌이고 있는 소송 자료에서 책임 소재를 가릴만 한 증거를 확보했습니다. 그리고 증거들은 방정오 씨를 가리키고 있습니다.<br><br>뉴스타파는 송금 당시 하이그라운드의 대표와 대화명 'Mr.Big'이 나눈 텔레그램 대화를 입수했습니다. 이 대화에서 'Mr.Big'은 페이퍼컴퍼니 설립을 지시합니다. 하이그라운드와 소송을 벌이고 있는 이 씨는 'Mr.Big'이 방정오 씨라고 주장하고 있습니다.<br><br>🎬 더 자세한 내용을 영상으로 확인하세요 : <span class="link_url">https://youtu.be/ZH8RtdC-6hI</span>]]></content:encoded>
+            <title><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...” (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260323105124540</link>
+            <guid>https://v.daum.net/v/20260323105124540</guid>
+            <pubDate>Mon, 23 Mar 2026 02:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260323105124540" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”</strong><span class="info_txt"><span class="txt_info">35분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F23%2Fnewstapa%2F20260323105125749fxcb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F23%2Fnewstapa%2F20260323105125749fxcb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[KINN] AI와 전쟁① "개처럼 쫓아냈다"...트럼프와 앤트로픽의 대결 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3560,7 +3568,7 @@
             <link>https://v.daum.net/v/20260317103653209</link>
             <guid>https://v.daum.net/v/20260317103653209</guid>
             <pubDate>Tue, 17 Mar 2026 02:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260317103653209" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[정정 및 반론보도] &lt;한강을 꿈꾸다&gt; 관련</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260317103653209" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[정정 및 반론보도] &lt;한강을 꿈꾸다&gt; 관련</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['조선일보 차남' 방정오, 500만 달러 배임 혐의 검찰 고발 당해 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3712,14 +3720,6 @@
             <pubDate>Fri, 06 Mar 2026 08:42:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260306165653645" class="link_column"><div class="cont_thumb"><strong class="tit_txt">"4대강 재자연화 의지 없다" 환경단체, 김성환 기후부 장관 사퇴 촉구</strong><span class="info_txt"><span class="txt_info">2026. 3. 6.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F06%2Fnewstapa%2F20260306165703363jlsa.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F06%2Fnewstapa%2F20260306165703363jlsa.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[간송미술관장, 29억 횡령 의혹… 제작사엔 "돈 없다" (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260306150655484</link>
-            <guid>https://v.daum.net/v/20260306150655484</guid>
-            <pubDate>Fri, 06 Mar 2026 06:54:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260306150655484" class="link_column"><div class="cont_thumb"><strong class="tit_txt">간송미술관장, 29억 횡령 의혹… 제작사엔 "돈 없다"</strong><span class="info_txt"><span class="txt_info">2026. 3. 6.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F06%2Fnewstapa%2F20260306150702875lvza.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F06%2Fnewstapa%2F20260306150702875lvza.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

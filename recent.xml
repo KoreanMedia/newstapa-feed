@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Mar 2026 23:32:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 02:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”]]></title>
+            <link>http://newstapa.org/article/Tav_S</link>
+            <guid>http://newstapa.org/article/Tav_S</guid>
+            <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/23103505-6412-9CBA-F1C0-J74A1IP4V3OM7U0QY6U8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] AI와 전쟁① "개처럼 쫓아냈다"...트럼프와 앤트로픽의 대결]]></title>
             <link>http://newstapa.org/article/_i9vH</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] '입틀막 행동대장' 김우석의 방미심위 귀환]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/13175545-7C60-948F-6669-2FN1HASQHHT1YC0QRQ5I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 원전 '롤모델' 프랑스도 원전vs재생에너지 충돌]]></title>
-            <link>http://newstapa.org/article/dT-dX</link>
-            <guid>http://newstapa.org/article/dT-dX</guid>
-            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국 원전 '롤모델' 프랑스도 원전vs재생에너지 충돌]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/13152432-8C52-4E5C-0C7E-O7MXN53WN7T2PDQEPMAJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
