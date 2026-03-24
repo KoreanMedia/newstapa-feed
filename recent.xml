@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Mar 2026 02:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 04:56:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[397억 원 걸린 '윤석열 거짓말' 재판 시작]]></title>
+            <link>http://newstapa.org/article/nsRMe</link>
+            <guid>http://newstapa.org/article/nsRMe</guid>
+            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[397억 원 걸린 '윤석열 거짓말' 재판 시작]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/24133501-A81E-611B-5210-GBH4R64KQ8XIYJSG6KWO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”]]></title>
             <link>http://newstapa.org/article/Tav_S</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘인력난’ 2차 종합특검, 내란 특검과 삐걱대는 사연]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/13180432-B7D0-3D13-16EA-VBRZCRX8IEQ9WO7MQ8BO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] '입틀막 행동대장' 김우석의 방미심위 귀환]]></title>
-            <link>http://newstapa.org/article/vlC0N</link>
-            <guid>http://newstapa.org/article/vlC0N</guid>
-            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] '입틀막 행동대장' 김우석의 방미심위 귀환]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/13175545-7C60-948F-6669-2FN1HASQHHT1YC0QRQ5I.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

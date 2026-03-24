@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-03-24T02:11:55.271Z</updated>
+    <updated>2026-03-24T04:56:53.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/716ad33/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[397억 원 걸린 '윤석열 거짓말' 재판 시작]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112818194</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112818194"/>
+        <updated>2026-03-24T04:56:44.682Z</updated>
+        <content type="html"><![CDATA[20대 대선 당시 윤석열 후보의 공직선거법상 허위 사실 공표 혐의 재판이 어제(23일) 시작됐습니다. 지난해 12월 ‘김건희 특검’이 기소한 사건입니다. <br><br>2012년 뇌물 수수 혐의로 경찰 수사를 받은 윤우진 전 용산세무서장에게 변호사를 소개해 주고도 소개한 사실이 없다고 공개적인 자리에서 말한 혐의, 건진법사 전성배를 만난 사실이 있음에도 만난 사실이 없다고 기자들에게 말한 혐의입니다. '윤석열의 변호사 소개 의혹'을 추적했던 한상진 기자가 재판 내용을 중계합니다.  <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/nsRMe</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112803796</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112721160"/>
         <updated>2026-03-13T09:42:49.986Z</updated>
         <content type="html"><![CDATA["오늘은 조용히 물러가겠습니다" <br>방송미디어통신심의위원회(방미심위) 위원 사퇴를 외치는 직원들을 향해 김우석 위원은 웃으며 엄지를 치켜세웁니다. 방미심위 첫 전체회의가 열린 12일 현장은 분노와 황당함으로 가득했습니다.<br><br>류희림 방심위원장과 함께 윤석열 정권에서 방송사들의 '입틀막 심의'를 주도했던 김우석 위원이 돌아왔기 때문입니다. 류희림 체제가 주도한 중징계 30건은 최근 법원에서 무효 판결을 받았지만, 김 위원은 "소신껏 임했다"며 책임을 피했습니다. <br><br>도대체 김우석 위원이 어떤 인물이길래 방미심위에서 사퇴 요구가 빗발친 것인지 씁쓸하고도 기막힌 현장을 전해드립니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/vlC0N</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 원전 '롤모델' 프랑스도 원전vs재생에너지 충돌]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112718571</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112718571"/>
-        <updated>2026-03-13T06:58:31.580Z</updated>
-        <content type="html"><![CDATA[한국 원전이 기술 개발 ‘롤 모델’로 삼고 있는 프랑스 원전이 재생에너지 증가로 인해 심각한 설비 문제에 직면한 사실이 공식 보고서를 통해 확인됐습니다. 프랑스 또한 에너지전환이라는 세계적 흐름에 맞춰 재생에너지를 늘리고 있지만, 그 여파로 전력 과잉공급 위기와 원전의 출력조절이 급증하면서 관련 설비 유지·보수에 경고등이 켜진 것입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/WQSONAEpMZM</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/dT-dX</span>]]></content>
     </entry>
 </feed>
