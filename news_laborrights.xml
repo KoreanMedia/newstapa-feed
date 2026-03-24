@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Mar 2026 07:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 08:57:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국가가 허가한 일터에서 스물셋 청년이 죽었다]]></title>
+            <link>http://newstapa.org/article/b8Pz3</link>
+            <guid>http://newstapa.org/article/b8Pz3</guid>
+            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국가가 허가한 일터에서 스물셋 청년이 죽었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/23133745-FA9A-E948-E7AC-PY56PFEV9C60QVASSSBS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이태원 참사 청문회로 드러난 '정부 실패'의 단면들]]></title>
             <link>http://newstapa.org/article/NIfg2</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14111315-9D01-E7AE-FFA2-EVNXXHEA51XWFNREISA1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[허가된 착취①] 다치고, 버려지고, 죽는다...고용허가제에 갇힌 이주노동자]]></title>
-            <link>http://newstapa.org/article/3wltG</link>
-            <guid>http://newstapa.org/article/3wltG</guid>
-            <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[허가된 착취①] 다치고, 버려지고, 죽는다...고용허가제에 갇힌 이주노동자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/13133400-53D1-C2F7-F367-2JN5DMLOPIFBRKX2ZHOE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
