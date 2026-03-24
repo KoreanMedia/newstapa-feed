@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-03-24T06:03:54.145Z</updated>
+    <updated>2026-03-24T07:19:32.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/716ad33/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[KINN] 캄보디아서 '호텔 셀프 감금' 원격 조종…200억대 스캠 범죄 전말]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112820248</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112820248"/>
+        <updated>2026-03-24T07:19:24.382Z</updated>
+        <content type="html"><![CDATA[지난 1월 한국인 피해자 165명에게 267억 원을 뜯어낸 한국인 사이버스캠 조직원 26명이 캄보디아 프놈펜에서 체포됐습니다. 앞서 KINN 회원사 '두니아'는 이 조직이 범죄에 이용한 문건을 단독 입수해 보도한 바 있는데요, 이 문건에는 피해자의 인적 사항과 자산 현황, 휴대폰 기종, 연가 일수까지 적혀 있었습니다.  <br><br>두니아는 후속 취재를 통해 이 문건에 나온 피해자 김서연 씨(가명)와 접촉했습니다. 김 씨는 인터뷰를 통해 악몽 같던 이른바 ‘셀프 감금’ 피해 상황에 대해 자세히 진술했습니다.   <br><br>👉 전체 기사 보기: <span class="link_url">https://bit.ly/3Ps8C4W</span><br>👉 두니아 응원하기: <span class="link_url">https://bit.ly/4dGta3D</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[397억 원 걸린 '윤석열 거짓말' 재판 시작]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112818194</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112721272"/>
         <updated>2026-03-13T09:42:49.985Z</updated>
         <content type="html"><![CDATA[실효성 논란 속에 출범한 2차 종합특검(특별검사 권창영)이 심각한 인력난을 겪고 있습니다. 수사 인력 파견과 수사 기록 이첩을 두고 내란 특검(특별검사 조은석)과 갈등을 빚은 사실도 확인됩니다.<br><br>이제 막 출범한 2차 특검을 두고 제기되는 각종 문제와 한계를 조성식 뉴스타파 전문위원이 취재했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/l1-tb</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서] '입틀막 행동대장' 김우석의 방미심위 귀환]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112721160</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112721160"/>
-        <updated>2026-03-13T09:42:49.986Z</updated>
-        <content type="html"><![CDATA["오늘은 조용히 물러가겠습니다" <br>방송미디어통신심의위원회(방미심위) 위원 사퇴를 외치는 직원들을 향해 김우석 위원은 웃으며 엄지를 치켜세웁니다. 방미심위 첫 전체회의가 열린 12일 현장은 분노와 황당함으로 가득했습니다.<br><br>류희림 방심위원장과 함께 윤석열 정권에서 방송사들의 '입틀막 심의'를 주도했던 김우석 위원이 돌아왔기 때문입니다. 류희림 체제가 주도한 중징계 30건은 최근 법원에서 무효 판결을 받았지만, 김 위원은 "소신껏 임했다"며 책임을 피했습니다. <br><br>도대체 김우석 위원이 어떤 인물이길래 방미심위에서 사퇴 요구가 빗발친 것인지 씁쓸하고도 기막힌 현장을 전해드립니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/vlC0N</span>]]></content>
     </entry>
 </feed>
