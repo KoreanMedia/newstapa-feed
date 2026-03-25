@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Mar 2026 23:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 02:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까? (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/8_79P</link>
+            <guid>http://newstapa.org/article/8_79P</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/24151424-3B2C-04ED-B5B9-2VMXEIWSAR9ZO17C0F9N.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국가가 허가한 일터에서 스물셋 청년이 죽었다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/b8Pz3</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/16173104-95F6-CA0E-0126-63UDVHERZGQJ7LXQMJXF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[타파스] 조선일보 ‘재벌집 막내아들’과 사라진 500만 달러 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/8Gvst</link>
-            <guid>http://newstapa.org/article/8Gvst</guid>
-            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 조선일보 ‘재벌집 막내아들’과 사라진 500만 달러]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/16145308-24E6-1881-C38C-O6O0IHYFJRI65SPF5VSS.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/8_79P</link>
+            <guid>http://newstapa.org/article/8_79P</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/24151424-3B2C-04ED-B5B9-2VMXEIWSAR9ZO17C0F9N.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[397억 원 걸린 '윤석열 거짓말' 재판 시작 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,142 +262,6 @@
             <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] '무기징역' 윤석열, 그리고 내란 극복의 길]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19193632-5D97-859E-ECBE-PM752807TMJY3EH65BXH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 내란법정의 161인 : 내란 법정에 선 사령관들 외 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/G__an</link>
-            <guid>http://newstapa.org/article/G__an</guid>
-            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 내란법정의 161인 : 내란 법정에 선 사령관들 외]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19133403-8F9B-88F0-EC01-XTTBI0UZJ0W0FHM7C8DY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[397억 원 걸린 '윤석열 거짓말' 재판 시작 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/nsRMe</link>
-            <guid>http://newstapa.org/article/nsRMe</guid>
-            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[397억 원 걸린 '윤석열 거짓말' 재판 시작]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/24133501-A81E-611B-5210-GBH4R64KQ8XIYJSG6KWO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘명태균 무죄 재판장’ 명품 대리 구매·밀수 면세점에 과징금 4억...재판장은? (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/G6mlS</link>
-            <guid>http://newstapa.org/article/G6mlS</guid>
-            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘명태균 무죄 재판장’ 명품 대리 구매·밀수 면세점에 과징금 4억...재판장은?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/19133203-B401-C0D4-9A44-CXIS0RXU7DYLZZ7J5H3Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['명태균 무죄' 재판장의 골프 여행 접대, 조희대 대법원 '뒷북' 제도 개선 검토 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/-x0UE</link>
-            <guid>http://newstapa.org/article/-x0UE</guid>
-            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['명태균 무죄' 재판장의 골프 여행 접대, 조희대 대법원 '뒷북' 제도 개선 검토]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/16173104-95F6-CA0E-0126-63UDVHERZGQJ7LXQMJXF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘인력난’ 2차 종합특검, 내란 특검과 삐걱대는 사연 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/l1-tb</link>
-            <guid>http://newstapa.org/article/l1-tb</guid>
-            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘인력난’ 2차 종합특검, 내란 특검과 삐걱대는 사연]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/13180432-B7D0-3D13-16EA-VBRZCRX8IEQ9WO7MQ8BO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“2011년 대검 윤석열 수사팀, ‘조우형 불법 수수료’ 알았다”... 이강길 법정 증언 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/3lApe</link>
-            <guid>http://newstapa.org/article/3lApe</guid>
-            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“2011년 대검 윤석열 수사팀, ‘조우형 불법 수수료’ 알았다”... 이강길 법정 증언]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/12163800-4F81-570F-6BD2-98DGFQ8JYWU1OYJVSF7P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] ‘우리 편’보다 중요한 것은? 집권여당의 길 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/-Tit-</link>
-            <guid>http://newstapa.org/article/-Tit-</guid>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] ‘우리 편’보다 중요한 것은? 집권여당의 길]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/27174124-3F61-2A40-050F-KDY5YOAMTUX10CYY4COF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 윤석열 무기징역, 지귀연의 판결에는 '국민'이 없었다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/6GBid</link>
-            <guid>http://newstapa.org/article/6GBid</guid>
-            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 윤석열 무기징역, 지귀연의 판결에는 '국민'이 없었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/23141918-6DDC-4E99-4CAF-1122WMMVNEQQRYREJ3JE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 헌법 제103조는 AI 양형을 요구한다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/uG3L_</link>
-            <guid>http://newstapa.org/article/uG3L_</guid>
-            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파의 시선] 헌법 제103조는 AI 양형을 요구한다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/20170220-C141-9F6E-054B-UT6VY13VWKMUV4J3P727.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '무기징역' 윤석열, 그리고 내란 극복의 길 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/3nlGU</link>
-            <guid>http://newstapa.org/article/3nlGU</guid>
-            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] '무기징역' 윤석열, 그리고 내란 극복의 길]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19193632-5D97-859E-ECBE-PM752807TMJY3EH65BXH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 내란법정의 161인 : 내란 법정에 선 사령관들 외 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/G__an</link>
-            <guid>http://newstapa.org/article/G__an</guid>
-            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 내란법정의 161인 : 내란 법정에 선 사령관들 외]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19133403-8F9B-88F0-EC01-XTTBI0UZJ0W0FHM7C8DY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 내란법정의 161인: 프롤로그 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/z2ySt</link>
-            <guid>http://newstapa.org/article/z2ySt</guid>
-            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 내란법정의 161인: 프롤로그]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19132107-D737-BBF0-3502-86LM5EJ6RM4JBYET60R5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 내란법정의 161인 : 방첩사와 경찰, 합동체포조 ‘라쇼몽’ 외 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/TigLO</link>
-            <guid>http://newstapa.org/article/TigLO</guid>
-            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 내란법정의 161인 : 방첩사와 경찰, 합동체포조 ‘라쇼몽’ 외]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19134102-8EBA-E792-83B2-D4ZFXOQYUKD026IER63T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] 명태균이 무죄가 될 수밖에 없었던 이유 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/kT3Y6</link>
-            <guid>http://newstapa.org/article/kT3Y6</guid>
-            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] 명태균이 무죄가 될 수밖에 없었던 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13202804-96C2-9845-56B2-PVDCQQAZ77IB23VJPV53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 피고인 변호사와 골프여행, 이 판결 믿을 수 있습니까 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/_NzqR</link>
-            <guid>http://newstapa.org/article/_NzqR</guid>
-            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 피고인 변호사와 골프여행, 이 판결 믿을 수 있습니까]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/12181431-8CED-8C76-9E72-BQLE6QL0810EMIOMHDWV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘명태균 무죄’ 재판장, 형사 피고인·변호인과 ‘재판 코칭’ 해외여행 정황 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/dSh7C</link>
-            <guid>http://newstapa.org/article/dSh7C</guid>
-            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘명태균 무죄’ 재판장, 형사 피고인·변호인과 ‘재판 코칭’ 해외여행 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/12164323-FB5E-28D0-D6BF-4MS31CP1VZF4FBPZ84CJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] 중수청 논란과 해법, 무엇이 중한디 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/LT3_h</link>
-            <guid>http://newstapa.org/article/LT3_h</guid>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] 중수청 논란과 해법, 무엇이 중한디]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05163004-D9E0-5B99-C4CF-FD55GJ89ZFBI0DSU97MN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파X하승수, 전·현직 대통령실의 금고를 열어라 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3344,6 +3216,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26105442-8714-8EAF-1137-7CB5ZWFTM5WBQIQQZMAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까? (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112828186</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112828186</guid>
+            <pubDate>Wed, 25 Mar 2026 02:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[권창영 특검이 이끄는 2차 종합특검팀이 김명수 전 합동참모본부의장 입건을 1호 사건으로 내세웠습니다. 2차 특검이 내란·외환과 관련해 아직 풀지 못한 의혹을 푸는데 집중할 것이라는 점을 시사합니다. <br><br>조성식 뉴스타파 전문위원은 김 전 합참의장 입건이 이전 내란특검이 풀지 못한 과제들을 뒤집는 승부처가 될 것이라고 평가했습니다. 정보사 잠수정 침투 의혹 등 계엄과 관련됐다고 보기 어렵다고 잠정 결론을 내렸던 군 관련 행적을 들추는 것인데, '노상원 수첩'이 또 한번 주요 증거로 활용될 수 있을지 귀추가 주목됩니다.<br><br> 📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/8_79P</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[🔴라이브 예고] 여전히, 죽어야만 끝나는 : 스토킹 살인 왜 못 막나 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112821552</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112821552</guid>
@@ -3477,18 +3356,19 @@
             <content:encoded><![CDATA[뉴스타파의 보도로 시작된 ‘명태균 게이트 1심 무죄 재판장’, 김인택 부장판사의 청탁금지법 위반 사건 이후 대법원이 '법관 윤리 제고를 위한 제도 연구’에 나선 것으로 확인됐습니다. <br><br>대법원이 지난달 23일, ▲대법원 윤리감사관의 권한 재검토 ▲징계 전 판사의 재판 배제 검토를 핵심으로 하는 &lt;법관윤리 제고를 위한 대법원 윤리감사관의 권한에 관한 연구&gt;를 발주했습니다.<br><br>검찰의 수사와 기소에도 명태균 게이트라는 주요 사건을 선고한 데 따른 비판여론에 대법원의 ‘뒷북 제도 개선’이라는 비판이 나옵니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/-x0UE</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[타파스] 조선일보 ‘재벌집 막내아들’과 사라진 500만 달러 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112738602</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112738602</guid>
-            <pubDate>Mon, 16 Mar 2026 07:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2019년, TV조선 방정오 부사장이 최대 주주로 있던 드라마 제작사에서 수상한 사건이 일어났습니다. 회삿돈 500억 원을 아랍에미리트의 가상자산 회사에 투자한 것인데요. 이 돈은 7년이 지난 지금까지 회수하지 못해 결국 '손실'로 처리됐습니다.<br><br>그런데 이 500만 달러 투자 건을 승인한 사람이 바로 방정오 부사장이라는 정황이 나왔습니다. 만약 무리한 투자를 통해 회사에 손실을 입혔다면 이는 '업무상 배임'에 해당할 수 있습니다. 이번 주 타파스는 방정오 TV조선 부사장을 둘러싼 '500만 달러 배임 의혹' 사건에 대해 살펴봤습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/8Gvst</span><br>📨 뉴스레터 타파스를 만나보세요 : <span class="link_url">https://newstapa-tapas.stibee.com/subscribe</span>]]></content:encoded>
+            <title><![CDATA[[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까? (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260325110123375</link>
+            <guid>https://v.daum.net/v/20260325110123375</guid>
+            <pubDate>Wed, 25 Mar 2026 02:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260325110123375" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까?</strong><span class="info_txt"><span class="txt_info">23분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F25%2Fnewstapa%2F20260325110125001rnnw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F25%2Fnewstapa%2F20260325110125001rnnw.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[국가가 허가한 일터에서 스물셋 청년이 죽었다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260324165144501</link>
             <guid>https://v.daum.net/v/20260324165144501</guid>
             <pubDate>Tue, 24 Mar 2026 08:57:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260324165144501" class="link_column"><div class="cont_thumb"><strong class="tit_txt">국가가 허가한 일터에서 스물셋 청년이 죽었다</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F24%2Fnewstapa%2F20260324165147346pzit.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260324165144501" class="link_column"><div class="cont_thumb"><strong class="tit_txt">국가가 허가한 일터에서 스물셋 청년이 죽었다</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F24%2Fnewstapa%2F20260324165147346pzit.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F24%2Fnewstapa%2F20260324165147346pzit.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3376,7 @@
             <link>https://v.daum.net/v/20260324152644476</link>
             <guid>https://v.daum.net/v/20260324152644476</guid>
             <pubDate>Tue, 24 Mar 2026 07:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260324152644476" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 캄보디아서 '호텔 셀프 감금' 원격 조종…200억대 스캠 범죄 전말</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F24%2Fnewstapa%2F20260324152646257ssut.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260324152644476" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 캄보디아서 '호텔 셀프 감금' 원격 조종…200억대 스캠 범죄 전말</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F24%2Fnewstapa%2F20260324152646257ssut.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F24%2Fnewstapa%2F20260324152646257ssut.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3384,7 @@
             <link>https://v.daum.net/v/20260324134124239</link>
             <guid>https://v.daum.net/v/20260324134124239</guid>
             <pubDate>Tue, 24 Mar 2026 04:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260324134124239" class="link_column"><div class="cont_thumb"><strong class="tit_txt">397억 원 걸린 '윤석열 거짓말' 재판 시작</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F24%2Fnewstapa%2F20260324134126162yypu.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260324134124239" class="link_column"><div class="cont_thumb"><strong class="tit_txt">397억 원 걸린 '윤석열 거짓말' 재판 시작</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F24%2Fnewstapa%2F20260324134126162yypu.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F24%2Fnewstapa%2F20260324134126162yypu.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3512,7 +3392,7 @@
             <link>https://v.daum.net/v/20260323105124540</link>
             <guid>https://v.daum.net/v/20260323105124540</guid>
             <pubDate>Mon, 23 Mar 2026 02:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260323105124540" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F23%2Fnewstapa%2F20260323105125749fxcb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260323105124540" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F23%2Fnewstapa%2F20260323105125749fxcb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F23%2Fnewstapa%2F20260323105125749fxcb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3712,14 +3592,6 @@
             <pubDate>Tue, 10 Mar 2026 08:46:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260310174144352" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장1열] 기름값 치솟은 날, 도로 위 사람들의 이야기를 듣다</strong><span class="info_txt"><span class="txt_info">2026. 3. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F10%2Fnewstapa%2F20260310174149049hqjm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F10%2Fnewstapa%2F20260310174149049hqjm.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[간송미술관장, 전시 자금으로 '빚 갈아타기' 의혹 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260310165124029</link>
-            <guid>https://v.daum.net/v/20260310165124029</guid>
-            <pubDate>Tue, 10 Mar 2026 08:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260310165124029" class="link_column"><div class="cont_thumb"><strong class="tit_txt">간송미술관장, 전시 자금으로 '빚 갈아타기' 의혹</strong><span class="info_txt"><span class="txt_info">2026. 3. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F10%2Fnewstapa%2F20260310165132405hghc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F10%2Fnewstapa%2F20260310165132405hghc.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

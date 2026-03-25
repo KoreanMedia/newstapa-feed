@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Mar 2026 23:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 02:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까?]]></title>
+            <link>http://newstapa.org/article/8_79P</link>
+            <guid>http://newstapa.org/article/8_79P</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/24151424-3B2C-04ED-B5B9-2VMXEIWSAR9ZO17C0F9N.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국가가 허가한 일터에서 스물셋 청년이 죽었다]]></title>
             <link>http://newstapa.org/article/b8Pz3</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['명태균 무죄' 재판장의 골프 여행 접대, 조희대 대법원 '뒷북' 제도 개선 검토]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/16173104-95F6-CA0E-0126-63UDVHERZGQJ7LXQMJXF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 조선일보 ‘재벌집 막내아들’과 사라진 500만 달러]]></title>
-            <link>http://newstapa.org/article/8Gvst</link>
-            <guid>http://newstapa.org/article/8Gvst</guid>
-            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 조선일보 ‘재벌집 막내아들’과 사라진 500만 달러]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/16145308-24E6-1881-C38C-O6O0IHYFJRI65SPF5VSS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
