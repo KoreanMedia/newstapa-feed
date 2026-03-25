@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Mar 2026 08:56:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 09:57:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상]]></title>
+            <link>http://newstapa.org/article/zzayC</link>
+            <guid>http://newstapa.org/article/zzayC</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/25174440-09F1-BA33-0E43-JBUJLOMAV6G08SQL0AB8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국가가 허가한 일터에서 스물셋 청년이 죽었다]]></title>
             <link>http://newstapa.org/article/b8Pz3</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아동권리보장원, 실종아동 개인정보 담긴 외장하드 분실]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/28144858-7703-11C1-8497-RSEHTXPHYL52Y54DC0VT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사]]></title>
-            <link>http://newstapa.org/article/rIiss</link>
-            <guid>http://newstapa.org/article/rIiss</guid>
-            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14111315-9D01-E7AE-FFA2-EVNXXHEA51XWFNREISA1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

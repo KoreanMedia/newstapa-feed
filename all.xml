@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Mar 2026 08:56:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 09:57:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/zzayC</link>
+            <guid>http://newstapa.org/article/zzayC</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/25174440-09F1-BA33-0E43-JBUJLOMAV6G08SQL0AB8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까? (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/8_79P</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['조선일보 차남' 방정오, 500만 달러 배임 혐의 검찰 고발 당해]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/16174938-3685-9FC4-D056-S4MBUA3K8H2C83GBRKF3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['명태균 무죄' 재판장의 골프 여행 접대, 조희대 대법원 '뒷북' 제도 개선 검토 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/-x0UE</link>
-            <guid>http://newstapa.org/article/-x0UE</guid>
-            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['명태균 무죄' 재판장의 골프 여행 접대, 조희대 대법원 '뒷북' 제도 개선 검토]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/16173104-95F6-CA0E-0126-63UDVHERZGQJ7LXQMJXF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/05104545-A915-6591-0AD7-HUBVCI6Y1AMIT4TOL0BK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/zzayC</link>
+            <guid>http://newstapa.org/article/zzayC</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/25174440-09F1-BA33-0E43-JBUJLOMAV6G08SQL0AB8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국가가 허가한 일터에서 스물셋 청년이 죽었다 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/b8Pz3</link>
             <guid>http://newstapa.org/article/b8Pz3</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아동권리보장원, 실종아동 개인정보 담긴 외장하드 분실]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/28144858-7703-11C1-8497-RSEHTXPHYL52Y54DC0VT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/rIiss</link>
-            <guid>http://newstapa.org/article/rIiss</guid>
-            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[허가된 착취 ②] '시한폭탄' 달린 집…비닐하우스, 컨테이너 기숙사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14111315-9D01-E7AE-FFA2-EVNXXHEA51XWFNREISA1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KINN] 캄보디아서 '호텔 셀프 감금' 원격 조종…200억대 스캠 범죄 전말 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/03150058-53B5-17D4-0D8E-W1I449ILZGTZ97F8GQCS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/zzayC</link>
+            <guid>http://newstapa.org/article/zzayC</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/25174440-09F1-BA33-0E43-JBUJLOMAV6G08SQL0AB8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[동투·조투 결성 51주년..."민형사 명예회복 재차 나설 것" (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/cJ9Ia</link>
             <guid>http://newstapa.org/article/cJ9Ia</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 리박스쿨과 친일교과서, 윤 정부의 교육 장악 멀티버스]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/30150619-5A99-5D47-A998-EIN0GSCQZ679M8KHYPEX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<당신이 보지 못한 한국전쟁> 3부작 완결편 “포로와 판문점” 출판 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/ttp2f</link>
-            <guid>http://newstapa.org/article/ttp2f</guid>
-            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;당신이 보지 못한 한국전쟁&gt; 3부작 완결편 “포로와 판문점” 출판]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/30165932-E37C-8B01-76F5-FLTJGMHDK8ZLISRBV2CX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[연금개혁의시간]⑦ '이상해진' 기초연금...이제는 바꿀 시간 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -3484,11 +3484,18 @@
             <content:encoded><![CDATA[뉴스타파의 보도로 시작된 ‘명태균 게이트 1심 무죄 재판장’, 김인택 부장판사의 청탁금지법 위반 사건 이후 대법원이 '법관 윤리 제고를 위한 제도 연구’에 나선 것으로 확인됐습니다. <br><br>대법원이 지난달 23일, ▲대법원 윤리감사관의 권한 재검토 ▲징계 전 판사의 재판 배제 검토를 핵심으로 하는 &lt;법관윤리 제고를 위한 대법원 윤리감사관의 권한에 관한 연구&gt;를 발주했습니다.<br><br>검찰의 수사와 기소에도 명태균 게이트라는 주요 사건을 선고한 데 따른 비판여론에 대법원의 ‘뒷북 제도 개선’이라는 비판이 나옵니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/-x0UE</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[6년의 기다림. 그리고 되찾은 평화의 소녀상 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260325180625300</link>
+            <guid>https://v.daum.net/v/20260325180625300</guid>
+            <pubDate>Wed, 25 Mar 2026 09:57:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260325180625300" class="link_column"><div class="cont_thumb"><strong class="tit_txt">6년의 기다림. 그리고 되찾은 평화의 소녀상</strong><span class="info_txt"><span class="txt_info">51분 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까? (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260325110123375</link>
             <guid>https://v.daum.net/v/20260325110123375</guid>
             <pubDate>Wed, 25 Mar 2026 02:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260325110123375" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까?</strong><span class="info_txt"><span class="txt_info">6시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F25%2Fnewstapa%2F20260325110125001rnnw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260325110123375" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까?</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F25%2Fnewstapa%2F20260325110125001rnnw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F25%2Fnewstapa%2F20260325110125001rnnw.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3584,7 +3591,7 @@
             <link>https://v.daum.net/v/20260318180625354</link>
             <guid>https://v.daum.net/v/20260318180625354</guid>
             <pubDate>Wed, 18 Mar 2026 09:58:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260318180625354" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]⑦ '이상해진' 기초연금...이제는 바꿀 시간</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F18%2Fnewstapa%2F20260318180626956klta.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260318180625354" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]⑦ '이상해진' 기초연금...이제는 바꿀 시간</strong><span class="info_txt"><span class="txt_info">2026. 3. 18.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F18%2Fnewstapa%2F20260318180626956klta.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F18%2Fnewstapa%2F20260318180626956klta.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3712,14 +3719,6 @@
             <pubDate>Wed, 11 Mar 2026 04:46:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260311112123730" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]⑥ 국민연금 사각지대 해소 없이 연금개혁 없다</strong><span class="info_txt"><span class="txt_info">2026. 3. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F11%2Fnewstapa%2F20260311112125070xelr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F11%2Fnewstapa%2F20260311112125070xelr.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장1열] 기름값 치솟은 날, 도로 위 사람들의 이야기를 듣다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260310174144352</link>
-            <guid>https://v.daum.net/v/20260310174144352</guid>
-            <pubDate>Tue, 10 Mar 2026 08:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260310174144352" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장1열] 기름값 치솟은 날, 도로 위 사람들의 이야기를 듣다</strong><span class="info_txt"><span class="txt_info">2026. 3. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F10%2Fnewstapa%2F20260310174149049hqjm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F10%2Fnewstapa%2F20260310174149049hqjm.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
