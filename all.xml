@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Mar 2026 23:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 02:31:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] AI와 전쟁 ② 선이 그어지고, 지워지고, 처벌받기까지 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/c6Rup</link>
+            <guid>http://newstapa.org/article/c6Rup</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] AI와 전쟁 ② 선이 그어지고, 지워지고, 처벌받기까지]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26100538-D789-2DE1-C108-BOE9IBAJU3N3IT1CWEDQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/zzayC</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[동투·조투 결성 51주년..."민형사 명예회복 재차 나설 것"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/17175723-D757-B1A7-9420-XTWD5LF2VXW134ATU72X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['조선일보 차남' 방정오, 500만 달러 배임 혐의 검찰 고발 당해 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/ANWoL</link>
-            <guid>http://newstapa.org/article/ANWoL</guid>
-            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['조선일보 차남' 방정오, 500만 달러 배임 혐의 검찰 고발 당해]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/16174938-3685-9FC4-D056-S4MBUA3K8H2C83GBRKF3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/28144858-7703-11C1-8497-RSEHTXPHYL52Y54DC0VT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] AI와 전쟁 ② 선이 그어지고, 지워지고, 처벌받기까지 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/c6Rup</link>
+            <guid>http://newstapa.org/article/c6Rup</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] AI와 전쟁 ② 선이 그어지고, 지워지고, 처벌받기까지]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26100538-D789-2DE1-C108-BOE9IBAJU3N3IT1CWEDQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 캄보디아서 '호텔 셀프 감금' 원격 조종…200억대 스캠 범죄 전말 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/QLBPF</link>
             <guid>http://newstapa.org/article/QLBPF</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[참사 9일 만에 장례…무안공항에 남겨진 유가족들의 ‘기다림’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09193515-A70D-5522-CD94-D1TKVO0UX90I5BY52ZCB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동체착륙의 재구성...ADS-B 항적 데이터 분석 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/jk9I3</link>
-            <guid>http://newstapa.org/article/jk9I3</guid>
-            <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[동체착륙의 재구성...ADS-B 항적 데이터 분석]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09161353-F79E-416A-9385-57973NHPTRLV37XXV9X9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KINN] "윤석열 당선은 하나님 기적", "여자는 프러포즈 안 돼"…황당한 넥스트클럽 '성교육 강사 양성' 과정 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3216,6 +3216,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/04180829-9CEC-F153-65F6-7JGTNJVQK6YEF28C2JBD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] AI와 전쟁 ② 선이 그어지고, 지워지고, 처벌받기까지 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/c6Rup</link>
+            <guid>https://www.newstapa.org/article/c6Rup</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.03.26]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26100538-D789-2DE1-C108-BOE9IBAJU3N3IT1CWEDQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 캄보디아서 '호텔 셀프 감금' 원격 조종…200억대 스캠 범죄 전말 (뉴스타파 ─ 참여)]]></title>
             <link>https://www.newstapa.org/article/QLBPF</link>
             <guid>https://www.newstapa.org/article/QLBPF</guid>
@@ -3336,12 +3344,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14103508-222E-1D84-7BDF-202644FJA2Q0J0ORV8R3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[KINN] 아리셀 ‘중처법’ 판결…“산재 악순환 끊어야” (뉴스타파 ─ 참여)]]></title>
-            <link>https://www.newstapa.org/article/SYdwP</link>
-            <guid>https://www.newstapa.org/article/SYdwP</guid>
-            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025.09.26]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/26105442-8714-8EAF-1137-7CB5ZWFTM5WBQIQQZMAB.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[KINN] AI와 전쟁 ② 선이 그어지고, 지워지고, 처벌받기까지 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112840515</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112840515</guid>
+            <pubDate>Thu, 26 Mar 2026 02:30:50 GMT</pubDate>
+            <content:encoded><![CDATA[2018년 구글 3100명 직원들은 '전쟁 사업에 관여하지 말라'는 서한을 CEO에게 보냈습니다. AI가 군사적으로 사용되는 것을 거부하는 빅테크의 '선'이었습니다. 하지만 7년이 지난 지금 상황은 달라졌습니다. 기업들은 점차 제한을 풀었고, 마지막까지 이 '선'을 지켰던 기업 앤트로픽은 미국 정부의 '블랙리스트'에 올랐습니다. <br><br>디프레임(deframe) 오나영 기자는 AI의 군사적 사용을 놓고 미국 안에서 벌어진 일련의 과정을 앤트로픽 소송 자료 등을 분석해 정리했습니다. 디프레임은 KINN 창업 과정을 밟고 있는 예비 언론사로, 테크 및 AI 관련 탐사보도 전문매체로 출범을 준비하고 있습니다.<br><br>👉 전체 기사 보기: <span class="link_url">https://thedeframe.com/ai-in-war_rules-blurred</span>/<br>👉 디프레임 응원하기: <span class="link_url">https://thedeframe.com/support/</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상 (뉴스타파 ─ 카카오톡 채널)]]></title>
@@ -3477,18 +3484,19 @@
             <content:encoded><![CDATA[[🔴라이브 예고] 이란에 대한 미국·이스라엘의 공습이 18일째 계속되고 있습니다. 민간인을 포함해 수천 명의 사상자가 발생하고 있지만 강대강 대치 속에 사태가 얼마나 길어질지 시계 제로인 상황입니다. <br><br>지난 주말 미국 트럼프 대통령이 한국 등 7개국에 파병을 요청하면서 이 전쟁은 더 이상 우리에게도 '남 일'이 아니게 됐습니다. 주한미국과 경제 보복을 거론하며 날로 압박 수위를 올리는 가운데, 정부는 우리 장병과 군함을 이란 전쟁의 전장 한복판으로 보내는 문제를 놓고 고심 중입니다. 격동의 국제 정세 속, 정부의 선택은 국가의 미래를 바꿔놓을 수도 있습니다.<br><br>있는 그대로 현실을 보고, 바르게 판단하는 것이 절실한 때입니다. 오늘 뉴스타파 라이브에서는 전문가들과 함께 전쟁의 한쪽 면만 보고 있는 국내 언론 보도의 문제점, 우리가 놓치고 있는 이란 현지의 목소리들, 파병 요구를 검토 중인 우리 정부가 귀 기울여야 할 정책 제언 등에 대해 깊이 대화 나누는 시간을 준비했습니다. 유달승 한국외대 페르시아어·이란학과 교수와 이유경 국제분쟁전문기자가 출연해 '우리 일'이 된 이란 전쟁의 면면을 톺아봅니다. 많은 시청과 관심 바랍니다! <br>  <br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://www.youtube.com/live/sUOqg33GwqI</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['조선일보 차남' 방정오, 500만 달러 배임 혐의 검찰 고발 당해 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112741592</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112741592</guid>
-            <pubDate>Mon, 16 Mar 2026 09:00:34 GMT</pubDate>
-            <content:encoded><![CDATA[시민단체 '세금도둑잡아라'가 조선일보 방상훈 회장의 둘째 아들, 방정오 TV조선 부사장을 16일 서울중앙지검에 업무상 배임 혐의로 고발했습니다. <br><br>지난 13일 뉴스타파는 하이그라운드가 아랍에미리트 자산운용사로 보낸 500만 달러를 둘러싼 배임 의혹을 보도했습니다. 500만 달러 송금이 방 씨의 지시 하에 이뤄진 구체적인 정황도 확인했습니다.<br><br>세금도둑잡아라는 고발장에서 "500만 달러라는 거액의 회사자금을 회사 사업과 무관한 목적으로 해외에 송금하여, 송금받은 측에 그 금액에 해당하는 이익을 주고 회사에 손실을 입힌 것은 '업무상 배임'에 해당한다"고 지적했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/ANWoL</span>]]></content:encoded>
+            <title><![CDATA[[KINN] AI와 전쟁 ② 선이 그어지고, 지워지고, 처벌받기까지 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260326102147698</link>
+            <guid>https://v.daum.net/v/20260326102147698</guid>
+            <pubDate>Thu, 26 Mar 2026 02:30:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260326102147698" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] AI와 전쟁 ② 선이 그어지고, 지워지고, 처벌받기까지</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326102148745dknv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326102148745dknv.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260325180625300</link>
             <guid>https://v.daum.net/v/20260325180625300</guid>
             <pubDate>Wed, 25 Mar 2026 09:57:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260325180625300" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상</strong><span class="info_txt"><span class="txt_info">14시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F25%2Fnewstapa%2F20260325203458436rcka.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260325180625300" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F25%2Fnewstapa%2F20260325203458436rcka.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F25%2Fnewstapa%2F20260325203458436rcka.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3504,7 @@
             <link>https://v.daum.net/v/20260325110123375</link>
             <guid>https://v.daum.net/v/20260325110123375</guid>
             <pubDate>Wed, 25 Mar 2026 02:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260325110123375" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까?</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F25%2Fnewstapa%2F20260325110125001rnnw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260325110123375" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까?</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F25%2Fnewstapa%2F20260325110125001rnnw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F25%2Fnewstapa%2F20260325110125001rnnw.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3528,7 +3536,7 @@
             <link>https://v.daum.net/v/20260323105124540</link>
             <guid>https://v.daum.net/v/20260323105124540</guid>
             <pubDate>Mon, 23 Mar 2026 02:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260323105124540" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F23%2Fnewstapa%2F20260323105125749fxcb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260323105124540" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F23%2Fnewstapa%2F20260323105125749fxcb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F23%2Fnewstapa%2F20260323105125749fxcb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3712,14 +3720,6 @@
             <pubDate>Wed, 11 Mar 2026 06:58:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260311145659072" class="link_column"><div class="cont_thumb"><strong class="tit_txt">뉴스타파X하승수, 전·현직 대통령실의 금고를 열어라</strong><span class="info_txt"><span class="txt_info">2026. 3. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F11%2Fnewstapa%2F20260311145700838oikc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F11%2Fnewstapa%2F20260311145700838oikc.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[연금개혁의시간]⑥ 국민연금 사각지대 해소 없이 연금개혁 없다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260311112123730</link>
-            <guid>https://v.daum.net/v/20260311112123730</guid>
-            <pubDate>Wed, 11 Mar 2026 04:46:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260311112123730" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]⑥ 국민연금 사각지대 해소 없이 연금개혁 없다</strong><span class="info_txt"><span class="txt_info">2026. 3. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F11%2Fnewstapa%2F20260311112125070xelr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F11%2Fnewstapa%2F20260311112125070xelr.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
