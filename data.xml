@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Mar 2026 02:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 05:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,22 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05135848-6425-F1A5-711E-UQLVM0FOWE3XF192PFVM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파 데이터포털]]></title>
+            <link>https://data.newstapa.org/</link>
+            <guid>https://data.newstapa.org/</guid>
+            <pubDate>Tue, 07 Jul 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파가 수집한 각종 데이터를 누구나 열람하고 다운받을 수 있는 ‘뉴스타파 데이터포털’ 사이트 를 제작해 오픈합니다. 지난 2012년 뉴스타파 출범 이후 지금까지 수집한 데이터 세트가 수록돼 있습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/09160914-5593-933E-ADCB-0BKDCRUPXW4FSJEN8WYY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공직자 재산 공개]]></title>
+            <link>https://jaesan.newstapa.org/</link>
+            <guid>https://jaesan.newstapa.org/</guid>
+            <pubDate>Mon, 06 Jul 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기관별로 산발적으로 공개되던 공직자들의 재산 내역을 한데 모아, 모두가 쉽게 찾아 볼 수 있는 웹사이트를 제작했습니다. 공직자들의 여러 해에 걸친 재산 형성 과정을 직접 추적해 볼 수 있습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26113233-5D47-3157-9904-RW0H3PKG3LHNRNPCM028.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[검사의 난, 김건희 특검 검사 40명 실명 공개]]></title>
             <link>https://pages.newstapa.org/2025/kkh-prosecutor/</link>
             <guid>https://pages.newstapa.org/2025/kkh-prosecutor/</guid>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노상원 전 국군정보사령관, 그는 12.3 내란의 기획자였다. 그의 수첩에는 각계 인사 500여명을 체포·살해하려는 구상부터 "행사 후" 정치제도를 개혁하는 계획까지 담겨 있었다. 뉴스타파는 이 수첩의 전문을 아래와 같이 공개한다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/20151410-B40C-58F6-F339-F90TN1RKGAGNWUMFTQMO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파 데이터포털]]></title>
-            <link>https://data.newstapa.org/</link>
-            <guid>https://data.newstapa.org/</guid>
-            <pubDate>Tue, 07 Jul 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파가 수집한 각종 데이터를 누구나 열람하고 다운받을 수 있는 ‘뉴스타파 데이터포털’ 사이트 를 제작해 오픈합니다. 지난 2012년 뉴스타파 출범 이후 지금까지 수집한 데이터 세트가 수록돼 있습니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/09160914-5593-933E-ADCB-0BKDCRUPXW4FSJEN8WYY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공직자 재산 공개]]></title>
-            <link>https://jaesan.newstapa.org/</link>
-            <guid>https://jaesan.newstapa.org/</guid>
-            <pubDate>Mon, 06 Jul 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기관별로 산발적으로 공개되던 공직자들의 재산 내역을 한데 모아, 모두가 쉽게 찾아 볼 수 있는 웹사이트를 제작했습니다. 공직자들의 여러 해에 걸친 재산 형성 과정을 직접 추적해 볼 수 있습니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/09160706-120F-3458-EFC4-W7A7E2RNILIFN4ZPA4ZK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김대중 증언록]]></title>
