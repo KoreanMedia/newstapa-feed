@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Mar 2026 23:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 02:32:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“국민에게 대북 살상 작전” 휴민트 여단장이 본 ‘노상원 수첩’ (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/xKy8x</link>
+            <guid>http://newstapa.org/article/xKy8x</guid>
+            <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“국민에게 대북 살상 작전” 휴민트 여단장이 본 ‘노상원 수첩’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/27111140-A495-36F8-DD63-BAFKM7W9UEF11QD722GE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[🔴주간 뉴스타파] 조작된 증거, 뒤집힌 진술 : 뉴스타파 '입틀막' 3년 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Nj_X_</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“방정오 개인 이익 위해…” 하이그라운드 전직 대표 진술서 입수]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/18223001-51B4-A2A5-3D9C-58UXWKPKG4EACHP2XQ40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘명태균 무죄 재판장’ 명품 대리 구매·밀수 면세점에 과징금 4억...재판장은? (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/G6mlS</link>
-            <guid>http://newstapa.org/article/G6mlS</guid>
-            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘명태균 무죄 재판장’ 명품 대리 구매·밀수 면세점에 과징금 4억...재판장은?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/19133203-B401-C0D4-9A44-CXIS0RXU7DYLZZ7J5H3Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI로 꿰어낸 공직자 재산 정보... 뉴스타파 재산 사이트 10년 만에 전면 개편 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08195356-6EC0-9B9A-4F6B-SE4Z0QUF0D5O0NHZ9VWU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“국민에게 대북 살상 작전” 휴민트 여단장이 본 ‘노상원 수첩’ (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/xKy8x</link>
+            <guid>http://newstapa.org/article/xKy8x</guid>
+            <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“국민에게 대북 살상 작전” 휴민트 여단장이 본 ‘노상원 수첩’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/27111140-A495-36F8-DD63-BAFKM7W9UEF11QD722GE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장1열] "성주 사드, 누구를 위한 무기였나?" (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/R_g0A</link>
             <guid>http://newstapa.org/article/R_g0A</guid>
@@ -1790,14 +1798,6 @@
             <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['북한 무인기' 의혹 에스텔엔지니어링, 군납 목표로 '저가형 정찰 무인기' 개발]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/21135049-0F3D-972E-D528-2RULH9S2LPB5O7ZZ9907.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/6XM4r</link>
-            <guid>http://newstapa.org/article/6XM4r</guid>
-            <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['무인기 대학원생', 정보사령부 지원받아 '군 공작용 위장 회사' 운영 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/19153919-B0B1-4934-DA23-NQJXQUZA1SGSB9MCOV3V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팔레스타인 리포트 ⑨팔레스타인 앰뷸런스 운전사가 총탄 속에도 멈추지 않는 이유 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -3344,6 +3344,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14103508-222E-1D84-7BDF-202644FJA2Q0J0ORV8R3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“국민에게 대북 살상 작전” 휴민트 여단장이 본 ‘노상원 수첩’ (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112853759</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112853759</guid>
+            <pubDate>Fri, 27 Mar 2026 02:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[“정보사 휴민트의 대북 살상 작전을 국민을 상대로 하려 한 겁니다” <br><br>국군정보사령부(정보사)에서 30년 가량 복무한 박민우 전 정보사 여단장이 ‘노상원 수첩’을 보고 취재진에게 건넨 말입니다.<br><br>지난해 뉴스타파가 전문을 공개한 노상원 수첩은 12·3 비상계엄 이후를 전제로 한 후속 조치 계획으로, 내란을 사전에 기획한 핵심 증거로 주목받았습니다. 그러나 법원은 수첩의 형식과 보관 상태, 내용 등이 “조악하다”며 증거능력을 인정하지 않았습니다.<br><br>하지만 노상원 수첩을 본 정보사 전·현직 블랙요원들의 생각은 법원 판단과 달랐습니다. 이들은 노상원 수첩이 단순한 망상이 아니라, 대북 휴민트 작전을 국내 민간인에게 적용한 조직적 작전 계획이라고 입을 모았습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/cHDUDC5zNak</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/xKy8x</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[🔴주간 뉴스타파 예고] 조작된 증거, 뒤집힌 진술 : 뉴스타파 '입틀막' 3년 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112846948</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112846948</guid>
@@ -3477,18 +3484,19 @@
             <content:encoded><![CDATA[지난 12일부터 이틀간 '이태원 참사'의 진상규명을 위한 청문회가 진행됐습니다. 청문회에서는 그동안 드러나지 않았던 새로운 사실이 일부 공개됐고, 이미 확인됐던 정부의 과실도 전보다 구체화됐습니다.<br><br>뉴스타파는 청문회를 통해 확인된 참사 과정에서 정부의 실패, 그 4가지 단면을 추렸습니다. 경찰의 총체적 매뉴얼 위반과 용산구청의 대통령 심기 경호, 참사 후 쏟아진 신고에도 나서지 않은 서울경찰청, 소방의 골든타임 오판입니다. 이러한 실패가 없었다면, 참사는 막을 수 있었을지도 모릅니다. 최소한 희생자가 159명이나 되는 일은 없었을 수도 있습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/t5ojaGY_2Ls</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/NIfg2</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[KINN] 바람을 판 나라① 낙월해상풍력의 숨겨진 주인 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112774916</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112774916</guid>
-            <pubDate>Thu, 19 Mar 2026 07:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 규모의 해상풍력 발전 사업인 낙월해상풍력 사업에 중국 자본이 깊숙이 개입하고 있다는 의혹이 불거졌습니다. 겉으로는 한국과 태국 기업이 사업을 주도하는 것처럼 알려졌으나, 실제로는 중국 국영 에너지 기업인 CEEC가 설계, 조달, 시공까지 전담하고 있다는 것입니다. <br><br>이 의혹의 배후에는 과거 실패로 돌아갔던 새만금 해상풍력 사업 관련 세력이 있었습니다. 뉴스타파와 협업하는 기후·생태 전문 독립언론 '살아지구'가 낙월해상풍력 사업을 둘러싼 의혹을 취재했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://disappearth.org/wind_launders_1/</span>]]></content:encoded>
+            <title><![CDATA[“국민에게 대북 살상 작전” 휴민트 여단장이 본 ‘노상원 수첩’ (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260327111656464</link>
+            <guid>https://v.daum.net/v/20260327111656464</guid>
+            <pubDate>Fri, 27 Mar 2026 02:32:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260327111656464" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“국민에게 대북 살상 작전” 휴민트 여단장이 본 ‘노상원 수첩’</strong><span class="info_txt"><span class="txt_info">15분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F27%2Fnewstapa%2F20260327111714088cdvu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F27%2Fnewstapa%2F20260327111714088cdvu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[🔴주간 뉴스타파] 조작된 증거, 뒤집힌 진술 : 뉴스타파 '입틀막' 3년 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260326210144137</link>
             <guid>https://v.daum.net/v/20260326210144137</guid>
             <pubDate>Thu, 26 Mar 2026 13:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260326210144137" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[🔴주간 뉴스타파] 조작된 증거, 뒤집힌 진술 : 뉴스타파 '입틀막' 3년</strong><span class="info_txt"><span class="txt_info">11시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326210148608ayzu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260326210144137" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[🔴주간 뉴스타파] 조작된 증거, 뒤집힌 진술 : 뉴스타파 '입틀막' 3년</strong><span class="info_txt"><span class="txt_info">14시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326210148608ayzu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326210148608ayzu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3504,7 @@
             <link>https://v.daum.net/v/20260326161144093</link>
             <guid>https://v.daum.net/v/20260326161144093</guid>
             <pubDate>Thu, 26 Mar 2026 07:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260326161144093" class="link_column"><div class="cont_thumb"><strong class="tit_txt">AI로 꿰어낸 공직자 재산 정보... 뉴스타파 재산 사이트 10년 만에 전면 개편</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326161145541vebr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260326161144093" class="link_column"><div class="cont_thumb"><strong class="tit_txt">AI로 꿰어낸 공직자 재산 정보... 뉴스타파 재산 사이트 10년 만에 전면 개편</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326161145541vebr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326161145541vebr.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3512,7 @@
             <link>https://v.daum.net/v/20260326145144516</link>
             <guid>https://v.daum.net/v/20260326145144516</guid>
             <pubDate>Thu, 26 Mar 2026 07:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260326145144516" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[미니다큐] “유골로 돌아온 아들, 진실 밝혀달라”...베트남에서 온 영상편지</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326145150846fbud.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260326145144516" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[미니다큐] “유골로 돌아온 아들, 진실 밝혀달라”...베트남에서 온 영상편지</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326145150846fbud.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326145150846fbud.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3512,7 +3520,7 @@
             <link>https://v.daum.net/v/20260326140144247</link>
             <guid>https://v.daum.net/v/20260326140144247</guid>
             <pubDate>Thu, 26 Mar 2026 05:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260326140144247" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장1열] "성주 사드, 누구를 위한 무기였나?"</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326142627770vkjf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260326140144247" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장1열] "성주 사드, 누구를 위한 무기였나?"</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326142627770vkjf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326142627770vkjf.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3520,7 +3528,7 @@
             <link>https://v.daum.net/v/20260326102147698</link>
             <guid>https://v.daum.net/v/20260326102147698</guid>
             <pubDate>Thu, 26 Mar 2026 02:30:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260326102147698" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] AI와 전쟁 ② 선이 그어지고, 지워지고, 처벌받기까지</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326102148745dknv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260326102147698" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] AI와 전쟁 ② 선이 그어지고, 지워지고, 처벌받기까지</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326102148745dknv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326102148745dknv.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3536,7 +3544,7 @@
             <link>https://v.daum.net/v/20260325110123375</link>
             <guid>https://v.daum.net/v/20260325110123375</guid>
             <pubDate>Wed, 25 Mar 2026 02:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260325110123375" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까?</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F25%2Fnewstapa%2F20260325110125001rnnw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260325110123375" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 2차 특검 ‘승부수’, 내란 특검 수사 뒤집기 가능할까?</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F25%2Fnewstapa%2F20260325110125001rnnw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F25%2Fnewstapa%2F20260325110125001rnnw.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3568,7 +3576,7 @@
             <link>https://v.daum.net/v/20260323105124540</link>
             <guid>https://v.daum.net/v/20260323105124540</guid>
             <pubDate>Mon, 23 Mar 2026 02:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260323105124540" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F23%2Fnewstapa%2F20260323105125749fxcb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260323105124540" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F23%2Fnewstapa%2F20260323105125749fxcb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F23%2Fnewstapa%2F20260323105125749fxcb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3712,14 +3720,6 @@
             <pubDate>Fri, 13 Mar 2026 06:58:40 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260313153656348" class="link_column"><div class="cont_thumb"><strong class="tit_txt">한국 원전 '롤모델' 프랑스도 원전vs재생에너지 충돌</strong><span class="info_txt"><span class="txt_info">2026. 3. 13.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F13%2Fnewstapa%2F20260313153705063ohlk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F13%2Fnewstapa%2F20260313153705063ohlk.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 500만불 움직인 Mr.Big, 방정오를 향한 배임 증거 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260312214123856</link>
-            <guid>https://v.daum.net/v/20260312214123856</guid>
-            <pubDate>Thu, 12 Mar 2026 13:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260312214123856" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 500만불 움직인 Mr.Big, 방정오를 향한 배임 증거</strong><span class="info_txt"><span class="txt_info">2026. 3. 12.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F12%2Fnewstapa%2F20260312214127247kpkn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F12%2Fnewstapa%2F20260312214127247kpkn.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-03-26T23:36:28.613Z</updated>
+    <updated>2026-03-27T02:32:32.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/716ad33/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“국민에게 대북 살상 작전” 휴민트 여단장이 본 ‘노상원 수첩’]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112853759</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112853759"/>
+        <updated>2026-03-27T02:32:23.064Z</updated>
+        <content type="html"><![CDATA[“정보사 휴민트의 대북 살상 작전을 국민을 상대로 하려 한 겁니다” <br><br>국군정보사령부(정보사)에서 30년 가량 복무한 박민우 전 정보사 여단장이 ‘노상원 수첩’을 보고 취재진에게 건넨 말입니다.<br><br>지난해 뉴스타파가 전문을 공개한 노상원 수첩은 12·3 비상계엄 이후를 전제로 한 후속 조치 계획으로, 내란을 사전에 기획한 핵심 증거로 주목받았습니다. 그러나 법원은 수첩의 형식과 보관 상태, 내용 등이 “조악하다”며 증거능력을 인정하지 않았습니다.<br><br>하지만 노상원 수첩을 본 정보사 전·현직 블랙요원들의 생각은 법원 판단과 달랐습니다. 이들은 노상원 수첩이 단순한 망상이 아니라, 대북 휴민트 작전을 국내 민간인에게 적용한 조직적 작전 계획이라고 입을 모았습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/cHDUDC5zNak</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/xKy8x</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[🔴주간 뉴스타파 예고] 조작된 증거, 뒤집힌 진술 : 뉴스타파 '입틀막' 3년]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112846948</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112775521"/>
         <updated>2026-03-19T07:12:22.943Z</updated>
         <content type="html"><![CDATA[지난 12일부터 이틀간 '이태원 참사'의 진상규명을 위한 청문회가 진행됐습니다. 청문회에서는 그동안 드러나지 않았던 새로운 사실이 일부 공개됐고, 이미 확인됐던 정부의 과실도 전보다 구체화됐습니다.<br><br>뉴스타파는 청문회를 통해 확인된 참사 과정에서 정부의 실패, 그 4가지 단면을 추렸습니다. 경찰의 총체적 매뉴얼 위반과 용산구청의 대통령 심기 경호, 참사 후 쏟아진 신고에도 나서지 않은 서울경찰청, 소방의 골든타임 오판입니다. 이러한 실패가 없었다면, 참사는 막을 수 있었을지도 모릅니다. 최소한 희생자가 159명이나 되는 일은 없었을 수도 있습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/t5ojaGY_2Ls</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/NIfg2</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KINN] 바람을 판 나라① 낙월해상풍력의 숨겨진 주인]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112774916</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112774916"/>
-        <updated>2026-03-19T07:12:22.944Z</updated>
-        <content type="html"><![CDATA[국내 최대 규모의 해상풍력 발전 사업인 낙월해상풍력 사업에 중국 자본이 깊숙이 개입하고 있다는 의혹이 불거졌습니다. 겉으로는 한국과 태국 기업이 사업을 주도하는 것처럼 알려졌으나, 실제로는 중국 국영 에너지 기업인 CEEC가 설계, 조달, 시공까지 전담하고 있다는 것입니다. <br><br>이 의혹의 배후에는 과거 실패로 돌아갔던 새만금 해상풍력 사업 관련 세력이 있었습니다. 뉴스타파와 협업하는 기후·생태 전문 독립언론 '살아지구'가 낙월해상풍력 사업을 둘러싼 의혹을 취재했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://disappearth.org/wind_launders_1/</span>]]></content>
     </entry>
 </feed>
