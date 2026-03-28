@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/category/%EB%85%B8%EB%8F%99%EC%9D%B8%EA%B6%8C</id>
-    <title>뉴스타파 ─ 뉴스 ─ </title>
-    <updated>2026-03-28T12:59:52.975Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스 ─ </title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 28 Mar 2026 13:56:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미니다큐] “유골로 돌아온 아들, 진실 밝혀달라”...베트남에서 온 영상편지]]></title>
+            <link>http://newstapa.org/article/oBnFU</link>
+            <guid>http://newstapa.org/article/oBnFU</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[미니다큐] “유골로 돌아온 아들, 진실 밝혀달라”...베트남에서 온 영상편지]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26141234-5110-5F0B-33E2-QW3TONQV1A60QVK5I6PW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상]]></title>
+            <link>http://newstapa.org/article/zzayC</link>
+            <guid>http://newstapa.org/article/zzayC</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/25202912-B4E1-9285-320C-DQUFZ322J0AR14M0Y03W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국가가 허가한 일터에서 스물셋 청년이 죽었다]]></title>
+            <link>http://newstapa.org/article/b8Pz3</link>
+            <guid>http://newstapa.org/article/b8Pz3</guid>
+            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국가가 허가한 일터에서 스물셋 청년이 죽었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/23133745-FA9A-E948-E7AC-PY56PFEV9C60QVASSSBS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 참사 청문회로 드러난 '정부 실패'의 단면들]]></title>
+            <link>http://newstapa.org/article/NIfg2</link>
+            <guid>http://newstapa.org/article/NIfg2</guid>
+            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 참사 청문회로 드러난 '정부 실패'의 단면들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/18180011-3BE5-665A-5930-0AB2JSWVM1GMUCWIJR6T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빛을 만드는 사람들]]></title>
+            <link>http://newstapa.org/article/T-0C8</link>
+            <guid>http://newstapa.org/article/T-0C8</guid>
+            <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[빛을 만드는 사람들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/12180058-6B98-EFEA-54FC-KGT6X2H07DVHC8ZWX5CR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[타파스] 쿠팡이 미국 의회를 움직이는 법 (feat. 로비 160억)]]></title>
+            <link>http://newstapa.org/article/o6K-7</link>
+            <guid>http://newstapa.org/article/o6K-7</guid>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 쿠팡이 미국 의회를 움직이는 법 (feat. 로비 160억)]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/09135224-9E3F-B20F-8659-QD28D964LT8O6WIN9214.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡의 위험물 관리 부실...물류센터 안전·화재 우려]]></title>
+            <link>http://newstapa.org/article/SxyYg</link>
+            <guid>http://newstapa.org/article/SxyYg</guid>
+            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡의 위험물 관리 부실...물류센터 안전·화재 우려]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/29174511-7769-6017-0E3E-PUBHHZYZC8YDEPQEDPF4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡의 '해결사' 김앤장의 그림자]]></title>
+            <link>http://newstapa.org/article/4evO9</link>
+            <guid>http://newstapa.org/article/4evO9</guid>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡의 '해결사' 김앤장의 그림자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/23185907-2E7A-93D6-7E81-AZ5WDMT7CIO8Y3L7EFLE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미니 다큐]336일 만에 땅 밟은 세종호텔 해고노동자..."복직 투쟁 멈추지 않아"]]></title>
+            <link>http://newstapa.org/article/MZJSW</link>
+            <guid>http://newstapa.org/article/MZJSW</guid>
+            <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[미니 다큐]336일 만에 땅 밟은 세종호텔 해고노동자..."복직 투쟁 멈추지 않아"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/15204246-3D7F-A772-4EC8-J4GQZ3VVO5K2AWOIFDL6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] 철탑 위에 아직, 사람이 있다...세종호텔 해고노동자 고진수]]></title>
+            <link>http://newstapa.org/article/IfwHr</link>
+            <guid>http://newstapa.org/article/IfwHr</guid>
+            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파] 철탑 위에 아직, 사람이 있다...세종호텔 해고노동자 고진수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/31154308-21FA-BEFD-B948-9SPT2KZBNPE1VLW5XNI4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 쿠팡 ‘마우스피스’ 언론, ‘셀프조사’ 주장을 사실처럼 유통]]></title>
+            <link>http://newstapa.org/article/1noiM</link>
+            <guid>http://newstapa.org/article/1noiM</guid>
+            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 쿠팡 ‘마우스피스’ 언론, ‘셀프조사’ 주장을 사실처럼 유통]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/30113012-50AC-9531-0AF6-ME9EQW03ZM9NJU9BKBLD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡의 '산재 은폐' 합의서 공개... 언론·노조에 얘기하면 “민형사상 책임”]]></title>
+            <link>http://newstapa.org/article/2-93X</link>
+            <guid>http://newstapa.org/article/2-93X</guid>
+            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡의 '산재 은폐' 합의서 공개... 언론·노조에 얘기하면 “민형사상 책임”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/22174758-E1B1-8F55-4CBF-FUSUFRT2ZIYJVW7Q2LRR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡의 '중대재해 대응 매뉴얼' 입수... 포섭하고, 차단하고, 로비하라]]></title>
+            <link>http://newstapa.org/article/Fj_SZ</link>
+            <guid>http://newstapa.org/article/Fj_SZ</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡의 '중대재해 대응 매뉴얼' 입수... 포섭하고, 차단하고, 로비하라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/10175737-4F1C-D4BF-90C0-2DRE9CQMLCLNOILGH187.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡의 '중대재해 대응 매뉴얼' 파일 공개]]></title>
+            <link>http://newstapa.org/article/akfG3</link>
+            <guid>http://newstapa.org/article/akfG3</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡의 '중대재해 대응 매뉴얼' 파일 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/10175751-292A-6290-D405-7HHXDGOURUIBCMTENY56.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 한화오션 '470억 손배소' 취하가 진정성을 가지려면]]></title>
+            <link>http://newstapa.org/article/o1BfA</link>
+            <guid>http://newstapa.org/article/o1BfA</guid>
+            <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 한화오션 '470억 손배소' 취하가 진정성을 가지려면]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/29180825-5F4D-432B-98C6-OHGNUUE8H73XDJ057LPY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이태원 참사' 3주기... 다시 만난 '진실버스' 유가족]]></title>
+            <link>http://newstapa.org/article/HDlKG</link>
+            <guid>http://newstapa.org/article/HDlKG</guid>
+            <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['이태원 참사' 3주기... 다시 만난 '진실버스' 유가족]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/29120027-D2AC-03BE-0D51-P7YSSHLBXXF1IO397NNV.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
