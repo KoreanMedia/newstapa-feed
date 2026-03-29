@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Mar 2026 02:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 05:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,7 +52,7 @@
             <link>https://v.daum.net/v/20260326140144247</link>
             <guid>https://v.daum.net/v/20260326140144247</guid>
             <pubDate>Thu, 26 Mar 2026 05:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260326140144247" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장1열] "성주 사드, 누구를 위한 무기였나?"</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326142627770vkjf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260326140144247" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장1열] "성주 사드, 누구를 위한 무기였나?"</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326142627770vkjf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F26%2Fnewstapa%2F20260326142627770vkjf.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -100,7 +100,7 @@
             <link>https://v.daum.net/v/20260324134124239</link>
             <guid>https://v.daum.net/v/20260324134124239</guid>
             <pubDate>Tue, 24 Mar 2026 04:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260324134124239" class="link_column"><div class="cont_thumb"><strong class="tit_txt">397억 원 걸린 '윤석열 거짓말' 재판 시작</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F24%2Fnewstapa%2F20260324134126162yypu.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260324134124239" class="link_column"><div class="cont_thumb"><strong class="tit_txt">397억 원 걸린 '윤석열 거짓말' 재판 시작</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F24%2Fnewstapa%2F20260324134126162yypu.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F24%2Fnewstapa%2F20260324134126162yypu.png" length="0" type="image/q70/"/>
         </item>
         <item>
