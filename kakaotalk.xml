@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-03-30T05:30:10.345Z</updated>
+    <updated>2026-03-30T07:46:02.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/716ad33/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112879455</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112879455"/>
+        <updated>2026-03-30T07:45:53.172Z</updated>
+        <content type="html"><![CDATA[TV조선 방정오 부사장이 최대주주인 콘텐츠 제작사 하이그라운드. 하이그라운드는 지난 2019년 싱가포르 페이퍼컴퍼니 등을 통해 아랍에미리트로 500만 달러, 우리 돈 약 60억 원을 송금했다가 회수하지 못하고 있습니다.<br><br>뉴스타파가 입수한 증거들은 이 자금거래의 승인자로 방정오 씨를 지목하고 있습니다. 방정오 씨에게 배임 의혹이 제기되는 이유입니다.<br><br>뉴스타파는 하이그라운드가 500만 달러 자금 거래가 정상적이지 않다는 추가 정황을 확인했습니다. 하이그라운드는 자금 거래와 관련한 계약서를 작성하지 않은 채 해외로 돈을 보낸 것으로 드러났고, 외부 회계감사를 앞두고서야 차용증을 급조한 것으로 밝혀졌습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/fA_MbZsG1ss</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/f3JJN</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김정은과 함께 사는 두 가지 길 1, '그래도 동족이다' - 정세현 전 통일부 장관]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112860649</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112779058"/>
         <updated>2026-03-19T13:09:34.575Z</updated>
         <content type="html"><![CDATA[TV조선 방정오 부사장이 최대주주인 하이그라운드(현TME그룹)는 지난 2019년 500만 달러, 당시 환율로 우리돈 약 60억 원을 아랍에미리트로 보냈다가 회수하지 못했습니다.<br><br>뉴스타파 취재 결과, 하이그라운드는 거액의 자금을 해외로 송금하면서 제대로 된 보증이나 담보를 확보하지 않았던 것으로 보입니다. 이 사업을 승인한 방정오 씨에게 업무상 배임 의혹이 제기되는 이유입니다.<br><br>뉴스타파는 하이그라운드가 500만 달러 자금 거래에 위법성이 있다는 점을 이미 알고 있었다는 정황이 담긴 내부 관계자의 카카오톡 메시지를 입수했습니다. 방정오 씨의 배임 의혹을 방증하는 또 다른 정황입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/DZraV6iiUrM</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/nHVX2</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘명태균 무죄 재판장’ 명품 대리 구매·밀수 면세점에 과징금 4억...재판장은?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112775766</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112775766"/>
-        <updated>2026-03-19T07:12:22.938Z</updated>
-        <content type="html"><![CDATA[세관이 ‘명태균 무죄 재판장’ 김인택 부장판사가 연루된 2건의 명품 대리 구매 사건과 관련해 HDC신라면세점에 약 4억원의 과징금을 부과한 것으로 확인됐습니다. <br><br>김 부장판사가 재판 날에도 여권을 전달해 명품 코트를 95%에 할인 받고, 자신의 여권이 이용된 면세점 팀장의 밀수 사건에 대한 세관의 조치입니다. <br><br>명품 대리 구매, 밀수의 공범으로 볼 여지가 상당한 김인택 부장판사에겐 관세법 위반 혐의가 끝내 적용되지 않았습니다.<br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/G6mlS</span>]]></content>
     </entry>
 </feed>
