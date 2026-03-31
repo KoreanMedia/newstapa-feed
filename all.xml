@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Mar 2026 07:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 09:04:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장1열] 세종보 재가동 저지 농성 700일만에 종료 "4대강 재자연화 의지 확인" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/5tj7W</link>
+            <guid>http://newstapa.org/article/5tj7W</guid>
+            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장1열] 세종보 재가동 저지 농성 700일만에 종료 "4대강 재자연화 의지 확인"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/31162436-5943-6BFC-3E3B-KV8LSWEZZI2BO1B5CK7T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국회의원 다주택자 줄었는데... 어떤 주택을 남겼나 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/SnGyS</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[397억 원 걸린 '윤석열 거짓말' 재판 시작]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/24133501-A81E-611B-5210-GBH4R64KQ8XIYJSG6KWO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Tav_S</link>
-            <guid>http://newstapa.org/article/Tav_S</guid>
-            <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/23103505-6412-9CBA-F1C0-J74A1IP4V3OM7U0QY6U8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국회의원 다주택자 줄었는데... 어떤 주택을 남겼나 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/27190633-0C12-A285-7D0B-WNH9LN31Z5M3QQFQ7XVV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장1열] 세종보 재가동 저지 농성 700일만에 종료 "4대강 재자연화 의지 확인" (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/5tj7W</link>
+            <guid>http://newstapa.org/article/5tj7W</guid>
+            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장1열] 세종보 재가동 저지 농성 700일만에 종료 "4대강 재자연화 의지 확인"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/31162436-5943-6BFC-3E3B-KV8LSWEZZI2BO1B5CK7T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 바람을 판 나라① 낙월해상풍력의 숨겨진 주인 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/cb5cG</link>
             <guid>http://newstapa.org/article/cb5cG</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 발전소 배출 물질 추적➂ 총염소 조사는 왜 빠졌나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/05135228-AEAE-7F01-B0DD-60LC1DFLOJ18VLW3T1MB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기후 도박] ③ 온실가스 20% 줄이고 전기요금 5조 챙기는 석탄발전소...언론은 침묵 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/6W_sf</link>
-            <guid>http://newstapa.org/article/6W_sf</guid>
-            <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[기후 도박] ③ 온실가스 20% 줄이고 전기요금 5조 챙기는 석탄발전소...언론은 침묵]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/05104545-A915-6591-0AD7-HUBVCI6Y1AMIT4TOL0BK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[미니다큐] “유골로 돌아온 아들, 진실 밝혀달라”...베트남에서 온 영상편지 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -3344,6 +3344,27 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14103508-222E-1D84-7BDF-202644FJA2Q0J0ORV8R3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 사월의 기억 - 뉴스타파 목격자들 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112896543</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112896543</guid>
+            <pubDate>Tue, 31 Mar 2026 09:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[한 사회의 집단적 기억은 어떻게 만들어져 왔을까요. 목격자들 &lt;사월의 기억&gt;은 제주 4.3, 4.19 혁명, 5.16 군사정변, 세월호 참사 등을 둘러싼 이미지의 재현 방식을 추적합니다. 권력은 이미지 재현을 통해 우리 사회 기억을 구성합니다. 우리는 그 이미지를 진실이라고 믿어왔을지도 모릅니다. <br><br>연출은 김무영 감독이 맡았습니다. 김 감독은 베를린국제영화제를 비롯한 다양한 영화제에서 주목받아온 다큐멘터리 창작자입니다. 목격자들 &lt;사월의 기억&gt; 오는 4월 3일 방송 예정입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/AqrhAD2HTWM</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[🔴라이브] 뛰는 공직자 감시, 나는 공직자 재산 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112895394</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112895394</guid>
+            <pubDate>Tue, 31 Mar 2026 09:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[[🔴라이브 예고] 지난주 발표된 2026년 공직자 재산 공개, 신고 대상 고위 공직자의 평균 재산이 무려 21억 원에 이르는 것으로 나타났습니다. 작년 초 발표된 국민 가구 평균 재산은 5억 원 대, 차이가 커도 너무 큽니다. 최근 급등한 반도체 주식부터 해외 빅테크 주식, 강남권 고급 아파트와 유명 예술가 작품까지, 신고 재산 면면을 들여다보면 입이 벌어집니다. <br><br>특히 눈이 가는 것은 공직자들의 부동산 자산입니다. 최근 정부는 '부동산과의 전쟁'을 선포하고 집값 잡기에 나서고 있는데요, 공개된 공직자 재산을 보면 이들 다수는 부동산 정책의 이해 당사자나 마찬가지입니다. 중이 제 머리 깎도록 맡겨놓은 꼴인데, 이걸 지켜보는 시민 입장에서는 공직자들이 제대로 일해 줄까 노심초사일 수밖에 없습니다.<br><br>날아가는 공직자 재산, 그리고 혹시 모를 이해 충돌과 비위를 감시하기 위해 뉴스타파와 시민단체는 열심히 뛰고 있습니다. 올해로 10년을 맞은 뉴스타파 공직자 재산 공개 사이트는 AI 기술까지 활용하며 한층 정교해졌고, 경실련 등 대표 시민단체들은 정부 정책이 엉뚱한 곳으로 새지 않도록 쉼 없이 목소리 내고 있습니다. <br><br>오늘 밤 9시 뉴스타파 라이브는 그 주역들과 함께 이야기 나눕니다. 뉴스타파 데이터팀 김강민 기자, 경실련 토지주택위원장 맡고 있는 조정흔 감정평가사가 출연합니다. 많은 시청과 관심 바랍니다! <br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://www.youtube.com/live/WNCQVuZluyc</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[현장1열] 세종보 재가동 저지 농성 700일만에 종료 "4대강 재자연화 의지 확인" (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112894912</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112894912</guid>
+            <pubDate>Tue, 31 Mar 2026 09:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[“보철거 시민행동은 농성 700일째를 맞는 오늘 금강 세종보 천막 농성을 해제한다”<br><br>지난 30일 ‘보 철거를 위한 금강·낙동강·영산강·시민행동’이 세종보 천막을 걷었습니다. 윤석열 정부의 세종보 재가동에 맞서 금강 변에 무기한 천막 농성을 시작한지 700일 만입니다. 기후에너지환경부는 지난 24일 연말까지 구체적인 보 처리 방안을 마련한다는 내용의 4대강 재자연화 추진안을 발표했습니다. 이 추진안을 국가 물관리 기본 계획에 반영하고, 금강과 영산강 수계에서 2027년 상반기부터 보 처리 방안을 이행한다는 내용 등이 포함됐습니다.<br><br>700일을 버틴 농성 철막 철거하는 날, 뉴스타파가 강을 지켜온 사람들을 만났습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/Z5omPCbaczo</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/5tj7W</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[국회의원 다주택자 줄었는데... 어떤 주택을 남겼나 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112893624</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112893624</guid>
@@ -3463,32 +3484,19 @@
             <content:encoded><![CDATA[방정오 TV조선 부사장이 최대 주주로 있던 회사 '하이그라운드'의 500만 달러 송금 의혹과 관련해 새로운 정황이 드러났습니다. 500만 달러를 가상자산 사업에 투자했던 당시 이미 법적 위험성을 알고 있었고, 이 사실을 방상훈 조선일보 회장 역시 인지하고 있었다는 정황입니다.<br><br>이런 법적 위험에도 불구하고 하이그라운드는 왜 투자를 감행한걸까요? 하이그라운드 전 대표 우 모 씨의 진술에 따르면, 문제의 500만 달러 투자는 모두 "방정오 개인의 이익 때문"이었습니다. 500만 달러 투자의 배후에 하이그라운드 최대 주주이자 실질적 지배자인 방정오 씨가 있었다는 말입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/Tav_S</span><br>📨 뉴스레터 타파스를 만나보세요 : <span class="link_url">https://newstapa-tapas.stibee.com/subscribe</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[KINN] AI와 전쟁① "개처럼 쫓아냈다"...트럼프와 앤트로픽의 대결 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112787394</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112787394</guid>
-            <pubDate>Fri, 20 Mar 2026 06:59:57 GMT</pubDate>
-            <content:encoded><![CDATA[생성형 AI 모델 ‘클로드(claude)’ 서비스 기업인 앤트로픽(Anthropic)이 최근 미국 국방부와 18개 연방기관을 상대로 소송을 제기했습니다. 당초 앤트로픽은 미국 정부가 자사 AI를 사용할 때 자율살상무기와 미국 시민 감시에는 적용하지 말도록 제한을 뒀었는데요, 미국 정부는 여기 불응하고 오히려 앤트로픽 측에 불이익을 줬습니다. 디프레임(deframe) 오나영 기자가 이 사건 관련 48쪽 소장 원문과 법원에 제출된 의견서 등을 직접 읽고, 쟁점 및 의의를 정리했습니다. <br><br>이 기사를 쓴 디프레임은 뉴스타파함께재단과 뉴스타파가 연대 협업하는 한국독립언론네트워크(KINN)에서 창업 과정을 밟고 있는 예비 언론사입니다. 디프레임은 올 하반기 테크 및 AI 관련 탐사보도 전문매체로 출범을 준비하고 있습니다.<br><br>👉 전체 기사 보기: <span class="link_url">https://thedeframe.com/ai-in-war_anthropic_vs_trump</span>/ <br>👉 디프레임 응원하기: <span class="link_url">https://thedeframe.com/support/</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<목격자들> 선정작 '공순이', 전주국제영화제 공식 초청 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112783743</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112783743</guid>
-            <pubDate>Fri, 20 Mar 2026 04:50:47 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파 목격자들 &lt;공순이&gt;(감독 유소영)가 제27회 전주국제영화제 한국경쟁 부문에 공식 초청되었습니다.<br><br>이 작품은 지난 1월 뉴스타파 &lt;목격자들&gt;정기공모 선정작으로, ‘김공순’이라는 한 여성의 삶을 따라가며 산업화의 이면에서 반복되어 온 여성 노동의 구조를 집요하게 추적한 작품입니다. 감독은 엄마를 기록하며 ‘열심히 살아온 엄마’라는 가족 이야기를 사회적 서사로 확장합니다. <br><br>유소영 감독은 “오랜 시간 만든 작품이 드디어 세상 밖으로 나간다“며 ”뉴스타파와 전주국제영화제를 통해 이 이야기가 더 멀리 퍼지길 바란다“고 초청 소감을 말했습니다. 목격자들 &lt;공순이: 이름이 된 직업&gt;은 2026년 여름 뉴스타파를 통해 공개할 예정입니다. <br><br>뉴스타파는 앞으로도 &lt;목격자들&gt; 공모를 통해 독립 다큐멘터리 창작자들과의 연대와 협업을 더욱 넓혀가겠습니다. 다음 목격자들 정기공모는 4월 6일부터 시작합니다. 창작자들의 많은 관심 바랍니다.<br><br>📄27회 전주국제영화제 한국경쟁 선정작 발표 : <span class="link_url">https://bit.ly/4cU38cX</span><br>🎬뉴스타파X유소영 트레일러 : <span class="link_url">https://www.youtube.com/watch?v=K1uRhY-KSio</span><br>🎬뉴스타파 &lt;목격자들&gt; 상영관 바로가기 : <span class="link_url">https://withnewstapa.org/witness/</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[토크] "침략 명분은 허구와 허상...  다양성·존엄에 지지를" (시아바시 사파리 교수) (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112782294</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112782294</guid>
-            <pubDate>Fri, 20 Mar 2026 02:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[미국·이스라엘의 이란 공습, 그리고 주변국을 향한 이란의 반격이 21일째 계속되고 있습니다. 뉴스타파는 이란 출신의 서울대 교수 시아바시 사파리 씨와의 대담을 통해 이란인의 관점에서 본 이 전쟁의 본질, 또 우리가 이 전쟁과 관련해 잘못 알고 있었거나 미처 이해하지 못했던 의미와 맥락을 짚어봤습니다.<br><br>사파리 교수는 방송을 통해 "평생 이란 이슬람 공화국에 비판적인 글을 쓰고 시위를 해왔지만 지금 미국이 하고 있는 군사적 개입을 원한 적 없다"며 "정권 붕괴를 원하는 미국의 개입은 이미 전 세계에 참상을 불러왔고, 그들이 내세우는 명분은 허구이거나 허상에 불과하다"고 지적했습니다. 또 이란이 이념적으로 매우 다양한 국가임을 강조하며 "국제사회가 침략 전쟁이나 이란 정부가 아닌, 자신의 권리와 이념을 위해 싸우며 폭력의 희생자가 된 이란 국민들을 지지해야 한다"고 말했습니다. <br><br>이 방송은 3월 18일 사전 녹화를 통해 제작됐습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/nqFEBWqFtOA</span>]]></content:encoded>
+            <title><![CDATA[[현장1열] 세종보 재가동 저지 농성 700일만에 종료 "4대강 재자연화 의지 확인" (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260331163124189</link>
+            <guid>https://v.daum.net/v/20260331163124189</guid>
+            <pubDate>Tue, 31 Mar 2026 09:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260331163124189" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장1열] 세종보 재가동 저지 농성 700일만에 종료 "4대강 재자연화 의지 확인"</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331163128947zsoy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331163128947zsoy.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[국회의원 다주택자 줄었는데... 어떤 주택을 남겼나 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260331155123780</link>
             <guid>https://v.daum.net/v/20260331155123780</guid>
             <pubDate>Tue, 31 Mar 2026 07:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260331155123780" class="link_column"><div class="cont_thumb"><strong class="tit_txt">국회의원 다주택자 줄었는데... 어떤 주택을 남겼나</strong><span class="info_txt"><span class="txt_info">28분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331155125181yvbm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260331155123780" class="link_column"><div class="cont_thumb"><strong class="tit_txt">국회의원 다주택자 줄었는데... 어떤 주택을 남겼나</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331155125181yvbm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331155125181yvbm.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3504,7 @@
             <link>https://v.daum.net/v/20260331152657435</link>
             <guid>https://v.daum.net/v/20260331152657435</guid>
             <pubDate>Tue, 31 Mar 2026 07:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260331152657435" class="link_column"><div class="cont_thumb"><strong class="tit_txt">10년 새 평균 12억 5천만 원 불었다… 공직자 재산 장기 추적</strong><span class="info_txt"><span class="txt_info">52분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331152659105drux.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260331152657435" class="link_column"><div class="cont_thumb"><strong class="tit_txt">10년 새 평균 12억 5천만 원 불었다… 공직자 재산 장기 추적</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331152659105drux.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331152659105drux.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3512,7 +3520,7 @@
             <link>https://v.daum.net/v/20260327163653569</link>
             <guid>https://v.daum.net/v/20260327163653569</guid>
             <pubDate>Fri, 27 Mar 2026 08:58:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260327163653569" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 1, '그래도 동족이다' - 정세현 전 통일부 장관</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F27%2Fnewstapa%2F20260327181927910jlla.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260327163653569" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 1, '그래도 동족이다' - 정세현 전 통일부 장관</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F27%2Fnewstapa%2F20260327181927910jlla.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F27%2Fnewstapa%2F20260327181927910jlla.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3584,7 +3592,7 @@
             <link>https://v.daum.net/v/20260324165144501</link>
             <guid>https://v.daum.net/v/20260324165144501</guid>
             <pubDate>Tue, 24 Mar 2026 08:57:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260324165144501" class="link_column"><div class="cont_thumb"><strong class="tit_txt">국가가 허가한 일터에서 스물셋 청년이 죽었다</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F24%2Fnewstapa%2F20260324165147346pzit.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260324165144501" class="link_column"><div class="cont_thumb"><strong class="tit_txt">국가가 허가한 일터에서 스물셋 청년이 죽었다</strong><span class="info_txt"><span class="txt_info">2026. 3. 24.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F24%2Fnewstapa%2F20260324165147346pzit.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F24%2Fnewstapa%2F20260324165147346pzit.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3713,13 +3721,6 @@
             <pubDate>Mon, 16 Mar 2026 07:21:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260316145623885" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 조선일보 ‘재벌집 막내아들’과 사라진 500만 달러</strong><span class="info_txt"><span class="txt_info">2026. 3. 16.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F16%2Fnewstapa%2F20260316145625072anrw.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F16%2Fnewstapa%2F20260316145625072anrw.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[반론보도] <현역 동작구의원, 지역 주민 상대로 수차례 성희롱 의혹> 보도 관련 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260313192626449</link>
-            <guid>https://v.daum.net/v/20260313192626449</guid>
-            <pubDate>Fri, 13 Mar 2026 10:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260313192626449" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[반론보도] &lt;현역 동작구의원, 지역 주민 상대로 수차례 성희롱 의혹&gt; 보도 관련</strong><span class="info_txt"><span class="txt_info">2026. 3. 13.</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
