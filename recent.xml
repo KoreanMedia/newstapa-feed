@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Mar 2026 05:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 07:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국회의원 다주택자 줄었는데... 어떤 주택을 남겼나]]></title>
+            <link>http://newstapa.org/article/SnGyS</link>
+            <guid>http://newstapa.org/article/SnGyS</guid>
+            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국회의원 다주택자 줄었는데... 어떤 주택을 남겼나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/31154601-FDBA-0625-5ED5-LA5TRRVQOKPKDA6G96P9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10년 새 평균 12억 5천만 원 불었다… 공직자 재산 장기 추적]]></title>
+            <link>http://newstapa.org/article/IJg04</link>
+            <guid>http://newstapa.org/article/IJg04</guid>
+            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[10년 새 평균 12억 5천만 원 불었다… 공직자 재산 장기 추적]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/31151951-1D2F-FF29-47B8-WHSO29RVQU6UR6D0INDE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황]]></title>
             <link>http://newstapa.org/article/f3JJN</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/23103505-6412-9CBA-F1C0-J74A1IP4V3OM7U0QY6U8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] AI와 전쟁① "개처럼 쫓아냈다"...트럼프와 앤트로픽의 대결]]></title>
-            <link>http://newstapa.org/article/_i9vH</link>
-            <guid>http://newstapa.org/article/_i9vH</guid>
-            <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] AI와 전쟁① "개처럼 쫓아냈다"...트럼프와 앤트로픽의 대결]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/20145052-55B7-CC8B-A699-5MHL347NE04TZ19VFG5W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 차남 회사의 사라진 500만불, 방상훈 회장도 물었다]]></title>
-            <link>http://newstapa.org/article/NFnKr</link>
-            <guid>http://newstapa.org/article/NFnKr</guid>
-            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 차남 회사의 사라진 500만불, 방상훈 회장도 물었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/19152658-9858-0095-9477-UCTH4T1ED0Z8IZLWH5BP.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

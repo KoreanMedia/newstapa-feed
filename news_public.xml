@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Mar 2026 05:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 07:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국회의원 다주택자 줄었는데... 어떤 주택을 남겼나]]></title>
+            <link>http://newstapa.org/article/SnGyS</link>
+            <guid>http://newstapa.org/article/SnGyS</guid>
+            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국회의원 다주택자 줄었는데... 어떤 주택을 남겼나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/31154601-FDBA-0625-5ED5-LA5TRRVQOKPKDA6G96P9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10년 새 평균 12억 5천만 원 불었다… 공직자 재산 장기 추적]]></title>
+            <link>http://newstapa.org/article/IJg04</link>
+            <guid>http://newstapa.org/article/IJg04</guid>
+            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[10년 새 평균 12억 5천만 원 불었다… 공직자 재산 장기 추적]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/31151951-1D2F-FF29-47B8-WHSO29RVQU6UR6D0INDE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI로 꿰어낸 공직자 재산 정보... 뉴스타파 재산 사이트 10년 만에 전면 개편]]></title>
             <link>http://newstapa.org/article/dWTd3</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘내란’ 판결문 실명 복원… “역사는 익명 뒤에 숨을 수 없다”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/27134547-C791-66FA-CF67-HU3UTUTWU6PS5DTY3A3U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 김병기 소환조사 한방에 알려드림]]></title>
-            <link>http://newstapa.org/article/aKw25</link>
-            <guid>http://newstapa.org/article/aKw25</guid>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 김병기 소환조사 한방에 알려드림]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/27095148-C947-45A1-0074-ZY3USEHDR9R6OCLX33CX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김병기, 첫 경찰 조사... 뉴스타파 최초 보도 이후 6개월 만]]></title>
-            <link>http://newstapa.org/article/BRGQq</link>
-            <guid>http://newstapa.org/article/BRGQq</guid>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김병기, 첫 경찰 조사... 뉴스타파 최초 보도 이후 6개월 만]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/26140309-31EE-1627-29DF-2OXCDYLMYVV13UQV778R.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
