@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 환경</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Apr 2026 11:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 13:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 정부가 말하지 않는 원전 감발의 비용 고지서]]></title>
+            <link>http://newstapa.org/article/7-a0g</link>
+            <guid>http://newstapa.org/article/7-a0g</guid>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 정부가 말하지 않는 원전 감발의 비용 고지서]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/02164836-29F8-BACA-8D4C-6QGCKYZISYOZCYU05HD2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정부의 원전 도박 ② "원전 보상 체계 마련해야" 원전 특혜 의혹]]></title>
             <link>http://newstapa.org/article/kQqQE</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화]이재명 정부, 청정수소발전 입찰 전격 중단...지난해 물량도 기간 단축 검토]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/20171919-C595-8B87-D2FB-L44SHUBQ8RMCGJFNVMMU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 수소로 기후위기 대응 만사형통? 윤석열 정부 에너지 정책이 '도박'인 이유]]></title>
-            <link>http://newstapa.org/article/rURR9</link>
-            <guid>http://newstapa.org/article/rURR9</guid>
-            <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 수소로 기후위기 대응 만사형통? 윤석열 정부 에너지 정책이 '도박'인 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/15134027-2402-6A87-0C29-B736WTJVKLPQUIM9SBEV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
