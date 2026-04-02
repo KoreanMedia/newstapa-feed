@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Apr 2026 05:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 07:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김건희 판결문으로 본 정교유착② "저희가 작업중이에요"]]></title>
+            <link>http://newstapa.org/article/mfJm_</link>
+            <guid>http://newstapa.org/article/mfJm_</guid>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김건희 판결문으로 본 정교유착② "저희가 작업중이에요"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/02144825-FF14-1650-59BC-2ZIYZSZOOC8O19FELA57.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김건희 판결문으로 본 정교유착 ① "윤석열을 돕겠다"]]></title>
+            <link>http://newstapa.org/article/6dgE-</link>
+            <guid>http://newstapa.org/article/6dgE-</guid>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김건희 판결문으로 본 정교유착 ① "윤석열을 돕겠다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/02144529-3325-4059-12EB-K2HBUX9MIL31DUB65A9X.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이재명 조폭 자금' 허위 폭로 일당, 윤석열 선거운동했다]]></title>
             <link>http://newstapa.org/article/5utzW</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[기고] 누가 '민원사주'의 증거를 지웠나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05172058-B310-58E1-6C63-WKZG64KZHCUMF5F0RTW2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인]]></title>
-            <link>http://newstapa.org/article/lhPMw</link>
-            <guid>http://newstapa.org/article/lhPMw</guid>
-            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05164527-0D65-E836-68F9-G4EXFIT2YEGF1AIUZAE9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 김병기에게 권력이란... 자녀 편입·취업 특혜가 '음해'라고?]]></title>
-            <link>http://newstapa.org/article/CcFyJ</link>
-            <guid>http://newstapa.org/article/CcFyJ</guid>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 김병기에게 권력이란... 자녀 편입·취업 특혜가 '음해'라고?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/03140910-A77B-B8B3-9C9F-1ME1CQDQLAZEKI7MMFVU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
