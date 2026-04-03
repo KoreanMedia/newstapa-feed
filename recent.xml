@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Apr 2026 07:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 08:58:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 이란전쟁 보도…‘누가 이겼나’가 ‘누가 죽었나’보다 10배 많아]]></title>
+            <link>http://newstapa.org/article/QTExv</link>
+            <guid>http://newstapa.org/article/QTExv</guid>
+            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 이란전쟁 보도…‘누가 이겼나’가 ‘누가 죽었나’보다 10배 많아]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/03173137-A722-84D6-E94B-YG83UN1SM9TZNMVTD7PX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[목격자들] 사월의 기억]]></title>
+            <link>http://newstapa.org/article/oDWzF</link>
+            <guid>http://newstapa.org/article/oDWzF</guid>
+            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목격자들] 사월의 기억]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/03160621-02BD-6FB1-CAEF-FMHAFTDLXRTVD85Y8V7B.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 정부가 말하지 않는 원전 감발의 비용 고지서]]></title>
             <link>http://newstapa.org/article/7-a0g</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“국민에게 대북 살상 작전” 휴민트 여단장이 본 ‘노상원 수첩’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/27142042-63D2-8758-1D76-3MXOLX85V83EJ2CZ1WPY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[🔴주간 뉴스타파] 조작된 증거, 뒤집힌 진술 : 뉴스타파 '입틀막' 3년]]></title>
-            <link>http://newstapa.org/article/Nj_X_</link>
-            <guid>http://newstapa.org/article/Nj_X_</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[🔴주간 뉴스타파] 조작된 증거, 뒤집힌 진술 : 뉴스타파 '입틀막' 3년]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26171126-F361-7D91-2D28-NIHJVBFN83L9VKH5GJDQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI로 꿰어낸 공직자 재산 정보... 뉴스타파 재산 사이트 10년 만에 전면 개편]]></title>
-            <link>http://newstapa.org/article/dWTd3</link>
-            <guid>http://newstapa.org/article/dWTd3</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[AI로 꿰어낸 공직자 재산 정보... 뉴스타파 재산 사이트 10년 만에 전면 개편]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26160658-223E-1661-30B8-VNIJCKX3ARLZTI4L1TPB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Apr 2026 07:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 08:58:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 이란전쟁 보도…‘누가 이겼나’가 ‘누가 죽었나’보다 10배 많아]]></title>
+            <link>http://newstapa.org/article/QTExv</link>
+            <guid>http://newstapa.org/article/QTExv</guid>
+            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 이란전쟁 보도…‘누가 이겼나’가 ‘누가 죽었나’보다 10배 많아]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/03173137-A722-84D6-E94B-YG83UN1SM9TZNMVTD7PX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황]]></title>
             <link>http://newstapa.org/article/f3JJN</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 통일교 돈 번 언론① 주요 수사 국면마다 일간지 1면 광고]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/02160227-146F-D004-1357-GZTD83GC5UPWCU44NW7U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한학자는 "참어머님" 사장은 "소자"…통일교의 '섭리기관' 세계일보]]></title>
-            <link>http://newstapa.org/article/5aIpp</link>
-            <guid>http://newstapa.org/article/5aIpp</guid>
-            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한학자는 "참어머님" 사장은 "소자"…통일교의 '섭리기관' 세계일보]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/23210547-EA81-8BEC-B086-MAPZZ0ZUOSVG53XHMH3S.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
