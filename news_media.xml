@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Apr 2026 05:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 07:47:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></title>
+            <link>http://newstapa.org/article/T_N3z</link>
+            <guid>http://newstapa.org/article/T_N3z</guid>
+            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/06154520-99AB-AD70-45AF-51X5SBSJPVRRDZZDO8OH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 이란전쟁 보도…‘누가 이겼나’가 ‘누가 죽었나’보다 10배 많아]]></title>
             <link>http://newstapa.org/article/QTExv</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 통일교 돈 번 언론② 정교유착? 통일교 띄워준 언교유착이 더 심하다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13181001-F069-36D8-853D-5RT6Q8F4KGFT519AK6XB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 통일교 돈 번 언론① 주요 수사 국면마다 일간지 1면 광고]]></title>
-            <link>http://newstapa.org/article/TU0q9</link>
-            <guid>http://newstapa.org/article/TU0q9</guid>
-            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 통일교 돈 번 언론① 주요 수사 국면마다 일간지 1면 광고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/02160227-146F-D004-1357-GZTD83GC5UPWCU44NW7U.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

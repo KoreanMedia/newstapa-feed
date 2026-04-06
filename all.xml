@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Apr 2026 05:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 07:47:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/T_N3z</link>
+            <guid>http://newstapa.org/article/T_N3z</guid>
+            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/06154520-99AB-AD70-45AF-51X5SBSJPVRRDZZDO8OH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파나마 페이퍼스 10년] 뉴스타파는 어떻게 취재했나 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Vo2_Z</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[10년 새 평균 12억 5천만 원 불었다… 공직자 재산 장기 추적]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/31151951-1D2F-FF29-47B8-WHSO29RVQU6UR6D0INDE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/f3JJN</link>
-            <guid>http://newstapa.org/article/f3JJN</guid>
-            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/30151306-BD26-19DC-981E-RWFQVBDCJU8WHUDS7N1L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김건희 판결문으로 본 정교유착② "저희가 작업중이에요" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -520,6 +520,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/07111138-4808-A924-F145-2L9WE16ZE67RLIG1GT8Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
+            <link>http://newstapa.org/article/T_N3z</link>
+            <guid>http://newstapa.org/article/T_N3z</guid>
+            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/06154520-99AB-AD70-45AF-51X5SBSJPVRRDZZDO8OH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
             <link>http://newstapa.org/article/f3JJN</link>
             <guid>http://newstapa.org/article/f3JJN</guid>
@@ -638,14 +646,6 @@
             <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[법 위의 선박왕 ② 14년 소송전... 50만분 1의 확률과 줄어든 세금 1,300억]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/11171551-7B09-1410-944B-XPWA3JE6MEXV3IQPI4DE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법 위의 선박왕 ③ 자산 · 소득 0원으로 생활? 수십 억 횡령 증거 포착 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/lCl2E</link>
-            <guid>http://newstapa.org/article/lCl2E</guid>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법 위의 선박왕 ③ 자산 · 소득 0원으로 생활? 수십 억 횡령 증거 포착]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/11171622-DD84-5D7D-7EF6-0KL80OZM0UY4RH40SXV3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타파스] UN 사무국을 가평에? 통일교 숙원 해결 앞장선 가평군수 (뉴스타파 ─ 뉴스 ─ 종교)]]></title>
@@ -1288,134 +1288,6 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09193515-A70D-5522-CD94-D1TKVO0UX90I5BY52ZCB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[KINN] "윤석열 당선은 하나님 기적", "여자는 프러포즈 안 돼"…황당한 넥스트클럽 '성교육 강사 양성' 과정 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/dNTeI</link>
-            <guid>http://newstapa.org/article/dNTeI</guid>
-            <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] "윤석열 당선은 하나님 기적", "여자는 프러포즈 안 돼"…황당한 넥스트클럽 '성교육 강사 양성' 과정]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/24123943-9878-2887-EC6C-VLA11N1VQU4TCY2E70RG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['주무관'과 '교육감'...수상한 '검정교과서' 계획 문건 공개 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/EVuEs</link>
-            <guid>http://newstapa.org/article/EVuEs</guid>
-            <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['주무관'과 '교육감'...수상한 '검정교과서' 계획 문건 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/23104241-4A12-876C-C482-41F8971G3PL1K0A504YT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 사상 첫 교과서 검정 합격 취소...뉴스타파 보도 11개월만 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/b9w_x</link>
-            <guid>http://newstapa.org/article/b9w_x</guid>
-            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 사상 첫 교과서 검정 합격 취소...뉴스타파 보도 11개월만]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15150140-765D-66DD-26BC-1BUVNPWKKSG6SRMK1W9S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리박스쿨 뿌리① 리박스쿨 탄생은 개인의 일탈이 아니었다 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/i9GEt</link>
-            <guid>http://newstapa.org/article/i9GEt</guid>
-            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[리박스쿨 뿌리① 리박스쿨 탄생은 개인의 일탈이 아니었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10171530-F884-C46B-57BB-AZN354Y4350I62KO5TFM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가교육위원회 회의록 공개...리박스쿨 유착 숨기고 '입단속' (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/YFnZ7</link>
-            <guid>http://newstapa.org/article/YFnZ7</guid>
-            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국가교육위원회 회의록 공개...리박스쿨 유착 숨기고 '입단속']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10172808-9DED-CA87-7D77-LWIN20UPUMUEEX06N35O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세금으로 '이승만 찬양'…재외동포청, 교민 자녀 '극우 교육' 후원 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/NyUAi</link>
-            <guid>http://newstapa.org/article/NyUAi</guid>
-            <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[세금으로 '이승만 찬양'…재외동포청, 교민 자녀 '극우 교육' 후원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/04164529-46A6-4EC9-5185-RFXCAV6A62WN0ODSZNSF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교육부가 놓친 '리박스쿨' 자매단체, 교민 자녀들에게 '이승만 찬양' 교육 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/MnTNh</link>
-            <guid>http://newstapa.org/article/MnTNh</guid>
-            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[교육부가 놓친 '리박스쿨' 자매단체, 교민 자녀들에게 '이승만 찬양' 교육]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03191458-46DF-A3D8-AD90-N0ZRLLMA3U23M0BCVFYB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한교조, 리박스쿨, 뉴라이트의 ‘극우 역사 세미나’ (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/g0eYj</link>
-            <guid>http://newstapa.org/article/g0eYj</guid>
-            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대한교조, 리박스쿨, 뉴라이트의 ‘극우 역사 세미나’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/27203103-BC00-8B29-6ED7-2I5HYAMSP5OZAJLJEYFC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 윤석열 세력의 '친일 교과서' 프로젝트 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/ufUfQ</link>
-            <guid>http://newstapa.org/article/ufUfQ</guid>
-            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 세력의 '친일 교과서' 프로젝트]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26163417-2FEE-B8DB-93A4-8TSX1XEAM6STAPZSGMCJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 감사원 "교과서 발행정지·합격취소 사유 해당"...뉴스타파 보도 8개월만 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/Qk_bj</link>
-            <guid>http://newstapa.org/article/Qk_bj</guid>
-            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 감사원 "교과서 발행정지·합격취소 사유 해당"...뉴스타파 보도 8개월만]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28172624-3391-4F2F-0D6B-69LGM5KD3QVOX5T4WOA0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/74aqg</link>
-            <guid>http://newstapa.org/article/74aqg</guid>
-            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/27180054-0A50-75CF-CFFC-8FN28KS28ICFL6WCD72X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감사원, '한국사 교과서 검정 자격 조작' 관련 교육부 등 감사 착수 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/3SofH</link>
-            <guid>http://newstapa.org/article/3SofH</guid>
-            <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[감사원, '한국사 교과서 검정 자격 조작' 관련 교육부 등 감사 착수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/27103541-D32F-67B7-4209-JBML4Z83IO77BKEIOET5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이해충돌 방지 규정' 지운 평가원, 교과서 부실 검정 자인하나 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/Cv0I0</link>
-            <guid>http://newstapa.org/article/Cv0I0</guid>
-            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이해충돌 방지 규정' 지운 평가원, 교과서 부실 검정 자인하나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/20140247-5681-314C-314E-9WS5494OUCJLGOJN1WYL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학력평가원 교과서 채택 단 2곳, 채택 학교는 '박근혜 국정교과서 연구학교' 전력 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/rS_gk</link>
-            <guid>http://newstapa.org/article/rS_gk</guid>
-            <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[학력평가원 교과서 채택 단 2곳, 채택 학교는 '박근혜 국정교과서 연구학교' 전력]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/04170320-411D-0846-59AE-WWCLJW25DONJ8IVBIVWR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학력평가원, 검정 승인 근거 '납본 증명서'도 허위 내용으로 신청 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/wfMco</link>
-            <guid>http://newstapa.org/article/wfMco</guid>
-            <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[학력평가원, 검정 승인 근거 '납본 증명서'도 허위 내용으로 신청]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/22160328-3773-60DB-451C-SDW22DM762L67FV1R51I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 윤석열의 교육부는 왜 그 교과서를 지키려 하나 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/Kgnd3</link>
-            <guid>http://newstapa.org/article/Kgnd3</guid>
-            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열의 교육부는 왜 그 교과서를 지키려 하나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/03150058-53B5-17D4-0D8E-W1I449ILZGTZ97F8GQCS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[목격자들] 사월의 기억 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/oDWzF</link>
             <guid>http://newstapa.org/article/oDWzF</guid>
@@ -1928,6 +1800,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03151224-36CA-6F1D-EDB9-2OLYA0L53VPLUIRUBDQ7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/T_N3z</link>
+            <guid>http://newstapa.org/article/T_N3z</guid>
+            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/06154520-99AB-AD70-45AF-51X5SBSJPVRRDZZDO8OH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 이란전쟁 보도…‘누가 이겼나’가 ‘누가 죽었나’보다 10배 많아 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/QTExv</link>
             <guid>http://newstapa.org/article/QTExv</guid>
@@ -2046,14 +1926,6 @@
             <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 통일교 돈 번 언론② 정교유착? 통일교 띄워준 언교유착이 더 심하다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13181001-F069-36D8-853D-5RT6Q8F4KGFT519AK6XB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 통일교 돈 번 언론① 주요 수사 국면마다 일간지 1면 광고 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/TU0q9</link>
-            <guid>http://newstapa.org/article/TU0q9</guid>
-            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 통일교 돈 번 언론① 주요 수사 국면마다 일간지 1면 광고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/02160227-146F-D004-1357-GZTD83GC5UPWCU44NW7U.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 21대 대통령선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3344,6 +3216,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14133754-D4FE-DFB5-7377-C3JLVYHE54G03FJAEMO1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112959798</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112959798</guid>
+            <pubDate>Mon, 06 Apr 2026 07:47:24 GMT</pubDate>
+            <content:encoded><![CDATA[검찰이 뉴스타파가 연속보도한 TV조선 부사장 방정오 씨의 배임 의혹에 대해 수사에 착수했습니다. 지난달 16일 시민단체 '세금도둑잡아라' 하승수 변호사가 방 씨를 서울중앙지검에 특경법상 업무상배임 혐의로 고발한 바 있습니다.<br><br>뉴스타파는 지난달 12일부터 방 씨가 최대주주인 콘텐츠 업체 하이그라운드가 지난 2019년 5월 아랍에미리트 회사로 송금한 500만 달러를 둘러싼 배임 의혹을 연속보도하고 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/T_N3z</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[파나마 페이퍼스 10년] 뉴스타파는 어떻게 취재했나 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/112958411</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/112958411</guid>
+            <pubDate>Mon, 06 Apr 2026 07:47:24 GMT</pubDate>
+            <content:encoded><![CDATA[2026년 4월 4일(한국 시간)은 국제탐사보도언론인협회 ICIJ 주관으로 한국탐사저널리즘센터-뉴스타파 등 전 세계 100여 개 언론사에서 4백여 명의 기자가 파나마 페이퍼스 프로젝트 보도를 시작한 지 10년이 되는 날입니다. <br><br>뉴스타파는 이 프로젝트에 참여해 노태우 전 대통령의 장남 노재현 씨의 조세도피처 법인 설립 사실을 밝혀내는 등 큰 파장을 일으켰습니다. 뉴스타파는 탐사 취재에 그치지 않고 입수한 정보를 기자회견을 통해 공유하며 협업 보도의 새 장을 열기도 했습니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/Vo2_Z</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[파나마 페이퍼스 : 뉴스타파의 추적, 밝혀내고 공유하다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/112941740</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/112941740</guid>
@@ -3470,18 +3356,20 @@
             <content:encoded><![CDATA[10년간 12.5억 원. 평범한 직장인이 평생을 안 쓰고 모아도 모으기 힘든 금액. 우리 사회 최고위 공직자들의 평균적인 재산 증가액입니다.<br><br>부동산과 주식이 들썩인 2025년에는 한 해 동안 평균 2억 원의 재산을 불렸습니다. 평년의 2배에 달하는 수치입니다. 이들의 자산 증식 비결은 무엇이었을까요?<br><br>뉴스타파는 2026년 공직자 재산 공개를 맞아 고위 공직자 373명의 10년 치 재산 데이터를 추적해 분석했습니다. 공직자들의 재산 변화는 뉴스타파 공직자 재산 정보 사이트에서 누구나 제약 없이 보실 수 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/IJg04</span><br>👉 뉴스타파 공직자 재산 사이트: <span class="link_url">https://jaesan.newstapa.org/</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112879455</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112879455</guid>
-            <pubDate>Mon, 30 Mar 2026 07:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[TV조선 방정오 부사장이 최대주주인 콘텐츠 제작사 하이그라운드. 하이그라운드는 지난 2019년 싱가포르 페이퍼컴퍼니 등을 통해 아랍에미리트로 500만 달러, 우리 돈 약 60억 원을 송금했다가 회수하지 못하고 있습니다.<br><br>뉴스타파가 입수한 증거들은 이 자금거래의 승인자로 방정오 씨를 지목하고 있습니다. 방정오 씨에게 배임 의혹이 제기되는 이유입니다.<br><br>뉴스타파는 하이그라운드가 500만 달러 자금 거래가 정상적이지 않다는 추가 정황을 확인했습니다. 하이그라운드는 자금 거래와 관련한 계약서를 작성하지 않은 채 해외로 돈을 보낸 것으로 드러났고, 외부 회계감사를 앞두고서야 차용증을 급조한 것으로 밝혀졌습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/fA_MbZsG1ss</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/f3JJN</span>]]></content:encoded>
+            <title><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260406155157549</link>
+            <guid>https://v.daum.net/v/20260406155157549</guid>
+            <pubDate>Mon, 06 Apr 2026 07:47:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260406155157549" class="link_column"><div class="cont_thumb"><strong class="tit_txt">검찰, 방정오 '500만 달러 배임' 의혹 수사 착수</strong><span class="info_txt"><span class="txt_info">55분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F06%2Fnewstapa%2F20260406155158787wwwr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F06%2Fnewstapa%2F20260406155158787wwwr.png" length="0" type="image/q70/"/>
         </item>
         <item>
-            <title><![CDATA[김정은과 함께 사는 두 가지 길 1, '그래도 동족이다' - 정세현 전 통일부 장관 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112860649</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112860649</guid>
-            <pubDate>Fri, 27 Mar 2026 09:58:36 GMT</pubDate>
-            <content:encoded><![CDATA[김정은 북한 국무위원장이 ‘한국을 동족의 범주에서 영원히 배제하겠다’고 선언했습니다. 우리는 북한을 어떻게 대해야 할까요? 두 차례 통일부 장관을 지낸 정세현 전 장관은 ‘그럼에도 만나야 한다’고 말합니다. 하나의 국가로 합치는 통일이 아니라, 두 국가로 공존하는 남북연합이 지금 우리가 선택할 수 있는 현실적인 길이라고 그는 말합니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/YzYRhjqCt4Y</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/SRUoU</span>]]></content:encoded>
+            <title><![CDATA[[파나마 페이퍼스 10년] 뉴스타파는 어떻게 취재했나 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260406142625107</link>
+            <guid>https://v.daum.net/v/20260406142625107</guid>
+            <pubDate>Mon, 06 Apr 2026 07:47:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260406142625107" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[파나마 페이퍼스 10년] 뉴스타파는 어떻게 취재했나</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F06%2Fnewstapa%2F20260406142636054djnd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F06%2Fnewstapa%2F20260406142636054djnd.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[‘윤석열 명예훼손’ 위법수사 국가배상 재판 시작 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3504,7 +3392,7 @@
             <link>https://v.daum.net/v/20260403163625012</link>
             <guid>https://v.daum.net/v/20260403163625012</guid>
             <pubDate>Fri, 03 Apr 2026 08:58:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260403163625012" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[목격자들] 사월의 기억</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F03%2Fnewstapa%2F20260403163634627nund.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260403163625012" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[목격자들] 사월의 기억</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F03%2Fnewstapa%2F20260403163634627nund.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F03%2Fnewstapa%2F20260403163634627nund.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3536,7 +3424,7 @@
             <link>https://v.daum.net/v/20260402145127302</link>
             <guid>https://v.daum.net/v/20260402145127302</guid>
             <pubDate>Thu, 02 Apr 2026 07:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260402145127302" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김건희 판결문으로 본 정교유착② "저희가 작업중이에요"</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F02%2Fnewstapa%2F20260402145128836jwzr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260402145127302" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김건희 판결문으로 본 정교유착② "저희가 작업중이에요"</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F02%2Fnewstapa%2F20260402145128836jwzr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F02%2Fnewstapa%2F20260402145128836jwzr.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3544,7 +3432,7 @@
             <link>https://v.daum.net/v/20260402145124295</link>
             <guid>https://v.daum.net/v/20260402145124295</guid>
             <pubDate>Thu, 02 Apr 2026 07:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260402145124295" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김건희 판결문으로 본 정교유착 ① "윤석열을 돕겠다"</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F02%2Fnewstapa%2F20260402145125846okgp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260402145124295" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김건희 판결문으로 본 정교유착 ① "윤석열을 돕겠다"</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F02%2Fnewstapa%2F20260402145125846okgp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F02%2Fnewstapa%2F20260402145125846okgp.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3560,7 +3448,7 @@
             <link>https://v.daum.net/v/20260401160125169</link>
             <guid>https://v.daum.net/v/20260401160125169</guid>
             <pubDate>Wed, 01 Apr 2026 07:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260401160125169" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 식당 법카 결제로 징계받은 황규진·이유경, 인천시의원 출마</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F01%2Fnewstapa%2F20260401160127107oxgt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260401160125169" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 식당 법카 결제로 징계받은 황규진·이유경, 인천시의원 출마</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F01%2Fnewstapa%2F20260401160127107oxgt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F01%2Fnewstapa%2F20260401160127107oxgt.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3576,7 +3464,7 @@
             <link>https://v.daum.net/v/20260331163124189</link>
             <guid>https://v.daum.net/v/20260331163124189</guid>
             <pubDate>Tue, 31 Mar 2026 09:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260331163124189" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장1열] 세종보 재가동 저지 농성 700일만에 종료 "4대강 재자연화 의지 확인"</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331163128947zsoy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260331163124189" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장1열] 세종보 재가동 저지 농성 700일만에 종료 "4대강 재자연화 의지 확인"</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331163128947zsoy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331163128947zsoy.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3584,7 +3472,7 @@
             <link>https://v.daum.net/v/20260331155123780</link>
             <guid>https://v.daum.net/v/20260331155123780</guid>
             <pubDate>Tue, 31 Mar 2026 07:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260331155123780" class="link_column"><div class="cont_thumb"><strong class="tit_txt">국회의원 다주택자 줄었는데... 어떤 주택을 남겼나</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331155125181yvbm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260331155123780" class="link_column"><div class="cont_thumb"><strong class="tit_txt">국회의원 다주택자 줄었는데... 어떤 주택을 남겼나</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331155125181yvbm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331155125181yvbm.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3592,7 +3480,7 @@
             <link>https://v.daum.net/v/20260331152657435</link>
             <guid>https://v.daum.net/v/20260331152657435</guid>
             <pubDate>Tue, 31 Mar 2026 07:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260331152657435" class="link_column"><div class="cont_thumb"><strong class="tit_txt">10년 새 평균 12억 5천만 원 불었다… 공직자 재산 장기 추적</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331152659105drux.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260331152657435" class="link_column"><div class="cont_thumb"><strong class="tit_txt">10년 새 평균 12억 5천만 원 불었다… 공직자 재산 장기 추적</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331152659105drux.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F31%2Fnewstapa%2F20260331152659105drux.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3600,7 +3488,7 @@
             <link>https://v.daum.net/v/20260330151626213</link>
             <guid>https://v.daum.net/v/20260330151626213</guid>
             <pubDate>Mon, 30 Mar 2026 07:46:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260330151626213" class="link_column"><div class="cont_thumb"><strong class="tit_txt">하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F30%2Fnewstapa%2F20260330151636554bjen.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260330151626213" class="link_column"><div class="cont_thumb"><strong class="tit_txt">하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황</strong><span class="info_txt"><span class="txt_info">2026. 3. 30.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F30%2Fnewstapa%2F20260330151636554bjen.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F30%2Fnewstapa%2F20260330151636554bjen.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3706,22 +3594,6 @@
             <pubDate>Mon, 23 Mar 2026 02:27:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260323105124540" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”</strong><span class="info_txt"><span class="txt_info">2026. 3. 23.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F23%2Fnewstapa%2F20260323105125749fxcb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F23%2Fnewstapa%2F20260323105125749fxcb.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] AI와 전쟁① "개처럼 쫓아냈다"...트럼프와 앤트로픽의 대결 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260320150658817</link>
-            <guid>https://v.daum.net/v/20260320150658817</guid>
-            <pubDate>Fri, 20 Mar 2026 07:00:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260320150658817" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] AI와 전쟁① "개처럼 쫓아냈다"...트럼프와 앤트로픽의 대결</strong><span class="info_txt"><span class="txt_info">2026. 3. 20.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F20%2Fnewstapa%2F20260320150700465rvdh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F20%2Fnewstapa%2F20260320150700465rvdh.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 차남 회사의 사라진 500만불, 방상훈 회장도 물었다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260319210633807</link>
-            <guid>https://v.daum.net/v/20260319210633807</guid>
-            <pubDate>Thu, 19 Mar 2026 13:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260319210633807" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 차남 회사의 사라진 500만불, 방상훈 회장도 물었다</strong><span class="info_txt"><span class="txt_info">2026. 3. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F19%2Fnewstapa%2F20260319210636685pnhu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F19%2Fnewstapa%2F20260319210636685pnhu.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Apr 2026 05:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 07:47:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></title>
+            <link>http://newstapa.org/article/T_N3z</link>
+            <guid>http://newstapa.org/article/T_N3z</guid>
+            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/06154520-99AB-AD70-45AF-51X5SBSJPVRRDZZDO8OH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파나마 페이퍼스 10년] 뉴스타파는 어떻게 취재했나]]></title>
             <link>http://newstapa.org/article/Vo2_Z</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[10년 새 평균 12억 5천만 원 불었다… 공직자 재산 장기 추적]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/31151951-1D2F-FF29-47B8-WHSO29RVQU6UR6D0INDE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황]]></title>
-            <link>http://newstapa.org/article/f3JJN</link>
-            <guid>http://newstapa.org/article/f3JJN</guid>
-            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/30151306-BD26-19DC-981E-RWFQVBDCJU8WHUDS7N1L.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
