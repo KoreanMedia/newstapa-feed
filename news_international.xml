@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 국제협업</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Apr 2026 02:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 05:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파나마 페이퍼스 10년] 뉴스타파는 어떻게 취재했나]]></title>
+            <link>http://newstapa.org/article/Vo2_Z</link>
+            <guid>http://newstapa.org/article/Vo2_Z</guid>
+            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[파나마 페이퍼스 10년] 뉴스타파는 어떻게 취재했나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/06141731-08A5-EA5C-A539-YCA0BD6RI0AYDYOJ4S15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파나마 페이퍼스 10년①] 세계를 뒤흔든 이야기 : 어떻게 시작했나]]></title>
             <link>http://newstapa.org/article/gP0W0</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[팔레스타인 리포트 ⑤이스라엘 정착촌 우회도로 건설에 맞서는 나사르 집안의 투쟁]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03151224-36CA-6F1D-EDB9-2OLYA0L53VPLUIRUBDQ7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔레스타인 리포트 ④파괴와 강제이주로 얼룩진 제닌 난민캠프]]></title>
-            <link>http://newstapa.org/article/BbBeu</link>
-            <guid>http://newstapa.org/article/BbBeu</guid>
-            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[팔레스타인 리포트 ④파괴와 강제이주로 얼룩진 제닌 난민캠프]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/01143751-C9C3-C1D6-0702-EUJNHEO53ZJJXD0W29OY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
