@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스 ─ 보건복지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Apr 2026 05:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 07:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>http://newstapa.org/article/1D3lv</guid>
             <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[연금개혁의시간]⑧ 제 역할 못한 퇴직연금...소득대체율 20%는 돼야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/07155047-ACC6-C7C5-B374-QLSLYHSHYGI7JJ6PPQWX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[연금개혁의시간]⑦ '이상해진' 기초연금...이제는 바꿀 시간]]></title>

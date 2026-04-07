@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Apr 2026 05:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 07:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[연금개혁의시간]⑧ 제 역할 못한 퇴직연금...소득대체율 20%는 돼야]]></title>
+            <link>http://newstapa.org/article/1D3lv</link>
+            <guid>http://newstapa.org/article/1D3lv</guid>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]⑧ 제 역할 못한 퇴직연금...소득대체율 20%는 돼야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/07155047-ACC6-C7C5-B374-QLSLYHSHYGI7JJ6PPQWX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></title>
             <link>http://newstapa.org/article/T_N3z</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국회의원 다주택자 줄었는데... 어떤 주택을 남겼나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/31154601-FDBA-0625-5ED5-LA5TRRVQOKPKDA6G96P9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10년 새 평균 12억 5천만 원 불었다… 공직자 재산 장기 추적]]></title>
-            <link>http://newstapa.org/article/IJg04</link>
-            <guid>http://newstapa.org/article/IJg04</guid>
-            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[10년 새 평균 12억 5천만 원 불었다… 공직자 재산 장기 추적]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/31151951-1D2F-FF29-47B8-WHSO29RVQU6UR6D0INDE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

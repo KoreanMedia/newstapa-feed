@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-04-07T05:13:08.452Z</updated>
+    <updated>2026-04-07T07:21:38.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/5a16d4d/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연금개혁의시간]⑧ 제 역할 못한 퇴직연금...소득대체율 20%는 돼야]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112972121</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112972121"/>
+        <updated>2026-04-07T07:21:30.643Z</updated>
+        <content type="html"><![CDATA[그동안 우리나라의 퇴직연금은 노후 소득보장이라는 기능을 전혀 못해왔습니다. 중도 인출이나 일시금 수령으로 연금기능을 할 수 없었기 때문입니다. <br><br>지난 2월 노사정 합의로 도입하는 기금형 퇴직연금 활성화와 함께 퇴직급여를 받지 못하는 1년 미만 근속근로자와 특수고용직 등 사각지대 해소가 절실한 시점입니다. 퇴직연금이 소득대체율 20%는 보장할 수 있게 해줘야 연금선진국들처럼 노후 빈곤을 막을 수 있습니다.  <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/1D3lv</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112959798</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112893624"/>
         <updated>2026-03-31T07:19:39.749Z</updated>
         <content type="html"><![CDATA[고위공직자 4명 중 1명은 여전히 주택을 2채 이상 보유하고 있습니다. 8년 전에는 국회의원 중 41%가 다주택자였는데 이젠 다주택자가 18%입니다. <br><br>어떤 국회의원이 집을 팔았으며, 또 어떻게 팔았을까요? <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/SnGyS</span><br>👉 뉴스타파 공직자 재산 사이트: <span class="link_url">https://jaesan.newstapa.org/</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10년 새 평균 12억 5천만 원 불었다… 공직자 재산 장기 추적]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112893076</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112893076"/>
-        <updated>2026-03-31T07:19:39.751Z</updated>
-        <content type="html"><![CDATA[10년간 12.5억 원. 평범한 직장인이 평생을 안 쓰고 모아도 모으기 힘든 금액. 우리 사회 최고위 공직자들의 평균적인 재산 증가액입니다.<br><br>부동산과 주식이 들썩인 2025년에는 한 해 동안 평균 2억 원의 재산을 불렸습니다. 평년의 2배에 달하는 수치입니다. 이들의 자산 증식 비결은 무엇이었을까요?<br><br>뉴스타파는 2026년 공직자 재산 공개를 맞아 고위 공직자 373명의 10년 치 재산 데이터를 추적해 분석했습니다. 공직자들의 재산 변화는 뉴스타파 공직자 재산 정보 사이트에서 누구나 제약 없이 보실 수 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/IJg04</span><br>👉 뉴스타파 공직자 재산 사이트: <span class="link_url">https://jaesan.newstapa.org/</span>]]></content>
     </entry>
 </feed>
