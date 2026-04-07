@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-04-07T07:21:38.568Z</updated>
+    <updated>2026-04-07T09:06:39.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/5a16d4d/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴스타파저널리즘스쿨 5기 모집]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/112972865</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/112972865"/>
+        <updated>2026-04-07T09:06:29.975Z</updated>
+        <content type="html"><![CDATA[[독립언론 100개 만들기 프로젝트, 뉴스타파저널리즘스쿨 5기 모집!]<br><br>대한민국 독립언론의 산실 뉴스타파저널리즘스쿨(이하 ‘뉴스쿨’)이 5기 교육생을 모집합니다. <br><br>‘독립언론 100개 만들기’를 내건 뉴스쿨은 ‘탐사보도 이론 및 실습 교육 → 뉴스룸 실무 수련(펠로우십) → 창업’으로 이어지는 3단계 프로그램을 통해 지금까지 6개의 독립언론을 배출했습니다. 인천·경기지역독립매체 &lt;뉴스하다&gt;, 언론감시 전문매체 &lt;뉴스어디&gt;, 사법감시 전문매체 &lt;코트워치&gt;, 청주지역독립언론 &lt;미디어날&gt;, 기후·생태 전문매체 &lt;살아지구&gt;, 아시아 취재 전문매체 &lt;두니아&gt; 등입니다.<br><br>특히 올해 5기 뉴스쿨은 독립언론 창업이라는 목표에 최적화한 프로그램으로 개편했습니다. 창업 기간을 단축하고, 창업 이후 지원 기간을 대폭 늘렸습니다. <br><br>뉴스쿨은 단순히 기성언론사 입사 노하우나 ‘취재 기법’을 알려주는 교육 프로그램이 아닙니다. 이 시대 핵심 과제인 한국 언론생태계를 바꿔나갈 ‘언론개혁’ 프로젝트입니다. 독립언론에 대한 비전이 있다면 도전하세요.<br><br>👉 자세한 내용 확인하기 : <span class="link_url">https://kcij.org/notice/u/-GaRZ</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연금개혁의시간]⑧ 제 역할 못한 퇴직연금...소득대체율 20%는 돼야]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/112972121</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112894912"/>
         <updated>2026-03-31T09:04:15.025Z</updated>
         <content type="html"><![CDATA[“보철거 시민행동은 농성 700일째를 맞는 오늘 금강 세종보 천막 농성을 해제한다”<br><br>지난 30일 ‘보 철거를 위한 금강·낙동강·영산강·시민행동’이 세종보 천막을 걷었습니다. 윤석열 정부의 세종보 재가동에 맞서 금강 변에 무기한 천막 농성을 시작한지 700일 만입니다. 기후에너지환경부는 지난 24일 연말까지 구체적인 보 처리 방안을 마련한다는 내용의 4대강 재자연화 추진안을 발표했습니다. 이 추진안을 국가 물관리 기본 계획에 반영하고, 금강과 영산강 수계에서 2027년 상반기부터 보 처리 방안을 이행한다는 내용 등이 포함됐습니다.<br><br>700일을 버틴 농성 철막 철거하는 날, 뉴스타파가 강을 지켜온 사람들을 만났습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/Z5omPCbaczo</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/5tj7W</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회의원 다주택자 줄었는데... 어떤 주택을 남겼나]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112893624</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112893624"/>
-        <updated>2026-03-31T07:19:39.749Z</updated>
-        <content type="html"><![CDATA[고위공직자 4명 중 1명은 여전히 주택을 2채 이상 보유하고 있습니다. 8년 전에는 국회의원 중 41%가 다주택자였는데 이젠 다주택자가 18%입니다. <br><br>어떤 국회의원이 집을 팔았으며, 또 어떻게 팔았을까요? <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/SnGyS</span><br>👉 뉴스타파 공직자 재산 사이트: <span class="link_url">https://jaesan.newstapa.org/</span>]]></content>
     </entry>
 </feed>
