@@ -4,9 +4,16 @@
         <title>뉴스타파 ─ 뉴스 ─ 보건복지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Apr 2026 23:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 02:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[연금개혁의시간]⑧ 제 역할 못한 퇴직연금...소득대체율 20%는 돼야]]></title>
+            <link>http://newstapa.org/article/1D3lv</link>
+            <guid>http://newstapa.org/article/1D3lv</guid>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]⑧ 제 역할 못한 퇴직연금...소득대체율 20%는 돼야]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[연금개혁의시간]⑦ '이상해진' 기초연금...이제는 바꿀 시간]]></title>
             <link>http://newstapa.org/article/Cjclh</link>
@@ -126,14 +133,6 @@
             <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자생한방병원, 복지부 기준 어기고 수개월간 건강보험 급여 받다 적발]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08194729-75AF-583F-6BF1-GHYWL871F7TED8KKDX60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 최대 허리디스크 한방병원과 수상한 건강보험 적용]]></title>
-            <link>http://newstapa.org/article/WA00E</link>
-            <guid>http://newstapa.org/article/WA00E</guid>
-            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 허리디스크 한방병원과 수상한 건강보험 적용]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08195356-6EC0-9B9A-4F6B-SE4Z0QUF0D5O0NHZ9VWU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
