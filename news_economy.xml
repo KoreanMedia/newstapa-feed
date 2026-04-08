@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/category/%EA%B2%BD%EC%A0%9C%EC%86%8C%EB%B9%84%EC%9E%90</id>
-    <title>뉴스타파 ─ 뉴스 ─ 경제소비자</title>
-    <updated>2026-04-08T02:33:53.136Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스 ─ 경제소비자</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 08 Apr 2026 05:14:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장1열] 기름값 치솟은 날, 도로 위 사람들의 이야기를 듣다]]></title>
+            <link>http://newstapa.org/article/sAPAI</link>
+            <guid>http://newstapa.org/article/sAPAI</guid>
+            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장1열] 기름값 치솟은 날, 도로 위 사람들의 이야기를 듣다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/10173652-EF5E-D246-80A0-9M0AN3745HUJT1KJJSD5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[간송미술관장, 전시 자금으로 '빚 갈아타기' 의혹]]></title>
+            <link>http://newstapa.org/article/G3UK3</link>
+            <guid>http://newstapa.org/article/G3UK3</guid>
+            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[간송미술관장, 전시 자금으로 '빚 갈아타기' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/10151849-115F-2FC5-9019-1BO6MB3VI7FQICW63V4L.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[간송미술관장, 29억 횡령 의혹… 제작사엔 "돈 없다"]]></title>
+            <link>http://newstapa.org/article/hV8Lo</link>
+            <guid>http://newstapa.org/article/hV8Lo</guid>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[간송미술관장, 29억 횡령 의혹… 제작사엔 "돈 없다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/06144226-D95E-CA52-29FF-76P1L377ZLMAGB4LOCCG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[타파스] 쿠팡이 미국 의회를 움직이는 법 (feat. 로비 160억)]]></title>
+            <link>http://newstapa.org/article/o6K-7</link>
+            <guid>http://newstapa.org/article/o6K-7</guid>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 쿠팡이 미국 의회를 움직이는 법 (feat. 로비 160억)]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/09135224-9E3F-B20F-8659-QD28D964LT8O6WIN9214.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사]]></title>
+            <link>http://newstapa.org/article/XcGHS</link>
+            <guid>http://newstapa.org/article/XcGHS</guid>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06170235-8053-DDA0-31A8-MTRIJGI9RABJX1M7RYXD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 쿠팡은 고치지 않는다, 로비한다]]></title>
+            <link>http://newstapa.org/article/OhRY3</link>
+            <guid>http://newstapa.org/article/OhRY3</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 쿠팡은 고치지 않는다, 로비한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05170325-9A25-815E-BD0D-JHZXM6KJQWGVL8XFDY9H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[법 위의 선박왕 ⑤ 권혁 탈세 돕고 퇴직 뒤 20억 받은 국세청 공무원]]></title>
+            <link>http://newstapa.org/article/C54g9</link>
+            <guid>http://newstapa.org/article/C54g9</guid>
+            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법 위의 선박왕 ⑤ 권혁 탈세 돕고 퇴직 뒤 20억 받은 국세청 공무원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/22162103-4D6B-824B-AC12-1F14VQN3IKWTK7JJG42I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[법위의 선박왕 ④ '4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인]]></title>
+            <link>http://newstapa.org/article/l3mIk</link>
+            <guid>http://newstapa.org/article/l3mIk</guid>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법위의 선박왕 ④ '4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19155806-ED66-215E-D905-2UF1LX2CUMX567YQS8DZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[타파의 시선] 코스피 4천 시대, 당신이 더 가난해진 이유]]></title>
+            <link>http://newstapa.org/article/IklsH</link>
+            <guid>http://newstapa.org/article/IklsH</guid>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파의 시선] 코스피 4천 시대, 당신이 더 가난해진 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19111550-9649-3483-C1F6-OAC0ZJB2ZZQ52E8W30RJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 법 위의 선박왕, 세금은 정의로운가]]></title>
+            <link>http://newstapa.org/article/w7MLl</link>
+            <guid>http://newstapa.org/article/w7MLl</guid>
+            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 법 위의 선박왕, 세금은 정의로운가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/11171650-69A7-F1FD-2AA8-JJJ4OZ86G0WHYTRXLQGW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[법 위의 선박왕 ① 하루 70억 원 버는데... 세금 4천억 안내고 버텼다]]></title>
+            <link>http://newstapa.org/article/MX6Wn</link>
+            <guid>http://newstapa.org/article/MX6Wn</guid>
+            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법 위의 선박왕 ① 하루 70억 원 버는데... 세금 4천억 안내고 버텼다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/11171320-4AB3-2992-6CC0-4M6FD79LHJBE2V8GAZDT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[법 위의 선박왕 ② 14년 소송전... 50만분 1의 확률과 줄어든 세금 1,300억]]></title>
+            <link>http://newstapa.org/article/p8iMb</link>
+            <guid>http://newstapa.org/article/p8iMb</guid>
+            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법 위의 선박왕 ② 14년 소송전... 50만분 1의 확률과 줄어든 세금 1,300억]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/11171551-7B09-1410-944B-XPWA3JE6MEXV3IQPI4DE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[법 위의 선박왕 ③ 자산 · 소득 0원으로 생활? 수십 억 횡령 증거 포착]]></title>
+            <link>http://newstapa.org/article/lCl2E</link>
+            <guid>http://newstapa.org/article/lCl2E</guid>
+            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법 위의 선박왕 ③ 자산 · 소득 0원으로 생활? 수십 억 횡령 증거 포착]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/11171622-DD84-5D7D-7EF6-0KL80OZM0UY4RH40SXV3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기후 도박] ① 부풀려진 용인 산단 '수소 발전' 평가서… 환경부 개입 의혹]]></title>
+            <link>http://newstapa.org/article/qjWoy</link>
+            <guid>http://newstapa.org/article/qjWoy</guid>
+            <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기후 도박] ① 부풀려진 용인 산단 '수소 발전' 평가서… 환경부 개입 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/18112840-ACC4-635E-6E2E-QQIYBP7BPKPVNOLIUQE6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파]아무도 책임지지 않는다, SPC 빵공장의 죽음]]></title>
+            <link>http://newstapa.org/article/vC1rE</link>
+            <guid>http://newstapa.org/article/vC1rE</guid>
+            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파]아무도 책임지지 않는다, SPC 빵공장의 죽음]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11140012-8489-71C6-BD4F-ZHOGG0C66VEZYBERM2NQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무엇을 할 것인가 : 경제] 기울어진 기틀에 바로 서는 경제는 없다]]></title>
+            <link>http://newstapa.org/article/ciZrs</link>
+            <guid>http://newstapa.org/article/ciZrs</guid>
+            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[무엇을 할 것인가 : 경제] 기울어진 기틀에 바로 서는 경제는 없다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/27190633-0C12-A285-7D0B-WNH9LN31Z5M3QQFQ7XVV.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
