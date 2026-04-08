@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Apr 2026 07:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 09:05:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이재명 조폭 자금' 허위 폭로 곳곳에 국민의힘 연루 흔적]]></title>
+            <link>http://newstapa.org/article/Ulwq4</link>
+            <guid>http://newstapa.org/article/Ulwq4</guid>
+            <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['이재명 조폭 자금' 허위 폭로 곳곳에 국민의힘 연루 흔적]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/08175916-EF74-011E-B6BE-BZLPT4O05R2H9KSZYZDO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 팔레스타인의 바이라인, 그 너머의 얼굴들]]></title>
+            <link>http://newstapa.org/article/cxk8T</link>
+            <guid>http://newstapa.org/article/cxk8T</guid>
+            <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 팔레스타인의 바이라인, 그 너머의 얼굴들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/08165708-4E06-A917-10D9-ZTXSJUKOPC07RU4PF562.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["윤석열 2012년 녹음파일 법정에서 틀자"...'윤석열 거짓말' 2차 공판]]></title>
             <link>http://newstapa.org/article/wkf4H</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 식당 법카 결제로 징계받은 황규진·이유경, 인천시의원 출마]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/01154235-7AC2-A15F-357A-I93E56LG2Z5J47NUAI1P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파나마 페이퍼스 10년①] 세계를 뒤흔든 이야기 : 어떻게 시작했나]]></title>
-            <link>http://newstapa.org/article/gP0W0</link>
-            <guid>http://newstapa.org/article/gP0W0</guid>
-            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[파나마 페이퍼스 10년①] 세계를 뒤흔든 이야기 : 어떻게 시작했나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/01105222-8020-D077-36A4-I89CMPEYLC0PMHCVFG0U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장1열] 세종보 재가동 저지 농성 700일만에 종료 "4대강 재자연화 의지 확인"]]></title>
-            <link>http://newstapa.org/article/5tj7W</link>
-            <guid>http://newstapa.org/article/5tj7W</guid>
-            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장1열] 세종보 재가동 저지 농성 700일만에 종료 "4대강 재자연화 의지 확인"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/31162436-5943-6BFC-3E3B-KV8LSWEZZI2BO1B5CK7T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
