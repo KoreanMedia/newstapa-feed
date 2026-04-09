@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Apr 2026 02:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 05:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중앙해심 "세월호, 복원성 불량 전복" 최종 결론…청해진해운, 또 불복 '행정소송']]></title>
+            <link>http://newstapa.org/article/IFWOY</link>
+            <guid>http://newstapa.org/article/IFWOY</guid>
+            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중앙해심 "세월호, 복원성 불량 전복" 최종 결론…청해진해운, 또 불복 '행정소송']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/09104322-8977-1800-134E-9WHUKX7T5GMILY7FI75K.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] AI와 전쟁 ② 선이 그어지고, 지워지고, 처벌받기까지]]></title>
             <link>http://newstapa.org/article/c6Rup</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 제주항공 참사, 밝혀야 할 것과 바꿔야 할 것]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09195343-347F-3FBE-B6ED-O9ZE770EKWM8V7K5C29C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참사 9일 만에 장례…무안공항에 남겨진 유가족들의 ‘기다림’]]></title>
-            <link>http://newstapa.org/article/anuxy</link>
-            <guid>http://newstapa.org/article/anuxy</guid>
-            <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[참사 9일 만에 장례…무안공항에 남겨진 유가족들의 ‘기다림’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09193515-A70D-5522-CD94-D1TKVO0UX90I5BY52ZCB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

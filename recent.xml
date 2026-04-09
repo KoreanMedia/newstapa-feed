@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Apr 2026 02:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 05:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중앙해심 "세월호, 복원성 불량 전복" 최종 결론…청해진해운, 또 불복 '행정소송']]></title>
+            <link>http://newstapa.org/article/IFWOY</link>
+            <guid>http://newstapa.org/article/IFWOY</guid>
+            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중앙해심 "세월호, 복원성 불량 전복" 최종 결론…청해진해운, 또 불복 '행정소송']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/09104322-8977-1800-134E-9WHUKX7T5GMILY7FI75K.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이재명 조폭 자금' 허위 폭로 곳곳에 국민의힘 연루 흔적]]></title>
             <link>http://newstapa.org/article/Ulwq4</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['이재명 조폭 자금' 허위 폭로 일당, 윤석열 선거운동했다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/01171058-F611-975E-6DAC-KAUJ9E0AY8IPGVBF8PAC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 식당 법카 결제로 징계받은 황규진·이유경, 인천시의원 출마]]></title>
-            <link>http://newstapa.org/article/5sLrE</link>
-            <guid>http://newstapa.org/article/5sLrE</guid>
-            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 식당 법카 결제로 징계받은 황규진·이유경, 인천시의원 출마]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/01154235-7AC2-A15F-357A-I93E56LG2Z5J47NUAI1P.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
