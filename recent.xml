@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Apr 2026 09:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 11:02:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[농지투기 추적] ① 데이터로 추적한 ‘강남 농부’...개발 발표 5개월 전 농지 산 회장님]]></title>
+            <link>http://newstapa.org/article/5RwDj</link>
+            <guid>http://newstapa.org/article/5RwDj</guid>
+            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[농지투기 추적] ① 데이터로 추적한 ‘강남 농부’...개발 발표 5개월 전 농지 산 회장님]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/09195033-166C-7997-39D5-FT2CHRPHNWSFISRGC602.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[농지투기 추적]누더기가 된 헌법정신... 누가 농지 투기로 돈을 벌었나]]></title>
+            <link>http://newstapa.org/article/qcW1o</link>
+            <guid>http://newstapa.org/article/qcW1o</guid>
+            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[농지투기 추적]누더기가 된 헌법정신... 누가 농지 투기로 돈을 벌었나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/09191526-50A1-0853-F824-E3NN44KHLU9IPQ61OLQE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중앙해심 "세월호, 복원성 불량 전복" 최종 결론…청해진해운, 또 불복 '행정소송']]></title>
             <link>http://newstapa.org/article/IFWOY</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김건희 판결문으로 본 정교유착② "저희가 작업중이에요"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/02144825-FF14-1650-59BC-2ZIYZSZOOC8O19FELA57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 판결문으로 본 정교유착 ① "윤석열을 돕겠다"]]></title>
-            <link>http://newstapa.org/article/6dgE-</link>
-            <guid>http://newstapa.org/article/6dgE-</guid>
-            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희 판결문으로 본 정교유착 ① "윤석열을 돕겠다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/02144529-3325-4059-12EB-K2HBUX9MIL31DUB65A9X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이재명 조폭 자금' 허위 폭로 일당, 윤석열 선거운동했다]]></title>
-            <link>http://newstapa.org/article/5utzW</link>
-            <guid>http://newstapa.org/article/5utzW</guid>
-            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이재명 조폭 자금' 허위 폭로 일당, 윤석열 선거운동했다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/01171058-F611-975E-6DAC-KAUJ9E0AY8IPGVBF8PAC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

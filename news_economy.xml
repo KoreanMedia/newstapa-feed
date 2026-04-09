@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 경제소비자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Apr 2026 09:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 11:02:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[농지투기 추적]누더기가 된 헌법정신... 누가 농지 투기로 돈을 벌었나]]></title>
+            <link>http://newstapa.org/article/qcW1o</link>
+            <guid>http://newstapa.org/article/qcW1o</guid>
+            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[농지투기 추적]누더기가 된 헌법정신... 누가 농지 투기로 돈을 벌었나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/09191526-50A1-0853-F824-E3NN44KHLU9IPQ61OLQE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장1열] 기름값 치솟은 날, 도로 위 사람들의 이야기를 듣다]]></title>
             <link>http://newstapa.org/article/sAPAI</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[다큐 뉴스타파]아무도 책임지지 않는다, SPC 빵공장의 죽음]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/11140012-8489-71C6-BD4F-ZHOGG0C66VEZYBERM2NQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무엇을 할 것인가 : 경제] 기울어진 기틀에 바로 서는 경제는 없다]]></title>
-            <link>http://newstapa.org/article/ciZrs</link>
-            <guid>http://newstapa.org/article/ciZrs</guid>
-            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[무엇을 할 것인가 : 경제] 기울어진 기틀에 바로 서는 경제는 없다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/27190633-0C12-A285-7D0B-WNH9LN31Z5M3QQFQ7XVV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
