@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Apr 2026 11:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 12:02:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[농지투기 추적] ② 농지가 골프장으로...박덕흠 의원 일가의 '비결']]></title>
+            <link>http://newstapa.org/article/g9zS-</link>
+            <guid>http://newstapa.org/article/g9zS-</guid>
+            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[농지투기 추적] ② 농지가 골프장으로...박덕흠 의원 일가의 '비결']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/09201802-BEF5-CD78-6F36-G4M3NDIOBK1AXB7IC4JT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[농지투기 추적] ① 데이터로 추적한 ‘강남 농부’...개발 발표 5개월 전 농지 산 회장님]]></title>
             <link>http://newstapa.org/article/5RwDj</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['명태균 무죄' 재판장의 골프 여행 접대, 조희대 대법원 '뒷북' 제도 개선 검토]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/16173104-95F6-CA0E-0126-63UDVHERZGQJ7LXQMJXF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[반론보도] <현역 동작구의원, 지역 주민 상대로 수차례 성희롱 의혹> 보도 관련]]></title>
-            <link>http://newstapa.org/article/qBvb2</link>
-            <guid>http://newstapa.org/article/qBvb2</guid>
-            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[반론보도] &lt;현역 동작구의원, 지역 주민 상대로 수차례 성희롱 의혹&gt; 보도 관련]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/10174652-2DBC-CFA8-AD77-L5JSGPSIU71B2YBCCJX5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
