@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Apr 2026 02:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 05:45:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[농지투기 추적] ③헌법 비웃는 국회의원의 농지 재테크… 백종헌 ‘가짜 농부’ 의혹]]></title>
+            <link>http://newstapa.org/article/aFDF1</link>
+            <guid>http://newstapa.org/article/aFDF1</guid>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[농지투기 추적] ③헌법 비웃는 국회의원의 농지 재테크… 백종헌 ‘가짜 농부’ 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/13143542-0727-4C97-45F7-5K8I1KJA5SJ3Q9SS6JME.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] AI와 전쟁③④⑤ 앤트로픽 가처분 소송의 전말]]></title>
             <link>http://newstapa.org/article/3yU-r</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘윤석열 명예훼손’ 위법수사 국가배상 재판 시작]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/03180100-89E2-2F9C-B4AD-TR35NDE3UCX6Z0A6ERLN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 이란전쟁 보도…‘누가 이겼나’가 ‘누가 죽었나’보다 10배 많아]]></title>
-            <link>http://newstapa.org/article/QTExv</link>
-            <guid>http://newstapa.org/article/QTExv</guid>
-            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 이란전쟁 보도…‘누가 이겼나’가 ‘누가 죽었나’보다 10배 많아]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/03173137-A722-84D6-E94B-YG83UN1SM9TZNMVTD7PX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
