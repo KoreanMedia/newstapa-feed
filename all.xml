@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Apr 2026 23:39:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 02:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] AI와 전쟁③④⑤ 앤트로픽 가처분 소송의 전말 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/3yU-r</link>
+            <guid>http://newstapa.org/article/3yU-r</guid>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] AI와 전쟁③④⑤ 앤트로픽 가처분 소송의 전말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/13112324-CFB0-01A1-A35D-HYDVSQ1WNGPSQ7KKFNDY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 2, '담장을 쌓고 이웃으로 살자'- 송민순 전 외교통상부 장관 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Iyp6B</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 이란전쟁 보도…‘누가 이겼나’가 ‘누가 죽었나’보다 10배 많아]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/03173137-A722-84D6-E94B-YG83UN1SM9TZNMVTD7PX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[목격자들] 사월의 기억 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/oDWzF</link>
-            <guid>http://newstapa.org/article/oDWzF</guid>
-            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[목격자들] 사월의 기억]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/03160621-02BD-6FB1-CAEF-FMHAFTDLXRTVD85Y8V7B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[🔴주간 뉴스타파] 농지 투기 추적 : 강남 농부와 의원 농부 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08194729-75AF-583F-6BF1-GHYWL871F7TED8KKDX60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] AI와 전쟁③④⑤ 앤트로픽 가처분 소송의 전말 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/3yU-r</link>
+            <guid>http://newstapa.org/article/3yU-r</guid>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] AI와 전쟁③④⑤ 앤트로픽 가처분 소송의 전말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/13112324-CFB0-01A1-A35D-HYDVSQ1WNGPSQ7KKFNDY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 2, '담장을 쌓고 이웃으로 살자'- 송민순 전 외교통상부 장관 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/Iyp6B</link>
             <guid>http://newstapa.org/article/Iyp6B</guid>
@@ -1790,14 +1798,6 @@
             <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] '북한 무인기 운용' 민간인 파헤쳐보니... 군-보수단체 연결고리 '주렁주렁']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/26143747-9618-5B11-54A4-DT8NQ6Y45TURKLXJGZW3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정보사, "'북한 무인기' 대학원생은 공작부대 협조자" 인정 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/IKdeC</link>
-            <guid>http://newstapa.org/article/IKdeC</guid>
-            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정보사, "'북한 무인기' 대학원생은 공작부대 협조자" 인정]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/23143111-69A3-8435-762B-LTKQAKP3FEZWU3HP7DET.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
@@ -3088,6 +3088,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/04180829-9CEC-F153-65F6-7JGTNJVQK6YEF28C2JBD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] AI와 전쟁③④⑤ 앤트로픽 가처분 소송의 전말 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/3yU-r</link>
+            <guid>https://www.newstapa.org/article/3yU-r</guid>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.04.13]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/13112324-CFB0-01A1-A35D-HYDVSQ1WNGPSQ7KKFNDY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 이란전쟁 보도…‘누가 이겼나’가 ‘누가 죽었나’보다 10배 많아 (뉴스타파 ─ 참여)]]></title>
             <link>https://www.newstapa.org/article/QTExv</link>
             <guid>https://www.newstapa.org/article/QTExv</guid>
@@ -3206,14 +3214,6 @@
             <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2025.10.16]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16104301-F977-78B1-8273-94NYWYL3EXZNLPZTXXJZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 서부지법 폭동 재판②: 1차 침입...후문에서 7층까지 (뉴스타파 ─ 참여)]]></title>
-            <link>https://www.newstapa.org/article/g8-IG</link>
-            <guid>https://www.newstapa.org/article/g8-IG</guid>
-            <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025.10.13]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/14133754-D4FE-DFB5-7377-C3JLVYHE54G03FJAEMO1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파] '담장을 쌓고 이웃으로 살자'- 송민순 전 외교통상부 장관 (뉴스타파 ─ 카카오톡 채널)]]></title>
@@ -3356,6 +3356,14 @@
             <content:encoded><![CDATA[뉴스타파 목격자들 &lt;사월의 기억&gt;은 제주 4.3 항쟁, 419혁명, 5월 광주민주화 운동 등 박정희 정권, 전두환 정권의 반공 예술을 따라가며, 이미지 뒤에 작동하는 권력과 이념이 현실을 어떻게 왜곡하고 개입하는지 추적합니다. 동시에 권력에 적극적으로 협력하든 무심히 기록하든, 모든 창작 이미지가 결국 시대의 권력 구조와 무관할 수 없음을 묻습니다.<br><br> 역사는 누가 만드는 것일까요? 독립감독과 함께 만드는 협업 프로그램 목격자들, &lt;사월의 기억&gt;입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/hoImGpL0Tvk</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/oDWzF</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[KINN] AI와 전쟁③④⑤ 앤트로픽 가처분 소송의 전말 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260413113144835</link>
+            <guid>https://v.daum.net/v/20260413113144835</guid>
+            <pubDate>Mon, 13 Apr 2026 02:48:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260413113144835" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] AI와 전쟁③④⑤ 앤트로픽 가처분 소송의 전말</strong><span class="info_txt"><span class="txt_info">16분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F13%2Fnewstapa%2F20260413113145497racn.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F13%2Fnewstapa%2F20260413113145497racn.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 2, '담장을 쌓고 이웃으로 살자'- 송민순 전 외교통상부 장관 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260410180653849</link>
             <guid>https://v.daum.net/v/20260410180653849</guid>
@@ -3368,7 +3376,7 @@
             <link>https://v.daum.net/v/20260410110145387</link>
             <guid>https://v.daum.net/v/20260410110145387</guid>
             <pubDate>Fri, 10 Apr 2026 02:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260410110145387" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[해설 사법개혁] ① 조희대는 왜 대법관을 제청하지 않나</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F10%2Fnewstapa%2F20260410110147130shhx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260410110145387" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[해설 사법개혁] ① 조희대는 왜 대법관을 제청하지 않나</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F10%2Fnewstapa%2F20260410110147130shhx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F10%2Fnewstapa%2F20260410110147130shhx.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3440,7 +3448,7 @@
             <link>https://v.daum.net/v/20260407110653743</link>
             <guid>https://v.daum.net/v/20260407110653743</guid>
             <pubDate>Tue, 07 Apr 2026 02:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260407110653743" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]⑧ 제 역할 못한 퇴직연금...소득대체율 20%는 돼야</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F07%2Fnewstapa%2F20260407110654552oalo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260407110653743" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]⑧ 제 역할 못한 퇴직연금...소득대체율 20%는 돼야</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F07%2Fnewstapa%2F20260407110654552oalo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F07%2Fnewstapa%2F20260407110654552oalo.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3586,14 +3594,6 @@
             <pubDate>Fri, 27 Mar 2026 08:58:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260327163653569" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 1, '그래도 동족이다' - 정세현 전 통일부 장관</strong><span class="info_txt"><span class="txt_info">2026. 3. 27.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F27%2Fnewstapa%2F20260327181927910jlla.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F27%2Fnewstapa%2F20260327181927910jlla.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[“국민에게 대북 살상 작전” 휴민트 여단장이 본 ‘노상원 수첩’ (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260327111656464</link>
-            <guid>https://v.daum.net/v/20260327111656464</guid>
-            <pubDate>Fri, 27 Mar 2026 02:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260327111656464" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“국민에게 대북 살상 작전” 휴민트 여단장이 본 ‘노상원 수첩’</strong><span class="info_txt"><span class="txt_info">2026. 3. 27.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F27%2Fnewstapa%2F20260327111714088cdvu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202603%2F27%2Fnewstapa%2F20260327111714088cdvu.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
