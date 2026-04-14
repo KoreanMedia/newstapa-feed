@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Apr 2026 09:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 11:07:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동아·조선투위, '자유언론 투쟁 기자 해고 정당' 판결에 '재판 소원']]></title>
+            <link>http://newstapa.org/article/3znro</link>
+            <guid>http://newstapa.org/article/3znro</guid>
+            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[동아·조선투위, '자유언론 투쟁 기자 해고 정당' 판결에 '재판 소원']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/14180046-0635-16AF-4BE6-EASMNYHRYSMGBGRCS2RU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[칼럼] 정치검찰의 몰락과 윤석열 사단의 종말]]></title>
             <link>http://newstapa.org/article/h6wq5</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/06154520-99AB-AD70-45AF-51X5SBSJPVRRDZZDO8OH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파나마 페이퍼스 10년] 뉴스타파는 어떻게 취재했나]]></title>
-            <link>http://newstapa.org/article/Vo2_Z</link>
-            <guid>http://newstapa.org/article/Vo2_Z</guid>
-            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[파나마 페이퍼스 10년] 뉴스타파는 어떻게 취재했나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/06141731-08A5-EA5C-A539-YCA0BD6RI0AYDYOJ4S15.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

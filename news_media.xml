@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Apr 2026 09:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 11:07:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동아·조선투위, '자유언론 투쟁 기자 해고 정당' 판결에 '재판 소원']]></title>
+            <link>http://newstapa.org/article/3znro</link>
+            <guid>http://newstapa.org/article/3znro</guid>
+            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[동아·조선투위, '자유언론 투쟁 기자 해고 정당' 판결에 '재판 소원']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/14180046-0635-16AF-4BE6-EASMNYHRYSMGBGRCS2RU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></title>
             <link>http://newstapa.org/article/T_N3z</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“류희림이 잘 처리 해줄 것” 청부 민원 단톡방 존재 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05164527-0D65-E836-68F9-G4EXFIT2YEGF1AIUZAE9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 통일교 돈 번 언론② 정교유착? 통일교 띄워준 언교유착이 더 심하다]]></title>
-            <link>http://newstapa.org/article/BLAES</link>
-            <guid>http://newstapa.org/article/BLAES</guid>
-            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 통일교 돈 번 언론② 정교유착? 통일교 띄워준 언교유착이 더 심하다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13181001-F069-36D8-853D-5RT6Q8F4KGFT519AK6XB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
