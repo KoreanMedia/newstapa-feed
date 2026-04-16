@@ -4,15 +4,23 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Apr 2026 07:51:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 09:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세월호 12주기 "그날을 잊지 않겠습니다"]]></title>
+            <link>https://v.daum.net/v/20260416181107760</link>
+            <guid>https://v.daum.net/v/20260416181107760</guid>
+            <pubDate>Thu, 16 Apr 2026 09:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260416181107760" class="link_column"><div class="cont_thumb"><strong class="tit_txt">세월호 12주기 "그날을 잊지 않겠습니다"</strong><span class="info_txt"><span class="txt_info">12분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F16%2Fnewstapa%2F20260416181111980sopc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F16%2Fnewstapa%2F20260416181111980sopc.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[김병기, '가족 리스크' 무마에 정치자금 1,660만 원 지출]]></title>
             <link>https://v.daum.net/v/20260416134102031</link>
             <guid>https://v.daum.net/v/20260416134102031</guid>
             <pubDate>Thu, 16 Apr 2026 05:34:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260416134102031" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김병기, '가족 리스크' 무마에 정치자금 1,660만 원 지출</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F16%2Fnewstapa%2F20260416134103527kwfd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260416134102031" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김병기, '가족 리스크' 무마에 정치자금 1,660만 원 지출</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F16%2Fnewstapa%2F20260416134103527kwfd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F16%2Fnewstapa%2F20260416134103527kwfd.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://v.daum.net/v/20260410180653849</link>
             <guid>https://v.daum.net/v/20260410180653849</guid>
             <pubDate>Fri, 10 Apr 2026 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260410180653849" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 2, '담장을 쌓고 이웃으로 살자'- 송민순 전 외교통상부 장관</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F10%2Fnewstapa%2F20260410180659673jwwr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260410180653849" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 2, '담장을 쌓고 이웃으로 살자'- 송민순 전 외교통상부 장관</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F10%2Fnewstapa%2F20260410180659673jwwr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F10%2Fnewstapa%2F20260410180659673jwwr.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Apr 2026 09:25:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260401171658092" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'이재명 조폭 자금' 허위 폭로 일당, 윤석열 선거운동했다</strong><span class="info_txt"><span class="txt_info">2026. 4. 1.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F01%2Fnewstapa%2F20260401171703612pwuz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F01%2Fnewstapa%2F20260401171703612pwuz.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 식당 법카 결제로 징계받은 황규진·이유경, 인천시의원 출마]]></title>
-            <link>https://v.daum.net/v/20260401160125169</link>
-            <guid>https://v.daum.net/v/20260401160125169</guid>
-            <pubDate>Wed, 01 Apr 2026 07:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260401160125169" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 식당 법카 결제로 징계받은 황규진·이유경, 인천시의원 출마</strong><span class="info_txt"><span class="txt_info">2026. 4. 1.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F01%2Fnewstapa%2F20260401160127107oxgt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F01%2Fnewstapa%2F20260401160127107oxgt.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
