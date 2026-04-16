@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-04-16T02:46:09.697Z</updated>
+    <updated>2026-04-16T05:34:57.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/5a16d4d/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김병기, 전직 보좌진 겁박에 정치자금 560만 원 지출]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/113063170</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/113063170"/>
+        <updated>2026-04-16T05:34:46.986Z</updated>
+        <content type="html"><![CDATA[무소속 김병기 의원이 자신의 비위 의혹을 알고 있는 전직 보좌 직원들의 입을 막기 위해 수백만 원의 정치자금을 지출한 사실이 확인됐습니다. <br><br>뉴스타파가 김 의원의 2025년 정치자금 지출 내역을 입수해 확인한 결과, 김 의원은 지난해 전직 보좌 직원들이 자신에 대한 제보를 하는 것을 막고 민형사상 고소 위협을 하는 데 정치자금 560만 원을 지출한 것으로 드러났습니다. <br><br>김 의원은 이밖에 지난 2024년에도 자신과 가족을 둘러싼 의혹 제기를 봉쇄하는 데 정치자금 1,100만 원을 지출했습니다. <br><br>국회의원이 권력을 남용해 발생한 사건을 무마하고 의혹을 감추는 데 공적 성격의 정치자금을 사용하는 게 적절한지 의문이 제기됩니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/Qi2GCgyMJlI</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/L61u7</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연금개혁의시간]⑨ 미래로 연금 크레디트 폭탄 돌리는 정부]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/113051286</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112972121"/>
         <updated>2026-04-07T07:21:30.643Z</updated>
         <content type="html"><![CDATA[그동안 우리나라의 퇴직연금은 노후 소득보장이라는 기능을 전혀 못해왔습니다. 중도 인출이나 일시금 수령으로 연금기능을 할 수 없었기 때문입니다. <br><br>지난 2월 노사정 합의로 도입하는 기금형 퇴직연금 활성화와 함께 퇴직급여를 받지 못하는 1년 미만 근속근로자와 특수고용직 등 사각지대 해소가 절실한 시점입니다. 퇴직연금이 소득대체율 20%는 보장할 수 있게 해줘야 연금선진국들처럼 노후 빈곤을 막을 수 있습니다.  <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/1D3lv</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112959798</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112959798"/>
-        <updated>2026-04-06T07:47:24.603Z</updated>
-        <content type="html"><![CDATA[검찰이 뉴스타파가 연속보도한 TV조선 부사장 방정오 씨의 배임 의혹에 대해 수사에 착수했습니다. 지난달 16일 시민단체 '세금도둑잡아라' 하승수 변호사가 방 씨를 서울중앙지검에 특경법상 업무상배임 혐의로 고발한 바 있습니다.<br><br>뉴스타파는 지난달 12일부터 방 씨가 최대주주인 콘텐츠 업체 하이그라운드가 지난 2019년 5월 아랍에미리트 회사로 송금한 500만 달러를 둘러싼 배임 의혹을 연속보도하고 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/T_N3z</span>]]></content>
     </entry>
 </feed>
