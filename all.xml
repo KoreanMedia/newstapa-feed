@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Apr 2026 07:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 09:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[항암비용의 진실]① 세계 매출 1위 의약품 ‘키트루다’에 숨겨진 전략 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/HZFyg</link>
+            <guid>http://newstapa.org/article/HZFyg</guid>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[항암비용의 진실]① 세계 매출 1위 의약품 ‘키트루다’에 숨겨진 전략]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/17161854-5B4B-6BE9-EBC0-5HI8Z3DSAJWTBODH3J1R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["형, 집에 가자"...동생이 찾은 '죽음의 컨베이어벨트' (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/yZMcE</link>
+            <guid>http://newstapa.org/article/yZMcE</guid>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["형, 집에 가자"...동생이 찾은 '죽음의 컨베이어벨트']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/16103443-A454-1391-983C-1CBLI3OOLW6F059RIEYN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 세월호 참사 12주기 : 책임자들의 음모론 활용법 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Ds5es</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[농지투기 추적] ① 데이터로 추적한 ‘강남 농부’...개발 발표 5개월 전 농지 산 회장님]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/09195033-166C-7997-39D5-FT2CHRPHNWSFISRGC602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[농지투기 추적] 누더기가 된 헌법정신... 누가 농지 투기로 돈을 벌었나 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/qcW1o</link>
-            <guid>http://newstapa.org/article/qcW1o</guid>
-            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[농지투기 추적] 누더기가 된 헌법정신... 누가 농지 투기로 돈을 벌었나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/09191526-50A1-0853-F824-E3NN44KHLU9IPQ61OLQE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중앙해심 "세월호, 복원성 불량 전복" 최종 결론…청해진해운, 또 불복 '행정소송' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/IFWOY</link>
-            <guid>http://newstapa.org/article/IFWOY</guid>
-            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[중앙해심 "세월호, 복원성 불량 전복" 최종 결론…청해진해운, 또 불복 '행정소송']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/09104322-8977-1800-134E-9WHUKX7T5GMILY7FI75K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김병기, '가족 리스크' 무마에 정치자금 1,660만 원 지출 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/20171919-C595-8B87-D2FB-L44SHUBQ8RMCGJFNVMMU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["형, 집에 가자"...동생이 찾은 '죽음의 컨베이어벨트' (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/yZMcE</link>
+            <guid>http://newstapa.org/article/yZMcE</guid>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["형, 집에 가자"...동생이 찾은 '죽음의 컨베이어벨트']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/16103443-A454-1391-983C-1CBLI3OOLW6F059RIEYN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[미니다큐] “유골로 돌아온 아들, 진실 밝혀달라”...베트남에서 온 영상편지 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/oBnFU</link>
             <guid>http://newstapa.org/article/oBnFU</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 한화오션 '470억 손배소' 취하가 진정성을 가지려면]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/29180825-5F4D-432B-98C6-OHGNUUE8H73XDJ057LPY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이태원 참사' 3주기... 다시 만난 '진실버스' 유가족 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/HDlKG</link>
-            <guid>http://newstapa.org/article/HDlKG</guid>
-            <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이태원 참사' 3주기... 다시 만난 '진실버스' 유가족]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/29120027-D2AC-03BE-0D51-P7YSSHLBXXF1IO397NNV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 세월호 참사 12주기 : 책임자들의 음모론 활용법 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -1544,6 +1544,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10131913-2BBC-05D6-A251-YKBNWB84YBTJI99NIIRB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[항암비용의 진실]① 세계 매출 1위 의약품 ‘키트루다’에 숨겨진 전략 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/HZFyg</link>
+            <guid>http://newstapa.org/article/HZFyg</guid>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[항암비용의 진실]① 세계 매출 1위 의약품 ‘키트루다’에 숨겨진 전략]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/17161854-5B4B-6BE9-EBC0-5HI8Z3DSAJWTBODH3J1R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[연금개혁의시간]⑨ 미래로 연금 크레디트 폭탄 돌리는 정부 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
             <link>http://newstapa.org/article/WhKkZ</link>
             <guid>http://newstapa.org/article/WhKkZ</guid>
@@ -1664,12 +1672,140 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/21173042-93E5-D993-02B9-DTNVTJ06DQHCQWOIQJSV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 뉴스타파] 자생한방병원과 악마의 발톱 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
-            <link>http://newstapa.org/article/rOWcA</link>
-            <guid>http://newstapa.org/article/rOWcA</guid>
-            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 자생한방병원과 악마의 발톱]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08194328-7098-371A-5723-KAZUNXYK9KFRSUSGAX56.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[KINN] AI와 전쟁③④⑤ 앤트로픽 가처분 소송의 전말 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/3yU-r</link>
+            <guid>http://newstapa.org/article/3yU-r</guid>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] AI와 전쟁③④⑤ 앤트로픽 가처분 소송의 전말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/13112324-CFB0-01A1-A35D-HYDVSQ1WNGPSQ7KKFNDY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 2, '담장을 쌓고 이웃으로 살자'- 송민순 전 외교통상부 장관 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/Iyp6B</link>
+            <guid>http://newstapa.org/article/Iyp6B</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 2, '담장을 쌓고 이웃으로 살자'- 송민순 전 외교통상부 장관]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/10173550-EC16-665F-7498-6KSUTLKKHSCLKGZ4YUCW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 1, '그래도 동족이다' - 정세현 전 통일부 장관 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/SRUoU</link>
+            <guid>http://newstapa.org/article/SRUoU</guid>
+            <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 1, '그래도 동족이다' - 정세현 전 통일부 장관]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/27160817-5AE0-8BBF-A1C3-HPJSCO839HREZGGZ83AW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“국민에게 대북 살상 작전” 휴민트 여단장이 본 ‘노상원 수첩’ (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/xKy8x</link>
+            <guid>http://newstapa.org/article/xKy8x</guid>
+            <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“국민에게 대북 살상 작전” 휴민트 여단장이 본 ‘노상원 수첩’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/27142042-63D2-8758-1D76-3MXOLX85V83EJ2CZ1WPY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장1열] "성주 사드, 누구를 위한 무기였나?" (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/R_g0A</link>
+            <guid>http://newstapa.org/article/R_g0A</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장1열] "성주 사드, 누구를 위한 무기였나?"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26142125-5F01-8B5F-7D1A-P030H3M3KICMT5R8Q80N.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] AI와 전쟁① "개처럼 쫓아냈다"...트럼프와 앤트로픽의 대결 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/_i9vH</link>
+            <guid>http://newstapa.org/article/_i9vH</guid>
+            <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] AI와 전쟁① "개처럼 쫓아냈다"...트럼프와 앤트로픽의 대결]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/20145052-55B7-CC8B-A699-5MHL347NE04TZ19VFG5W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 타이-캄보디아 국경, 7만 9천 명의 ‘멈춰버린 시간’ (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/lK1_n</link>
+            <guid>http://newstapa.org/article/lK1_n</guid>
+            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 타이-캄보디아 국경, 7만 9천 명의 ‘멈춰버린 시간’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/24144124-EAC9-A49A-E149-SQF0XI59MZ17ATPSOT78.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민간 무인기 북한 침투 현장에 '9공수' 소속 현역 장교 동행 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/RAiCo</link>
+            <guid>http://newstapa.org/article/RAiCo</guid>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[민간 무인기 북한 침투 현장에 '9공수' 소속 현역 장교 동행]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/12165932-C935-B233-31D2-HMNRK104YO8OUHNS8QSL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/XcGHS</link>
+            <guid>http://newstapa.org/article/XcGHS</guid>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06170235-8053-DDA0-31A8-MTRIJGI9RABJX1M7RYXD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/orn0l</link>
+            <guid>http://newstapa.org/article/orn0l</guid>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06154440-A1CE-1696-AEB1-7EM9E4JKU1SWJFW003IQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/Z9RRu</link>
+            <guid>http://newstapa.org/article/Z9RRu</guid>
+            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/04194535-09AE-A97E-EDD5-PJ4VPZLV98WLNULDCBPS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘북한 무인기’ 대학원생 회사에 '한국형 전투기 사업(KF-21) 연구원'도 참여 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/eFQ5n</link>
+            <guid>http://newstapa.org/article/eFQ5n</guid>
+            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘북한 무인기’ 대학원생 회사에 '한국형 전투기 사업(KF-21) 연구원'도 참여]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/03174318-1829-1D5A-23F3-7NPL2C122BLNQK7YQYE6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정보사와 대학원생, 그리고 윤석열… 무인기 사건 중간 정리 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/20jrg</link>
+            <guid>http://newstapa.org/article/20jrg</guid>
+            <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정보사와 대학원생, 그리고 윤석열… 무인기 사건 중간 정리]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30085112-4346-F1B3-306A-NK452ZB4P4J239X78OXH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전직 정보사 블랙 요원 "무인기 대학원생은 '단순 협조자' 아닌 '정식 공작원'" (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/06FDt</link>
+            <guid>http://newstapa.org/article/06FDt</guid>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전직 정보사 블랙 요원 "무인기 대학원생은 '단순 협조자' 아닌 '정식 공작원'"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30170543-5CCF-4D74-3AE2-3X1TNB470YCYHD398ASU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스텔엔지니어링에 "군복 입은 사람들 왔다 갔다" 증언 첫 확보 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/4fPVu</link>
+            <guid>http://newstapa.org/article/4fPVu</guid>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[에스텔엔지니어링에 "군복 입은 사람들 왔다 갔다" 증언 첫 확보]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30170515-33FE-2B71-CB64-2DNWOXX5FBYNKPWSH03D.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[타파스] '북한 무인기 운용' 민간인 파헤쳐보니... 군-보수단체 연결고리 '주렁주렁' (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/Fo2wK</link>
+            <guid>http://newstapa.org/article/Fo2wK</guid>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] '북한 무인기 운용' 민간인 파헤쳐보니... 군-보수단체 연결고리 '주렁주렁']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/26143747-9618-5B11-54A4-DT8NQ6Y45TURKLXJGZW3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[항암비용의 진실]① 세계 매출 1위 의약품 ‘키트루다’에 숨겨진 전략 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
+            <link>http://newstapa.org/article/HZFyg</link>
+            <guid>http://newstapa.org/article/HZFyg</guid>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[항암비용의 진실]① 세계 매출 1위 의약품 ‘키트루다’에 숨겨진 전략]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/17161854-5B4B-6BE9-EBC0-5HI8Z3DSAJWTBODH3J1R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 팔레스타인의 바이라인, 그 너머의 얼굴들 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -1790,14 +1926,6 @@
             <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[팔레스타인 리포트 ⑦발라타 난민캠프의 이중고... 점령과 지원 축소]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15113958-F8B8-96F2-C0A6-HXJLVNM2BFZPLRPOA720.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔레스타인 리포트 ⑥총 vs 펜: 부린고등학교의 투쟁 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
-            <link>http://newstapa.org/article/skSwj</link>
-            <guid>http://newstapa.org/article/skSwj</guid>
-            <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[팔레스타인 리포트 ⑥총 vs 펜: 부린고등학교의 투쟁]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/08145050-EE7A-055F-1F67-IMOYJXSGRDJA7NFUNBDA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동아·조선투위, '자유언론 투쟁 기자 해고 정당' 판결에 '재판 소원' (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
@@ -3216,6 +3344,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16104301-F977-78B1-8273-94NYWYL3EXZNLPZTXXJZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[항암비용의 진실]① 세계 매출 1위 의약품 ‘키트루다’에 숨겨진 전략 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/113079405</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/113079405</guid>
+            <pubDate>Fri, 17 Apr 2026 09:21:44 GMT</pubDate>
+            <content:encoded><![CDATA['기적의 항암제'로 불리는 면역항암제 키트루다는 2014년 출시 이후 전 세계 300만 명 이상의 암 환자에게 투여되며 약 241조 원의 매출을 올린 세계 1위 의약품입니다. 그러나 연간 치료비가 미국에서만 3억 원에 달하는 등 약값이 비싸 정작 약이 필요한 환자들은 치료를 포기하거나 암시장을 헤매기도 합니다. <br><br>국제탐사보도언론인협회(ICIJ)와 37개국 47개 매체 기자 124명이 참여한 국제협업 프로젝트 '항암비용의 진실'은 1년에 걸쳐 키트루다 제조사 MSD의 특허 전략, 고용량 권장 방침, 의료계·환자단체 대상 자금 지원 등 약값을 높게 유지하는 구조를 추적했습니다. <br><br>🎬 더 자세한 내용을 기사에서 확인하세요 : <span class="link_url">https://newstapa.org/article/HZFyg</span><br>📰 영상 보러가기 : <span class="link_url">https://youtu.be/3EJ-O6HK6GQ</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["형, 집에 가자"...동생이 찾은 '죽음의 컨베이어벨트' (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/113079251</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/113079251</guid>
+            <pubDate>Fri, 17 Apr 2026 09:21:44 GMT</pubDate>
+            <content:encoded><![CDATA["형, 집에 가자. 내가 형을 집으로 데려다줄게."<br><br>지난 4월 10일, 경기도 이천의 한 자갈 공장. 한 달 전 컨베이어벨트에 끼여 숨진 베트남 이주 노동자 고(故) 뚜안 씨의 동생이 형이 숨진 자리를 찾았습니다. "나중에 한국에서 같이 일하자"던 형이 왜 유골로 돌아와야 했는지, 그 이유를 알고 싶어서였습니다.<br><br>이날은 뚜안 씨가 세상을 떠난 지 꼭 한 달이 된 날이자, 그의 스물세 번째 생일이었습니다. 형이 살아 있었다면 축하를 건넸을 그날, 동생은 형이 숨진 컨베이어벨트 앞에 국화를 놓고 한참을 울었습니다. 그리고 한국 정부를 향해 말했습니다. "한국인이든 외국인이든, 억울하게 죽지 않는 환경을 만들어 달라."<br><br>올해 들어 넉 달 동안 일터에서 숨진 이주노동자는 언론 보도로 확인된 사람만 16명. 뚜안 씨 사망 이후에도 최소 6명이 더 목숨을 잃었습니다. 국회에선 반복되는 비극에 대한 대책으로 고용허가제 개선안이 발의됐지만, 법 통과까지는 갈 길이 멉니다. 계속되는 이주노동자의 죽음, 어떻게 해야 막을 수 있을까요. 뉴스타파가 뚜안 씨 동생의 발걸음에 동행하며 나눈 이야기를 영상으로 전합니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/-xyFm8rIMTI</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/yZMcE</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[목격자들 4월 공모 마감 D-2 (~4/19 마감) (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/113075586</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/113075586</guid>
@@ -3342,25 +3484,27 @@
             <content:encoded><![CDATA[뉴스타파는 지난해부터 ‘사단법인 아디’와 협업해 팔레스타인 서안지구의 현지 여성 언론인들이 취재한 기사를 연재해왔습니다. 그리고 지난 4월 2일, 처음으로 현지 기자들을 영상회의로 만났습니다.<br><br>'바이라인'으로만 알던 이들의 얼굴을 직접 보고 이름을 부르는 몹시 반갑고 뜻깊은 시간이었지만, 누군가는 이스라엘군이 통제하는 체크포인트에 막혀 끝내 집으로 돌아가야만 했습니다. 점령지의 부조리한 현실이 가상 공간을 뚫고 실감되는 순간이었습니다.<br><br>오늘 오전, 미국과 이란이 2주간의 일시적 휴전에 합의했다는 소식이 들려왔습니다. 이란 전쟁의 거대한 굉음 속에 우리가 잠시 놓치고 있었던, 그러나 한순간도 멈춘 적 없는 팔레스타인의 낮고 위태로운 목소리들을 마주해보면 어떨까요.<br><br>폭력과 약탈이 일상이 된 땅 서안지구에서 "이런 현실을 제대로 기록하고 싶다"고 말하는 팔레스타인 기자들. 이명주 기자가 그들과 나눈 팔레스타인 현장의 이야기를 전합니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/cxk8T</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['이재명 조폭 자금' 허위 폭로 곳곳에 국민의힘 연루 흔적 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112986114</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112986114</guid>
-            <pubDate>Wed, 08 Apr 2026 09:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[지난 21대 대선 당시 '이재명 조폭 금품 수수 의혹'이 대선판을 뒤흔들었습니다. 그러나 이 의혹은 허위로 드러났고, 폭로의 당사자인 조직폭력배 박철민 씨와 장영하 변호사는 공직선거법 위반으로 유죄 확정 판결을 받았습니다.<br><br>뉴스타파가 두 사람의 판결문을 입수해 확인한 결과, 허위폭로는 단순한 개인의 일탈이 아니었습니다. 판결문에는 이들이 국민의힘 인사들과 접촉과 협의 속에 허위폭로를 확산시킨 정황이 담겨 있었습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/fL-5BI2CFKA</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/Ulwq4</span>]]></content:encoded>
+            <title><![CDATA[[항암비용의 진실]① 세계 매출 1위 의약품 ‘키트루다’에 숨겨진 전략 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260417174702253</link>
+            <guid>https://v.daum.net/v/20260417174702253</guid>
+            <pubDate>Fri, 17 Apr 2026 09:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260417174702253" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[항암비용의 진실]① 세계 매출 1위 의약품 ‘키트루다’에 숨겨진 전략</strong><span class="info_txt"><span class="txt_info">34분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F17%2Fnewstapa%2F20260417174912848matq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F17%2Fnewstapa%2F20260417174912848matq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
-            <title><![CDATA["윤석열 2012년 녹음파일 법정에서 틀자"...'윤석열 거짓말' 2차 공판 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/112983470</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/112983470</guid>
-            <pubDate>Wed, 08 Apr 2026 07:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[‘윤석열 거짓말’ 사건 두번째 재판이 서울중앙지법 형사합의21부(조순표 부장판사) 심리로 어제(7일) 오전 열렸습니다. 김건희 특검(특별검사 민중기)이 낸 각종 증거를 확인하고 정리하는 서증조사가 진행됐습니다. 윤석열은 모든 혐의를 부인했습니다. <br><br>윤석열은 "윤우진 전 용선세무서장에게 변호사를 소개한 사실이 없다", "2012년에는 후배 검사를 보호하려 기자에게 거짓말을 했다", "김건희와 함께 전성배를 만난 것은 사실이지만 허위 발언을 한 것은 아니다"라고 말했습니다. 윤석열은 이날 재판에서 검사 재직 시절 자신에게 정치권 영입을 제안했던 정치인 4명의 명단도 공개했습니다. 재판부는 2019년 뉴스타파가 보도한 '윤석열 2012년 녹음파일' 전체를 조만간 법정에서 틀기로 했습니다.<br><br>다음 재판은 이달 20일 열립니다. 건진법사 전성배에 대한 증인신문이 진행됩니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/wkf4H</span>]]></content:encoded>
+            <title><![CDATA["형, 집에 가자"...동생이 찾은 '죽음의 컨베이어벨트' (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260417173614897</link>
+            <guid>https://v.daum.net/v/20260417173614897</guid>
+            <pubDate>Fri, 17 Apr 2026 09:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260417173614897" class="link_column"><div class="cont_thumb"><strong class="tit_txt">"형, 집에 가자"...동생이 찾은 '죽음의 컨베이어벨트'</strong><span class="info_txt"><span class="txt_info">45분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F17%2Fnewstapa%2F20260417173636463zyyh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F17%2Fnewstapa%2F20260417173636463zyyh.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 세월호 참사 12주기 : 책임자들의 음모론 활용법 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260416210107093</link>
             <guid>https://v.daum.net/v/20260416210107093</guid>
             <pubDate>Thu, 16 Apr 2026 13:49:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260416210107093" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 세월호 참사 12주기 : 책임자들의 음모론 활용법</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F16%2Fnewstapa%2F20260416210111675exzw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260416210107093" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 세월호 참사 12주기 : 책임자들의 음모론 활용법</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F16%2Fnewstapa%2F20260416210111675exzw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F16%2Fnewstapa%2F20260416210111675exzw.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3368,7 +3512,7 @@
             <link>https://v.daum.net/v/20260416181107760</link>
             <guid>https://v.daum.net/v/20260416181107760</guid>
             <pubDate>Thu, 16 Apr 2026 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260416181107760" class="link_column"><div class="cont_thumb"><strong class="tit_txt">세월호 12주기 "그날을 잊지 않겠습니다"</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F16%2Fnewstapa%2F20260416181111980sopc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260416181107760" class="link_column"><div class="cont_thumb"><strong class="tit_txt">세월호 12주기 "그날을 잊지 않겠습니다"</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F16%2Fnewstapa%2F20260416181111980sopc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F16%2Fnewstapa%2F20260416181111980sopc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3432,7 +3576,7 @@
             <link>https://v.daum.net/v/20260410180653849</link>
             <guid>https://v.daum.net/v/20260410180653849</guid>
             <pubDate>Fri, 10 Apr 2026 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260410180653849" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 2, '담장을 쌓고 이웃으로 살자'- 송민순 전 외교통상부 장관</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F10%2Fnewstapa%2F20260410180659673jwwr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260410180653849" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 2, '담장을 쌓고 이웃으로 살자'- 송민순 전 외교통상부 장관</strong><span class="info_txt"><span class="txt_info">2026. 4. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F10%2Fnewstapa%2F20260410180659673jwwr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F10%2Fnewstapa%2F20260410180659673jwwr.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3578,22 +3722,6 @@
             <pubDate>Thu, 02 Apr 2026 09:01:37 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260402170144879" class="link_column"><div class="cont_thumb"><strong class="tit_txt">정부의 원전 도박 ①"원전 출력 80% 줄여야" 기후부 내부 문건 입수</strong><span class="info_txt"><span class="txt_info">2026. 4. 2.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F02%2Fnewstapa%2F20260402170154225wxei.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F02%2Fnewstapa%2F20260402170154225wxei.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 판결문으로 본 정교유착② "저희가 작업중이에요" (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260402145127302</link>
-            <guid>https://v.daum.net/v/20260402145127302</guid>
-            <pubDate>Thu, 02 Apr 2026 07:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260402145127302" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김건희 판결문으로 본 정교유착② "저희가 작업중이에요"</strong><span class="info_txt"><span class="txt_info">2026. 4. 2.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F02%2Fnewstapa%2F20260402145128836jwzr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F02%2Fnewstapa%2F20260402145128836jwzr.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 판결문으로 본 정교유착 ① "윤석열을 돕겠다" (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260402145124295</link>
-            <guid>https://v.daum.net/v/20260402145124295</guid>
-            <pubDate>Thu, 02 Apr 2026 07:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260402145124295" class="link_column"><div class="cont_thumb"><strong class="tit_txt">김건희 판결문으로 본 정교유착 ① "윤석열을 돕겠다"</strong><span class="info_txt"><span class="txt_info">2026. 4. 2.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F02%2Fnewstapa%2F20260402145125846okgp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F02%2Fnewstapa%2F20260402145125846okgp.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
