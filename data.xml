@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Apr 2026 08:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 10:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공직자 재산 공개]]></title>
+            <link>https://jaesan.newstapa.org/</link>
+            <guid>https://jaesan.newstapa.org/</guid>
+            <pubDate>Mon, 06 Jul 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기관별로 산발적으로 공개되던 공직자들의 재산 내역을 한데 모아, 모두가 쉽게 찾아 볼 수 있는 웹사이트를 제작했습니다. 공직자들의 여러 해에 걸친 재산 형성 과정을 직접 추적해 볼 수 있습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26113233-5D47-3157-9904-RW0H3PKG3LHNRNPCM028.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열의 내란 PART 3. 기록된 변명 - 피고인의 궤변과 법원의 판단]]></title>
             <link>https://pages.newstapa.org/2026/excuses/</link>
@@ -30,14 +38,6 @@
             <pubDate>Tue, 07 Jul 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파가 수집한 각종 데이터를 누구나 열람하고 다운받을 수 있는 ‘뉴스타파 데이터포털’ 사이트 를 제작해 오픈합니다. 지난 2012년 뉴스타파 출범 이후 지금까지 수집한 데이터 세트가 수록돼 있습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/09160914-5593-933E-ADCB-0BKDCRUPXW4FSJEN8WYY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공직자 재산 공개]]></title>
-            <link>https://jaesan.newstapa.org/</link>
-            <guid>https://jaesan.newstapa.org/</guid>
-            <pubDate>Mon, 06 Jul 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기관별로 산발적으로 공개되던 공직자들의 재산 내역을 한데 모아, 모두가 쉽게 찾아 볼 수 있는 웹사이트를 제작했습니다. 공직자들의 여러 해에 걸친 재산 형성 과정을 직접 추적해 볼 수 있습니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26113233-5D47-3157-9904-RW0H3PKG3LHNRNPCM028.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검사의 난, 김건희 특검 검사 40명 실명 공개]]></title>
