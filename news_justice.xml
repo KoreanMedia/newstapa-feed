@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Apr 2026 02:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 05:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해설 사법개혁] ② 조희대는 왜 검찰조서를 더 신뢰하나]]></title>
+            <link>http://newstapa.org/article/Vdmvs</link>
+            <guid>http://newstapa.org/article/Vdmvs</guid>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해설 사법개혁] ② 조희대는 왜 검찰조서를 더 신뢰하나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/21132928-8F19-873C-0AC0-3E3ANGXNA7KWIJ62QZNN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[칼럼] 정치검찰의 몰락과 윤석열 사단의 종말]]></title>
             <link>http://newstapa.org/article/h6wq5</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파의 시선] 헌법 제103조는 AI 양형을 요구한다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/20170220-C141-9F6E-054B-UT6VY13VWKMUV4J3P727.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '무기징역' 윤석열, 그리고 내란 극복의 길]]></title>
-            <link>http://newstapa.org/article/3nlGU</link>
-            <guid>http://newstapa.org/article/3nlGU</guid>
-            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] '무기징역' 윤석열, 그리고 내란 극복의 길]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19193632-5D97-859E-ECBE-PM752807TMJY3EH65BXH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

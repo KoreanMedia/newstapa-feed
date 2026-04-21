@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Apr 2026 02:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 05:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위법, 국회 무력화, 물증 은폐… 서울중앙지검의 ‘예산 범죄’ 확인]]></title>
+            <link>http://newstapa.org/article/cCyzi</link>
+            <guid>http://newstapa.org/article/cCyzi</guid>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[위법, 국회 무력화, 물증 은폐… 서울중앙지검의 ‘예산 범죄’ 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/20162947-E3DA-0852-8FDA-BEUREO17WDUV1TJWZ2WB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김병기, '가족 리스크' 무마에 정치자금 1,660만 원 지출]]></title>
             <link>http://newstapa.org/article/L61u7</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[10년 새 평균 12억 5천만 원 불었다… 공직자 재산 장기 추적]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/31151951-1D2F-FF29-47B8-WHSO29RVQU6UR6D0INDE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI로 꿰어낸 공직자 재산 정보... 뉴스타파 재산 사이트 10년 만에 전면 개편]]></title>
-            <link>http://newstapa.org/article/dWTd3</link>
-            <guid>http://newstapa.org/article/dWTd3</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[AI로 꿰어낸 공직자 재산 정보... 뉴스타파 재산 사이트 10년 만에 전면 개편]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26160658-223E-1661-30B8-VNIJCKX3ARLZTI4L1TPB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

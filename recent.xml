@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Apr 2026 02:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 05:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해설 사법개혁] ② 조희대는 왜 검찰조서를 더 신뢰하나]]></title>
+            <link>http://newstapa.org/article/Vdmvs</link>
+            <guid>http://newstapa.org/article/Vdmvs</guid>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해설 사법개혁] ② 조희대는 왜 검찰조서를 더 신뢰하나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/21132928-8F19-873C-0AC0-3E3ANGXNA7KWIJ62QZNN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위법, 국회 무력화, 물증 은폐… 서울중앙지검의 ‘예산 범죄’ 확인]]></title>
+            <link>http://newstapa.org/article/cCyzi</link>
+            <guid>http://newstapa.org/article/cCyzi</guid>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[위법, 국회 무력화, 물증 은폐… 서울중앙지검의 ‘예산 범죄’ 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/20162947-E3DA-0852-8FDA-BEUREO17WDUV1TJWZ2WB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[항암비용의 진실]② 나라마다 다른 ‘키트루다' 가격...한국 건강보험에도 부담]]></title>
             <link>http://newstapa.org/article/NWYLD</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[해설 사법개혁] ① 조희대는 왜 대법관을 제청하지 않나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/09190226-DF0C-14D5-EEAE-4MO2IFJ699HK28SMUOF6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[🔴주간 뉴스타파] 농지 투기 추적 : 강남 농부와 의원 농부]]></title>
-            <link>http://newstapa.org/article/utgEk</link>
-            <guid>http://newstapa.org/article/utgEk</guid>
-            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[🔴주간 뉴스타파] 농지 투기 추적 : 강남 농부와 의원 농부]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/09145202-720C-DB1E-D911-47Z3598KGAX17WSEZBG2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[농지투기 추적] ② 농지가 골프장으로...박덕흠 의원 일가의 '비결']]></title>
-            <link>http://newstapa.org/article/g9zS-</link>
-            <guid>http://newstapa.org/article/g9zS-</guid>
-            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[농지투기 추적] ② 농지가 골프장으로...박덕흠 의원 일가의 '비결']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/09201802-BEF5-CD78-6F36-G4M3NDIOBK1AXB7IC4JT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
