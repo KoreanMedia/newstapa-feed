@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-04-21T05:31:03.588Z</updated>
+    <updated>2026-04-21T07:55:04.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/5a16d4d/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공직자윤리위, 금 재산 '엉터리' 신고 방치]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/113111071</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/113111071"/>
+        <updated>2026-04-21T07:54:54.990Z</updated>
+        <content type="html"><![CDATA[금값은 올랐는데, 공직자 재산 신고서 속 금값은 몇 년째 그대로였습니다. 실제 가치와 천여만 원 차이가 나는 신고부터 한 돈에 몇천 원 수준으로 적힌 금, 존재하지 않는 순도로 신고된 사례까지 확인됐습니다.<br><br>뉴스타파 분석 결과, 금 시세 미반영과 중량·순도 입력 오류가 반복돼 온 것으로 나타났습니다. 그런데 공직자 재산 내역을 심사하는 공직자윤리위는 이러한 오류를 모르고 있었습니다. <br><br>재산 신고 오류는 '단순한 실수'가 아닙니다. 다가오는 지방선거에서도 후보자가 재산을 잘못 신고하면 허위사실유포죄로 처벌받을 수 있습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/pJklv0gKjL4</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/01aOp</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[해설 사법개혁] ② 조희대는 왜 검찰조서를 더 신뢰하나]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/113107719</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/112999425"/>
         <updated>2026-04-09T11:02:04.399Z</updated>
         <content type="html"><![CDATA[서울의 농업 인구는 전국에서 가장 적지만, 농지매수 건수는 광역시 중에 가장 많은 편입니다. 농민이 아닌데 농지를 사는 사람이 많아서일까요? 농사를 안 지을 거면 왜 농지를 사는 걸까요?<br><br>서울에서도 강남구, 송파구, 강동구, 서초구 주민들의 농지 매수가 특히 많았습니다. 이들이 주로 어떤 농지를 샀는지, 성남의 한 마을 사례로 확인해봤습니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/HbEIkf76Qns</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/5RwDj</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[농지투기 추적]누더기가 된 헌법정신... 누가 농지 투기로 돈을 벌었나]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112999283</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112999283"/>
-        <updated>2026-04-09T11:02:04.400Z</updated>
-        <content type="html"><![CDATA[대한민국 헌법은 농민이 농지를 소유해야 한다는 경자유전의 원칙을 밝히고 있습니다. 하지만 1996년 농지법 시행 이후 농지 소유 제한은 수차례 완화되고 정부와 지방자치단체는 투기성 거래를 사실상 방치하면서 헌법 정신은 훼손되고 있습니다. 농지는 손쉬운 투기 대상이 되었으며, 이는 땅값 상승을 유발해 농민들의 실질소득을 감소시키고 신규 농가에 부담이 전가되는 등 실제 농사를 짓는 농민들에게 피해를 주고 있습니다. 최근 뉴스타파가 농지 투기 기획에 착수한 이유입니다.<br><br>뉴스타파가 법원 등기데이터를 분석한 결과, 서울 시민, 특히 '강남 3구' 거주자들의 농지 매수 건수가 가장 많은 사실이 확인됐고, 공직자 재산 자료를 확인해 보니, 일부 고위공직자들의 투기 의심 사례들이 드러났습니다. <br><br>이재명 정부가 오는 5월 예고한 농지 전수조사를 계기로 투기성 거래를 원천적으로 차단하고, 농지 제도 전반을 개선해야 한다는 지적이 나옵니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/qcW1o</span>]]></content>
     </entry>
 </feed>
