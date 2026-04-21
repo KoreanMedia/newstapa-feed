@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Apr 2026 23:45:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 02:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2655,14 +2655,6 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/12/0ccb53b3868b610ea74f4898980f0cd198e611ae493c2341e1a50c831de9d7509263d37525c00e95221870cefc4f3f3d73cdd3704b05d5f7eeb64014f502e913.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공직자 재산 공개 (뉴스타파 ─ 데이터)]]></title>
-            <link>https://jaesan.newstapa.org/</link>
-            <guid>https://jaesan.newstapa.org/</guid>
-            <pubDate>Mon, 06 Jul 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기관별로 산발적으로 공개되던 공직자들의 재산 내역을 한데 모아, 모두가 쉽게 찾아 볼 수 있는 웹사이트를 제작했습니다. 공직자들의 여러 해에 걸친 재산 형성 과정을 직접 추적해 볼 수 있습니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26113233-5D47-3157-9904-RW0H3PKG3LHNRNPCM028.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤석열의 내란 PART 3. 기록된 변명 - 피고인의 궤변과 법원의 판단 (뉴스타파 ─ 데이터)]]></title>
             <link>https://pages.newstapa.org/2026/excuses/</link>
             <guid>https://pages.newstapa.org/2026/excuses/</guid>
@@ -2685,6 +2677,14 @@
             <pubDate>Tue, 07 Jul 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파가 수집한 각종 데이터를 누구나 열람하고 다운받을 수 있는 ‘뉴스타파 데이터포털’ 사이트 를 제작해 오픈합니다. 지난 2012년 뉴스타파 출범 이후 지금까지 수집한 데이터 세트가 수록돼 있습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/09160914-5593-933E-ADCB-0BKDCRUPXW4FSJEN8WYY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공직자 재산 공개 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://jaesan.newstapa.org/</link>
+            <guid>https://jaesan.newstapa.org/</guid>
+            <pubDate>Mon, 06 Jul 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기관별로 산발적으로 공개되던 공직자들의 재산 내역을 한데 모아, 모두가 쉽게 찾아 볼 수 있는 웹사이트를 제작했습니다. 공직자들의 여러 해에 걸친 재산 형성 과정을 직접 추적해 볼 수 있습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26113233-5D47-3157-9904-RW0H3PKG3LHNRNPCM028.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검사의 난, 김건희 특검 검사 40명 실명 공개 (뉴스타파 ─ 데이터)]]></title>
@@ -3488,7 +3488,7 @@
             <link>https://v.daum.net/v/20260420160214225</link>
             <guid>https://v.daum.net/v/20260420160214225</guid>
             <pubDate>Mon, 20 Apr 2026 08:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260420160214225" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[항암비용의 진실]② 나라마다 다른 ‘키트루다' 가격...한국 건강보험에도 부담</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F20%2Fnewstapa%2F20260420160219222eptr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260420160214225" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[항암비용의 진실]② 나라마다 다른 ‘키트루다' 가격...한국 건강보험에도 부담</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F20%2Fnewstapa%2F20260420160219222eptr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F20%2Fnewstapa%2F20260420160219222eptr.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3560,7 +3560,7 @@
             <link>https://v.daum.net/v/20260414110144844</link>
             <guid>https://v.daum.net/v/20260414110144844</guid>
             <pubDate>Tue, 14 Apr 2026 02:41:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260414110144844" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 정치검찰의 몰락과 윤석열 사단의 종말</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F14%2Fnewstapa%2F20260414110146462qbkg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260414110144844" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 정치검찰의 몰락과 윤석열 사단의 종말</strong><span class="info_txt"><span class="txt_info">2026. 4. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F14%2Fnewstapa%2F20260414110146462qbkg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F14%2Fnewstapa%2F20260414110146462qbkg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
