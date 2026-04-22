@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-04-21T23:38:19.660Z</updated>
+    <updated>2026-04-22T02:40:34.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/5a16d4d/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[칼럼] 엄벌 모드 전환? 김건희 항소심 선고 전망]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/113117632</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/113117632"/>
+        <updated>2026-04-22T02:40:26.309Z</updated>
+        <content type="html"><![CDATA[김건희 씨에 대한 항소심 선고가 일주일 앞으로 다가왔습니다. 징역 1년 8개월 1심 선고를 두고 봐주기 논란이 일었던 만큼 항소심 결과에 관심이 모이고 있습니다. 국민의 법감정, 1심 판결에 대한 국민적 반감과 불신을 고려해 형량이 높아질 것이란 관측이 나오는 반면, 1심 결과와 크게 다르지 않은 결과가 나올 것이란 시각도 있습니다. <br><br>특검 수사와 재판을 취재해 온 조성식 전문위원이 항소심 재판의 주요 쟁점과 예측 가능한 5가지 시나리오를 정리했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/ICihi</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[🔴라이브]  선거를 훔치려 한  '조폭 자금'의 설계자들]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/113111507</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/113003900"/>
         <updated>2026-04-10T02:40:05.665Z</updated>
         <content type="html"><![CDATA['사법이 병들어 있다'. 뉴스타파 전문위원이자 법학박사인 이범준 기자는 단언합니다. 대법관 증원과 재판소원 등 개혁 작업이 추진되고 있지만 아직 남은 과제가 많고 법원은 저항하고 있습니다. 이 전문위원은 사법개혁 추진 과정에서 발생하는 여러 현상과 이면을 다루는 '해설 사법개혁' 연속 보도를 이어갈 예정입니다.<br><br>'해설 사법개혁' 첫 번째 기사에서는 노태악 전 대법관의 후임을 제청하지 않고 있는 조희대 대법원장의 속내와 노림을 들여다봅니다.  <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/HeFmc</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[농지투기 추적] 농지가 골프장으로...박덕흠 의원 일가의 '비결']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/112999648</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/112999648"/>
-        <updated>2026-04-09T12:01:59.533Z</updated>
-        <content type="html"><![CDATA[국민의힘 박덕흠 의원의 가족들이 추진했던 강원도 골프장 사업을 기억하시나요. 박 의원의 배우자 최 모 씨는 2005년부터 강원도 홍천군의 농지 수만 제곱미터를 사들였고, 최 씨가 대표로 있던 건설사는 강원도로부터 사업 허가를 받았습니다. 지역 주민들이 제동을 걸었지만, 해당 골프장은 결국 개발이 됐는데요. <br><br>최근 농지 투기 의혹을 조사하고 있는 뉴스타파는 이 사업의 농지 취득 과정에 주목했습니다. 농지법상 골프장 개발을 목적으로는 농지 취득이 불가능한데, 박 의원 가족은 당시 이 문제를 어떻게 해결했을까요. 농지법의 허점을 드러내는 박 의원 가족의 골프장 사업과 박 의원의 또 다른 농지 투기 의혹은 농지 제도가 왜 개선돼야 하는지 보여줍니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/i5YYKwRgqY4</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/g9zS-</span>]]></content>
     </entry>
 </feed>

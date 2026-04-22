@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Apr 2026 23:38:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 02:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] 엄벌 모드 전환? 김건희 항소심 선고 전망]]></title>
+            <link>http://newstapa.org/article/ICihi</link>
+            <guid>http://newstapa.org/article/ICihi</guid>
+            <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 엄벌 모드 전환? 김건희 항소심 선고 전망]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/22105741-56D4-4D32-AB91-J1K591L1Y4JLJOZWMSN7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해설 사법개혁] ② 조희대는 왜 검찰조서를 더 신뢰하나]]></title>
             <link>http://newstapa.org/article/Vdmvs</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 윤석열 무기징역, 지귀연의 판결에는 '국민'이 없었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/23141918-6DDC-4E99-4CAF-1122WMMVNEQQRYREJ3JE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파의 시선] 헌법 제103조는 AI 양형을 요구한다]]></title>
-            <link>http://newstapa.org/article/uG3L_</link>
-            <guid>http://newstapa.org/article/uG3L_</guid>
-            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파의 시선] 헌법 제103조는 AI 양형을 요구한다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/20170220-C141-9F6E-054B-UT6VY13VWKMUV4J3P727.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
