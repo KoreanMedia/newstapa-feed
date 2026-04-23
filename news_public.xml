@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Apr 2026 11:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 13:47:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 법과 원칙? 강백신 검사, 제가 한마디 하겠습니다]]></title>
+            <link>http://newstapa.org/article/QuWN1</link>
+            <guid>http://newstapa.org/article/QuWN1</guid>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 법과 원칙? 강백신 검사, 제가 한마디 하겠습니다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/23164427-36C0-C8F2-A23F-TIB3ZT2FBTSVBCYLCVOZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이강길, “2011년 윤석열 수사팀, ‘조우형 뒷돈’ 알았다” 국회 증언]]></title>
             <link>http://newstapa.org/article/LTWYd</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김건희 판결문으로 본 정교유착 ① "윤석열을 돕겠다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/02144529-3325-4059-12EB-K2HBUX9MIL31DUB65A9X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이재명 조폭 자금' 허위 폭로 일당, 윤석열 선거운동했다]]></title>
-            <link>http://newstapa.org/article/5utzW</link>
-            <guid>http://newstapa.org/article/5utzW</guid>
-            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이재명 조폭 자금' 허위 폭로 일당, 윤석열 선거운동했다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/01171058-F611-975E-6DAC-KAUJ9E0AY8IPGVBF8PAC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

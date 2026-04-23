@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Apr 2026 11:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 13:47:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 법과 원칙? 강백신 검사, 제가 한마디 하겠습니다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/QuWN1</link>
+            <guid>http://newstapa.org/article/QuWN1</guid>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 법과 원칙? 강백신 검사, 제가 한마디 하겠습니다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/23164427-36C0-C8F2-A23F-TIB3ZT2FBTSVBCYLCVOZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이강길, “2011년 윤석열 수사팀, ‘조우형 뒷돈’ 알았다” 국회 증언 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/LTWYd</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/14180046-0635-16AF-4BE6-EASMNYHRYSMGBGRCS2RU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[칼럼] 정치검찰의 몰락과 윤석열 사단의 종말 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/h6wq5</link>
-            <guid>http://newstapa.org/article/h6wq5</guid>
-            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] 정치검찰의 몰락과 윤석열 사단의 종말]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/14105223-BE40-AEE0-ED51-47QC8WEMUK938B74FEX5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[주간 뉴스타파] 법과 원칙? 강백신 검사, 제가 한마디 하겠습니다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/QuWN1</link>
+            <guid>http://newstapa.org/article/QuWN1</guid>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 법과 원칙? 강백신 검사, 제가 한마디 하겠습니다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/23164427-36C0-C8F2-A23F-TIB3ZT2FBTSVBCYLCVOZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이강길, “2011년 윤석열 수사팀, ‘조우형 뒷돈’ 알았다” 국회 증언 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김건희 판결문으로 본 정교유착 ① "윤석열을 돕겠다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/02144529-3325-4059-12EB-K2HBUX9MIL31DUB65A9X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이재명 조폭 자금' 허위 폭로 일당, 윤석열 선거운동했다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/5utzW</link>
-            <guid>http://newstapa.org/article/5utzW</guid>
-            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이재명 조폭 자금' 허위 폭로 일당, 윤석열 선거운동했다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/01171058-F611-975E-6DAC-KAUJ9E0AY8IPGVBF8PAC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['명태균 1심 무죄' 재판장, 피고인석에 선다... 법관 징계는 감감무소식 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3484,11 +3484,19 @@
             <content:encoded><![CDATA[미국 AI 기업 앤트로픽과 미국 국방부의 소송 자료를 분석한 내용을 연속으로 보내드리는 'AI와 전쟁' 후속 보도입니다. <br><br>지난달 샌프란시스코 연방법원은 앤트로픽이 미 국방부의 '블랙리스트' 지정에 대해 제기한 가처분 소송에 대한 심리를 진행했는데요, 재판부는 표현의 자유 침해와 적법 절차 위반 등 앤트로픽 측의 주장을 받아들였습니다. 미국 개발자와 신학자, 시민단체들은 이러한 앤트로픽의 행보에 지지를 보이고 있습니다. <br><br>이 기사는 한국독립언론네트워크(KINN)에서 창업 과정을 밟고 있는 예비 언론사 ‘디프레임(deframe)’이 취재했습니다. 자세한 내용은 아래 링크, 디프레임 홈페이지를 통해 확인하실 수 있습니다.<br><br>👉3편 기사 전체 보기: <span class="link_url">https://thedeframe.com/ai-in-war_hearing-anthropic-pentagon</span>/<br>👉4편 기사 전체 보기: <span class="link_url">https://thedeframe.com/ai-in-war_anthropic-win_but_no-rule</span>/<br>👉5편 기사 전체 보기: <span class="link_url">https://thedeframe.com/ai-in-war_why-we-support-anthropic</span>/ <br>👉디프레임 응원하기: <span class="link_url">https://thedeframe.com/support/</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 법과 원칙? 강백신 검사,  제가 한마디 하겠습니다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260423210214793</link>
+            <guid>https://v.daum.net/v/20260423210214793</guid>
+            <pubDate>Thu, 23 Apr 2026 13:47:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260423210214793" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 법과 원칙? 강백신 검사,  제가 한마디 하겠습니다</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F23%2Fnewstapa%2F20260423210219088lizz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F23%2Fnewstapa%2F20260423210219088lizz.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[이강길, “2011년 윤석열 수사팀, ‘조우형 뒷돈’ 알았다” 국회 증언 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260423150607078</link>
             <guid>https://v.daum.net/v/20260423150607078</guid>
             <pubDate>Thu, 23 Apr 2026 07:58:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260423150607078" class="link_column"><div class="cont_thumb"><strong class="tit_txt">이강길, “2011년 윤석열 수사팀, ‘조우형 뒷돈’ 알았다” 국회 증언</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F23%2Fnewstapa%2F20260423150609236uqut.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260423150607078" class="link_column"><div class="cont_thumb"><strong class="tit_txt">이강길, “2011년 윤석열 수사팀, ‘조우형 뒷돈’ 알았다” 국회 증언</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F23%2Fnewstapa%2F20260423150609236uqut.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F23%2Fnewstapa%2F20260423150609236uqut.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3560,7 +3568,7 @@
             <link>https://v.daum.net/v/20260416210107093</link>
             <guid>https://v.daum.net/v/20260416210107093</guid>
             <pubDate>Thu, 16 Apr 2026 13:49:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260416210107093" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 세월호 참사 12주기 : 책임자들의 음모론 활용법</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F16%2Fnewstapa%2F20260416210111675exzw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260416210107093" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 세월호 참사 12주기 : 책임자들의 음모론 활용법</strong><span class="info_txt"><span class="txt_info">2026. 4. 16.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F16%2Fnewstapa%2F20260416210111675exzw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F16%2Fnewstapa%2F20260416210111675exzw.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3714,14 +3722,6 @@
             <pubDate>Tue, 07 Apr 2026 02:33:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260407110653743" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[연금개혁의시간]⑧ 제 역할 못한 퇴직연금...소득대체율 20%는 돼야</strong><span class="info_txt"><span class="txt_info">2026. 4. 7.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F07%2Fnewstapa%2F20260407110654552oalo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F07%2Fnewstapa%2F20260407110654552oalo.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260406155157549</link>
-            <guid>https://v.daum.net/v/20260406155157549</guid>
-            <pubDate>Mon, 06 Apr 2026 07:47:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260406155157549" class="link_column"><div class="cont_thumb"><strong class="tit_txt">검찰, 방정오 '500만 달러 배임' 의혹 수사 착수</strong><span class="info_txt"><span class="txt_info">2026. 4. 6.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F06%2Fnewstapa%2F20260406155158787wwwr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F06%2Fnewstapa%2F20260406155158787wwwr.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
