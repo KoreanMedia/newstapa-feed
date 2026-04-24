@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-04-24T02:45:15.840Z</updated>
+    <updated>2026-04-24T05:39:19.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/5a16d4d/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] "세계일보 그 분"...397억 걸린 윤석열의 결정적 한마디]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/113146127</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/113146127"/>
+        <updated>2026-04-24T05:39:10.221Z</updated>
+        <content type="html"><![CDATA[‘윤석열 거짓말’ 사건 세번째 재판이 서울중앙지법 형사합의21부(조순표 부장판사) 심리로 지난 20일 열렸습니다. 윤석열 김건희 부부와 가까웠던 건진법사 전성배가 증인으로 출석했습니다. <br><br>특검이 거짓말로 의심하는 윤석열의 전성배 관련 발언은 2022년 1월 17일 서울 중구 신라호텔에서 열린 불교리더스포럼에서 나왔습니다. 뉴스타파는 해당인터뷰 전문을 확인해 검증했습니다. 윤석열 거짓말을 입증해 줄 빼박 증거가 윤석열의 입에서 나온 사실을 확인할 수 있었습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/mviou</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[🔴주간 뉴스타파] 법과 원칙? 강백신 검사, 제가 한마디 하겠습니다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/113136205</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/113027487"/>
         <updated>2026-04-13T05:45:49.511Z</updated>
         <content type="html"><![CDATA[백종헌 국민의힘 의원이 지난 20여 년간 부산 금정구와 경상남도 양산시 일대 농지를 취득해 수십억 원을 벌어들인 사실이 뉴스타파 취재 결과 확인됐습니다. 이 중 일부 농지는 백 의원과 그의 아들인 백 모 씨가 직접 매수한 농지여서 투기 의혹이 제기되지만, 백 의원은 “법적 문제가 없다”는 입장입니다. <br><br>헌법과 현행 농지법은 “농민이 농지를 소유해야 한다”는 원칙을 규정하고 있습니다. 미성년자인 백 의원의 아들이 수억 원대 농지를 취득해도, 수년째 직접 농사를 짓지 않아도 '예외'라는 명목으로 빠져나갈 수 있었던 비법, 뉴스타파가 자세히 들여다 봤습니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/0VUo_EqQCEc</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/aFDF1</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KINN] AI와 전쟁③④⑤ 앤트로픽 가처분 소송의 전말]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/113026911</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/113026911"/>
-        <updated>2026-04-13T05:45:49.513Z</updated>
-        <content type="html"><![CDATA[미국 AI 기업 앤트로픽과 미국 국방부의 소송 자료를 분석한 내용을 연속으로 보내드리는 'AI와 전쟁' 후속 보도입니다. <br><br>지난달 샌프란시스코 연방법원은 앤트로픽이 미 국방부의 '블랙리스트' 지정에 대해 제기한 가처분 소송에 대한 심리를 진행했는데요, 재판부는 표현의 자유 침해와 적법 절차 위반 등 앤트로픽 측의 주장을 받아들였습니다. 미국 개발자와 신학자, 시민단체들은 이러한 앤트로픽의 행보에 지지를 보이고 있습니다. <br><br>이 기사는 한국독립언론네트워크(KINN)에서 창업 과정을 밟고 있는 예비 언론사 ‘디프레임(deframe)’이 취재했습니다. 자세한 내용은 아래 링크, 디프레임 홈페이지를 통해 확인하실 수 있습니다.<br><br>👉3편 기사 전체 보기: <span class="link_url">https://thedeframe.com/ai-in-war_hearing-anthropic-pentagon</span>/<br>👉4편 기사 전체 보기: <span class="link_url">https://thedeframe.com/ai-in-war_anthropic-win_but_no-rule</span>/<br>👉5편 기사 전체 보기: <span class="link_url">https://thedeframe.com/ai-in-war_why-we-support-anthropic</span>/ <br>👉디프레임 응원하기: <span class="link_url">https://thedeframe.com/support/</span>]]></content>
     </entry>
 </feed>
