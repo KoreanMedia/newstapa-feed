@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Apr 2026 06:30:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 09:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] 소년의 이름]]></title>
+            <link>http://newstapa.org/article/9_BmV</link>
+            <guid>http://newstapa.org/article/9_BmV</guid>
+            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파] 소년의 이름]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/30170121-0058-3E73-F4F4-KJVM7N98YFIV7PUKOA0R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 윤상현 '증인 매수' 인정됐지만 윤상현은 불송치]]></title>
+            <link>http://newstapa.org/article/aOSXN</link>
+            <guid>http://newstapa.org/article/aOSXN</guid>
+            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 윤상현 '증인 매수' 인정됐지만 윤상현은 불송치]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/30164057-46CA-B244-8E1E-GFGLJWMAS3ZXWGNJ1D6G.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김병기, '가족 비위' 경찰 수사 방어에도 정치자금 4,950만 원 지출 의혹]]></title>
             <link>http://newstapa.org/article/7sb9K</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[항암비용의 진실]① 세계 매출 1위 의약품 ‘키트루다’에 숨겨진 전략]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/17161854-5B4B-6BE9-EBC0-5HI8Z3DSAJWTBODH3J1R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["형, 집에 가자"...동생이 찾은 '죽음의 컨베이어벨트']]></title>
-            <link>http://newstapa.org/article/yZMcE</link>
-            <guid>http://newstapa.org/article/yZMcE</guid>
-            <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["형, 집에 가자"...동생이 찾은 '죽음의 컨베이어벨트']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/16103443-A454-1391-983C-1CBLI3OOLW6F059RIEYN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 세월호 참사 12주기 : 책임자들의 음모론 활용법]]></title>
-            <link>http://newstapa.org/article/Ds5es</link>
-            <guid>http://newstapa.org/article/Ds5es</guid>
-            <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 세월호 참사 12주기 : 책임자들의 음모론 활용법]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/16162942-32F0-0653-3954-16NSHRWN2UN2Y7ROS51M.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
