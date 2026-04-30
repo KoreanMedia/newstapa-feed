@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-04-30T03:58:27.711Z</updated>
+    <updated>2026-04-30T06:30:17.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/5a16d4d/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김병기, '가족 비위' 경찰 수사 방어에도 정치자금 4,950만 원 지출]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/113214677</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/113214677"/>
+        <updated>2026-04-30T06:30:07.860Z</updated>
+        <content type="html"><![CDATA[무소속 김병기 의원이 경찰 수사가 본격화되던 지난 1월, 5,000만 원에 가까운 법률 비용을 지출한 것으로 확인됐습니다. 김 의원은 이 돈을 정치자금에서 꺼내 썼습니다. <br><br>정치자금은 '정치 활동과 관련이 있는 때'에만 법률 비용으로 지출할 수 있는데, 김 의원에게 제기된 혐의 13가지 중 대부분은 자신과 가족들이 연관된 비위 혐의입니다. 김 의원이 공적 성격의 정치자금을 사유화하고 있다는 의혹이 제기됩니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/10mdL8qN2TA</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/7sb9K</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장에서] “강남 아파트 가진 사람이 정책 만든다”…부동산 백지신탁제, 다시 꺼내든 이유]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/113201341</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/113075586"/>
         <updated>2026-04-17T05:32:21.841Z</updated>
         <content type="html"><![CDATA[뉴스타파 &lt;목격자들&gt;은 기성언론이 관성적으로 편성하는 다큐멘터리 코너와 다릅니다. 기성언론이 외면하거나 놓치고 있는 새로운 시각의 작품을 소개하는 다큐멘터리 ‘협업 플랫폼’입니다. 기성 방송 문법이 달라 제작할 수 없었던 기획이 있다면, 영화관이 아닌 온라인에서 관객을 만나고 싶다면 지원하세요. <br><br>선정된 작품에는 최대 2천만원을 지원하며, 뉴스타파 목격자들에 방송합니다. 2026년 4월 공모는 오는 19일(일) 마감입니다.<br><br>👉 목격자들 공모 자세히 보기 <span class="link_url">https://withnewstapa.org/2026_witnesses_april/</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세월호 12주기 "그날을 잊지 않겠습니다"]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/113067411</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/113067411"/>
-        <updated>2026-04-16T09:23:25.624Z</updated>
-        <content type="html"><![CDATA["그분들에게 도움을 줄 수 있는건 기억하는 것밖에 없다라는 생각이 들어가지고 오게 됐어요."<br><br>진도항에 봄이 왔습니다. 벚꽃 길을 지나 항구에 닿자 노란 물결이 눈에 들어왔습니다. 예전엔 팽목항으로 불렸던 곳, 진도항은 여전히 12년 전 그날의 기억을 간직하고 있습니다.<br><br>4월 16일, 그날을 기억하려는 추모객들의 발걸음이 진도항에 이어졌습니다. 저마다 추모의 방식은 다르지만, 추모객들은 참사를 잊지 않겠다고 약속하며 발걸음을 옮겼습니다. 뉴스타파 12년 전 오늘을 기억하기 위해 진도항을 찾은 사람들을 만났습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/wsBT4JnMMT0</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/oqCah</span>]]></content>
     </entry>
 </feed>
