@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 May 2026 02:58:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 06:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] ‘조작기소 특검’ 위헌 논란과 4가지 해법]]></title>
+            <link>http://newstapa.org/article/jLBev</link>
+            <guid>http://newstapa.org/article/jLBev</guid>
+            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] ‘조작기소 특검’ 위헌 논란과 4가지 해법]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/04143526-EC66-0DF7-D1E8-B3Y3WFS4M3KF2JFZ56JM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 전후 최악의 노동 탄압...'인질사법'에 맞선 일본 노조]]></title>
+            <link>http://newstapa.org/article/W3Wzy</link>
+            <guid>http://newstapa.org/article/W3Wzy</guid>
+            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 전후 최악의 노동 탄압...'인질사법'에 맞선 일본 노조]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/04141553-FC12-0902-3835-AFSWDSRVA0I1ZBX7HR2R.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 6억 원 노동과 1년 11개월 노동]]></title>
             <link>http://newstapa.org/article/lL8ZG</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[해설 사법개혁] ② 조희대는 왜 검찰조서를 더 신뢰하나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/21132928-8F19-873C-0AC0-3E3ANGXNA7KWIJ62QZNN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위법, 국회 무력화, 물증 은폐… 서울중앙지검의 ‘예산 범죄’ 확인]]></title>
-            <link>http://newstapa.org/article/cCyzi</link>
-            <guid>http://newstapa.org/article/cCyzi</guid>
-            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[위법, 국회 무력화, 물증 은폐… 서울중앙지검의 ‘예산 범죄’ 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/20162947-E3DA-0852-8FDA-BEUREO17WDUV1TJWZ2WB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[항암비용의 진실]② 나라마다 다른 ‘키트루다' 가격...한국 건강보험에도 부담]]></title>
-            <link>http://newstapa.org/article/NWYLD</link>
-            <guid>http://newstapa.org/article/NWYLD</guid>
-            <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[항암비용의 진실]② 나라마다 다른 ‘키트루다' 가격...한국 건강보험에도 부담]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/17171629-22BE-5DB8-1A5B-NQ702HUAIK9PGQF1I0PL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
