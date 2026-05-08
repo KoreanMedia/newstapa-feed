@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/recent</id>
-    <title>뉴스타파 ─ 뉴스</title>
-    <updated>2026-05-07T23:08:42.483Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 08 May 2026 02:59:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤상현의 회유 육성 "우리가 변호사 댈 테니까..."]]></title>
+            <link>http://newstapa.org/article/wFckA</link>
+            <guid>http://newstapa.org/article/wFckA</guid>
+            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤상현의 회유 육성 "우리가 변호사 댈 테니까..."]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/07170530-EF70-B848-EC29-GWFEG0NOS2CNZD2IP43U.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤상현 ‘공범 회유’ 도운 측근, 4번째 구의원 공천 받아]]></title>
+            <link>http://newstapa.org/article/lAYV6</link>
+            <guid>http://newstapa.org/article/lAYV6</guid>
+            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상현 ‘공범 회유’ 도운 측근, 4번째 구의원 공천 받아]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/07165814-82F4-58A4-7F38-NPTFDSUCGD4B4K5X48HJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤상현 ‘회유 녹취’ 다 실행됐다… 진술 연습까지]]></title>
+            <link>http://newstapa.org/article/U8lwN</link>
+            <guid>http://newstapa.org/article/U8lwN</guid>
+            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상현 ‘회유 녹취’ 다 실행됐다… 진술 연습까지]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/07151553-7B16-8713-388E-FGWZD0VT9SGYFKTC3DY0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤상현 ‘공범 회유 녹취’ 공개… 수사 대비해 증거 인멸 교사]]></title>
+            <link>http://newstapa.org/article/90dRT</link>
+            <guid>http://newstapa.org/article/90dRT</guid>
+            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상현 ‘공범 회유 녹취’ 공개… 수사 대비해 증거 인멸 교사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/07144022-328B-E9C4-4F10-2RZKUFS6UAQPSWBL34DW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 윤석열은 '2012년 윤석열'을 이길 수 있을까?]]></title>
+            <link>http://newstapa.org/article/saNro</link>
+            <guid>http://newstapa.org/article/saNro</guid>
+            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 윤석열은 '2012년 윤석열'을 이길 수 있을까?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/06154125-5BC0-23F7-3D9F-0UHOKRNPR2X23SJ3M2VS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조국혁신당 정철원 담양군수 건설사 차명 소유 의혹]]></title>
+            <link>http://newstapa.org/article/5-K2_</link>
+            <guid>http://newstapa.org/article/5-K2_</guid>
+            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조국혁신당 정철원 담양군수 건설사 차명 소유 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/04165819-E98B-A5CA-37AF-7HC9LGEJG40YSI28XT0X.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[칼럼] ‘조작기소 특검’ 위헌 논란과 4가지 해법]]></title>
+            <link>http://newstapa.org/article/jLBev</link>
+            <guid>http://newstapa.org/article/jLBev</guid>
+            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] ‘조작기소 특검’ 위헌 논란과 4가지 해법]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/04143526-EC66-0DF7-D1E8-B3Y3WFS4M3KF2JFZ56JM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 전후 최악의 노동 탄압...'인질사법'에 맞선 일본 노조]]></title>
+            <link>http://newstapa.org/article/W3Wzy</link>
+            <guid>http://newstapa.org/article/W3Wzy</guid>
+            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 전후 최악의 노동 탄압...'인질사법'에 맞선 일본 노조]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/04141553-FC12-0902-3835-AFSWDSRVA0I1ZBX7HR2R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 6억 원 노동과 1년 11개월 노동]]></title>
+            <link>http://newstapa.org/article/lL8ZG</link>
+            <guid>http://newstapa.org/article/lL8ZG</guid>
+            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 6억 원 노동과 1년 11개월 노동]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/30171939-91BE-1FC0-D86D-0SUJ0QTSV9C4WG4EJJN6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] 소년의 이름]]></title>
+            <link>http://newstapa.org/article/9_BmV</link>
+            <guid>http://newstapa.org/article/9_BmV</guid>
+            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파] 소년의 이름]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/30170121-0058-3E73-F4F4-KJVM7N98YFIV7PUKOA0R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 윤상현 '증인 매수' 인정됐지만 윤상현은 불송치]]></title>
+            <link>http://newstapa.org/article/aOSXN</link>
+            <guid>http://newstapa.org/article/aOSXN</guid>
+            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 윤상현 '증인 매수' 인정됐지만 윤상현은 불송치]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/30164057-46CA-B244-8E1E-GFGLJWMAS3ZXWGNJ1D6G.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김병기, '가족 비위' 경찰 수사 방어에도 정치자금 4,950만 원 지출 의혹]]></title>
+            <link>http://newstapa.org/article/7sb9K</link>
+            <guid>http://newstapa.org/article/7sb9K</guid>
+            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김병기, '가족 비위' 경찰 수사 방어에도 정치자금 4,950만 원 지출 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/30110745-976A-C087-DE5C-XSFOX8BS87YINMOVK9SK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] “강남 아파트 가진 사람이 정책 만든다”…부동산 백지신탁제, 다시 꺼내든 이유]]></title>
+            <link>http://newstapa.org/article/T9U8E</link>
+            <guid>http://newstapa.org/article/T9U8E</guid>
+            <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] “강남 아파트 가진 사람이 정책 만든다”…부동산 백지신탁제, 다시 꺼내든 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/29162123-320D-E45F-B821-1M7CGAAG4PU01KC9GV64.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권성동, 뉴스타파 기자 폭행 유죄 확정... 맞고소도 '전부 각하']]></title>
+            <link>http://newstapa.org/article/Nxa3V</link>
+            <guid>http://newstapa.org/article/Nxa3V</guid>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[권성동, 뉴스타파 기자 폭행 유죄 확정... 맞고소도 '전부 각하']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/24165142-73B4-DC7C-3901-H008MT7JRAV5VVN6DR1E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[연금개혁의시간]⑩ 다가올 노인 40% 시대, 노인빈곤 막아야 경제가 산다]]></title>
+            <link>http://newstapa.org/article/8lQ09</link>
+            <guid>http://newstapa.org/article/8lQ09</guid>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]⑩ 다가올 노인 40% 시대, 노인빈곤 막아야 경제가 산다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/24150322-1A76-33E9-7A0F-JDRMSEASQPNCQIION5IG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] "세계일보 그 분"...397억 걸린 윤석열의 결정적 한마디]]></title>
+            <link>http://newstapa.org/article/mviou</link>
+            <guid>http://newstapa.org/article/mviou</guid>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] "세계일보 그 분"...397억 걸린 윤석열의 결정적 한마디]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/24124108-5BA9-1EF5-F2F7-1HM89PA98F0GTKBJMSYG.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
