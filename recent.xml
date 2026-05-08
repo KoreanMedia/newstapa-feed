@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 May 2026 02:59:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 05:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 무죄를 팝니다: 인니 현직검사, 한국인 피고인에게 거액 뇌물 갈취]]></title>
+            <link>http://newstapa.org/article/K_sIn</link>
+            <guid>http://newstapa.org/article/K_sIn</guid>
+            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 무죄를 팝니다: 인니 현직검사, 한국인 피고인에게 거액 뇌물 갈취]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/08133602-AB93-11F0-41C3-6X1QVTO7CSYFGBLMJO68.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 윤상현의 회유 육성 "우리가 변호사 댈 테니까..."]]></title>
             <link>http://newstapa.org/article/wFckA</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[연금개혁의시간]⑩ 다가올 노인 40% 시대, 노인빈곤 막아야 경제가 산다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/24150322-1A76-33E9-7A0F-JDRMSEASQPNCQIION5IG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] "세계일보 그 분"...397억 걸린 윤석열의 결정적 한마디]]></title>
-            <link>http://newstapa.org/article/mviou</link>
-            <guid>http://newstapa.org/article/mviou</guid>
-            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] "세계일보 그 분"...397억 걸린 윤석열의 결정적 한마디]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/24124108-5BA9-1EF5-F2F7-1HM89PA98F0GTKBJMSYG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
