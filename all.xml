@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 May 2026 06:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 09:43:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명 공유 '팔레스타인 영상' 유족 찾았다... “아들 시신 돌려달라” (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/STAML</link>
+            <guid>http://newstapa.org/article/STAML</guid>
+            <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 공유 '팔레스타인 영상' 유족 찾았다... “아들 시신 돌려달라”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/12175934-D65D-943F-1B9E-UJOK5G03OO4YUDMVEPI9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정철원 담양군수 차명 의심 회사 2개 더 있다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/DIib8</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[다큐 뉴스타파] 소년의 이름]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/30170121-0058-3E73-F4F4-KJVM7N98YFIV7PUKOA0R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 윤상현 '증인 매수' 인정됐지만 윤상현은 불송치 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/aOSXN</link>
-            <guid>http://newstapa.org/article/aOSXN</guid>
-            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 윤상현 '증인 매수' 인정됐지만 윤상현은 불송치]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/30164057-46CA-B244-8E1E-GFGLJWMAS3ZXWGNJ1D6G.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정철원 담양군수 차명 의심 회사 2개 더 있다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -518,134 +518,6 @@
             <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 감사원의 '내로남불' 세금 파티... 망가진 내부 통제 시스템]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/10145244-8AC0-3939-A03A-AEXWML3E45TSX6PE46R6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[농지투기 추적] ① 데이터로 추적한 ‘강남 농부’...개발 발표 5개월 전 농지 산 회장님 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/5RwDj</link>
-            <guid>http://newstapa.org/article/5RwDj</guid>
-            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[농지투기 추적] ① 데이터로 추적한 ‘강남 농부’...개발 발표 5개월 전 농지 산 회장님]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/09195033-166C-7997-39D5-FT2CHRPHNWSFISRGC602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/T_N3z</link>
-            <guid>http://newstapa.org/article/T_N3z</guid>
-            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/06154520-99AB-AD70-45AF-51X5SBSJPVRRDZZDO8OH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/f3JJN</link>
-            <guid>http://newstapa.org/article/f3JJN</guid>
-            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/30151306-BD26-19DC-981E-RWFQVBDCJU8WHUDS7N1L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...” (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/Tav_S</link>
-            <guid>http://newstapa.org/article/Tav_S</guid>
-            <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/23103505-6412-9CBA-F1C0-J74A1IP4V3OM7U0QY6U8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“방정오 법적 문제될 수도” 500만 달러 송금 위법성 인식 정황 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/nHVX2</link>
-            <guid>http://newstapa.org/article/nHVX2</guid>
-            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“방정오 법적 문제될 수도” 500만 달러 송금 위법성 인식 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/19174801-77D6-B03A-F292-MT811NP587Z9SOUJVL4Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“방정오 개인 이익 위해…” 하이그라운드 전직 대표 진술서 입수 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/_uGLU</link>
-            <guid>http://newstapa.org/article/_uGLU</guid>
-            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“방정오 개인 이익 위해…” 하이그라운드 전직 대표 진술서 입수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/18223001-51B4-A2A5-3D9C-58UXWKPKG4EACHP2XQ40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['조선일보 차남' 방정오, 500만 달러 배임 혐의 검찰 고발 당해 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/ANWoL</link>
-            <guid>http://newstapa.org/article/ANWoL</guid>
-            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['조선일보 차남' 방정오, 500만 달러 배임 혐의 검찰 고발 당해]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/16174938-3685-9FC4-D056-S4MBUA3K8H2C83GBRKF3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 조선일보 ‘재벌집 막내아들’과 사라진 500만 달러 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/8Gvst</link>
-            <guid>http://newstapa.org/article/8Gvst</guid>
-            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 조선일보 ‘재벌집 막내아들’과 사라진 500만 달러]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/16145308-24E6-1881-C38C-O6O0IHYFJRI65SPF5VSS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조선일보 둘째 아들, 회삿돈 500만 달러 배임 의혹 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/U20YK</link>
-            <guid>http://newstapa.org/article/U20YK</guid>
-            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조선일보 둘째 아들, 회삿돈 500만 달러 배임 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/12200858-8375-C3AE-FA70-I1EL17FZ75P4MAZBHH0I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“조용히 하려면 브릿지로” 방정오, 500만 달러 집행 직접 승인 정황 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/eWftf</link>
-            <guid>http://newstapa.org/article/eWftf</guid>
-            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“조용히 하려면 브릿지로” 방정오, 500만 달러 집행 직접 승인 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/12165944-8E05-430E-DAEB-ECO34RJ970N7YCV3TBNU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 500만불 움직인 Mr.Big, 방정오를 향한 배임 증거 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/VqmBJ</link>
-            <guid>http://newstapa.org/article/VqmBJ</guid>
-            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 500만불 움직인 Mr.Big, 방정오를 향한 배임 증거]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/12213828-B370-8FB3-D3CB-U7NTQGXAHE4PFBBRLIY9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡, 개인정보 유출 사건 후 검찰·경찰·청와대 등 출신 전관 9명 영입 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/WXnAD</link>
-            <guid>http://newstapa.org/article/WXnAD</guid>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡, 개인정보 유출 사건 후 검찰·경찰·청와대 등 출신 전관 9명 영입]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05135406-0C7D-A246-BDA1-XKIVYUP81M4D4BTHNQM4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법 위의 선박왕 ⑤ 권혁 탈세 돕고 퇴직 뒤 20억 받은 국세청 공무원 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/C54g9</link>
-            <guid>http://newstapa.org/article/C54g9</guid>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법 위의 선박왕 ⑤ 권혁 탈세 돕고 퇴직 뒤 20억 받은 국세청 공무원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/22162103-4D6B-824B-AC12-1F14VQN3IKWTK7JJG42I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법위의 선박왕 ④ '4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/l3mIk</link>
-            <guid>http://newstapa.org/article/l3mIk</guid>
-            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법위의 선박왕 ④ '4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19155806-ED66-215E-D905-2UF1LX2CUMX567YQS8DZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 법 위의 선박왕, 세금은 정의로운가 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/w7MLl</link>
-            <guid>http://newstapa.org/article/w7MLl</guid>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 법 위의 선박왕, 세금은 정의로운가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/11171650-69A7-F1FD-2AA8-JJJ4OZ86G0WHYTRXLQGW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법 위의 선박왕 ① 하루 70억 원 버는데... 세금 4천억 안내고 버텼다 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/MX6Wn</link>
-            <guid>http://newstapa.org/article/MX6Wn</guid>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법 위의 선박왕 ① 하루 70억 원 버는데... 세금 4천억 안내고 버텼다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/11171320-4AB3-2992-6CC0-4M6FD79LHJBE2V8GAZDT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[타파스] UN 사무국을 가평에? 통일교 숙원 해결 앞장선 가평군수 (뉴스타파 ─ 뉴스 ─ 종교)]]></title>
@@ -1800,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/26143747-9618-5B11-54A4-DT8NQ6Y45TURKLXJGZW3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이재명 공유 '팔레스타인 영상' 유족 찾았다... “아들 시신 돌려달라” (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
+            <link>http://newstapa.org/article/STAML</link>
+            <guid>http://newstapa.org/article/STAML</guid>
+            <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 공유 '팔레스타인 영상' 유족 찾았다... “아들 시신 돌려달라”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/12175934-D65D-943F-1B9E-UJOK5G03OO4YUDMVEPI9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[항암비용의 진실]② 나라마다 다른 ‘키트루다' 가격...한국 건강보험에도 부담 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
             <link>http://newstapa.org/article/NWYLD</link>
             <guid>http://newstapa.org/article/NWYLD</guid>
@@ -1918,14 +1798,6 @@
             <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국내 코인거래소, 캄보디아 스캠 사기단 등 돈세탁 통로]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/18144349-8803-47AB-F5C3-YAFY4U2X2SLX308PHMNO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[규제와 감시를 벗어난 가상자산 거래소 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
-            <link>http://newstapa.org/article/9FFjw</link>
-            <guid>http://newstapa.org/article/9FFjw</guid>
-            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[규제와 감시를 벗어난 가상자산 거래소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/18173822-802B-0CAD-3DDF-5JTOIMXH5705ATZFMUEA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동아·조선투위, '자유언론 투쟁 기자 해고 정당' 판결에 '재판 소원' (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
@@ -3344,6 +3216,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16152015-2B7B-9D82-B540-PF14PQFY9A0Y0V0N0MNF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이재명 공유 '팔레스타인 영상' 유족 찾았다... “아들 시신 돌려달라” (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/113327565</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/113327565</guid>
+            <pubDate>Tue, 12 May 2026 09:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[지난 4월 10일, 이재명 대통령이 SNS에 공유한 20초짜리 영상에는 이스라엘 군인이 건물 옥상에서 팔레스타인인의 시신을 발로 차 떨어뜨리는 장면이 포착됐습니다.<br><br>이스라엘은 "2년 전에 조사해 해결된 일"이라며 강하게 항의했고, 이 사안은 외교 논쟁으로 번졌습니다. 그러나 거센 공방 속에서 정작 묻혀버린 질문이 있었습니다. 영상 속 그들은 누구였으며, 지붕 아래로 떨어진 시신들은 어떻게 되었는지, 그리고 시신을 훼손한 이스라엘 군인들에겐 어떤 조치가 이뤄졌는지.<br><br>뉴스타파는 팔레스타인에서 활동하는 ‘스피크업’ 기자들과 협업해 이른바 ‘이재명 공유 팔레스타인 영상’ 속 진실을 추적했습니다. 이스라엘은 "해결됐다"고 했지만, 유족들은 1년 반이 지난 지금도 아들의 시신을 돌려받지 못했습니다. 팔레스타인 유족들은 과거 사건을 재조명한 이재명 대통령에게 감사의 뜻을 전했습니다. 그리고 이스라엘 당국을 향해 "이제라도 아들의 시신을 돌려달라”고 요구했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/ywHk2EFuAFQ</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/STAML</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[🔴라이브] 그들은 진짜 전쟁이 뭔지 모른다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/113326213</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/113326213</guid>
+            <pubDate>Tue, 12 May 2026 09:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[[🔴라이브 예고] 너무도 많은 전쟁의 비극 속에 타인의 고통에 무감각하게 된 건 아닌지 자문하게 됩니다. 오늘 뉴스타파 라이브는 팔레스타인 서안지구의 한 마을에서 발생한 사건에 주목합니다.<br><br>지난 4월 이재명 대통령은 자신의 SNS에 한 영상을 언급하며 '전시 살해' 문제를 지적했습니다. 해당 영상에는 이스라엘 방위군이 팔레스타인인을 건물 아래로 밀어버리는 모습이라는 정보가 담겨 있었습니다. 이스라엘 외무부가 대통령의 글에 대해 항의하면서 정쟁에 휘말렸고, 이내 이 일은 다른 이슈에 덮였습니다.<br><br>모두가 손가락을 볼 때, 뉴스타파는 달에 주목했습니다. 뉴스타파는 사단법인 아디, 그리고 팔레스타인 여성 언론인 육성 프로그램 '스피크업'과 협업하여 영상 속 사건의 진상을 추적했습니다. 그리고 취재 끝에 카바티야라는 지역에서 발생한 실제 사건이라는 사실을 확인했습니다. 유가족들은 뉴스타파와의 화상 인터뷰를 통해 전쟁의 참상을 호소했습니다.<br><br>일각에서는 호르무즈 해협의 위기를 빌미로 우리가 전쟁의 한복판에 뛰어들어야 한다는 목소리가 나옵니다. 평화를 위한 진짜 안보 대신, 감정에 호소하는 가짜 안보를 앞세우며 정치적 이익을 구합니다. 확실한 점은, 그들 누구도 진짜 전쟁의 고통이 어떠한지 직접 보지도 느끼지도 못했다는 겁니다.<br><br>오늘 밤 9시, 뉴스타파 라이브에는 카바티야의 비극적인 사건을 취재한 이명주 기자, 그리고 여러 매체에서 종횡무진 활약하며 중동 상황의 맥을 전하고 있는 박현도 서강대 유로메나연구소 교수가 출연합니다. 많은 시청과 관심 바랍니다!<br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://www.youtube.com/live/9nyH99Kd7MI</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[정철원 담양군수 차명 의심 회사 2개 더 있다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/113315198</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/113315198</guid>
@@ -3470,25 +3356,19 @@
             <content:encoded><![CDATA["아이들한테 귀 기울여줬으면 좋겠어요. 그거면 된 것 같아요."<br>가정폭력 피해자였다가 가해자가 된 진주(가명)의 말입니다.<br><br>문제아, 촉법소년,범죄자, 가해자, 우범소년. 우리가 이 아이들에게 붙여온 이름들입니다. [다큐 뉴스타파] '소년의 이름'은 그 낙인 뒤에 가려진 아이들을 직접 만났습니다. 촉법소년 연령을 낮추자는 지금, 우리는 그 아이들의 진짜 이름을 묻습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/rdQdqQOsUP0</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/9_BmV</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[🔴주간 뉴스타파] 6억 원 노동과 1년 11월 노동 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/113219928</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/113219928</guid>
-            <pubDate>Fri, 08 May 2026 17:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[[🔴라이브 예고] 63년 만에 우리도 '빨간 날' 노동절을 갖게 됐습니다. 모든 일하는 사람들을 위한 의미 있는 변화입니다. 하지만 노동절을 앞둔 우리 노동 현실은 녹록지 않습니다. 계속되는 죽음, 양극화, 그리고 기술 변화에 맞춰 새로운 노동을 정립해야 한다는 과제를 안고 있습니다.<br><br>최근 회사에 교섭을 요구하며 집회에 참가한 화물노동자가 참변을 당하는 일이 있었습니다. 20년 투쟁으로 노란봉투법 시행이라는 제도적 변화를 이뤄냈지만, 여전히 하청 비정규직 노동자들에게 회사와의 교섭은 멀고 험한 일입니다. <br><br>고질적이고 구조적인 노동의 양극화는 날로 공고해지고 있습니다. 한쪽에서는 억대 성과급을, 한쪽에서는 생존을 이야기하는 노동이 한 사회에 공존합니다. AI와 로봇 기술이 발전하며 미래의 노동이 위협받고 있습니다. 석학들은 이제 공동체가 선택을 해야 할 때라고 말합니다. 로봇과 기술을 가진 자들의 독식, 아니면 나누며 공존하는 새로운 길.<br><br>노동절 전야 밤 9시 라이브로 진행되는 주간 뉴스타파에는 노동 현장, 교육 현장에서 '새로운 길'에 대한 통찰을 전하고 있는 하종강 성공회대 노동아카데미 주임교수, 노동 분야 탐사 취재를 하고 있는 홍여진 기자가 출연해 오늘과 내일의 노동에 대해 이야기 나눕니다. 많은 시청과 관심 바랍니다!<br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://www.youtube.com/live/IVzg3PdJxCw</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 윤상현 '증인 매수' 인정됐지만 윤상현은 불송치 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/113219108</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/113219108</guid>
-            <pubDate>Fri, 08 May 2026 17:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 7월 뉴스타파가 보도한 국민의힘 윤상현 의원의 '증인 매수' 의혹 사건에 대한 경찰 수사 결과가 나왔습니다. 인천경찰청 반부패수사대는 윤상현 의원 공직선거법 재판의 핵심 증인을 매수해 재판 불출석·증언 거부 등을 요구한 윤 의원의 측근 이 모 변호사를 증인 도피 혐의로 검찰에 송치했습니다.<br><br>하지만 증인 도피를 교사한 의혹을 받은 윤상현 의원은 불송치됐습니다. 경찰은 "윤상현이 이OO(이 변호사)의 행위에 깊이 관여했음이 의심된다"면서도 "증거를 확보하지 못했다"고 불송치 이유를 밝혔습니다.<br><br>경찰의 윤상현 의원에 대한 수사는 법원의 압수수색 영장 기각으로 동력을 잃은 것으로 보입니다. 경찰은 "피의자 윤상현과 이OO의 공범 혐의를 입증하기 위해 2026. 1. 13.경 피의자 이OO의 핸드폰에 대하여 압수수색 영장을 신청하였으나, 청구기각 됐다"고 말했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/aOSXN</span>]]></content:encoded>
+            <title><![CDATA[이재명 공유 '팔레스타인 영상' 유족 찾았다... “아들 시신 돌려달라” (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260512181153047</link>
+            <guid>https://v.daum.net/v/20260512181153047</guid>
+            <pubDate>Tue, 12 May 2026 09:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260512181153047" class="link_column"><div class="cont_thumb"><strong class="tit_txt">이재명 공유 '팔레스타인 영상' 유족 찾았다... “아들 시신 돌려달라”</strong><span class="info_txt"><span class="txt_info">31분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F12%2Fnewstapa%2F20260512181212275eruw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F12%2Fnewstapa%2F20260512181212275eruw.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[정철원 담양군수 차명 의심 회사 2개 더 있다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260511171700238</link>
             <guid>https://v.daum.net/v/20260511171700238</guid>
             <pubDate>Mon, 11 May 2026 11:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260511171700238" class="link_column"><div class="cont_thumb"><strong class="tit_txt">정철원 담양군수 차명 의심 회사 2개 더 있다</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F11%2Fnewstapa%2F20260511171706614krfe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260511171700238" class="link_column"><div class="cont_thumb"><strong class="tit_txt">정철원 담양군수 차명 의심 회사 2개 더 있다</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F11%2Fnewstapa%2F20260511171706614krfe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F11%2Fnewstapa%2F20260511171706614krfe.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3512,7 +3392,7 @@
             <link>https://v.daum.net/v/20260508164153943</link>
             <guid>https://v.daum.net/v/20260508164153943</guid>
             <pubDate>Fri, 08 May 2026 17:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260508164153943" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[목격자들] 세상은 그렇게 끝난다</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F08%2Fnewstapa%2F20260508164158828thlv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260508164153943" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[목격자들] 세상은 그렇게 끝난다</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F08%2Fnewstapa%2F20260508164158828thlv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F08%2Fnewstapa%2F20260508164158828thlv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3536,7 +3416,7 @@
             <link>https://v.daum.net/v/20260507170705313</link>
             <guid>https://v.daum.net/v/20260507170705313</guid>
             <pubDate>Fri, 08 May 2026 17:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260507170705313" class="link_column"><div class="cont_thumb"><strong class="tit_txt">윤상현 ‘공범 회유’ 도운 측근, 4번째 구의원 공천 받아</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F07%2Fnewstapa%2F20260507170706992hiln.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260507170705313" class="link_column"><div class="cont_thumb"><strong class="tit_txt">윤상현 ‘공범 회유’ 도운 측근, 4번째 구의원 공천 받아</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F07%2Fnewstapa%2F20260507170706992hiln.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F07%2Fnewstapa%2F20260507170706992hiln.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3544,7 +3424,7 @@
             <link>https://v.daum.net/v/20260507170202055</link>
             <guid>https://v.daum.net/v/20260507170202055</guid>
             <pubDate>Fri, 08 May 2026 17:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260507170202055" class="link_column"><div class="cont_thumb"><strong class="tit_txt">윤상현 ‘회유 녹취’ 다 실행됐다… 진술 연습까지</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F07%2Fnewstapa%2F20260507170207909atbk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260507170202055" class="link_column"><div class="cont_thumb"><strong class="tit_txt">윤상현 ‘회유 녹취’ 다 실행됐다… 진술 연습까지</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F07%2Fnewstapa%2F20260507170207909atbk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F07%2Fnewstapa%2F20260507170207909atbk.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3714,14 +3594,6 @@
             <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260420160214225" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[항암비용의 진실]② 나라마다 다른 ‘키트루다' 가격...한국 건강보험에도 부담</strong><span class="info_txt"><span class="txt_info">2026. 4. 20.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F20%2Fnewstapa%2F20260420160219222eptr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F20%2Fnewstapa%2F20260420160219222eptr.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[항암비용의 진실]① 세계 매출 1위 의약품 ‘키트루다’에 숨겨진 전략 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260417174702253</link>
-            <guid>https://v.daum.net/v/20260417174702253</guid>
-            <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260417174702253" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[항암비용의 진실]① 세계 매출 1위 의약품 ‘키트루다’에 숨겨진 전략</strong><span class="info_txt"><span class="txt_info">2026. 4. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F20%2Fnewstapa%2F20260420153811248yzjl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F20%2Fnewstapa%2F20260420153811248yzjl.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
