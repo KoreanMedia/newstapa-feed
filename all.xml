@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 May 2026 10:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 12:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 한동훈이 답하지 않은 7가지 질문들 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/hxqG8</link>
+            <guid>http://newstapa.org/article/hxqG8</guid>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 한동훈이 답하지 않은 7가지 질문들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/14154556-94EA-D9C5-A742-TG3982XWDGQLESJNO6RV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘무죄’ 선고된 ‘한동훈 독직폭행’ 사건의 재구성 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/ha2Li</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/06154125-5BC0-23F7-3D9F-0UHOKRNPR2X23SJ3M2VS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조국혁신당 정철원 담양군수 건설사 차명 소유 의혹 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/5-K2_</link>
-            <guid>http://newstapa.org/article/5-K2_</guid>
-            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조국혁신당 정철원 담양군수 건설사 차명 소유 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/04165819-E98B-A5CA-37AF-7HC9LGEJG40YSI28XT0X.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[주간 뉴스타파] 한동훈이 답하지 않은 7가지 질문들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/hxqG8</link>
+            <guid>http://newstapa.org/article/hxqG8</guid>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 한동훈이 답하지 않은 7가지 질문들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/14154556-94EA-D9C5-A742-TG3982XWDGQLESJNO6RV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘무죄’ 선고된 ‘한동훈 독직폭행’ 사건의 재구성 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] “강남 아파트 가진 사람이 정책 만든다”…부동산 백지신탁제, 다시 꺼내든 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/29162123-320D-E45F-B821-1M7CGAAG4PU01KC9GV64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권성동, 뉴스타파 기자 폭행 유죄 확정... 맞고소도 '전부 각하' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/Nxa3V</link>
-            <guid>http://newstapa.org/article/Nxa3V</guid>
-            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[권성동, 뉴스타파 기자 폭행 유죄 확정... 맞고소도 '전부 각하']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/24165142-73B4-DC7C-3901-H008MT7JRAV5VVN6DR1E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["윤석열 과장님 말씀 듣고 미리 문자..." 14년만에 공개된 '이남석 문자' (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3484,11 +3484,19 @@
             <content:encoded><![CDATA[뉴스타파는 6.3 지방 선거를 앞두고 사업가 출신의 지방자치단체장과 연관이 있는 기업의 수의계약 내역을 전수 조사했습니다.<br><br>이 과정에서 지난해 4월 보궐선거로 당선된 한 지자체장의 건설사 차명 소유 의혹을 포착했습니다. 그는 2014년 회사 주식을 모두 매각했다고 주장했지만 누구에게 팔았는지 전혀 기억하지 못했습니다. <br><br>그가 설립한 회사는 주택건설이 주력사업이었는데, 농로와 오수관로 공사 등 최근 10년간 19억 400만 원 상당의 관급공사를 수의계약으로 따냈습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/mjOPc2THtPE</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/5-K2_</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 한동훈이 답하지 않은 7가지 질문들 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260514210153460</link>
+            <guid>https://v.daum.net/v/20260514210153460</guid>
+            <pubDate>Thu, 14 May 2026 12:28:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260514210153460" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 한동훈이 답하지 않은 7가지 질문들</strong><span class="info_txt"><span class="txt_info">26분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514210157593eskq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514210157593eskq.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[‘무죄’ 선고된 ‘한동훈 독직폭행’ 사건의 재구성 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260514182708095</link>
             <guid>https://v.daum.net/v/20260514182708095</guid>
             <pubDate>Thu, 14 May 2026 10:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260514182708095" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘무죄’ 선고된 ‘한동훈 독직폭행’ 사건의 재구성</strong><span class="info_txt"><span class="txt_info">52분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514182721412uhpt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260514182708095" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘무죄’ 선고된 ‘한동훈 독직폭행’ 사건의 재구성</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514182721412uhpt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514182721412uhpt.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3504,7 @@
             <link>https://v.daum.net/v/20260514181802825</link>
             <guid>https://v.daum.net/v/20260514181802825</guid>
             <pubDate>Thu, 14 May 2026 10:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260514181802825" class="link_column"><div class="cont_thumb"><strong class="tit_txt">윤석열 검찰 권력 남용의 최대 수혜자 '한동훈'</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514183912343epir.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260514181802825" class="link_column"><div class="cont_thumb"><strong class="tit_txt">윤석열 검찰 권력 남용의 최대 수혜자 '한동훈'</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514183912343epir.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514183912343epir.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3512,7 @@
             <link>https://v.daum.net/v/20260514105202335</link>
             <guid>https://v.daum.net/v/20260514105202335</guid>
             <pubDate>Thu, 14 May 2026 04:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260514105202335" class="link_column"><div class="cont_thumb"><strong class="tit_txt">"윤석열 과장님 말씀 듣고 미리 문자..." 14년만에 공개된 '이남석 문자'</strong><span class="info_txt"><span class="txt_info">8시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514105204019pwaw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260514105202335" class="link_column"><div class="cont_thumb"><strong class="tit_txt">"윤석열 과장님 말씀 듣고 미리 문자..." 14년만에 공개된 '이남석 문자'</strong><span class="info_txt"><span class="txt_info">10시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514105204019pwaw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514105204019pwaw.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3568,7 +3576,7 @@
             <link>https://v.daum.net/v/20260507210153757</link>
             <guid>https://v.daum.net/v/20260507210153757</guid>
             <pubDate>Fri, 08 May 2026 17:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260507210153757" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 윤상현의 회유 육성 "우리가 변호사 댈 테니까..."</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F07%2Fnewstapa%2F20260507210156605uaas.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260507210153757" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 윤상현의 회유 육성 "우리가 변호사 댈 테니까..."</strong><span class="info_txt"><span class="txt_info">2026. 5. 7.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F07%2Fnewstapa%2F20260507210156605uaas.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F07%2Fnewstapa%2F20260507210156605uaas.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3714,14 +3722,6 @@
             <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260422140608704" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'명태균 1심 무죄' 재판장, 피고인석에 선다... 법관 징계는 감감무소식</strong><span class="info_txt"><span class="txt_info">2026. 4. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F22%2Fnewstapa%2F20260422140615197hmvh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F22%2Fnewstapa%2F20260422140615197hmvh.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] 엄벌 모드 전환? 김건희 항소심 선고 전망 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260422110215204</link>
-            <guid>https://v.daum.net/v/20260422110215204</guid>
-            <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260422110215204" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 엄벌 모드 전환? 김건희 항소심 선고 전망</strong><span class="info_txt"><span class="txt_info">2026. 4. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F22%2Fnewstapa%2F20260422110217289mmuq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F22%2Fnewstapa%2F20260422110217289mmuq.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
