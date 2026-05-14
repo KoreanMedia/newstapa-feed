@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 May 2026 07:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 10:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘무죄’ 선고된 ‘한동훈 독직폭행’ 사건의 재구성]]></title>
+            <link>http://newstapa.org/article/ha2Li</link>
+            <guid>http://newstapa.org/article/ha2Li</guid>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘무죄’ 선고된 ‘한동훈 독직폭행’ 사건의 재구성]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/14181905-8620-15DA-A9A3-IKNC7QUGR7GH8IYCSR7X.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 검찰 권력 남용의 최대 수혜자 '한동훈']]></title>
+            <link>http://newstapa.org/article/YBxEv</link>
+            <guid>http://newstapa.org/article/YBxEv</guid>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 검찰 권력 남용의 최대 수혜자 '한동훈']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/14180846-B6DF-A6B4-5081-IZDRW1A50K419BNUHYWS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["윤석열 과장님 말씀 듣고 미리 문자..." 14년만에 공개된 '이남석 문자']]></title>
             <link>http://newstapa.org/article/T1kmu</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조국혁신당 정철원 담양군수 건설사 차명 소유 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/04165819-E98B-A5CA-37AF-7HC9LGEJG40YSI28XT0X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] ‘조작기소 특검’ 위헌 논란과 4가지 해법]]></title>
-            <link>http://newstapa.org/article/jLBev</link>
-            <guid>http://newstapa.org/article/jLBev</guid>
-            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] ‘조작기소 특검’ 위헌 논란과 4가지 해법]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/04143526-EC66-0DF7-D1E8-B3Y3WFS4M3KF2JFZ56JM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 전후 최악의 노동 탄압...'인질사법'에 맞선 일본 노조]]></title>
-            <link>http://newstapa.org/article/W3Wzy</link>
-            <guid>http://newstapa.org/article/W3Wzy</guid>
-            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 전후 최악의 노동 탄압...'인질사법'에 맞선 일본 노조]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/04141553-FC12-0902-3835-AFSWDSRVA0I1ZBX7HR2R.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
