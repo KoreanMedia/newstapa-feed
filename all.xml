@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 May 2026 04:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 10:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[목격자들] 열무야 열무야 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/3JPva</link>
+            <guid>http://newstapa.org/article/3JPva</guid>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목격자들] 열무야 열무야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/15132420-253E-A34D-DF63-0I01KV5Z7MJF30UN0ILA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] AI와 콜센터① “은행 콜센터는 비대면 영업점, AI가 만능은 아니다” (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/UZMto</link>
+            <guid>http://newstapa.org/article/UZMto</guid>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] AI와 콜센터① “은행 콜센터는 비대면 영업점, AI가 만능은 아니다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/15131651-D5C4-43AF-6F29-WLNIIF3IB713AQUHPN54.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 한동훈이 답하지 않은 7가지 질문들 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/hxqG8</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상현 ‘회유 녹취’ 다 실행됐다… 진술 연습까지]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/07151553-7B16-8713-388E-FGWZD0VT9SGYFKTC3DY0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤상현 ‘공범 회유 녹취’ 공개… 수사 대비해 증거 인멸 교사 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/90dRT</link>
-            <guid>http://newstapa.org/article/90dRT</guid>
-            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상현 ‘공범 회유 녹취’ 공개… 수사 대비해 증거 인멸 교사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/07144022-328B-E9C4-4F10-2RZKUFS6UAQPSWBL34DW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 윤석열은 '2012년 윤석열'을 이길 수 있을까? (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/saNro</link>
-            <guid>http://newstapa.org/article/saNro</guid>
-            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 윤석열은 '2012년 윤석열'을 이길 수 있을까?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/06154125-5BC0-23F7-3D9F-0UHOKRNPR2X23SJ3M2VS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 한동훈이 답하지 않은 7가지 질문들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/20171919-C595-8B87-D2FB-L44SHUBQ8RMCGJFNVMMU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[목격자들] 열무야 열무야 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/3JPva</link>
+            <guid>http://newstapa.org/article/3JPva</guid>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목격자들] 열무야 열무야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/15132420-253E-A34D-DF63-0I01KV5Z7MJF30UN0ILA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 전후 최악의 노동 탄압...'인질사법'에 맞선 일본 노조 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/W3Wzy</link>
             <guid>http://newstapa.org/article/W3Wzy</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 쿠팡 ‘마우스피스’ 언론, ‘셀프조사’ 주장을 사실처럼 유통]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/30113012-50AC-9531-0AF6-ME9EQW03ZM9NJU9BKBLD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡의 '산재 은폐' 합의서 공개... 언론·노조에 얘기하면 “민형사상 책임” (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/2-93X</link>
-            <guid>http://newstapa.org/article/2-93X</guid>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡의 '산재 은폐' 합의서 공개... 언론·노조에 얘기하면 “민형사상 책임”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/22174758-E1B1-8F55-4CBF-FUSUFRT2ZIYJVW7Q2LRR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 세월호 참사 12주기 : 책임자들의 음모론 활용법 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -1288,6 +1288,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/21140514-BD09-2C76-2565-6R67HAFJAP3RFLXBDPCU.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[[목격자들] 열무야 열무야 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/3JPva</link>
+            <guid>http://newstapa.org/article/3JPva</guid>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목격자들] 열무야 열무야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/15132420-253E-A34D-DF63-0I01KV5Z7MJF30UN0ILA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[다큐 뉴스타파] 소년의 이름 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
             <link>http://newstapa.org/article/9_BmV</link>
             <guid>http://newstapa.org/article/9_BmV</guid>
@@ -1406,14 +1414,6 @@
             <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[학력평가원 교과서 채택 단 2곳, 채택 학교는 '박근혜 국정교과서 연구학교' 전력]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/04170320-411D-0846-59AE-WWCLJW25DONJ8IVBIVWR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학력평가원, 검정 승인 근거 '납본 증명서'도 허위 내용으로 신청 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/wfMco</link>
-            <guid>http://newstapa.org/article/wfMco</guid>
-            <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[학력평가원, 검정 승인 근거 '납본 증명서'도 허위 내용으로 신청]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/22160328-3773-60DB-451C-SDW22DM762L67FV1R51I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[목격자들] 사월의 기억 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
@@ -3216,6 +3216,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/04180829-9CEC-F153-65F6-7JGTNJVQK6YEF28C2JBD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] AI와 콜센터① “은행 콜센터는 비대면 영업점, AI가 만능은 아니다” (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/UZMto</link>
+            <guid>https://www.newstapa.org/article/UZMto</guid>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.05.15]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/15131651-D5C4-43AF-6F29-WLNIIF3IB713AQUHPN54.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 무죄를 팝니다: 인니 현직검사, 한국인 피고인에게 거액 뇌물 갈취 (뉴스타파 ─ 참여)]]></title>
             <link>https://www.newstapa.org/article/K_sIn</link>
             <guid>https://www.newstapa.org/article/K_sIn</guid>
@@ -3336,12 +3344,18 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/02154017-F097-223E-A022-JCS4T45V4C50IJJDZS2F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[KINN] 윤석열 언론공범⑥ “시대가 원하는 관상”, “김건희는 백공작” (뉴스타파 ─ 참여)]]></title>
-            <link>https://www.newstapa.org/article/D_XeM</link>
-            <guid>https://www.newstapa.org/article/D_XeM</guid>
-            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025.10.16]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/16152015-2B7B-9D82-B540-PF14PQFY9A0Y0V0N0MNF.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[목격자들] 열무야 열무야 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/113363585</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/113363585</guid>
+            <pubDate>Fri, 15 May 2026 10:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[강원도 강릉 유천초등학교의 ‘열무’ 윤용숙 선생님은 혁신학교 지정 취소와 부당징계에 맞서 긴 시간을 싸웠습니다.<br><br>재판에서 이겨 교실로 돌아갔지만, 긴 투쟁이 남긴 상처는 쉽게 사라지지 않았습니다. 상처는 깊었지만, 열무 선생님은 그 시간 속에서 다른 이들의 고통을 외면하지 않는 법을 배웠습니다. <br><br>'스승의 날'을 맞아 공개하는 목격자들 &lt;열무야 열무야&gt;는 차별받지 않고, 억압받지 않고, 배제되지 않는 세상을 꿈꾸는 한 교사의 시간을 기록했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/d9SVb9aseIU</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/3JPva</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] AI와 콜센터① “은행 콜센터는 비대면 영업점, AI가 만능은 아니다” (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/113359636</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/113359636</guid>
+            <pubDate>Fri, 15 May 2026 10:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[AI가 일자리 구조를 완전히 바꿀 거라는 전망이 지배적입니다. 은행 등이 운영하는 콜센터도 마찬가지. 하지만 과연 그럴까요? <br><br>고객 스스로도 잘 모르는 요구사항을 파악하기 위해 스무고개를 하고, 고객이 진짜 원하는 게 무엇인지 알아내는 일을 과연 AI가 인간보다 잘 할 수 있을까요? <br><br>무조건적인 AI 도입과 비용 절감, 외주 용역 확대를 논하기 전에 ‘인간의 복잡한 상호 작용’’과 노동의 가치’를 생각해 보게 하는 기사, 빅테크 전문 독립언론 ‘디프레임’이 취재했습니다. <br><br>👉 디프레임 전체기사 보기: <span class="link_url">https://thedeframe.com/aicc-in-bank-1</span>/<br>👉 디프레임 응원하기: <span class="link_url">https://thedeframe.com/support/</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘무죄’ 선고된 ‘한동훈 독직폭행’ 사건의 재구성 (뉴스타파 ─ 카카오톡 채널)]]></title>
@@ -3470,25 +3484,27 @@
             <content:encoded><![CDATA[지난해 9월 24일 뉴스타파는 국민의힘 윤상현 의원이 인천의 한 홍보업체로부터 2023년 1월부터 약 1년 반 동안 공짜 홍보 콘텐츠를 수수했다고 보도했습니다.<br><br>그런데 뉴스타파 보도 5일 후, 윤상현 의원이 홍보업체 대표를 불러내 변호사를 붙여주겠다며, 증거인멸을 지시하는 등 회유한 사실이 확인됐습니다. 증거인멸 우려는 수사기관이 구속영장을 청구하는, 법원이 구속영장을 발부하는 대표적인 사유입니다.<br><br>뉴스타파는 윤상현 의원의 회유 녹음파일을 입수했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/c3KVhck4658</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/90dRT</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[<현장에서> 윤석열은 '2012년 윤석열'을 이길 수 있을까? (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/113267569</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/113267569</guid>
-            <pubDate>Fri, 08 May 2026 17:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[‘윤석열 거짓말’ 사건 네번째 재판이 서울중앙지법 형사합의21부(조순표 부장판사) 심리로 지난달 27일 열렸습니다. 윤석열과 대검중수부에서 같이 근무했던 이남석 변호사가 증인으로 출석했습니다. 이남석은 소위 ‘윤석열 변호사 소개 의혹’의 당사자입니다. 2012년 뇌물 수수 혐의로 경찰 수사를 받던 윤우진 전 용산세무서장에게 윤석열이 소개한 것으로 의심받습니다. 이남석은 이날 재판에서 “윤우진을 소개한 건 윤석열이 아니라 친동생인 윤대진 검사였다”고 증언했습니다. 일단 윤석열에게 유리한 증언입니다.<br><br>이날 법정에선 그간 알려지지 않은 사실도 확인됐습니다. 윤우진의 변호인으로 선임된 적이 없다던 이남석 변호사가 윤우진에게 변호사비를 받은 사실이 새롭게 확인됐습니다. 윤석열 주장의 절반을 탄핵하는 사실입니다. 이 재판은 윤석열이 윤석열과 싸우는 희한한 재판입니다. '2026년 윤석열'이 '2012년 윤석열'과 싸웁니다. 자신의 과거 발언을 뒤집어야 윤석열은 살 수 있습니다. 재판 결과에 윤석열을 대통령으로 세웠던 국민의힘의 운명도 결정됩니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/saNro</span>]]></content:encoded>
+            <title><![CDATA[[목격자들] 열무야 열무야 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260515170202510</link>
+            <guid>https://v.daum.net/v/20260515170202510</guid>
+            <pubDate>Fri, 15 May 2026 10:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260515170202510" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[목격자들] 열무야 열무야</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F15%2Fnewstapa%2F20260515170210761cmam.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F15%2Fnewstapa%2F20260515170210761cmam.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
-            <title><![CDATA[조국혁신당 정철원 담양군수 건설사 차명 소유 의혹 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/113261720</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/113261720</guid>
-            <pubDate>Fri, 08 May 2026 17:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파는 6.3 지방 선거를 앞두고 사업가 출신의 지방자치단체장과 연관이 있는 기업의 수의계약 내역을 전수 조사했습니다.<br><br>이 과정에서 지난해 4월 보궐선거로 당선된 한 지자체장의 건설사 차명 소유 의혹을 포착했습니다. 그는 2014년 회사 주식을 모두 매각했다고 주장했지만 누구에게 팔았는지 전혀 기억하지 못했습니다. <br><br>그가 설립한 회사는 주택건설이 주력사업이었는데, 농로와 오수관로 공사 등 최근 10년간 19억 400만 원 상당의 관급공사를 수의계약으로 따냈습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/mjOPc2THtPE</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/5-K2_</span>]]></content:encoded>
+            <title><![CDATA[[KINN] AI와 콜센터① “은행 콜센터는 비대면 영업점, AI가 만능은 아니다” (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260515132203445</link>
+            <guid>https://v.daum.net/v/20260515132203445</guid>
+            <pubDate>Fri, 15 May 2026 10:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260515132203445" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] AI와 콜센터① “은행 콜센터는 비대면 영업점, AI가 만능은 아니다”</strong><span class="info_txt"><span class="txt_info">6시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F15%2Fnewstapa%2F20260515132204752dcpf.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F15%2Fnewstapa%2F20260515132204752dcpf.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 한동훈이 답하지 않은 7가지 질문들 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260514210153460</link>
             <guid>https://v.daum.net/v/20260514210153460</guid>
             <pubDate>Thu, 14 May 2026 12:28:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260514210153460" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 한동훈이 답하지 않은 7가지 질문들</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514210157593eskq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260514210153460" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 한동훈이 답하지 않은 7가지 질문들</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514210157593eskq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514210157593eskq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3512,7 @@
             <link>https://v.daum.net/v/20260514182708095</link>
             <guid>https://v.daum.net/v/20260514182708095</guid>
             <pubDate>Thu, 14 May 2026 10:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260514182708095" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘무죄’ 선고된 ‘한동훈 독직폭행’ 사건의 재구성</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514182721412uhpt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260514182708095" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘무죄’ 선고된 ‘한동훈 독직폭행’ 사건의 재구성</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514182721412uhpt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514182721412uhpt.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3504,7 +3520,7 @@
             <link>https://v.daum.net/v/20260514181802825</link>
             <guid>https://v.daum.net/v/20260514181802825</guid>
             <pubDate>Thu, 14 May 2026 10:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260514181802825" class="link_column"><div class="cont_thumb"><strong class="tit_txt">윤석열 검찰 권력 남용의 최대 수혜자 '한동훈'</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514183912343epir.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260514181802825" class="link_column"><div class="cont_thumb"><strong class="tit_txt">윤석열 검찰 권력 남용의 최대 수혜자 '한동훈'</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514183912343epir.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F14%2Fnewstapa%2F20260514183912343epir.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3520,7 +3536,7 @@
             <link>https://v.daum.net/v/20260513190708099</link>
             <guid>https://v.daum.net/v/20260513190708099</guid>
             <pubDate>Wed, 13 May 2026 12:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260513190708099" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘검찰 범죄’ 특검을 해야할 50가지 이유② 조작, 조작, 또 조작</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F13%2Fnewstapa%2F20260513190709561dpor.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260513190708099" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘검찰 범죄’ 특검을 해야할 50가지 이유② 조작, 조작, 또 조작</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F13%2Fnewstapa%2F20260513190709561dpor.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F13%2Fnewstapa%2F20260513190709561dpor.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3528,7 +3544,7 @@
             <link>https://v.daum.net/v/20260512181153047</link>
             <guid>https://v.daum.net/v/20260512181153047</guid>
             <pubDate>Tue, 12 May 2026 09:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260512181153047" class="link_column"><div class="cont_thumb"><strong class="tit_txt">이재명 공유 '팔레스타인 영상' 유족 찾았다... “아들 시신 돌려달라”</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F12%2Fnewstapa%2F20260512181212275eruw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260512181153047" class="link_column"><div class="cont_thumb"><strong class="tit_txt">이재명 공유 '팔레스타인 영상' 유족 찾았다... “아들 시신 돌려달라”</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F12%2Fnewstapa%2F20260512181212275eruw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F12%2Fnewstapa%2F20260512181212275eruw.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3536,7 +3552,7 @@
             <link>https://v.daum.net/v/20260511171700238</link>
             <guid>https://v.daum.net/v/20260511171700238</guid>
             <pubDate>Mon, 11 May 2026 11:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260511171700238" class="link_column"><div class="cont_thumb"><strong class="tit_txt">정철원 담양군수 차명 의심 회사 2개 더 있다</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F11%2Fnewstapa%2F20260511171706614krfe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260511171700238" class="link_column"><div class="cont_thumb"><strong class="tit_txt">정철원 담양군수 차명 의심 회사 2개 더 있다</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F11%2Fnewstapa%2F20260511171706614krfe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F11%2Fnewstapa%2F20260511171706614krfe.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3544,7 +3560,7 @@
             <link>https://v.daum.net/v/20260511151703218</link>
             <guid>https://v.daum.net/v/20260511151703218</guid>
             <pubDate>Mon, 11 May 2026 07:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260511151703218" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[해설 사법개혁] ③ 지방근무는 죽어도 못 한다는 판사들</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F11%2Fnewstapa%2F20260511151704949jmmo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260511151703218" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[해설 사법개혁] ③ 지방근무는 죽어도 못 한다는 판사들</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F11%2Fnewstapa%2F20260511151704949jmmo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F11%2Fnewstapa%2F20260511151704949jmmo.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3560,7 +3576,7 @@
             <link>https://v.daum.net/v/20260508164153943</link>
             <guid>https://v.daum.net/v/20260508164153943</guid>
             <pubDate>Fri, 08 May 2026 17:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260508164153943" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[목격자들] 세상은 그렇게 끝난다</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F08%2Fnewstapa%2F20260508164158828thlv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260508164153943" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[목격자들] 세상은 그렇게 끝난다</strong><span class="info_txt"><span class="txt_info">2026. 5. 8.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F08%2Fnewstapa%2F20260508164158828thlv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F08%2Fnewstapa%2F20260508164158828thlv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3568,7 +3584,7 @@
             <link>https://v.daum.net/v/20260508135203059</link>
             <guid>https://v.daum.net/v/20260508135203059</guid>
             <pubDate>Fri, 08 May 2026 17:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260508135203059" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 무죄를 팝니다: 인니 현직검사, 한국인 피고인에게 거액 뇌물 갈취</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F08%2Fnewstapa%2F20260508135208456xhxw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260508135203059" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[KINN] 무죄를 팝니다: 인니 현직검사, 한국인 피고인에게 거액 뇌물 갈취</strong><span class="info_txt"><span class="txt_info">2026. 5. 8.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F08%2Fnewstapa%2F20260508135208456xhxw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F08%2Fnewstapa%2F20260508135208456xhxw.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3706,22 +3722,6 @@
             <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260423210214793" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 법과 원칙? 강백신 검사,  제가 한마디 하겠습니다</strong><span class="info_txt"><span class="txt_info">2026. 4. 23.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F23%2Fnewstapa%2F20260423210219088lizz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F23%2Fnewstapa%2F20260423210219088lizz.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[이강길, “2011년 윤석열 수사팀, ‘조우형 뒷돈’ 알았다” 국회 증언 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260423150607078</link>
-            <guid>https://v.daum.net/v/20260423150607078</guid>
-            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260423150607078" class="link_column"><div class="cont_thumb"><strong class="tit_txt">이강길, “2011년 윤석열 수사팀, ‘조우형 뒷돈’ 알았다” 국회 증언</strong><span class="info_txt"><span class="txt_info">2026. 4. 23.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F23%2Fnewstapa%2F20260423150609236uqut.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F23%2Fnewstapa%2F20260423150609236uqut.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA['명태균 1심 무죄' 재판장, 피고인석에 선다... 법관 징계는 감감무소식 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260422140608704</link>
-            <guid>https://v.daum.net/v/20260422140608704</guid>
-            <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260422140608704" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'명태균 1심 무죄' 재판장, 피고인석에 선다... 법관 징계는 감감무소식</strong><span class="info_txt"><span class="txt_info">2026. 4. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F22%2Fnewstapa%2F20260422140615197hmvh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F22%2Fnewstapa%2F20260422140615197hmvh.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

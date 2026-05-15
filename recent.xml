@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 May 2026 04:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 10:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[목격자들] 열무야 열무야]]></title>
+            <link>http://newstapa.org/article/3JPva</link>
+            <guid>http://newstapa.org/article/3JPva</guid>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목격자들] 열무야 열무야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/15132420-253E-A34D-DF63-0I01KV5Z7MJF30UN0ILA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] AI와 콜센터① “은행 콜센터는 비대면 영업점, AI가 만능은 아니다”]]></title>
+            <link>http://newstapa.org/article/UZMto</link>
+            <guid>http://newstapa.org/article/UZMto</guid>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] AI와 콜센터① “은행 콜센터는 비대면 영업점, AI가 만능은 아니다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/15131651-D5C4-43AF-6F29-WLNIIF3IB713AQUHPN54.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 한동훈이 답하지 않은 7가지 질문들]]></title>
             <link>http://newstapa.org/article/hxqG8</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상현 ‘회유 녹취’ 다 실행됐다… 진술 연습까지]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/07151553-7B16-8713-388E-FGWZD0VT9SGYFKTC3DY0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤상현 ‘공범 회유 녹취’ 공개… 수사 대비해 증거 인멸 교사]]></title>
-            <link>http://newstapa.org/article/90dRT</link>
-            <guid>http://newstapa.org/article/90dRT</guid>
-            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상현 ‘공범 회유 녹취’ 공개… 수사 대비해 증거 인멸 교사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/07144022-328B-E9C4-4F10-2RZKUFS6UAQPSWBL34DW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 윤석열은 '2012년 윤석열'을 이길 수 있을까?]]></title>
-            <link>http://newstapa.org/article/saNro</link>
-            <guid>http://newstapa.org/article/saNro</guid>
-            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 윤석열은 '2012년 윤석열'을 이길 수 있을까?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/06154125-5BC0-23F7-3D9F-0UHOKRNPR2X23SJ3M2VS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
