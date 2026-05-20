@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 May 2026 07:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 10:53:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내란 옹호, 탄핵 반대 후보 추적 ① 부산, 울산]]></title>
+            <link>http://newstapa.org/article/YxWN9</link>
+            <guid>http://newstapa.org/article/YxWN9</guid>
+            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내란 옹호, 탄핵 반대 후보 추적 ① 부산, 울산]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/20171303-64DD-52B1-1B7B-GBCQYDPHMZ0PLAULC631.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유동규, “‘김만배 언론공작’ 검찰 진술은 추측이었다”]]></title>
             <link>http://newstapa.org/article/popLX</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[해설 사법개혁] ③ 지방근무는 죽어도 못 한다는 판사들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/11151400-2C59-C142-1B0F-HUHGJSGLIW298TQGG4PT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘검찰 범죄’ 특검을 해야할 50가지 이유① 증거 위·변조]]></title>
-            <link>http://newstapa.org/article/pENOh</link>
-            <guid>http://newstapa.org/article/pENOh</guid>
-            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘검찰 범죄’ 특검을 해야할 50가지 이유① 증거 위·변조]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/09110649-0705-37F9-627A-V1QJS4GM3AT0WQNPP3FK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

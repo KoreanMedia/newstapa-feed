@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-05-20T07:50:02.748Z</updated>
+    <updated>2026-05-20T10:53:24.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/8d9d2b6/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내란 옹호, 탄핵 반대 후보 추적 ① 부산, 울산]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/113410085</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/113410085"/>
+        <updated>2026-05-20T10:53:15.182Z</updated>
+        <content type="html"><![CDATA['윤석열 내란’을 옹호하거나 윤석열 씨 탄핵에 반대했던 지방의회 의원들 가운데 상당수가 이번 지방선거에 또다시 출마하는 것으로 확인됐습니다. 국민의힘이 이들에게 공천을 줬습니다. <br><br>뉴스타파는 내란 다음날인 2024년 12월 4일부터 최근까지 전국 243개 지방의회 회의록 약 3만 건을 전수조사했습니다. 공식 기록물을 바탕으로 내란 옹호·탄핵 반대 발언을 한 지방의원들을 추렸고, 이를 이번 지방선거 공천 결과와 대조했습니다.<br><br>유권자들의 판단을 돕기 위해 해당 후보들의 명단을 지역별로 공개합니다. 첫 번째는 부산·울산 지역입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/BATPz03Tljc</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/YxWN9</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유동규, “‘김만배 언론공작’ 검찰 진술은 추측이었다”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/113408192</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/113313203"/>
         <updated>2026-05-11T07:44:11.362Z</updated>
         <content type="html"><![CDATA[검찰은 사법이 아니라 행정이었습니다. 게다가 한국 검찰은 세계에 유례가 없는 조직이었기에 없애야 했고, 없앴습니다. 진짜 문제는 사법입니다. 한국의 사법이 병들고 있습니다. 그렇지만 검찰처럼 없앨 수는 없습니다. <br><br>사법은 입헌 민주주의를 이루는 핵심입니다. 대법관이 증원되고 재판소원이 도입됐지만, 법원행정처 폐지를 비롯해 남은 과제가 많습니다. 법원은 여전히 저항하고 있습니다. 이에 사법개혁을 두고 법원에서 벌어지는 현상과 이면을 법학박사인 이범준 전문위원이 분석합니다. <br><br>'해설 사법개혁' 세 번째 기사에서는 지방 근무를 꺼리는 판사들 때문에 원격 근무, 지방 근무 축소라는 처방을 내린 법원의 난맥상을 다룹니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/otACq</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘검찰 범죄’ 특검을 해야할 50가지 이유① 증거 위·변조]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/113298998</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/113298998"/>
-        <updated>2026-05-09T03:28:01.520Z</updated>
-        <content type="html"><![CDATA[이른바 ‘정치검찰 조작기소 특검법안’과 관련해 논란이 거셉니다. 뉴스타파는 국회 ‘조작 기소 국정조사 특위’의 청문회 기록과 기관 보고 회의록, 결과보고서 등 2천여 쪽의 관련 문건과 영상회의록 등을 분석했습니다. 이를 통해 확인된 검찰의 불법 수사 관련 기존 의혹을 뒷받침하거나 새롭게 드러난 증거와 증언을 연속 보도할 예정입니다. 과연 특검이 필요한지 아닌지 판단할 수 있는 근거를 제공하기 위해서입니다. <br><br>연속 보도 첫 편에서는 김용진 에디터가 검찰의 증거 위·변조 의혹 관련 케이스 3건을 다뤘습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/pENOh</span>]]></content>
     </entry>
 </feed>
