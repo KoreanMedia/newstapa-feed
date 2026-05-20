@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 May 2026 03:40:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 07:50:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유동규, “‘김만배 언론공작’ 검찰 진술은 추측이었다”]]></title>
+            <link>http://newstapa.org/article/popLX</link>
+            <guid>http://newstapa.org/article/popLX</guid>
+            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유동규, “‘김만배 언론공작’ 검찰 진술은 추측이었다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/20153152-956D-41A2-707A-1YOD7O1QL94ZAJQMSBA0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤상현이 지우려던 ‘정치자금 부정수수 물증’ 공개]]></title>
+            <link>http://newstapa.org/article/6ouDo</link>
+            <guid>http://newstapa.org/article/6ouDo</guid>
+            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상현이 지우려던 ‘정치자금 부정수수 물증’ 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/20145746-7815-E14D-DABB-T5AYKCIOMTDCX4WY0NBX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["지금도 내란 옹호, 반탄?" 논란의 후보 5인에게 직접 물었습니다]]></title>
             <link>http://newstapa.org/article/PJpfr</link>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘검찰 범죄’ 특검을 해야할 50가지 이유① 증거 위·변조]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/09110649-0705-37F9-627A-V1QJS4GM3AT0WQNPP3FK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[목격자들] 세상은 그렇게 끝난다]]></title>
-            <link>http://newstapa.org/article/AB-aa</link>
-            <guid>http://newstapa.org/article/AB-aa</guid>
-            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[목격자들] 세상은 그렇게 끝난다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/08162419-D229-A5EE-157B-7NV35HMBY4QCBLY6WB4Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 무죄를 팝니다: 인니 현직검사, 한국인 피고인에게 거액 뇌물 갈취]]></title>
-            <link>http://newstapa.org/article/K_sIn</link>
-            <guid>http://newstapa.org/article/K_sIn</guid>
-            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 무죄를 팝니다: 인니 현직검사, 한국인 피고인에게 거액 뇌물 갈취]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/08133602-AB93-11F0-41C3-6X1QVTO7CSYFGBLMJO68.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

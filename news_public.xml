@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 May 2026 03:40:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 07:50:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유동규, “‘김만배 언론공작’ 검찰 진술은 추측이었다”]]></title>
+            <link>http://newstapa.org/article/popLX</link>
+            <guid>http://newstapa.org/article/popLX</guid>
+            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유동규, “‘김만배 언론공작’ 검찰 진술은 추측이었다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/20153152-956D-41A2-707A-1YOD7O1QL94ZAJQMSBA0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤상현이 지우려던 ‘정치자금 부정수수 물증’ 공개]]></title>
+            <link>http://newstapa.org/article/6ouDo</link>
+            <guid>http://newstapa.org/article/6ouDo</guid>
+            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤상현이 지우려던 ‘정치자금 부정수수 물증’ 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/20145746-7815-E14D-DABB-T5AYKCIOMTDCX4WY0NBX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["지금도 내란 옹호, 반탄?" 논란의 후보 5인에게 직접 물었습니다]]></title>
             <link>http://newstapa.org/article/PJpfr</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 윤석열은 '2012년 윤석열'을 이길 수 있을까?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/06154125-5BC0-23F7-3D9F-0UHOKRNPR2X23SJ3M2VS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조국혁신당 정철원 담양군수 건설사 차명 소유 의혹]]></title>
-            <link>http://newstapa.org/article/5-K2_</link>
-            <guid>http://newstapa.org/article/5-K2_</guid>
-            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조국혁신당 정철원 담양군수 건설사 차명 소유 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/04165819-E98B-A5CA-37AF-7HC9LGEJG40YSI28XT0X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 윤상현 '증인 매수' 인정됐지만 윤상현은 불송치]]></title>
-            <link>http://newstapa.org/article/aOSXN</link>
-            <guid>http://newstapa.org/article/aOSXN</guid>
-            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 윤상현 '증인 매수' 인정됐지만 윤상현은 불송치]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/30164057-46CA-B244-8E1E-GFGLJWMAS3ZXWGNJ1D6G.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
