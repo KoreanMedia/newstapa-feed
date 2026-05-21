@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 May 2026 03:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 07:57:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내란 옹호, 탄핵 반대 후보 추적 ③ 충남, 서산]]></title>
+            <link>http://newstapa.org/article/AltWW</link>
+            <guid>http://newstapa.org/article/AltWW</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내란 옹호, 탄핵 반대 후보 추적 ③ 충남, 서산]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/21162508-AFF4-8895-F27C-57LOZV1SJ7EXP6QTQRO4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내란 옹호, 탄핵 반대 후보 추적 ② 창원, 김해]]></title>
+            <link>http://newstapa.org/article/kKxZV</link>
+            <guid>http://newstapa.org/article/kKxZV</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내란 옹호, 탄핵 반대 후보 추적 ② 창원, 김해]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/21161327-E5F8-66C5-2682-B8004YJH0IBBEZ5SYLVQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내란 옹호, 탄핵 반대 후보 추적 ① 부산, 울산]]></title>
             <link>http://newstapa.org/article/YxWN9</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤상현 ‘공범 회유’ 도운 측근, 4번째 구의원 공천 받아]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/07165814-82F4-58A4-7F38-NPTFDSUCGD4B4K5X48HJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤상현 ‘회유 녹취’ 다 실행됐다… 진술 연습까지]]></title>
-            <link>http://newstapa.org/article/U8lwN</link>
-            <guid>http://newstapa.org/article/U8lwN</guid>
-            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상현 ‘회유 녹취’ 다 실행됐다… 진술 연습까지]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/07151553-7B16-8713-388E-FGWZD0VT9SGYFKTC3DY0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤상현 ‘공범 회유 녹취’ 공개… 수사 대비해 증거 인멸 교사]]></title>
-            <link>http://newstapa.org/article/90dRT</link>
-            <guid>http://newstapa.org/article/90dRT</guid>
-            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤상현 ‘공범 회유 녹취’ 공개… 수사 대비해 증거 인멸 교사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/07144022-328B-E9C4-4F10-2RZKUFS6UAQPSWBL34DW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

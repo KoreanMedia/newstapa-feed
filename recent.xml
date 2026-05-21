@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 May 2026 03:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 07:57:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내란 옹호, 탄핵 반대 후보 추적 ③ 충남, 서산]]></title>
+            <link>http://newstapa.org/article/AltWW</link>
+            <guid>http://newstapa.org/article/AltWW</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내란 옹호, 탄핵 반대 후보 추적 ③ 충남, 서산]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/21162508-AFF4-8895-F27C-57LOZV1SJ7EXP6QTQRO4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내란 옹호, 탄핵 반대 후보 추적 ② 창원, 김해]]></title>
+            <link>http://newstapa.org/article/kKxZV</link>
+            <guid>http://newstapa.org/article/kKxZV</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내란 옹호, 탄핵 반대 후보 추적 ② 창원, 김해]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/21161327-E5F8-66C5-2682-B8004YJH0IBBEZ5SYLVQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내란 옹호, 탄핵 반대 후보 추적 ① 부산, 울산]]></title>
             <link>http://newstapa.org/article/YxWN9</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이재명 공유 '팔레스타인 영상' 유족 찾았다... “아들 시신 돌려달라”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/12175934-D65D-943F-1B9E-UJOK5G03OO4YUDMVEPI9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정철원 담양군수 차명 의심 회사 2개 더 있다]]></title>
-            <link>http://newstapa.org/article/DIib8</link>
-            <guid>http://newstapa.org/article/DIib8</guid>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정철원 담양군수 차명 의심 회사 2개 더 있다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/11171033-7FE7-FFD8-53CF-LDE9BZY6K09HFG5OROAG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해설 사법개혁] ③ 지방근무는 죽어도 못 한다는 판사들]]></title>
-            <link>http://newstapa.org/article/otACq</link>
-            <guid>http://newstapa.org/article/otACq</guid>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해설 사법개혁] ③ 지방근무는 죽어도 못 한다는 판사들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/11151400-2C59-C142-1B0F-HUHGJSGLIW298TQGG4PT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
