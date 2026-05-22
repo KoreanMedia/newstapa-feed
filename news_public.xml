@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 May 2026 05:04:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 09:27:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 부산시, 고려대 등 박형준 시장 관련 대학 매체에 정부광고 몰아줘]]></title>
+            <link>http://newstapa.org/article/lAJXB</link>
+            <guid>http://newstapa.org/article/lAJXB</guid>
+            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 부산시, 고려대 등 박형준 시장 관련 대학 매체에 정부광고 몰아줘]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/22174720-CE08-F9F2-F435-GP85FCZ5JH434A22R1RN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[12.3 비상계엄 고위장교 징계처분서 공개① 한국군 지휘부의 붕괴]]></title>
+            <link>http://newstapa.org/article/OwP-r</link>
+            <guid>http://newstapa.org/article/OwP-r</guid>
+            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[12.3 비상계엄 고위장교 징계처분서 공개① 한국군 지휘부의 붕괴]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/22164731-F399-358E-E3C8-FS2EI7S4AYEIMPN0LC8O.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["군수 믿고 맡겼는데"... 건설 브로커 된 권익현 부안군수]]></title>
+            <link>http://newstapa.org/article/Spup_</link>
+            <guid>http://newstapa.org/article/Spup_</guid>
+            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["군수 믿고 맡겼는데"... 건설 브로커 된 권익현 부안군수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/22162925-00D5-D8AC-A9AA-8BK76YZL63NZ9B2I1B2D.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 내란을 내란이라고 말 못하는 후보들]]></title>
             <link>http://newstapa.org/article/3-tlY</link>
@@ -110,30 +134,6 @@
             <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘검찰 범죄’ 특검을 해야할 50가지 이유② 조작, 조작, 또 조작]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/13185355-9855-87F9-B21D-SW0OAUAIWRZWOED89T5B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정철원 담양군수 차명 의심 회사 2개 더 있다]]></title>
-            <link>http://newstapa.org/article/DIib8</link>
-            <guid>http://newstapa.org/article/DIib8</guid>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정철원 담양군수 차명 의심 회사 2개 더 있다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/11171033-7FE7-FFD8-53CF-LDE9BZY6K09HFG5OROAG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘검찰 범죄’ 특검을 해야할 50가지 이유① 증거 위·변조]]></title>
-            <link>http://newstapa.org/article/pENOh</link>
-            <guid>http://newstapa.org/article/pENOh</guid>
-            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘검찰 범죄’ 특검을 해야할 50가지 이유① 증거 위·변조]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/09110649-0705-37F9-627A-V1QJS4GM3AT0WQNPP3FK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 윤상현의 회유 육성 "우리가 변호사 댈 테니까..."]]></title>
-            <link>http://newstapa.org/article/wFckA</link>
-            <guid>http://newstapa.org/article/wFckA</guid>
-            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 윤상현의 회유 육성 "우리가 변호사 댈 테니까..."]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/07170530-EF70-B848-EC29-GWFEG0NOS2CNZD2IP43U.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

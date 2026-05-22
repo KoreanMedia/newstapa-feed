@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 참여</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 May 2026 05:04:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 09:27:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 부산시, 고려대 등 박형준 시장 관련 대학 매체에 정부광고 몰아줘]]></title>
+            <link>https://www.newstapa.org/article/lAJXB</link>
+            <guid>https://www.newstapa.org/article/lAJXB</guid>
+            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.05.22]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/22174720-CE08-F9F2-F435-GP85FCZ5JH434A22R1RN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] AI와 콜센터① “은행 콜센터는 비대면 영업점, AI가 만능은 아니다”]]></title>
             <link>https://www.newstapa.org/article/UZMto</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2025.12.09]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/09142242-2E33-AB0A-8CAD-AQYIUQ83LX988JHWGF0R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN]윤석열 언론공범⑦ ‘처가 리스크’를 막아준 주류 언론]]></title>
-            <link>https://www.newstapa.org/article/gxIjU</link>
-            <guid>https://www.newstapa.org/article/gxIjU</guid>
-            <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2025.12.02]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/02154017-F097-223E-A022-JCS4T45V4C50IJJDZS2F.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
