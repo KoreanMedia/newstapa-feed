@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 May 2026 07:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 15:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정명근 화성시장 배우자, 유령회사로 땅 투기 의혹]]></title>
+            <link>http://newstapa.org/article/ZA0jh</link>
+            <guid>http://newstapa.org/article/ZA0jh</guid>
+            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정명근 화성시장 배우자, 유령회사로 땅 투기 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/26185403-C1CA-A643-4D78-L3MHSMO8M0ORWU9ZFGOT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['김두겸 사조직 논란' 금섬회, 4년간 울산시 수의계약 급증 확인]]></title>
+            <link>http://newstapa.org/article/bFtb1</link>
+            <guid>http://newstapa.org/article/bFtb1</guid>
+            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['김두겸 사조직 논란' 금섬회, 4년간 울산시 수의계약 급증 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/26183257-42DC-8386-084F-KFHQP0U9TF0H245YJ4TK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파] 전력 오판 15년, 감춰진 청구서 : '개미지옥'이 된 발전소]]></title>
             <link>http://newstapa.org/article/S4KHg</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[목격자들] 열무야 열무야]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/15132420-253E-A34D-DF63-0I01KV5Z7MJF30UN0ILA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] AI와 콜센터① “은행 콜센터는 비대면 영업점, AI가 만능은 아니다”]]></title>
-            <link>http://newstapa.org/article/UZMto</link>
-            <guid>http://newstapa.org/article/UZMto</guid>
-            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] AI와 콜센터① “은행 콜센터는 비대면 영업점, AI가 만능은 아니다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/15131651-D5C4-43AF-6F29-WLNIIF3IB713AQUHPN54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 한동훈이 답하지 않은 7가지 질문들]]></title>
-            <link>http://newstapa.org/article/hxqG8</link>
-            <guid>http://newstapa.org/article/hxqG8</guid>
-            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 한동훈이 답하지 않은 7가지 질문들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/14154556-94EA-D9C5-A742-TG3982XWDGQLESJNO6RV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

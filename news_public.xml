@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 May 2026 07:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 15:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정명근 화성시장 배우자, 유령회사로 땅 투기 의혹]]></title>
+            <link>http://newstapa.org/article/ZA0jh</link>
+            <guid>http://newstapa.org/article/ZA0jh</guid>
+            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정명근 화성시장 배우자, 유령회사로 땅 투기 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/26185403-C1CA-A643-4D78-L3MHSMO8M0ORWU9ZFGOT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['김두겸 사조직 논란' 금섬회, 4년간 울산시 수의계약 급증 확인]]></title>
+            <link>http://newstapa.org/article/bFtb1</link>
+            <guid>http://newstapa.org/article/bFtb1</guid>
+            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['김두겸 사조직 논란' 금섬회, 4년간 울산시 수의계약 급증 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/26183257-42DC-8386-084F-KFHQP0U9TF0H245YJ4TK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 부산시, 고려대 등 박형준 시장 관련 대학 매체에 정부광고 몰아줘]]></title>
             <link>http://newstapa.org/article/lAJXB</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 검찰 권력 남용의 최대 수혜자 '한동훈']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/14180846-B6DF-A6B4-5081-IZDRW1A50K419BNUHYWS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["윤석열 과장님 말씀 듣고 미리 문자..." 14년만에 공개된 '이남석 문자']]></title>
-            <link>http://newstapa.org/article/T1kmu</link>
-            <guid>http://newstapa.org/article/T1kmu</guid>
-            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["윤석열 과장님 말씀 듣고 미리 문자..." 14년만에 공개된 '이남석 문자']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/14104740-B8DA-4868-A8C8-YCT5E7TG549FR3QHHD3S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘검찰 범죄’ 특검을 해야할 50가지 이유② 조작, 조작, 또 조작]]></title>
-            <link>http://newstapa.org/article/WmiyF</link>
-            <guid>http://newstapa.org/article/WmiyF</guid>
-            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘검찰 범죄’ 특검을 해야할 50가지 이유② 조작, 조작, 또 조작]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/13185355-9855-87F9-B21D-SW0OAUAIWRZWOED89T5B.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
