@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 May 2026 05:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 09:54:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김용남·강기윤 후보, 농지 거래로 수십억 원 차익]]></title>
+            <link>http://newstapa.org/article/Fyp-E</link>
+            <guid>http://newstapa.org/article/Fyp-E</guid>
+            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김용남·강기윤 후보, 농지 거래로 수십억 원 차익]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/27172842-7800-D04C-AFCB-8YKKLM1JFF9Y87R0FTKG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘검찰범죄’ 특검을 해야 할 50가지 이유’④ 합동 사냥과 조선일보의 AS]]></title>
+            <link>http://newstapa.org/article/o_yic</link>
+            <guid>http://newstapa.org/article/o_yic</guid>
+            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘검찰범죄’ 특검을 해야 할 50가지 이유’④ 합동 사냥과 조선일보의 AS]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/27173249-6400-8D6F-25FF-0VTIEAHZ655POXMVOLDA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정명근 화성시장 배우자, 유령회사로 땅 투기 의혹]]></title>
             <link>http://newstapa.org/article/ZA0jh</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 한동훈이 답하지 않은 7가지 질문들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/14154556-94EA-D9C5-A742-TG3982XWDGQLESJNO6RV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘무죄’ 선고된 ‘한동훈 독직폭행’ 사건의 재구성]]></title>
-            <link>http://newstapa.org/article/ha2Li</link>
-            <guid>http://newstapa.org/article/ha2Li</guid>
-            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘무죄’ 선고된 ‘한동훈 독직폭행’ 사건의 재구성]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/14181905-8620-15DA-A9A3-IKNC7QUGR7GH8IYCSR7X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 검찰 권력 남용의 최대 수혜자 '한동훈']]></title>
-            <link>http://newstapa.org/article/YBxEv</link>
-            <guid>http://newstapa.org/article/YBxEv</guid>
-            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 검찰 권력 남용의 최대 수혜자 '한동훈']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/14180846-B6DF-A6B4-5081-IZDRW1A50K419BNUHYWS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
