@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jun 2026 04:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 10:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리동네 0표 당선자들]]></title>
+            <link>https://pages.newstapa.org/2026/vote63/</link>
+            <guid>https://pages.newstapa.org/2026/vote63/</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경쟁자도 없고, 선거운동도 없고, 유권자의 심판도 없습니다. 무투표 당선자에게 유권자가 행사할 수 있는 견제 수단은 현행법상 없습니다. 뉴스타파는 제9회 지방선거 무투표 당선자 511명의 이름, 선거구, 전과 기록을 포함한 상세 정보를 전수 공개합니다. 내 지역구 무투표 당선자를 직접 확인해보세요.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/01191250-7AB7-72C2-BB46-0KIZI7GLKLLHZX0SF0T6.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[윤석열의 내란 PART 3. 기록된 변명 - 피고인의 궤변과 법원의 판단]]></title>
             <link>https://pages.newstapa.org/2026/excuses/</link>
