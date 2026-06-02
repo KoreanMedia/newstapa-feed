@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jun 2026 04:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 09:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 2026 선거범죄 리포트: 기부행위]]></title>
+            <link>http://newstapa.org/article/02d5M</link>
+            <guid>http://newstapa.org/article/02d5M</guid>
+            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 2026 선거범죄 리포트: 기부행위]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/02171004-A83C-8A2C-DD30-UXADR4HF17GBRCFXQDJE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오세훈 '댓글팀 모의'에 서울시 유관기관 전·현직 임원 가담]]></title>
+            <link>http://newstapa.org/article/yfDEN</link>
+            <guid>http://newstapa.org/article/yfDEN</guid>
+            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오세훈 '댓글팀 모의'에 서울시 유관기관 전·현직 임원 가담]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/02151948-1912-7AA0-6266-SLFZNINXQWSTVZHRIJFQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영·호남 넘어 수도권 덮친 '무투표'… 양당 기득권이 삼킨 509곳]]></title>
             <link>http://newstapa.org/article/9zjmE</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 2026 선거범죄 리포트: 프롤로그/허위사실 공표]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/27170614-5D68-C7AB-6D80-DVXVU6BLIJJZN6IHS8V2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해설 사법개혁] ④ 이숙연 같은 대법관이 나오지 않게 하려면]]></title>
-            <link>http://newstapa.org/article/gZziF</link>
-            <guid>http://newstapa.org/article/gZziF</guid>
-            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해설 사법개혁] ④ 이숙연 같은 대법관이 나오지 않게 하려면]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/27152915-7FC1-88C1-2988-J0MHAUEDOMVFEHXDXSFK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정명근 화성시장 배우자, 유령회사로 땅 투기 의혹]]></title>
-            <link>http://newstapa.org/article/ZA0jh</link>
-            <guid>http://newstapa.org/article/ZA0jh</guid>
-            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정명근 화성시장 배우자, 유령회사로 땅 투기 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/26185403-C1CA-A643-4D78-L3MHSMO8M0ORWU9ZFGOT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
