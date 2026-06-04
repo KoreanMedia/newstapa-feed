@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jun 2026 08:51:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 11:56:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 민심의 바람이 분다 : 6.3선거 결과 심층 분석]]></title>
+            <link>http://newstapa.org/article/KX6Za</link>
+            <guid>http://newstapa.org/article/KX6Za</guid>
+            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 민심의 바람이 분다 : 6.3선거 결과 심층 분석]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/04175724-2189-F953-657C-8PG8TRHPQLQCNL1UBP3R.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[12.3 비상계엄 고위 장교 징계처분서 공개③ 음모와 거짓]]></title>
             <link>http://newstapa.org/article/0WTnP</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['김두겸 사조직 논란' 금섬회, 4년간 울산시 수의계약 급증 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/26183257-42DC-8386-084F-KFHQP0U9TF0H245YJ4TK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 부산시, 고려대 등 박형준 시장 관련 대학 매체에 정부광고 몰아줘]]></title>
-            <link>http://newstapa.org/article/lAJXB</link>
-            <guid>http://newstapa.org/article/lAJXB</guid>
-            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 부산시, 고려대 등 박형준 시장 관련 대학 매체에 정부광고 몰아줘]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/22174720-CE08-F9F2-F435-GP85FCZ5JH434A22R1RN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
