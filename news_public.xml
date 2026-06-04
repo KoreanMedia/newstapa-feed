@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jun 2026 04:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 08:51:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12.3 비상계엄 고위 장교 징계처분서 공개③ 음모와 거짓]]></title>
+            <link>http://newstapa.org/article/0WTnP</link>
+            <guid>http://newstapa.org/article/0WTnP</guid>
+            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[12.3 비상계엄 고위 장교 징계처분서 공개③ 음모와 거짓]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/04155554-7C6E-374A-3548-2BXQ6VF7EXFMQ4P8KSOW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오세훈 '댓글팀 모의'에 서울시 유관기관 전·현직 임원 가담]]></title>
             <link>http://newstapa.org/article/yfDEN</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 부산시, 고려대 등 박형준 시장 관련 대학 매체에 정부광고 몰아줘]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/22174720-CE08-F9F2-F435-GP85FCZ5JH434A22R1RN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12.3 비상계엄 고위장교 징계처분서 공개① 한국군 지휘부의 붕괴]]></title>
-            <link>http://newstapa.org/article/OwP-r</link>
-            <guid>http://newstapa.org/article/OwP-r</guid>
-            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[12.3 비상계엄 고위장교 징계처분서 공개① 한국군 지휘부의 붕괴]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/22164731-F399-358E-E3C8-FS2EI7S4AYEIMPN0LC8O.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
