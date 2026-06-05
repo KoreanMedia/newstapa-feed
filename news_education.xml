@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 교육</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jun 2026 05:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 09:54:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파]신앙의 이름으로 - 기독교 대안학교의 이념 전쟁]]></title>
+            <link>http://newstapa.org/article/IUz7X</link>
+            <guid>http://newstapa.org/article/IUz7X</guid>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파]신앙의 이름으로 - 기독교 대안학교의 이념 전쟁]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/05162435-9EA9-DC31-BBD8-DIEZE5I3WQH1I89TQPVW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[목격자들] 열무야 열무야]]></title>
             <link>http://newstapa.org/article/3JPva</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['이해충돌 방지 규정' 지운 평가원, 교과서 부실 검정 자인하나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/20140247-5681-314C-314E-9WS5494OUCJLGOJN1WYL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학력평가원 교과서 채택 단 2곳, 채택 학교는 '박근혜 국정교과서 연구학교' 전력]]></title>
-            <link>http://newstapa.org/article/rS_gk</link>
-            <guid>http://newstapa.org/article/rS_gk</guid>
-            <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[학력평가원 교과서 채택 단 2곳, 채택 학교는 '박근혜 국정교과서 연구학교' 전력]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/04170320-411D-0846-59AE-WWCLJW25DONJ8IVBIVWR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

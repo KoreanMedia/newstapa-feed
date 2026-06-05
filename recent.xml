@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jun 2026 05:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 09:54:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘검찰 범죄’ 특검을 해야할 50가지 이유⑥ 증거은닉]]></title>
+            <link>http://newstapa.org/article/H2Fv4</link>
+            <guid>http://newstapa.org/article/H2Fv4</guid>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘검찰 범죄’ 특검을 해야할 50가지 이유⑥ 증거은닉]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/05173641-6887-B0A8-8DAB-HFXJ3XK65A8KY9NX0MA6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파]신앙의 이름으로 - 기독교 대안학교의 이념 전쟁]]></title>
+            <link>http://newstapa.org/article/IUz7X</link>
+            <guid>http://newstapa.org/article/IUz7X</guid>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파]신앙의 이름으로 - 기독교 대안학교의 이념 전쟁]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/05162435-9EA9-DC31-BBD8-DIEZE5I3WQH1I89TQPVW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 민심의 바람이 분다 : 6.3선거 결과 심층 분석]]></title>
             <link>http://newstapa.org/article/KX6Za</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 오세훈 캠프 '댓글방', 직접 현장에 가봤습니다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/28174947-E7E3-1975-F1AF-6RHMPO49XVC0ZBSDKBME.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['류희림 방심위 핵심' 김우석, '청부민원 진실조사단' 구성에 반발]]></title>
-            <link>http://newstapa.org/article/G6pzV</link>
-            <guid>http://newstapa.org/article/G6pzV</guid>
-            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['류희림 방심위 핵심' 김우석, '청부민원 진실조사단' 구성에 반발]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/27172909-F30C-2F12-26FA-1CJFTEK43QD6UM3XNFSS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김용남·강기윤 후보, 농지 거래로 수십억 원 차익]]></title>
-            <link>http://newstapa.org/article/Fyp-E</link>
-            <guid>http://newstapa.org/article/Fyp-E</guid>
-            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김용남·강기윤 후보, 농지 거래로 수십억 원 차익]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/27172842-7800-D04C-AFCB-8YKKLM1JFF9Y87R0FTKG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

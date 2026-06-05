@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jun 2026 05:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 09:54:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘검찰 범죄’ 특검을 해야할 50가지 이유⑥ 증거은닉]]></title>
+            <link>http://newstapa.org/article/H2Fv4</link>
+            <guid>http://newstapa.org/article/H2Fv4</guid>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘검찰 범죄’ 특검을 해야할 50가지 이유⑥ 증거은닉]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/05173641-6887-B0A8-8DAB-HFXJ3XK65A8KY9NX0MA6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 민심의 바람이 분다 : 6.3선거 결과 심층 분석]]></title>
             <link>http://newstapa.org/article/KX6Za</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[정명근 화성시장 배우자, 유령회사로 땅 투기 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/26185403-C1CA-A643-4D78-L3MHSMO8M0ORWU9ZFGOT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김두겸 사조직 논란' 금섬회, 4년간 울산시 수의계약 급증 확인]]></title>
-            <link>http://newstapa.org/article/bFtb1</link>
-            <guid>http://newstapa.org/article/bFtb1</guid>
-            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['김두겸 사조직 논란' 금섬회, 4년간 울산시 수의계약 급증 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/26183257-42DC-8386-084F-KFHQP0U9TF0H245YJ4TK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
