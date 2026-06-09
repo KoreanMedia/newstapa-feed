@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jun 2026 05:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 09:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[증인 출석한 윤석열, “보도 내용 모르지만 처벌 원한다”]]></title>
+            <link>http://newstapa.org/article/KvH0n</link>
+            <guid>http://newstapa.org/article/KvH0n</guid>
+            <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[증인 출석한 윤석열, “보도 내용 모르지만 처벌 원한다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/09182600-B0F0-D785-6B22-R9HJMOW9FEOHUQY0T0C7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선거관리위원회는 어떻게 몰락했나]]></title>
+            <link>http://newstapa.org/article/yjoBm</link>
+            <guid>http://newstapa.org/article/yjoBm</guid>
+            <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[선거관리위원회는 어떻게 몰락했나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/09173250-131B-0A7D-6CB0-FWZT22HEGU27EHDNSP5T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘검찰 범죄’ 특검을 해야할 50가지 이유⑥ 증거은닉]]></title>
             <link>http://newstapa.org/article/H2Fv4</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김용남·강기윤 후보, 농지 거래로 수십억 원 차익]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/27172842-7800-D04C-AFCB-8YKKLM1JFF9Y87R0FTKG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘검찰범죄’ 특검을 해야 할 50가지 이유’④ 합동 사냥과 조선일보의 AS]]></title>
-            <link>http://newstapa.org/article/o_yic</link>
-            <guid>http://newstapa.org/article/o_yic</guid>
-            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘검찰범죄’ 특검을 해야 할 50가지 이유’④ 합동 사냥과 조선일보의 AS]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/27173249-6400-8D6F-25FF-0VTIEAHZ655POXMVOLDA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정명근 화성시장 배우자, 유령회사로 땅 투기 의혹]]></title>
-            <link>http://newstapa.org/article/ZA0jh</link>
-            <guid>http://newstapa.org/article/ZA0jh</guid>
-            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정명근 화성시장 배우자, 유령회사로 땅 투기 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/26185403-C1CA-A643-4D78-L3MHSMO8M0ORWU9ZFGOT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
