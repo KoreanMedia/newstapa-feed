@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jun 2026 00:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 05:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤우진, 이남석 소개받은 직후 윤석열과 통화했다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/HBC87</link>
+            <guid>http://newstapa.org/article/HBC87</guid>
+            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤우진, 이남석 소개받은 직후 윤석열과 통화했다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/10134022-55F5-9ECA-FCF0-3D4ARZNDVOEDRCFRS4FB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[증인 출석한 윤석열, “보도 내용 모르지만 처벌 원한다” (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/KvH0n</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/28175747-352A-BA68-9A92-6J33MKZRCYT60O0XVLGD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인터넷 떠도는 ‘정원오 비방’… 오세훈 캠프가 만들고 뿌렸다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/vjAJU</link>
-            <guid>http://newstapa.org/article/vjAJU</guid>
-            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[인터넷 떠도는 ‘정원오 비방’… 오세훈 캠프가 만들고 뿌렸다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/28174839-DF59-D665-0A2D-OFR9009M69OWNRQX8GWF.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[윤우진, 이남석 소개받은 직후 윤석열과 통화했다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/HBC87</link>
+            <guid>http://newstapa.org/article/HBC87</guid>
+            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤우진, 이남석 소개받은 직후 윤석열과 통화했다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/10134022-55F5-9ECA-FCF0-3D4ARZNDVOEDRCFRS4FB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[증인 출석한 윤석열, “보도 내용 모르지만 처벌 원한다” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/28174947-E7E3-1975-F1AF-6RHMPO49XVC0ZBSDKBME.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김용남·강기윤 후보, 농지 거래로 수십억 원 차익 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/Fyp-E</link>
-            <guid>http://newstapa.org/article/Fyp-E</guid>
-            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김용남·강기윤 후보, 농지 거래로 수십억 원 차익]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/27172842-7800-D04C-AFCB-8YKKLM1JFF9Y87R0FTKG.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[윤우진, 이남석 소개받은 직후 윤석열과 통화했다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/HBC87</link>
+            <guid>http://newstapa.org/article/HBC87</guid>
+            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤우진, 이남석 소개받은 직후 윤석열과 통화했다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/10134022-55F5-9ECA-FCF0-3D4ARZNDVOEDRCFRS4FB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[12.3 비상계엄 고위 장교 징계처분서 공개③ 음모와 거짓 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['명태균 1심 무죄' 재판장, 피고인석에 선다... 법관 징계는 감감무소식]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/22140315-83F4-0581-53B7-IKHC9O8SG4LSIX2D3N4R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] 엄벌 모드 전환? 김건희 항소심 선고 전망 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/ICihi</link>
-            <guid>http://newstapa.org/article/ICihi</guid>
-            <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] 엄벌 모드 전환? 김건희 항소심 선고 전망]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/22105741-56D4-4D32-AB91-J1K591L1Y4JLJOZWMSN7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위법, 국회 무력화, 물증 은폐… 서울중앙지검의 ‘예산 범죄’ 확인 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3352,6 +3352,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/13181001-F069-36D8-853D-5RT6Q8F4KGFT519AK6XB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤우진, 이남석 소개받은 직후 윤석열과 통화했다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/113616398</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/113616398</guid>
+            <pubDate>Wed, 10 Jun 2026 05:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[‘윤석열 거짓말’ 사건 여섯번째 재판이 서울중앙지법 형사합의21부(조순표 부장판사) 심리로 지난 8일 열렸습니다. 결심공판이 진행됐습니다. 김건희 특검은 윤석열에게 징역 2년을 구형했습니다.<br><br>특검은 이날 재판에서 윤석열을 상대로 신문을 진행하면서 새로운 증거 하나를 공개했습니다. 윤석열이 변호사를 소개했다는 의혹을 받는 윤우진 전 용산세무서장이 쓰던 차명 휴대폰의 2012년 3~7월 통화(문자) 내역 중 일부입니다. 대검중수부 출신 이남석 변호사를 소개받은 직후 윤우진이 윤석열 당시 부장검사와 두차례 통화한 사실이 드러났습니다. 윤석열의 변호사 소개 의혹을 뒷받침하는 중요한 단서입니다. <br><br>20대 대선에서 국민의힘이 선거관리위원회로부터 보전받은 대선자금 397억 원이 걸린 이 재판의 1심 선고는 7월 27일 오후 2시에 나옵니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/HBC87</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[증인 출석한 윤석열, “보도 내용 모르지만 처벌 원한다” (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/113609237</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/113609237</guid>
@@ -3485,25 +3492,26 @@
             <content:encoded><![CDATA[유동규 전 성남도시개발공사 본부장은 대장동 사건에서 검찰의 수사 방향에 가장 부합하는 증언을 한 인물입니다. 그는 수사 초기 1년간은 본인의 뇌물 수수 의혹과 대장동과 이재명, 김용, 정진상 등 정관계 관련 의혹 등을 모두 부인하다 윤석열 정권 출범 후인 2022년 9-10월 사이 극적으로 말을 바꿔 검찰 입맛에 맞는 증언을 하기 시작했습니다. 과연 그가 진술을 번복한 시기에 어떤 일이 있었는지, 조작기소 국정조사에서 새롭게 드러난 사실을 정리했습니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/dbOTa</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[③허위사실 공표: 학력·경력·업적 '부풀리기' (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/113504899</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/113504899</guid>
-            <pubDate>Sat, 30 May 2026 03:31:38 GMT</pubDate>
-            <content:encoded><![CDATA[6.3 지방선거를 앞두고 공직선거법 위반 사건 판례를 분석하는 연속 기획, &lt;2026 선거범죄 리포트&gt;. 이번 편에서는 허위사실공표죄 중 재산과 학력·경력·업적 ‘부풀리기’ 혐의로 기소된 사건의 유무죄 유형과 양형 기준 등을 분석했습니다. 재산 관련 허위사실 공표는 과소 신고나 누락뿐만 아니라 과대 신고도 유죄가 되는 경우도 있습니다. 학력·경력·업적은 대부분 부풀리기를 해서 문제가 됐습니다. <br><br>뉴스타파함께재단과 한국탐사저널리즘센터가 연대 협업하는 한국독립언론네트워크(KINN) 회원사인 ‘코트워치’(<span class="link_url">https://c-watch.org/)가</span> 취재했습니다.<br><br>👉전체 기사 보기: <span class="link_url">https://c-watch.org/archives/5950</span><br>👉코트워치 응원하기: <span class="link_url">https://online.mrm.or.kr/vZ6ITMu</span>]]></content:encoded>
+            <title><![CDATA[윤우진, 이남석 소개받은 직후 윤석열과 통화했다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260610134651500</link>
+            <guid>https://v.daum.net/v/20260610134651500</guid>
+            <pubDate>Wed, 10 Jun 2026 05:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260610134651500" class="link_column"><div class="cont_thumb"><strong class="tit_txt">윤우진, 이남석 소개받은 직후 윤석열과 통화했다</strong><span class="info_txt"><span class="txt_info">35분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F10%2Fnewstapa%2F20260610134653144inof.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F10%2Fnewstapa%2F20260610134653144inof.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[증인 출석한 윤석열, “보도 내용 모르지만 처벌 원한다” (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260609183147625</link>
             <guid>https://v.daum.net/v/20260609183147625</guid>
             <pubDate>Tue, 09 Jun 2026 09:47:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260609183147625" class="link_column"><div class="cont_thumb"><strong class="tit_txt">증인 출석한 윤석열, “보도 내용 모르지만 처벌 원한다”</strong><span class="info_txt"><span class="txt_info">14시간 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260609183147625" class="link_column"><div class="cont_thumb"><strong class="tit_txt">증인 출석한 윤석열, “보도 내용 모르지만 처벌 원한다”</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[선거관리위원회는 어떻게 몰락했나 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260609174136924</link>
             <guid>https://v.daum.net/v/20260609174136924</guid>
             <pubDate>Tue, 09 Jun 2026 09:47:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260609174136924" class="link_column"><div class="cont_thumb"><strong class="tit_txt">선거관리위원회는 어떻게 몰락했나</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F09%2Fnewstapa%2F20260609174137546wqwq.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260609174136924" class="link_column"><div class="cont_thumb"><strong class="tit_txt">선거관리위원회는 어떻게 몰락했나</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F09%2Fnewstapa%2F20260609174137546wqwq.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F09%2Fnewstapa%2F20260609174137546wqwq.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3721,14 +3729,6 @@
             <pubDate>Fri, 22 May 2026 09:27:19 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260522143702864" class="link_column"><div class="cont_thumb"><strong class="tit_txt">12.3 비상계엄 고위장교 징계처분서 공개① 한국군 지휘부의 붕괴</strong><span class="info_txt"><span class="txt_info">2026. 5. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F22%2Fnewstapa%2F20260522143703868dejf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F22%2Fnewstapa%2F20260522143703868dejf.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 내란을 내란이라고 말 못하는 후보들 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260521180202112</link>
-            <guid>https://v.daum.net/v/20260521180202112</guid>
-            <pubDate>Thu, 21 May 2026 11:28:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260521180202112" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 내란을 내란이라고 말 못하는 후보들</strong><span class="info_txt"><span class="txt_info">2026. 5. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F21%2Fnewstapa%2F20260521180206497dqdm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F21%2Fnewstapa%2F20260521180206497dqdm.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

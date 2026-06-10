@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-06-10T00:17:26.205Z</updated>
+    <updated>2026-06-10T05:22:08.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/bc3fa32/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤우진, 이남석 소개받은 직후 윤석열과 통화했다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/113616398</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/113616398"/>
+        <updated>2026-06-10T05:22:01.045Z</updated>
+        <content type="html"><![CDATA[‘윤석열 거짓말’ 사건 여섯번째 재판이 서울중앙지법 형사합의21부(조순표 부장판사) 심리로 지난 8일 열렸습니다. 결심공판이 진행됐습니다. 김건희 특검은 윤석열에게 징역 2년을 구형했습니다.<br><br>특검은 이날 재판에서 윤석열을 상대로 신문을 진행하면서 새로운 증거 하나를 공개했습니다. 윤석열이 변호사를 소개했다는 의혹을 받는 윤우진 전 용산세무서장이 쓰던 차명 휴대폰의 2012년 3~7월 통화(문자) 내역 중 일부입니다. 대검중수부 출신 이남석 변호사를 소개받은 직후 윤우진이 윤석열 당시 부장검사와 두차례 통화한 사실이 드러났습니다. 윤석열의 변호사 소개 의혹을 뒷받침하는 중요한 단서입니다. <br><br>20대 대선에서 국민의힘이 선거관리위원회로부터 보전받은 대선자금 397억 원이 걸린 이 재판의 1심 선고는 7월 27일 오후 2시에 나옵니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/HBC87</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[증인 출석한 윤석열, “보도 내용 모르지만 처벌 원한다”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/113609237</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/113529226"/>
         <updated>2026-06-01T10:23:26.481Z</updated>
         <content type="html"><![CDATA[유동규 전 성남도시개발공사 본부장은 대장동 사건에서 검찰의 수사 방향에 가장 부합하는 증언을 한 인물입니다. 그는 수사 초기 1년간은 본인의 뇌물 수수 의혹과 대장동과 이재명, 김용, 정진상 등 정관계 관련 의혹 등을 모두 부인하다 윤석열 정권 출범 후인 2022년 9-10월 사이 극적으로 말을 바꿔 검찰 입맛에 맞는 증언을 하기 시작했습니다. 과연 그가 진술을 번복한 시기에 어떤 일이 있었는지, 조작기소 국정조사에서 새롭게 드러난 사실을 정리했습니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/dbOTa</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[③허위사실 공표: 학력·경력·업적 '부풀리기']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/113504899</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/113504899"/>
-        <updated>2026-05-30T03:31:38.022Z</updated>
-        <content type="html"><![CDATA[6.3 지방선거를 앞두고 공직선거법 위반 사건 판례를 분석하는 연속 기획, &lt;2026 선거범죄 리포트&gt;. 이번 편에서는 허위사실공표죄 중 재산과 학력·경력·업적 ‘부풀리기’ 혐의로 기소된 사건의 유무죄 유형과 양형 기준 등을 분석했습니다. 재산 관련 허위사실 공표는 과소 신고나 누락뿐만 아니라 과대 신고도 유죄가 되는 경우도 있습니다. 학력·경력·업적은 대부분 부풀리기를 해서 문제가 됐습니다. <br><br>뉴스타파함께재단과 한국탐사저널리즘센터가 연대 협업하는 한국독립언론네트워크(KINN) 회원사인 ‘코트워치’(<span class="link_url">https://c-watch.org/)가</span> 취재했습니다.<br><br>👉전체 기사 보기: <span class="link_url">https://c-watch.org/archives/5950</span><br>👉코트워치 응원하기: <span class="link_url">https://online.mrm.or.kr/vZ6ITMu</span>]]></content>
     </entry>
 </feed>
