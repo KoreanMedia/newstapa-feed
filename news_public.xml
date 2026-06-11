@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jun 2026 05:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 10:28:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 2026 선거범죄 리포트: 선거운동과 선거범죄의 경계]]></title>
+            <link>http://newstapa.org/article/TUmMn</link>
+            <guid>http://newstapa.org/article/TUmMn</guid>
+            <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 2026 선거범죄 리포트: 선거운동과 선거범죄의 경계]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/11155902-161A-FAB4-FC36-OG4QLVJ1BARQMW5PKB4E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 박영우 마트료시카 : 재벌-검찰-권력, 눈물]]></title>
+            <link>http://newstapa.org/article/XDnb5</link>
+            <guid>http://newstapa.org/article/XDnb5</guid>
+            <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 박영우 마트료시카 : 재벌-검찰-권력, 눈물]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/11152755-609A-7923-3863-KD2LIGBB00XXTX0LZDIM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방첩사-국정원, 계엄 6개월 전 ‘합수부 권력’ 놓고 충돌]]></title>
             <link>http://newstapa.org/article/rP4JV</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 유채꽃밭과 서태원 가평군수 그리고 통일교]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/28175747-352A-BA68-9A92-6J33MKZRCYT60O0XVLGD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인터넷 떠도는 ‘정원오 비방’… 오세훈 캠프가 만들고 뿌렸다]]></title>
-            <link>http://newstapa.org/article/vjAJU</link>
-            <guid>http://newstapa.org/article/vjAJU</guid>
-            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[인터넷 떠도는 ‘정원오 비방’… 오세훈 캠프가 만들고 뿌렸다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/28174839-DF59-D665-0A2D-OFR9009M69OWNRQX8GWF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오세훈 캠프 '댓글 여론전' 모의 현장 육성 대화 공개]]></title>
-            <link>http://newstapa.org/article/a-ieY</link>
-            <guid>http://newstapa.org/article/a-ieY</guid>
-            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오세훈 캠프 '댓글 여론전' 모의 현장 육성 대화 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/28174958-AD4B-1726-9E21-ZV94BO6ZDXY2WVVQ85QT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
