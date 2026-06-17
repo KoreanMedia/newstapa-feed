@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 경제소비자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jun 2026 06:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 11:51:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 국세청, 선박왕 권혁 특별 세무조사... 뉴스타파 보도 반년 만]]></title>
+            <link>http://newstapa.org/article/equYz</link>
+            <guid>http://newstapa.org/article/equYz</guid>
+            <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 국세청, 선박왕 권혁 특별 세무조사... 뉴스타파 보도 반년 만]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/17152835-AE1B-8D8B-5678-JVDRPPTOH3B3FFD757I9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[K-놀부전] "한화솔루션이 기술을 훔쳤다"]]></title>
             <link>http://newstapa.org/article/lGWaP</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 법 위의 선박왕, 세금은 정의로운가]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/11171650-69A7-F1FD-2AA8-JJJ4OZ86G0WHYTRXLQGW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법 위의 선박왕 ① 하루 70억 원 버는데... 세금 4천억 안내고 버텼다]]></title>
-            <link>http://newstapa.org/article/MX6Wn</link>
-            <guid>http://newstapa.org/article/MX6Wn</guid>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법 위의 선박왕 ① 하루 70억 원 버는데... 세금 4천억 안내고 버텼다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/11171320-4AB3-2992-6CC0-4M6FD79LHJBE2V8GAZDT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
