@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jun 2026 05:04:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 09:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장1열] 불 꺼진 홈플러스..."아직 사람이 있어요" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Rtvza</link>
+            <guid>http://newstapa.org/article/Rtvza</guid>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장1열] 불 꺼진 홈플러스..."아직 사람이 있어요"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/23171355-E7FF-C3A6-7280-24OICO5ODMTIDE22VXQS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[12.3 비상계엄 고위 장교 징계처분서 공개 ⑤ “총장님 계신 서울로” (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/zPu0p</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤우진, 이남석 소개받은 직후 윤석열과 통화했다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/10134022-55F5-9ECA-FCF0-3D4ARZNDVOEDRCFRS4FB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[증인 출석한 윤석열, “보도 내용 모르지만 처벌 원한다” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/KvH0n</link>
-            <guid>http://newstapa.org/article/KvH0n</guid>
-            <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[증인 출석한 윤석열, “보도 내용 모르지만 처벌 원한다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/09182600-B0F0-D785-6B22-R9HJMOW9FEOHUQY0T0C7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[12.3 비상계엄 고위 장교 징계처분서 공개 ⑤ “총장님 계신 서울로” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/11/bc558ec5179bc5306e9e795f5dad33c931411345e754dedba65989b7b5d97c36889ed5b140afd3fb7617473516e3e157ebb81a4021a053a7a2dde6a848731455.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장1열] 불 꺼진 홈플러스..."아직 사람이 있어요" (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
+            <link>http://newstapa.org/article/Rtvza</link>
+            <guid>http://newstapa.org/article/Rtvza</guid>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장1열] 불 꺼진 홈플러스..."아직 사람이 있어요"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/23171355-E7FF-C3A6-7280-24OICO5ODMTIDE22VXQS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 국세청, 선박왕 권혁 특별 세무조사... 뉴스타파 보도 반년 만 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
             <link>http://newstapa.org/article/equYz</link>
             <guid>http://newstapa.org/article/equYz</guid>
@@ -894,14 +902,6 @@
             <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파의 시선] 코스피 4천 시대, 당신이 더 가난해진 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19111550-9649-3483-C1F6-OAC0ZJB2ZZQ52E8W30RJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 법 위의 선박왕, 세금은 정의로운가 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/w7MLl</link>
-            <guid>http://newstapa.org/article/w7MLl</guid>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 법 위의 선박왕, 세금은 정의로운가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/11171650-69A7-F1FD-2AA8-JJJ4OZ86G0WHYTRXLQGW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파] 전력 오판 15년, 감춰진 청구서 : '개미지옥'이 된 발전소 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
@@ -3224,6 +3224,148 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/04180829-9CEC-F153-65F6-7JGTNJVQK6YEF28C2JBD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 2026 선거범죄 리포트: 선거운동과 선거범죄의 경계 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/TUmMn</link>
+            <guid>https://www.newstapa.org/article/TUmMn</guid>
+            <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.06.11]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/11155902-161A-FAB4-FC36-OG4QLVJ1BARQMW5PKB4E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 2026 선거범죄 리포트: 기부행위 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/02d5M</link>
+            <guid>https://www.newstapa.org/article/02d5M</guid>
+            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.06.02]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/02171004-A83C-8A2C-DD30-UXADR4HF17GBRCFXQDJE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 2026 선거범죄 리포트: 허위사실공표 ‘재산’과 ‘학력’ (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/4owTR</link>
+            <guid>https://www.newstapa.org/article/4owTR</guid>
+            <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.05.30]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/29173838-DAA7-E511-C0CE-DO1NLFEXRCUFC3TJSI1V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 2026 선거범죄 리포트: 프롤로그/허위사실 공표 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/wSpiR</link>
+            <guid>https://www.newstapa.org/article/wSpiR</guid>
+            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.05.27]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/27170614-5D68-C7AB-6D80-DVXVU6BLIJJZN6IHS8V2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 부산시, 고려대 등 박형준 시장 관련 대학 매체에 정부광고 몰아줘 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/lAJXB</link>
+            <guid>https://www.newstapa.org/article/lAJXB</guid>
+            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.05.22]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/22174720-CE08-F9F2-F435-GP85FCZ5JH434A22R1RN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] AI와 콜센터① “은행 콜센터는 비대면 영업점, AI가 만능은 아니다” (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/UZMto</link>
+            <guid>https://www.newstapa.org/article/UZMto</guid>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.05.15]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/15131651-D5C4-43AF-6F29-WLNIIF3IB713AQUHPN54.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 무죄를 팝니다: 인니 현직검사, 한국인 피고인에게 거액 뇌물 갈취 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/K_sIn</link>
+            <guid>https://www.newstapa.org/article/K_sIn</guid>
+            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.05.08]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/08133602-AB93-11F0-41C3-6X1QVTO7CSYFGBLMJO68.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 전후 최악의 노동 탄압...'인질사법'에 맞선 일본 노조 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/W3Wzy</link>
+            <guid>https://www.newstapa.org/article/W3Wzy</guid>
+            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.05.04]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/04141553-FC12-0902-3835-AFSWDSRVA0I1ZBX7HR2R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] AI와 전쟁③④⑤ 앤트로픽 가처분 소송의 전말 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/3yU-r</link>
+            <guid>https://www.newstapa.org/article/3yU-r</guid>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.04.13]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/13112324-CFB0-01A1-A35D-HYDVSQ1WNGPSQ7KKFNDY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 이란전쟁 보도…‘누가 이겼나’가 ‘누가 죽었나’보다 10배 많아 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/QTExv</link>
+            <guid>https://www.newstapa.org/article/QTExv</guid>
+            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.04.03]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/03173137-A722-84D6-E94B-YG83UN1SM9TZNMVTD7PX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] AI와 전쟁 ② 선이 그어지고, 지워지고, 처벌받기까지 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/c6Rup</link>
+            <guid>https://www.newstapa.org/article/c6Rup</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.03.26]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26100538-D789-2DE1-C108-BOE9IBAJU3N3IT1CWEDQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 캄보디아서 '호텔 셀프 감금' 원격 조종…200억대 스캠 범죄 전말 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/QLBPF</link>
+            <guid>https://www.newstapa.org/article/QLBPF</guid>
+            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.03.24]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/24151913-DBF6-1B04-5873-45ANECAXVLPZH3A0U3ER.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] AI와 전쟁① "개처럼 쫓아냈다"...트럼프와 앤트로픽의 대결 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/_i9vH</link>
+            <guid>https://www.newstapa.org/article/_i9vH</guid>
+            <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.03.20]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/20145052-55B7-CC8B-A699-5MHL347NE04TZ19VFG5W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 내란법정의 161인 : 내란 법정에 선 사령관들 외 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/G__an</link>
+            <guid>https://www.newstapa.org/article/G__an</guid>
+            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.02.19]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19133403-8F9B-88F0-EC01-XTTBI0UZJ0W0FHM7C8DY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 내란법정의 161인 : 방첩사와 경찰, 합동체포조 ‘라쇼몽’ 외 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/TigLO</link>
+            <guid>https://www.newstapa.org/article/TigLO</guid>
+            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.02.19]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19134102-8EBA-E792-83B2-D4ZFXOQYUKD026IER63T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 내란법정의 161인: 프롤로그 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/z2ySt</link>
+            <guid>https://www.newstapa.org/article/z2ySt</guid>
+            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.02.19]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19132107-D737-BBF0-3502-86LM5EJ6RM4JBYET60R5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[🔴라이브] 임금 체불과 먹튀, K자형 양극화의 민낯 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/113743452</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/113743452</guid>
+            <pubDate>Tue, 23 Jun 2026 09:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[[🔴라이브 예고] 한쪽에선 연일 신고가를 갱신하는 우상향 곡선이, 다른 한쪽에서는 버팀목 없이 추락하는 우하향 곡선이 그려집니다. 날로 양극화 현상이 심화되는 우리 경제를 표현한 K자형 그래프입니다.<br><br>여론이 온통 오르는 곡선에 주목하는 탓에 실제 서민, 노동자들이 마주하고 있는 우리 경제의 민낯은 잊히는 경우가 많습니다. 대유 위니아의 그룹에서 일한 노동자 3000여 명은 3년 넘게 정당한 노동의 대가를 받지 못하고 있습니다. 구시대의 유물인 줄 알았던 대규모 임금 체불 사태가 발생했지만, 편법과 반칙을 바로잡아야 할 사법 시스템은 제대로 작동하지 않고 있습니다.<br><br>파산 위기에 몰린 홈플러스가 이달까지 자금을 융통하지 못하면 10만 명에 이르는 사람들이 일터를 잃을 수 있습니다. 책임 경영보다 이윤을 좇는 금융계의 고질적인 '먹튀' 행태가 사태의 원인으로 지목됐지만, 여전히 당장의 위기만 모면하려는 꼼수가 눈에 띕니다. <br><br>오늘 밤 9시, 뉴스타파 라이브는 K자 그래프의 아랫 부분을 들여다봅니다. 대유 위니아 사태 취재한 강민수 기자, 단식 투쟁으로 홈플러스 사태 알린 안수용 민주노총 서비스연맹 마트산업노조 홈플러스지부장, 그리고 국회에서 이 문제 두루 살피고 있는 박홍배 더불어민주당 의원이 출연합니다. 많은 시청과 관심바랍니다!<br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://youtube.com/live/bUignp3FK38</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[현장1열] 불 꺼진 홈플러스..."아직 사람이 있어요" (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/113742658</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/113742658</guid>
+            <pubDate>Tue, 23 Jun 2026 09:42:53 GMT</pubDate>
+            <content:encoded><![CDATA["정말 눈물을 흘리면서 그냥 매운데도 그걸 입에 물고 있는 느낌이다라고 생각하시면 그게 정말 그냥 저희의 심정인 것 같아요."<br><br>기업회생 절차를 밟고 있는 홈플러스가 이달 들어 영업이 중단된 홈플러스 37개점에 대해 폐점 결정을 내렸습니다. 뉴스타파 취재진이 직접 가보니 불이 꺼진 매장의 매대는 텅 비었고 '영업 중단' 안내문만 붙어있습니다. 하지만 그 옆에는 여전히 '정상 영업'을 하고 있는 임대매장들이 손님을 기다리고 있습니다.<br><br>매일 같은 시간에 문을 열고 문을 닫지만, 영업이 중단된 마트에 찾아오는 손님은 없습니다. 매일 같이 본사에 대책안을 요구하지만 돌아오는 건 기다려라는 말뿐 어떠한 대책도 마련되어있지 않습니다. 광화문 광장에는 40일 넘게 단식중인 홈플러스 노동자들이 정부에 "홈플러스 정상화를 약속을 이행하라"고 외치고 있습니다.&nbsp;대화조차 없는 철저한 고립과 방치 속에 남겨진 사람들을 뉴스타파가 취재했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/uQu8XVXexXg</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/Rtvza</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[12.3 비상계엄 고위 장교 징계처분서 공개 ⑤ “총장님 계신 서울로” (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/113730706</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/113730706</guid>
@@ -3350,25 +3492,19 @@
             <content:encoded><![CDATA[‘윤석열 거짓말’ 사건 여섯번째 재판이 서울중앙지법 형사합의21부(조순표 부장판사) 심리로 지난 8일 열렸습니다. 결심공판이 진행됐습니다. 김건희 특검은 윤석열에게 징역 2년을 구형했습니다.<br><br>특검은 이날 재판에서 윤석열을 상대로 신문을 진행하면서 새로운 증거 하나를 공개했습니다. 윤석열이 변호사를 소개했다는 의혹을 받는 윤우진 전 용산세무서장이 쓰던 차명 휴대폰의 2012년 3~7월 통화(문자) 내역 중 일부입니다. 대검중수부 출신 이남석 변호사를 소개받은 직후 윤우진이 윤석열 당시 부장검사와 두차례 통화한 사실이 드러났습니다. 윤석열의 변호사 소개 의혹을 뒷받침하는 중요한 단서입니다. <br><br>20대 대선에서 국민의힘이 선거관리위원회로부터 보전받은 대선자금 397억 원이 걸린 이 재판의 1심 선고는 7월 27일 오후 2시에 나옵니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/HBC87</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[증인 출석한 윤석열, “보도 내용 모르지만 처벌 원한다” (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/113609237</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/113609237</guid>
-            <pubDate>Tue, 09 Jun 2026 09:47:18 GMT</pubDate>
-            <content:encoded><![CDATA[내란 우두머리 혐의로 재판을 받고 있는 윤석열 전 대통령이 뉴스타파 재판 법정에 ‘피해자 증인’으로 출석해 증언했습니다. 그는 허위 보도를 통해 자신의 명예를 훼손한 혐의를 받는 김용진 뉴스타파 전 대표와 한상진 기자의 처벌을 원한다고 법정에서 말했습니다. 2023년 9월 검찰의 압수수색 이후 2년 9개월 만입니다. 그러나 그는 정작 뉴스타파의 해당 보도에 대해서는 “보지 않아 잘 모른다”고 했습니다.<br><br>9일 서울중앙지법에서 &lt;뉴스타파 v. 윤석열&gt; 사건, 이른바 ‘윤석열 명예훼손’ 사건 제23차 공판(형사합의부 35부, 재판장 백대현 부장판사)이 진행됐습니다. 이 사건의 유일한 피해자인 윤석열이 증인으로 나왔습니다. 검찰 측에서는 김남용 검사가 출석했습니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/KvH0n</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[🔴라이브] 감시가 없으면 반드시 썩는다 : 극우 교육과 선관위 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/113609006</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/113609006</guid>
-            <pubDate>Tue, 09 Jun 2026 09:47:18 GMT</pubDate>
-            <content:encoded><![CDATA[[🔴라이브 예고] 아이들이 다양한 생각을 접하고 자신만의 주관을 세워 나갈 수 있게 도와주는 교육 환경, 공정과 신뢰를 바탕으로 어느 국민 하나 빠짐없이 참정권을 보장받을 수 있게 돕는 선거 관리. 언뜻 무관해 보이는 이 두 가지는 민주주의 사회가 바로 설 수 있게 만들어주는 중요한 토대입니다. 최근 뉴스타파의 탐사 취재를 통해 드러난 일부 기독교 대안학교의 일탈적인 극우 교육 행태와 6.3 지방선거 당일 발생한 투표용지 부족 사태는 우리 사회의 이 토대들이 얼마나 허물어져 있는지 보여주는 단적인 사례였습니다. <br><br>이 두 문제점을 아우르는 핵심 키워드는 '감시의 사각지대'라는 점입니다. 미인가 시설인 기독교 대안학교는 교육 제도의 감시망이 닿지 않는다는 점을 악용해 아이들에게 공인받지 못한 편향된 역사와 정치 교육을 시행하고 혐오와 차별 의식을 주입했습니다. 선관위는 헌법에 의해 보장받은 독립 기관의 지위를 어떠한 견제와 감시도 받지 않는다는 의미로 오독하고 내부에서부터 부실을 키워왔습니다. 이미 수차례 부실을 지적받았음에도 선관위는 관행과 안일함을 떨치지 못했고, 결국 부정선거 음모론에 빌미를 주는 상황을 자초했습니다.<br><br>오늘 밤 9시 뉴스타파 라이브에서는 민주주의 토대를 흔든 두 가지 사건을 차례로 살펴봅니다. 1부에서는 '다큐 뉴스타파'를 통해 기독교 대안학교의 극우 교육 실태를 취재한 안동현 PD, 교회의 자정을 위한 활동을 하고 있는 김디모데 평화나무 기독교회복센터 소장이 출연합니다. 이어 2부에는 최근 투표용지 부족 사태와 관련해 선관위의 구조적 문제, 법적 쟁점을 살펴본 김용진 기자, 이범준 전문위원이 출연합니다. 많은 시청과 관심 부탁드립니다!     <br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://www.youtube.com/live/ZDUUwNI4LEM</span>]]></content:encoded>
+            <title><![CDATA[[현장1열] 불 꺼진 홈플러스..."아직 사람이 있어요" (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260623172151303</link>
+            <guid>https://v.daum.net/v/20260623172151303</guid>
+            <pubDate>Tue, 23 Jun 2026 09:43:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260623172151303" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장1열] 불 꺼진 홈플러스..."아직 사람이 있어요"</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F23%2Fnewstapa%2F20260623172156028dqtl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F23%2Fnewstapa%2F20260623172156028dqtl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[12.3 비상계엄 고위 장교 징계처분서 공개 ⑤ “총장님 계신 서울로” (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260622171700255</link>
             <guid>https://v.daum.net/v/20260622171700255</guid>
             <pubDate>Mon, 22 Jun 2026 10:41:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260622171700255" class="link_column"><div class="cont_thumb"><strong class="tit_txt">12.3 비상계엄 고위 장교 징계처분서 공개 ⑤ “총장님 계신 서울로”</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F22%2Fnewstapa%2F20260622171701679kbmo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260622171700255" class="link_column"><div class="cont_thumb"><strong class="tit_txt">12.3 비상계엄 고위 장교 징계처분서 공개 ⑤ “총장님 계신 서울로”</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F22%2Fnewstapa%2F20260622171701679kbmo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F22%2Fnewstapa%2F20260622171701679kbmo.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3376,7 +3512,7 @@
             <link>https://v.daum.net/v/20260619155704760</link>
             <guid>https://v.daum.net/v/20260619155704760</guid>
             <pubDate>Fri, 19 Jun 2026 11:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260619155704760" class="link_column"><div class="cont_thumb"><strong class="tit_txt">검찰과 체불왕 ④ 이재명 법카 기소한 검사, 박영우 비자금은 덮었다</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F19%2Fnewstapa%2F20260619155716564izot.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260619155704760" class="link_column"><div class="cont_thumb"><strong class="tit_txt">검찰과 체불왕 ④ 이재명 법카 기소한 검사, 박영우 비자금은 덮었다</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F19%2Fnewstapa%2F20260619155716564izot.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F19%2Fnewstapa%2F20260619155716564izot.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3384,7 +3520,7 @@
             <link>https://v.daum.net/v/20260618183200770</link>
             <guid>https://v.daum.net/v/20260618183200770</guid>
             <pubDate>Thu, 18 Jun 2026 12:55:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260618183200770" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 극우 전담 PD들 "잠실 제가 가봤는데요"</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F18%2Fnewstapa%2F20260618183204175qjuz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260618183200770" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 극우 전담 PD들 "잠실 제가 가봤는데요"</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F18%2Fnewstapa%2F20260618183204175qjuz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F18%2Fnewstapa%2F20260618183204175qjuz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3400,7 +3536,7 @@
             <link>https://v.daum.net/v/20260617161203445</link>
             <guid>https://v.daum.net/v/20260617161203445</guid>
             <pubDate>Wed, 17 Jun 2026 11:51:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260617161203445" class="link_column"><div class="cont_thumb"><strong class="tit_txt">검찰과 체불왕 ③ 임금 체불 진행 시점에도 회삿돈 빼돌려 억대 비자금 조성</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F17%2Fnewstapa%2F20260617161218711horf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260617161203445" class="link_column"><div class="cont_thumb"><strong class="tit_txt">검찰과 체불왕 ③ 임금 체불 진행 시점에도 회삿돈 빼돌려 억대 비자금 조성</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F17%2Fnewstapa%2F20260617161218711horf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F17%2Fnewstapa%2F20260617161218711horf.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3408,7 +3544,7 @@
             <link>https://v.daum.net/v/20260617153203535</link>
             <guid>https://v.daum.net/v/20260617153203535</guid>
             <pubDate>Wed, 17 Jun 2026 11:51:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260617153203535" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화] 국세청, 선박왕 권혁 특별 세무조사... 뉴스타파 보도 반년 만</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F17%2Fnewstapa%2F20260617153204663ulkv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260617153203535" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화] 국세청, 선박왕 권혁 특별 세무조사... 뉴스타파 보도 반년 만</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F17%2Fnewstapa%2F20260617153204663ulkv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202606%2F17%2Fnewstapa%2F20260617153204663ulkv.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3593,14 +3729,6 @@
             <pubDate>Sat, 30 May 2026 03:31:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260530092202782" class="link_column"><div class="cont_thumb"><strong class="tit_txt">12.3 비상계엄 고위 장교 징계처분서 공개② 법보다 명령</strong><span class="info_txt"><span class="txt_info">2026. 5. 30.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F30%2Fnewstapa%2F20260530092203897ymwn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F30%2Fnewstapa%2F20260530092203897ymwn.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 유채꽃밭과 서태원 가평군수 그리고 통일교 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260528181702827</link>
-            <guid>https://v.daum.net/v/20260528181702827</guid>
-            <pubDate>Thu, 28 May 2026 11:49:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260528181702827" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 유채꽃밭과 서태원 가평군수 그리고 통일교</strong><span class="info_txt"><span class="txt_info">2026. 5. 28.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F28%2Fnewstapa%2F20260528181703709scvr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202605%2F28%2Fnewstapa%2F20260528181703709scvr.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
