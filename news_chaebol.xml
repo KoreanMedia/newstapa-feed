@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 재벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jun 2026 08:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 11:47:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조선일보 차남 방정오, 회삿돈으로 ‘방 캐피탈 파트너스’ 설립 추진 의혹]]></title>
+            <link>http://newstapa.org/article/--1qt</link>
+            <guid>http://newstapa.org/article/--1qt</guid>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조선일보 차남 방정오, 회삿돈으로 ‘방 캐피탈 파트너스’ 설립 추진 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/24143748-1980-7E32-BF9B-8L9Y3RCUXVY9OBSVEOG5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TV조선 방정오 변호인, 미 재판에서 'Mr.Big은 방정오' 인정]]></title>
+            <link>http://newstapa.org/article/Sr_nl</link>
+            <guid>http://newstapa.org/article/Sr_nl</guid>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[TV조선 방정오 변호인, 미 재판에서 'Mr.Big은 방정오' 인정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/24143715-7B8D-0D95-4AE8-TOYLYSOOHEEYB6HASTT5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 국세청, 선박왕 권혁 특별 세무조사... 뉴스타파 보도 반년 만]]></title>
             <link>http://newstapa.org/article/equYz</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡, 개인정보 유출 사건 후 검찰·경찰·청와대 등 출신 전관 9명 영입]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05135406-0C7D-A246-BDA1-XKIVYUP81M4D4BTHNQM4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법 위의 선박왕 ⑤ 권혁 탈세 돕고 퇴직 뒤 20억 받은 국세청 공무원]]></title>
-            <link>http://newstapa.org/article/C54g9</link>
-            <guid>http://newstapa.org/article/C54g9</guid>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법 위의 선박왕 ⑤ 권혁 탈세 돕고 퇴직 뒤 20억 받은 국세청 공무원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/22162103-4D6B-824B-AC12-1F14VQN3IKWTK7JJG42I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법위의 선박왕 ④ '4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인]]></title>
-            <link>http://newstapa.org/article/l3mIk</link>
-            <guid>http://newstapa.org/article/l3mIk</guid>
-            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법위의 선박왕 ④ '4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19155806-ED66-215E-D905-2UF1LX2CUMX567YQS8DZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

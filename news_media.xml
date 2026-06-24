@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jun 2026 08:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 11:47:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조선일보 차남 방정오, 회삿돈으로 ‘방 캐피탈 파트너스’ 설립 추진 의혹]]></title>
+            <link>http://newstapa.org/article/--1qt</link>
+            <guid>http://newstapa.org/article/--1qt</guid>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조선일보 차남 방정오, 회삿돈으로 ‘방 캐피탈 파트너스’ 설립 추진 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/24143748-1980-7E32-BF9B-8L9Y3RCUXVY9OBSVEOG5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TV조선 방정오 변호인, 미 재판에서 'Mr.Big은 방정오' 인정]]></title>
+            <link>http://newstapa.org/article/Sr_nl</link>
+            <guid>http://newstapa.org/article/Sr_nl</guid>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[TV조선 방정오 변호인, 미 재판에서 'Mr.Big은 방정오' 인정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/24143715-7B8D-0D95-4AE8-TOYLYSOOHEEYB6HASTT5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리박스쿨 댓글팀 배후에 '극우' 자유민주당 있었다]]></title>
             <link>http://newstapa.org/article/19wvt</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“조용히 하려면 브릿지로” 방정오, 500만 달러 집행 직접 승인 정황]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/12165944-8E05-430E-DAEB-ECO34RJ970N7YCV3TBNU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 500만불 움직인 Mr.Big, 방정오를 향한 배임 증거]]></title>
-            <link>http://newstapa.org/article/VqmBJ</link>
-            <guid>http://newstapa.org/article/VqmBJ</guid>
-            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 500만불 움직인 Mr.Big, 방정오를 향한 배임 증거]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/12213828-B370-8FB3-D3CB-U7NTQGXAHE4PFBBRLIY9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꼬리에 꼬리를 무는 '류희림 청부민원' 덮기]]></title>
-            <link>http://newstapa.org/article/aXJQW</link>
-            <guid>http://newstapa.org/article/aXJQW</guid>
-            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[꼬리에 꼬리를 무는 '류희림 청부민원' 덮기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/05184107-0EE3-0C1F-8869-WW1XUEAP9MEUPUEKEC4N.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
