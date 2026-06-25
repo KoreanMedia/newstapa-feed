@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jun 2026 07:45:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 10:45:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이진관이 쏘아올린 ‘검찰 내란 개입 의혹’의 진실은?]]></title>
+            <link>http://newstapa.org/article/vpmX5</link>
+            <guid>http://newstapa.org/article/vpmX5</guid>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이진관이 쏘아올린 ‘검찰 내란 개입 의혹’의 진실은?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/25174917-F979-5505-8DE7-JWOQM2R4U57SQ1F3L4N9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 내 단톡방에 음모론이 들어왔다]]></title>
+            <link>http://newstapa.org/article/wJ-bF</link>
+            <guid>http://newstapa.org/article/wJ-bF</guid>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 내 단톡방에 음모론이 들어왔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/25174145-9C31-4812-8908-WDP3EP5ZJL5YHSV3BHYV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열의 ‘봐주기 수사’ 의혹 새 연결고리 등장]]></title>
             <link>http://newstapa.org/article/GzSwX</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 민심의 바람이 분다 : 6.3선거 결과 심층 분석]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/04175724-2189-F953-657C-8PG8TRHPQLQCNL1UBP3R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12.3 비상계엄 고위 장교 징계처분서 공개③ 음모와 거짓]]></title>
-            <link>http://newstapa.org/article/0WTnP</link>
-            <guid>http://newstapa.org/article/0WTnP</guid>
-            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[12.3 비상계엄 고위 장교 징계처분서 공개③ 음모와 거짓]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/04155554-7C6E-374A-3548-2BXQ6VF7EXFMQ4P8KSOW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오세훈 '댓글팀 모의'에 서울시 유관기관 전·현직 임원 가담]]></title>
-            <link>http://newstapa.org/article/yfDEN</link>
-            <guid>http://newstapa.org/article/yfDEN</guid>
-            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오세훈 '댓글팀 모의'에 서울시 유관기관 전·현직 임원 가담]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/02151948-1912-7AA0-6266-SLFZNINXQWSTVZHRIJFQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
