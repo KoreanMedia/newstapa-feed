@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jun 2026 03:39:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 07:45:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리박스쿨 장학생, 자유민주당 댓글조직 실무자 됐다]]></title>
+            <link>http://newstapa.org/article/lO2sB</link>
+            <guid>http://newstapa.org/article/lO2sB</guid>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리박스쿨 장학생, 자유민주당 댓글조직 실무자 됐다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/25155555-7E10-5A9B-2CE5-WJ9NOQG9J3D47TV9W8RK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열의 ‘봐주기 수사’ 의혹 새 연결고리 등장]]></title>
             <link>http://newstapa.org/article/GzSwX</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 2026 선거범죄 리포트: 선거운동과 선거범죄의 경계]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/11155902-161A-FAB4-FC36-OG4QLVJ1BARQMW5PKB4E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 박영우 마트료시카 : 재벌-검찰-권력, 눈물]]></title>
-            <link>http://newstapa.org/article/XDnb5</link>
-            <guid>http://newstapa.org/article/XDnb5</guid>
-            <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 박영우 마트료시카 : 재벌-검찰-권력, 눈물]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/11152755-609A-7923-3863-KD2LIGBB00XXTX0LZDIM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
