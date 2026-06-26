@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jun 2026 23:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 03:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["김병기가 업비트 밟으라 했다" 말 바꾼 보좌관...알고 보니 빗썸 고문]]></title>
+            <link>http://newstapa.org/article/yUoSB</link>
+            <guid>http://newstapa.org/article/yUoSB</guid>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["김병기가 업비트 밟으라 했다" 말 바꾼 보좌관...알고 보니 빗썸 고문]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/26105718-803D-8FB4-D4D6-HHKI8FQUPWJ285HIP2NZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[6.25 76주년 특집] 한국전쟁 당시 미 공군 폭격 명중률은 얼마나 될까]]></title>
             <link>http://newstapa.org/article/R0kgL</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 국세청, 선박왕 권혁 특별 세무조사... 뉴스타파 보도 반년 만]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/17152835-AE1B-8D8B-5678-JVDRPPTOH3B3FFD757I9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12.3 비상계엄 고위 장교 징계처분서 공개 ④ 참여와 거부]]></title>
-            <link>http://newstapa.org/article/yLNJt</link>
-            <guid>http://newstapa.org/article/yLNJt</guid>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[12.3 비상계엄 고위 장교 징계처분서 공개 ④ 참여와 거부]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/15153145-B223-81FB-2D59-1X98KFT65H9OBX1BN2VO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
