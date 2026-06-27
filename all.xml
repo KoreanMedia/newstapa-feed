@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jun 2026 20:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 22:06:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,6 +390,134 @@
             <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 2026 선거범죄 리포트: 프롤로그/허위사실 공표]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/27170614-5D68-C7AB-6D80-DVXVU6BLIJJZN6IHS8V2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위법, 국회 무력화, 물증 은폐… 서울중앙지검의 ‘예산 범죄’ 확인 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/cCyzi</link>
+            <guid>http://newstapa.org/article/cCyzi</guid>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[위법, 국회 무력화, 물증 은폐… 서울중앙지검의 ‘예산 범죄’ 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/20162947-E3DA-0852-8FDA-BEUREO17WDUV1TJWZ2WB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파X하승수, 전·현직 대통령실의 금고를 열어라 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/L6kYO</link>
+            <guid>http://newstapa.org/article/L6kYO</guid>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파X하승수, 전·현직 대통령실의 금고를 열어라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/11145118-8F58-C7CE-C525-UQL8J43KHAPXWSHACCBP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기고] 지방의회 비리 감추는 국민권익위? (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/-Yerm</link>
+            <guid>http://newstapa.org/article/-Yerm</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고] 지방의회 비리 감추는 국민권익위?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12160358-EBE0-3420-9245-QHO1ABKY2IWRCLRK2LIS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 통일교 궁전에 UN사무국? 막 오르는 '통일교 특검' (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/df8Z4</link>
+            <guid>http://newstapa.org/article/df8Z4</guid>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 통일교 궁전에 UN사무국? 막 오르는 '통일교 특검']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/26174319-9E76-C4B7-0896-1LUCG64ATV0DI6M24M55.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] '가평복귀'... 통일교 게이트의 새로운 축을 찾다 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/tGXvH</link>
+            <guid>http://newstapa.org/article/tGXvH</guid>
+            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] '가평복귀'... 통일교 게이트의 새로운 축을 찾다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/18165444-875C-F19B-B256-Q9TJ4EADNTE6PN5ZBF50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통일교의 ‘정교일치 실험장’ 추적 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/VSKYX</link>
+            <guid>http://newstapa.org/article/VSKYX</guid>
+            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[통일교의 ‘정교일치 실험장’ 추적]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19170728-FA17-88B7-EDCC-ZHV6G5JFN5E8PAOZFAUC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산 중턱에 ‘통일교 궁전’이 어떻게? 특혜 행정 의혹 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/HtWzJ</link>
+            <guid>http://newstapa.org/article/HtWzJ</guid>
+            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산 중턱에 ‘통일교 궁전’이 어떻게? 특혜 행정 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/18144242-B32A-F456-C54E-JP7PWFQSXRICO6Y4EBN3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통일교 ‘성지순례 유람선’ 사업에 세금 80억 투입 확인 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/V1YWM</link>
+            <guid>http://newstapa.org/article/V1YWM</guid>
+            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[통일교 ‘성지순례 유람선’ 사업에 세금 80억 투입 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/18144235-6953-3237-4192-Q6ARK6FI7821VEFALQKO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 나눠 먹기, 성과급 지적에도… 감사원 특활비의 부활 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/6XlKF</link>
+            <guid>http://newstapa.org/article/6XlKF</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 나눠 먹기, 성과급 지적에도… 감사원 특활비의 부활]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/10142855-4C41-0D35-6B7A-9ZUOFZT8GDRGCCI9YAL6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기고] 대검 각 부서 특활비 공개, 정성호 장관이 결단해야 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/gjEo5</link>
+            <guid>http://newstapa.org/article/gjEo5</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고] 대검 각 부서 특활비 공개, 정성호 장관이 결단해야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/10110954-4C00-E313-1CF5-WJ4ID61R76DZRFWW1B89.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰의 '특수활동비 현금 저수지'… 물증 나왔다 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/m7Au5</link>
+            <guid>http://newstapa.org/article/m7Au5</guid>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰의 '특수활동비 현금 저수지'… 물증 나왔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/03153504-061B-27EE-8824-YYWRFYFA950QZDDR6VTJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 72억 → 31.5억 원… 검찰 특활비 절반 넘게 삭감 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/6O-XX</link>
+            <guid>http://newstapa.org/article/6O-XX</guid>
+            <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 72억 → 31.5억 원… 검찰 특활비 절반 넘게 삭감]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/03094740-C224-A453-81A2-7GVVRD113DNKAY6SF0CR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['무증빙 현금' 특활비 권하는 '검찰 자체 지침' (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/dTTcs</link>
+            <guid>http://newstapa.org/article/dTTcs</guid>
+            <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['무증빙 현금' 특활비 권하는 '검찰 자체 지침']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/20163149-9F0F-2CF8-F23C-X6KNW41SBKJPWLBD2S0V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“아무 사건 번호나 적는다” 현직 검사의 특활비 부정 사용 증언 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/4YX11</link>
+            <guid>http://newstapa.org/article/4YX11</guid>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“아무 사건 번호나 적는다” 현직 검사의 특활비 부정 사용 증언]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/17164340-6E22-60C7-9DB8-ZLD6YYPF73ZNYOWFJLBB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[타파스] 항소 포기엔 '검란', 특활비 떡값엔 침묵? 검찰의 '선택적 정의' (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/fb43n</link>
+            <guid>http://newstapa.org/article/fb43n</guid>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 항소 포기엔 '검란', 특활비 떡값엔 침묵? 검찰의 '선택적 정의']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/17132006-88FB-770C-F7BE-A3H01C9FMW6U4JG3E4YW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[타파스] 감사원의 '내로남불' 세금 파티... 망가진 내부 통제 시스템 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/lSv3X</link>
+            <guid>http://newstapa.org/article/lSv3X</guid>
+            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] 감사원의 '내로남불' 세금 파티... 망가진 내부 통제 시스템]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/10145244-8AC0-3939-A03A-AEXWML3E45TSX6PE46R6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조선일보 차남 방정오, 회삿돈으로 ‘방 캐피탈 파트너스’ 설립 추진 의혹 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
@@ -1414,6 +1542,134 @@
             <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['주무관'과 '교육감'...수상한 '검정교과서' 계획 문건 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/23104241-4A12-876C-C482-41F8971G3PL1K0A504YT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[연금개혁의시간]⑩ 다가올 노인 40% 시대, 노인빈곤 막아야 경제가 산다 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/8lQ09</link>
+            <guid>http://newstapa.org/article/8lQ09</guid>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]⑩ 다가올 노인 40% 시대, 노인빈곤 막아야 경제가 산다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/24150322-1A76-33E9-7A0F-JDRMSEASQPNCQIION5IG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[항암비용의 진실]② 나라마다 다른 ‘키트루다' 가격...한국 건강보험에도 부담 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/NWYLD</link>
+            <guid>http://newstapa.org/article/NWYLD</guid>
+            <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[항암비용의 진실]② 나라마다 다른 ‘키트루다' 가격...한국 건강보험에도 부담]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/17171629-22BE-5DB8-1A5B-NQ702HUAIK9PGQF1I0PL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[항암비용의 진실]① 세계 매출 1위 의약품 ‘키트루다’에 숨겨진 전략 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/HZFyg</link>
+            <guid>http://newstapa.org/article/HZFyg</guid>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[항암비용의 진실]① 세계 매출 1위 의약품 ‘키트루다’에 숨겨진 전략]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/17161854-5B4B-6BE9-EBC0-5HI8Z3DSAJWTBODH3J1R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[연금개혁의시간]⑨ 미래로 연금 크레디트 폭탄 돌리는 정부 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/WhKkZ</link>
+            <guid>http://newstapa.org/article/WhKkZ</guid>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]⑨ 미래로 연금 크레디트 폭탄 돌리는 정부]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/15104728-0B86-5A95-C247-F3FL95ELRAHYINQ1G3MP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[연금개혁의시간]⑧ 제 역할 못한 퇴직연금...소득대체율 20%는 돼야 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/1D3lv</link>
+            <guid>http://newstapa.org/article/1D3lv</guid>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]⑧ 제 역할 못한 퇴직연금...소득대체율 20%는 돼야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/07155047-ACC6-C7C5-B374-QLSLYHSHYGI7JJ6PPQWX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[연금개혁의시간]⑦ '이상해진' 기초연금...이제는 바꿀 시간 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/Cjclh</link>
+            <guid>http://newstapa.org/article/Cjclh</guid>
+            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]⑦ '이상해진' 기초연금...이제는 바꿀 시간]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/18180013-AE4F-81F4-FA86-V3IPIB3MFNHFDHW0DDE6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[연금개혁의시간]⑥ 국민연금 사각지대 해소 없이 연금개혁 없다 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/3ZrJL</link>
+            <guid>http://newstapa.org/article/3ZrJL</guid>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]⑥ 국민연금 사각지대 해소 없이 연금개혁 없다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/11111224-DDA3-EFE5-5E3B-KFZ7AM6KR5L3JUTOSWTU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[연금개혁의시간]⑤ 국고 투입 크레디트 확대...청년세대 노후 위한 투자 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/3IyA8</link>
+            <guid>http://newstapa.org/article/3IyA8</guid>
+            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]⑤ 국고 투입 크레디트 확대...청년세대 노후 위한 투자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/04111155-4040-6587-8B25-SJ8X03LS2RFDXEKNYF25.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[연금개혁의시간]④ 선제적 국고투입이 미래세대에 가져올 혜택 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/NSpHj</link>
+            <guid>http://newstapa.org/article/NSpHj</guid>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]④ 선제적 국고투입이 미래세대에 가져올 혜택]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/10153831-BBAE-02CF-AA0B-ZDTYI2W1UM49ZBR2E88S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[연금개혁의시간]③ 선제적 국고 투입...현시점 유일한 대안 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/Z4SEb</link>
+            <guid>http://newstapa.org/article/Z4SEb</guid>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의시간]③ 선제적 국고 투입...현시점 유일한 대안]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30111959-1EF6-5C1C-38D1-43OUL97FU7R6W8JJXLI7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[연금개혁의 시간]② 기금 소진...가능은 할까? (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/VY1BF</link>
+            <guid>http://newstapa.org/article/VY1BF</guid>
+            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의 시간]② 기금 소진...가능은 할까?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/21153410-708D-33C8-D56B-JIJ72XV106XHKMYMPECL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[연금개혁의 시간]① 모든 개혁의 분수령, 연금개혁 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/G5cbg</link>
+            <guid>http://newstapa.org/article/G5cbg</guid>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연금개혁의 시간]① 모든 개혁의 분수령, 연금개혁]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/14135158-E5E0-16F6-2A1E-SCZ5ZDCPPWAZRXM5BTWI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 미프진과 빛의 혁명 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/uvVB3</link>
+            <guid>http://newstapa.org/article/uvVB3</guid>
+            <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 미프진과 빛의 혁명]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/14144232-F72E-02FE-4477-M59AA7GVCAAUIQAIN5YE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 진주의료원은 강성 노조의 놀이터였다? (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/gfXeu</link>
+            <guid>http://newstapa.org/article/gfXeu</guid>
+            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 진주의료원은 강성 노조의 놀이터였다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/17180836-F73F-CAD7-DC92-0AZI6QNDM0PPRKW7QBQY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화]진실화해위, 해외입양 진실규명 결정...한계도 드러내 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/3fZTu</link>
+            <guid>http://newstapa.org/article/3fZTu</guid>
+            <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화]진실화해위, 해외입양 진실규명 결정...한계도 드러내]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/26170547-0C5A-34F2-1961-1VIWVVBPKF1GCD163ZMD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울의대 교수 3인 인터뷰... "의대생 복귀 방해는 파시즘" (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/wOl6l</link>
+            <guid>http://newstapa.org/article/wOl6l</guid>
+            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[서울의대 교수 3인 인터뷰... "의대생 복귀 방해는 파시즘"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/25184429-CD52-01A8-7550-JPQ2ZGKSSE0KV1K6HFKF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5.16 쿠데타와 워싱턴의 ‘두 얼굴’① 내란세력과 손잡다 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
