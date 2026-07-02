@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jul 2026 07:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 10:44:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국가가 방치한 성폭력 긴급안전망 '1366', 떠나는 상담사들]]></title>
+            <link>http://newstapa.org/article/ye3SR</link>
+            <guid>http://newstapa.org/article/ye3SR</guid>
+            <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국가가 방치한 성폭력 긴급안전망 '1366', 떠나는 상담사들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/02173932-9E6A-E60C-4CFF-EQ9X4WVDP1IKY688ZQTD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 여성 폭력 대응의 '맨 첫줄 고통']]></title>
+            <link>http://newstapa.org/article/FLPsJ</link>
+            <guid>http://newstapa.org/article/FLPsJ</guid>
+            <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 여성 폭력 대응의 '맨 첫줄 고통']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/02180939-609A-4C63-88A3-AO4HXYL5L0IHH7YI6LER.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰과 체불왕 ⑤ “피해 회복은 허상, 검찰의 직무유기다"]]></title>
             <link>http://newstapa.org/article/b-GjR</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/25202912-B4E1-9285-320C-DQUFZ322J0AR14M0Y03W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가가 허가한 일터에서 스물셋 청년이 죽었다]]></title>
-            <link>http://newstapa.org/article/b8Pz3</link>
-            <guid>http://newstapa.org/article/b8Pz3</guid>
-            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국가가 허가한 일터에서 스물셋 청년이 죽었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/23133745-FA9A-E948-E7AC-PY56PFEV9C60QVASSSBS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원 참사 청문회로 드러난 '정부 실패'의 단면들]]></title>
-            <link>http://newstapa.org/article/NIfg2</link>
-            <guid>http://newstapa.org/article/NIfg2</guid>
-            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이태원 참사 청문회로 드러난 '정부 실패'의 단면들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/18180011-3BE5-665A-5930-0AB2JSWVM1GMUCWIJR6T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jul 2026 07:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 10:44:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국가가 방치한 성폭력 긴급안전망 '1366', 떠나는 상담사들]]></title>
+            <link>http://newstapa.org/article/ye3SR</link>
+            <guid>http://newstapa.org/article/ye3SR</guid>
+            <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국가가 방치한 성폭력 긴급안전망 '1366', 떠나는 상담사들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/02173932-9E6A-E60C-4CFF-EQ9X4WVDP1IKY688ZQTD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 세월호 참사 12주기 : 책임자들의 음모론 활용법]]></title>
             <link>http://newstapa.org/article/Ds5es</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/08140352-0D95-1BDC-2689-T5BIL47IQC693GLVIJ6S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주항공 참사 유가족 인터뷰 : 하루하루 버티고 있다]]></title>
-            <link>http://newstapa.org/article/pQNx5</link>
-            <guid>http://newstapa.org/article/pQNx5</guid>
-            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[제주항공 참사 유가족 인터뷰 : 하루하루 버티고 있다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/21140514-BD09-2C76-2565-6R67HAFJAP3RFLXBDPCU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
