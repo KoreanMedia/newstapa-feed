@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/category/%EB%AF%B8%EB%94%94%EC%96%B4</id>
-    <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
-    <updated>2026-07-06T20:01:07.035Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 06 Jul 2026 22:09:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리박스쿨 장학생, 자유민주당 댓글조직 실무자 됐다]]></title>
+            <link>http://newstapa.org/article/lO2sB</link>
+            <guid>http://newstapa.org/article/lO2sB</guid>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리박스쿨 장학생, 자유민주당 댓글조직 실무자 됐다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/25155555-7E10-5A9B-2CE5-WJ9NOQG9J3D47TV9W8RK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조선일보 차남 방정오, 회삿돈으로 ‘방 캐피탈 파트너스’ 설립 추진 의혹]]></title>
+            <link>http://newstapa.org/article/--1qt</link>
+            <guid>http://newstapa.org/article/--1qt</guid>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조선일보 차남 방정오, 회삿돈으로 ‘방 캐피탈 파트너스’ 설립 추진 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/24143748-1980-7E32-BF9B-8L9Y3RCUXVY9OBSVEOG5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TV조선 방정오 변호인, 미 재판에서 'Mr.Big은 방정오' 인정]]></title>
+            <link>http://newstapa.org/article/Sr_nl</link>
+            <guid>http://newstapa.org/article/Sr_nl</guid>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[TV조선 방정오 변호인, 미 재판에서 'Mr.Big은 방정오' 인정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/24143715-7B8D-0D95-4AE8-TOYLYSOOHEEYB6HASTT5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리박스쿨 댓글팀 배후에 '극우' 자유민주당 있었다]]></title>
+            <link>http://newstapa.org/article/19wvt</link>
+            <guid>http://newstapa.org/article/19wvt</guid>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리박스쿨 댓글팀 배후에 '극우' 자유민주당 있었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/24102453-E667-3F00-65E7-ZEUJAHB4KV7Q7EC3RGLR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['류희림 방심위 핵심' 김우석, '청부민원 진실조사단' 구성에 반발]]></title>
+            <link>http://newstapa.org/article/G6pzV</link>
+            <guid>http://newstapa.org/article/G6pzV</guid>
+            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['류희림 방심위 핵심' 김우석, '청부민원 진실조사단' 구성에 반발]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/27172909-F30C-2F12-26FA-1CJFTEK43QD6UM3XNFSS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동아·조선투위, '자유언론 투쟁 기자 해고 정당' 판결에 '재판 소원']]></title>
+            <link>http://newstapa.org/article/3znro</link>
+            <guid>http://newstapa.org/article/3znro</guid>
+            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[동아·조선투위, '자유언론 투쟁 기자 해고 정당' 판결에 '재판 소원']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/14180046-0635-16AF-4BE6-EASMNYHRYSMGBGRCS2RU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></title>
+            <link>http://newstapa.org/article/T_N3z</link>
+            <guid>http://newstapa.org/article/T_N3z</guid>
+            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/06154520-99AB-AD70-45AF-51X5SBSJPVRRDZZDO8OH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 이란전쟁 보도…‘누가 이겼나’가 ‘누가 죽었나’보다 10배 많아]]></title>
+            <link>http://newstapa.org/article/QTExv</link>
+            <guid>http://newstapa.org/article/QTExv</guid>
+            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 이란전쟁 보도…‘누가 이겼나’가 ‘누가 죽었나’보다 10배 많아]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/03173137-A722-84D6-E94B-YG83UN1SM9TZNMVTD7PX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황]]></title>
+            <link>http://newstapa.org/article/f3JJN</link>
+            <guid>http://newstapa.org/article/f3JJN</guid>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/30151306-BD26-19DC-981E-RWFQVBDCJU8WHUDS7N1L.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 차남 회사의 사라진 500만불, 방상훈 회장도 물었다]]></title>
+            <link>http://newstapa.org/article/NFnKr</link>
+            <guid>http://newstapa.org/article/NFnKr</guid>
+            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 차남 회사의 사라진 500만불, 방상훈 회장도 물었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/19152658-9858-0095-9477-UCTH4T1ED0Z8IZLWH5BP.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[“방정오 법적 문제될 수도” 500만 달러 송금 위법성 인식 정황]]></title>
+            <link>http://newstapa.org/article/nHVX2</link>
+            <guid>http://newstapa.org/article/nHVX2</guid>
+            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“방정오 법적 문제될 수도” 500만 달러 송금 위법성 인식 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/19174801-77D6-B03A-F292-MT811NP587Z9SOUJVL4Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“방정오 개인 이익 위해…” 하이그라운드 전직 대표 진술서 입수]]></title>
+            <link>http://newstapa.org/article/_uGLU</link>
+            <guid>http://newstapa.org/article/_uGLU</guid>
+            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“방정오 개인 이익 위해…” 하이그라운드 전직 대표 진술서 입수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/18223001-51B4-A2A5-3D9C-58UXWKPKG4EACHP2XQ40.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동투·조투 결성 51주년..."민형사 명예회복 재차 나설 것"]]></title>
+            <link>http://newstapa.org/article/cJ9Ia</link>
+            <guid>http://newstapa.org/article/cJ9Ia</guid>
+            <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[동투·조투 결성 51주년..."민형사 명예회복 재차 나설 것"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/17175723-D757-B1A7-9420-XTWD5LF2VXW134ATU72X.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['조선일보 차남' 방정오, 500만 달러 배임 혐의 검찰 고발 당해]]></title>
+            <link>http://newstapa.org/article/ANWoL</link>
+            <guid>http://newstapa.org/article/ANWoL</guid>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['조선일보 차남' 방정오, 500만 달러 배임 혐의 검찰 고발 당해]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/16174938-3685-9FC4-D056-S4MBUA3K8H2C83GBRKF3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] '입틀막 행동대장' 김우석의 방미심위 귀환]]></title>
+            <link>http://newstapa.org/article/vlC0N</link>
+            <guid>http://newstapa.org/article/vlC0N</guid>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] '입틀막 행동대장' 김우석의 방미심위 귀환]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/13175545-7C60-948F-6669-2FN1HASQHHT1YC0QRQ5I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조선일보 둘째 아들, 회삿돈 500만 달러 배임 의혹]]></title>
+            <link>http://newstapa.org/article/U20YK</link>
+            <guid>http://newstapa.org/article/U20YK</guid>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조선일보 둘째 아들, 회삿돈 500만 달러 배임 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/12200858-8375-C3AE-FA70-I1EL17FZ75P4MAZBHH0I.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
