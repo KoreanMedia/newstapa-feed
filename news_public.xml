@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jul 2026 03:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 07:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[R&D 예산 이렇게 샌다...연세대 의대 교수 연구비 횡령 의혹]]></title>
+            <link>http://newstapa.org/article/jd9bg</link>
+            <guid>http://newstapa.org/article/jd9bg</guid>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[R&amp;D 예산 이렇게 샌다...연세대 의대 교수 연구비 횡령 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/07140512-1550-8A00-8239-H9DPJQ71QQLZ51V83Z69.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박성재 판결문이 새로 드러낸 12.3 내란의 여섯 장면 ②]]></title>
             <link>http://newstapa.org/article/_Mdgz</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[12.3 비상계엄 고위 장교 징계처분서 공개 ④ 참여와 거부]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/15153145-B223-81FB-2D59-1X98KFT65H9OBX1BN2VO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 2026 선거범죄 리포트: 선거운동과 선거범죄의 경계]]></title>
-            <link>http://newstapa.org/article/TUmMn</link>
-            <guid>http://newstapa.org/article/TUmMn</guid>
-            <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 2026 선거범죄 리포트: 선거운동과 선거범죄의 경계]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/06153744-AF9C-1E39-C6A5-W5B5EZG8A5J1BOFXJYKS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
