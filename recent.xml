@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jul 2026 07:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 10:57:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] 먼저 때려야 이긴다는 믿음에 대하여]]></title>
+            <link>http://newstapa.org/article/cP_l-</link>
+            <guid>http://newstapa.org/article/cP_l-</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파] 먼저 때려야 이긴다는 믿음에 대하여]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/10182558-7761-10FC-F9DF-9AR25JQSEQS9THHZOV0V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유 ⑦ 서해의 추억]]></title>
+            <link>http://newstapa.org/article/mfdCc</link>
+            <guid>http://newstapa.org/article/mfdCc</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유 ⑦ 서해의 추억]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/10164346-EEF1-E5B4-1DD4-QLB3Q16WVDFQF26AQXD9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 경기도 선관위, 더불어민주당 경기도당 회계부정 조사 착수]]></title>
             <link>http://newstapa.org/article/hJPS5</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[K-놀부전] 소금과 도둑질.... 한 코스닥 상장사의 '성장 비결']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/01132949-0654-E8DC-F739-V3CEAIMEBTUWMEZWREUQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 2026 선거범죄 리포트: 선거법 기소 당선자 변호인, 정당 전수 분석]]></title>
-            <link>http://newstapa.org/article/1zUXU</link>
-            <guid>http://newstapa.org/article/1zUXU</guid>
-            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 2026 선거범죄 리포트: 선거법 기소 당선자 변호인, 정당 전수 분석]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/06153728-A033-FFD2-8BD0-KWHOLE1FEHAC4ZFHQD3V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카지노 교육감과 업자, 그리고 기자]]></title>
-            <link>http://newstapa.org/article/wZXtw</link>
-            <guid>http://newstapa.org/article/wZXtw</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[카지노 교육감과 업자, 그리고 기자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/26175054-E8E0-7429-0491-GQY98KJSJU5ZGIW8YMHH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
