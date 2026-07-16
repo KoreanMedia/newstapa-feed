@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jul 2026 23:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 02:39:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안규백 장관 병적 논란 새 의혹과 병적기록부 미공개 속사정]]></title>
+            <link>http://newstapa.org/article/7KeAO</link>
+            <guid>http://newstapa.org/article/7KeAO</guid>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[안규백 장관 병적 논란 새 의혹과 병적기록부 미공개 속사정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/16095818-10EC-E057-439E-Q2730KYBF78216Z9RE1U.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["댓글 수 보내고 계좌 제출"...리박 청년들, ‘댓글 활동비’ 받았다]]></title>
             <link>http://newstapa.org/article/ulc8H</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국가가 방치한 성폭력 긴급안전망 '1366', 떠나는 상담사들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/02173932-9E6A-E60C-4CFF-EQ9X4WVDP1IKY688ZQTD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 여성 폭력 대응의 '맨 첫줄 고통']]></title>
-            <link>http://newstapa.org/article/FLPsJ</link>
-            <guid>http://newstapa.org/article/FLPsJ</guid>
-            <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 여성 폭력 대응의 '맨 첫줄 고통']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/02180939-609A-4C63-88A3-AO4HXYL5L0IHH7YI6LER.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
