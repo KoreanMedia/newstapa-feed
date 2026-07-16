@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jul 2026 05:44:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 08:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 경찰, 연세대 의대 교수 연구비 횡령 의혹 수사 착수]]></title>
+            <link>http://newstapa.org/article/F10Ym</link>
+            <guid>http://newstapa.org/article/F10Ym</guid>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 경찰, 연세대 의대 교수 연구비 횡령 의혹 수사 착수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/16165012-01C4-7314-11B7-7NUJYFXDJ70FH9N31G2H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘정치자금 부정수수’ 윤상현, 권력으로 공수처 수사 ‘방탄’]]></title>
+            <link>http://newstapa.org/article/0Bmbn</link>
+            <guid>http://newstapa.org/article/0Bmbn</guid>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘정치자금 부정수수’ 윤상현, 권력으로 공수처 수사 ‘방탄’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/16163531-8205-451F-8CE3-GTF2ZEWA0F1R9FOUPRFM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘정치자금 부정수수’ 윤상현, 양복도 받았다]]></title>
+            <link>http://newstapa.org/article/v8Aki</link>
+            <guid>http://newstapa.org/article/v8Aki</guid>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘정치자금 부정수수’ 윤상현, 양복도 받았다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/16163416-380B-6BBB-52C8-2T5ED9UFJUYRVLAMRPBN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안규백 장관 병적 논란 새 의혹과 병적기록부 미공개 속사정]]></title>
             <link>http://newstapa.org/article/7KeAO</link>
@@ -110,30 +134,6 @@
             <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[R&amp;D 예산 이렇게 샌다...연세대 의대 교수 연구비 횡령 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/07165328-D751-6F61-EB43-JGGQVU8OZCR5SEQM54B3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박성재 판결문이 새로 드러낸 12.3 내란의 여섯 장면 ②]]></title>
-            <link>http://newstapa.org/article/_Mdgz</link>
-            <guid>http://newstapa.org/article/_Mdgz</guid>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박성재 판결문이 새로 드러낸 12.3 내란의 여섯 장면 ②]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/07103841-D752-452D-F3D1-BJBHB5WM2V26DNXW8CGQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박성재 판결문이 새로 드러낸 12.3 내란의 여섯 장면 ①]]></title>
-            <link>http://newstapa.org/article/OYC0D</link>
-            <guid>http://newstapa.org/article/OYC0D</guid>
-            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박성재 판결문이 새로 드러낸 12.3 내란의 여섯 장면 ①]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/06171150-52EA-D60A-B81E-NLOW4HBGMUC9RIVDD87T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가가 방치한 성폭력 긴급안전망 '1366', 떠나는 상담사들]]></title>
-            <link>http://newstapa.org/article/ye3SR</link>
-            <guid>http://newstapa.org/article/ye3SR</guid>
-            <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국가가 방치한 성폭력 긴급안전망 '1366', 떠나는 상담사들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/02173932-9E6A-E60C-4CFF-EQ9X4WVDP1IKY688ZQTD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
