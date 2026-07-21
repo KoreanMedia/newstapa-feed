@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/category/%EA%B5%90%EC%9C%A1</id>
-    <title>뉴스타파 ─ 뉴스 ─ 교육</title>
-    <updated>2026-07-21T21:12:30.910Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스 ─ 교육</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 21 Jul 2026 23:00:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 경찰, 연세대 의대 교수 연구비 횡령 의혹 수사 착수]]></title>
+            <link>http://newstapa.org/article/F10Ym</link>
+            <guid>http://newstapa.org/article/F10Ym</guid>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 경찰, 연세대 의대 교수 연구비 횡령 의혹 수사 착수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/16165012-01C4-7314-11B7-7NUJYFXDJ70FH9N31G2H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[R&D 예산 이렇게 샌다...연세대 의대 교수 연구비 횡령 의혹]]></title>
+            <link>http://newstapa.org/article/jd9bg</link>
+            <guid>http://newstapa.org/article/jd9bg</guid>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[R&amp;D 예산 이렇게 샌다...연세대 의대 교수 연구비 횡령 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/07165328-D751-6F61-EB43-JGGQVU8OZCR5SEQM54B3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카지노 교육감과 업자, 그리고 기자]]></title>
+            <link>http://newstapa.org/article/wZXtw</link>
+            <guid>http://newstapa.org/article/wZXtw</guid>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[카지노 교육감과 업자, 그리고 기자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/26175054-E8E0-7429-0491-GQY98KJSJU5ZGIW8YMHH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파]신앙의 이름으로 - 기독교 대안학교의 이념 전쟁]]></title>
+            <link>http://newstapa.org/article/IUz7X</link>
+            <guid>http://newstapa.org/article/IUz7X</guid>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파]신앙의 이름으로 - 기독교 대안학교의 이념 전쟁]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/05162435-9EA9-DC31-BBD8-DIEZE5I3WQH1I89TQPVW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[목격자들] 열무야 열무야]]></title>
+            <link>http://newstapa.org/article/3JPva</link>
+            <guid>http://newstapa.org/article/3JPva</guid>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목격자들] 열무야 열무야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/15132420-253E-A34D-DF63-0I01KV5Z7MJF30UN0ILA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] 소년의 이름]]></title>
+            <link>http://newstapa.org/article/9_BmV</link>
+            <guid>http://newstapa.org/article/9_BmV</guid>
+            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파] 소년의 이름]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/30170121-0058-3E73-F4F4-KJVM7N98YFIV7PUKOA0R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] "윤석열 당선은 하나님 기적", "여자는 프러포즈 안 돼"…황당한 넥스트클럽 '성교육 강사 양성' 과정]]></title>
+            <link>http://newstapa.org/article/dNTeI</link>
+            <guid>http://newstapa.org/article/dNTeI</guid>
+            <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] "윤석열 당선은 하나님 기적", "여자는 프러포즈 안 돼"…황당한 넥스트클럽 '성교육 강사 양성' 과정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/24123943-9878-2887-EC6C-VLA11N1VQU4TCY2E70RG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['주무관'과 '교육감'...수상한 '검정교과서' 계획 문건 공개]]></title>
+            <link>http://newstapa.org/article/EVuEs</link>
+            <guid>http://newstapa.org/article/EVuEs</guid>
+            <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['주무관'과 '교육감'...수상한 '검정교과서' 계획 문건 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/23104241-4A12-876C-C482-41F8971G3PL1K0A504YT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 사상 첫 교과서 검정 합격 취소...뉴스타파 보도 11개월만]]></title>
+            <link>http://newstapa.org/article/b9w_x</link>
+            <guid>http://newstapa.org/article/b9w_x</guid>
+            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 사상 첫 교과서 검정 합격 취소...뉴스타파 보도 11개월만]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15150140-765D-66DD-26BC-1BUVNPWKKSG6SRMK1W9S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리박스쿨 뿌리① 리박스쿨 탄생은 개인의 일탈이 아니었다]]></title>
+            <link>http://newstapa.org/article/i9GEt</link>
+            <guid>http://newstapa.org/article/i9GEt</guid>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리박스쿨 뿌리① 리박스쿨 탄생은 개인의 일탈이 아니었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10171530-F884-C46B-57BB-AZN354Y4350I62KO5TFM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국가교육위원회 회의록 공개...리박스쿨 유착 숨기고 '입단속']]></title>
+            <link>http://newstapa.org/article/YFnZ7</link>
+            <guid>http://newstapa.org/article/YFnZ7</guid>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국가교육위원회 회의록 공개...리박스쿨 유착 숨기고 '입단속']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10172808-9DED-CA87-7D77-LWIN20UPUMUEEX06N35O.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세금으로 '이승만 찬양'…재외동포청, 교민 자녀 '극우 교육' 후원]]></title>
+            <link>http://newstapa.org/article/NyUAi</link>
+            <guid>http://newstapa.org/article/NyUAi</guid>
+            <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세금으로 '이승만 찬양'…재외동포청, 교민 자녀 '극우 교육' 후원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/04164529-46A6-4EC9-5185-RFXCAV6A62WN0ODSZNSF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[교육부가 놓친 '리박스쿨' 자매단체, 교민 자녀들에게 '이승만 찬양' 교육]]></title>
+            <link>http://newstapa.org/article/MnTNh</link>
+            <guid>http://newstapa.org/article/MnTNh</guid>
+            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[교육부가 놓친 '리박스쿨' 자매단체, 교민 자녀들에게 '이승만 찬양' 교육]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03191458-46DF-A3D8-AD90-N0ZRLLMA3U23M0BCVFYB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대한교조, 리박스쿨, 뉴라이트의 ‘극우 역사 세미나’]]></title>
+            <link>http://newstapa.org/article/g0eYj</link>
+            <guid>http://newstapa.org/article/g0eYj</guid>
+            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대한교조, 리박스쿨, 뉴라이트의 ‘극우 역사 세미나’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/27203103-BC00-8B29-6ED7-2I5HYAMSP5OZAJLJEYFC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 세력의 '친일 교과서' 프로젝트]]></title>
+            <link>http://newstapa.org/article/ufUfQ</link>
+            <guid>http://newstapa.org/article/ufUfQ</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 세력의 '친일 교과서' 프로젝트]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26163417-2FEE-B8DB-93A4-8TSX1XEAM6STAPZSGMCJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 감사원 "교과서 발행정지·합격취소 사유 해당"...뉴스타파 보도 8개월만]]></title>
+            <link>http://newstapa.org/article/Qk_bj</link>
+            <guid>http://newstapa.org/article/Qk_bj</guid>
+            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 감사원 "교과서 발행정지·합격취소 사유 해당"...뉴스타파 보도 8개월만]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28172624-3391-4F2F-0D6B-69LGM5KD3QVOX5T4WOA0.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
