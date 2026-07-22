@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jul 2026 06:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 09:30:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<죄 만드는 검(檢)> 프로젝트... 평범한 당신을 노리는 검사의 ‘칼’]]></title>
+            <link>http://newstapa.org/article/OGaEB</link>
+            <guid>http://newstapa.org/article/OGaEB</guid>
+            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;죄 만드는 검(檢)&gt; 프로젝트... 평범한 당신을 노리는 검사의 ‘칼’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/22160208-4907-311E-5009-4HQWF4XDIQ38MPZHQ20V.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['디올백' 무혐의 검사 녹취 입수...김건희 봐준 '법 기술' 드러났다]]></title>
             <link>http://newstapa.org/article/DLPf3</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰과 체불왕 ③ 임금 체불 진행 시점에도 회삿돈 빼돌려 억대 비자금 조성]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/17160315-F6A2-CDC8-F38B-4P2IMY903UI6FHAHMYNG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12.3 비상계엄 고위 장교 징계처분서 공개 ④ 참여와 거부]]></title>
-            <link>http://newstapa.org/article/yLNJt</link>
-            <guid>http://newstapa.org/article/yLNJt</guid>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[12.3 비상계엄 고위 장교 징계처분서 공개 ④ 참여와 거부]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/15153145-B223-81FB-2D59-1X98KFT65H9OBX1BN2VO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
