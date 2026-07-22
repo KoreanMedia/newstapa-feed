@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jul 2026 00:00:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 03:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[정치자금은쌈짓돈]⑤유령간담회 비용...실체는 당직자들 밥값]]></title>
+            <link>http://newstapa.org/article/Wr2He</link>
+            <guid>http://newstapa.org/article/Wr2He</guid>
+            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[정치자금은쌈짓돈]⑤유령간담회 비용...실체는 당직자들 밥값]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/22110551-5D95-6AF0-8FF3-E0ZEAIHHKYE3JFEUNJKI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['디올백' 무혐의 검사 녹취 입수...김건희 봐준 '법 기술' 드러났다]]></title>
             <link>http://newstapa.org/article/DLPf3</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 부풀리고, 속이고, 돌려받고... 민주당 경기도당 회계 부정 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/09174542-CB44-BF8E-78B7-BB5GG8M1YR68R2E5UWG1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["저는 계속 얘기했습니다. (처벌 의사) 있다고"...윤석열 두번째 증인 신문]]></title>
-            <link>http://newstapa.org/article/nwJZM</link>
-            <guid>http://newstapa.org/article/nwJZM</guid>
-            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["저는 계속 얘기했습니다. (처벌 의사) 있다고"...윤석열 두번째 증인 신문]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/08181836-A49D-CA49-DA50-77MPDO697RUDM0U3NWYA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
