@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jul 2026 07:34:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 10:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['포렌식 입찰 비위 의혹' 공수처 수사관 3명 '파면' 의결]]></title>
+            <link>http://newstapa.org/article/A2nCY</link>
+            <guid>http://newstapa.org/article/A2nCY</guid>
+            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['포렌식 입찰 비위 의혹' 공수처 수사관 3명 '파면' 의결]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/24172046-8824-CEA3-2ACD-20G71UZWJ51SW67PVU3H.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘수소 전기’ 환상 깨진 용인 반도체, 속도전만 외치는 정부]]></title>
             <link>http://newstapa.org/article/k_ixo</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["댓글 수 보내고 계좌 제출"...리박 청년들, ‘댓글 활동비’ 받았다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/15172232-FFD8-61AE-C8BF-RRP7HNVB8RGGQ1AHW4JZ.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[정치자금은쌈짓돈]④민주당 경기도당, 워크숍 참가비 수천만 원 비자금 운영]]></title>
-            <link>http://newstapa.org/article/NRi1T</link>
-            <guid>http://newstapa.org/article/NRi1T</guid>
-            <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[정치자금은쌈짓돈]④민주당 경기도당, 워크숍 참가비 수천만 원 비자금 운영]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/15133841-24E0-FAF8-B88E-UQSGIRFFEJN0E2G9MF0R.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
