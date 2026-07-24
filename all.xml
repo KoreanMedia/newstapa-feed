@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jul 2026 04:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 07:34:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -776,7 +776,7 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/11/bc558ec5179bc5306e9e795f5dad33c931411345e754dedba65989b7b5d97c36889ed5b140afd3fb7617473516e3e157ebb81a4021a053a7a2dde6a848731455.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘수소 전기’ 환상 깨진 용인 반도체, 속도전만 외치는 정부 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
+            <title><![CDATA[‘수소 전기’ 환상 깨진 용인 반도체, 속도전만 외치는 정부 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/k_ixo</link>
             <guid>http://newstapa.org/article/k_ixo</guid>
             <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
@@ -784,31 +784,7 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/24101152-723A-0694-7357-CT08YXZD2XRAHQ570QDV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현장1열] 불 꺼진 홈플러스..."아직 사람이 있어요" (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/Rtvza</link>
-            <guid>http://newstapa.org/article/Rtvza</guid>
-            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장1열] 불 꺼진 홈플러스..."아직 사람이 있어요"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/23171355-E7FF-C3A6-7280-24OICO5ODMTIDE22VXQS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 국세청, 선박왕 권혁 특별 세무조사... 뉴스타파 보도 반년 만 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/equYz</link>
-            <guid>http://newstapa.org/article/equYz</guid>
-            <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 국세청, 선박왕 권혁 특별 세무조사... 뉴스타파 보도 반년 만]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/17152835-AE1B-8D8B-5678-JVDRPPTOH3B3FFD757I9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[K-놀부전] "한화솔루션이 기술을 훔쳤다" (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/lGWaP</link>
-            <guid>http://newstapa.org/article/lGWaP</guid>
-            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[K-놀부전] "한화솔루션이 기술을 훔쳤다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/10111513-5CE3-CA58-8D2E-AZWHDQWDYGO5HMXG2GDK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다큐 뉴스타파] 전력 오판 15년, 감춰진 청구서 : '개미지옥'이 된 발전소 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
+            <title><![CDATA[[다큐 뉴스타파] 전력 오판 15년, 감춰진 청구서 : '개미지옥'이 된 발전소 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/S4KHg</link>
             <guid>http://newstapa.org/article/S4KHg</guid>
             <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
@@ -816,92 +792,116 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/22171941-C93C-265E-2A2D-1DLEU0ODD2HM21KCIEQS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[농지투기 추적] ③헌법 비웃는 국회의원의 농지 재테크… 백종헌 ‘가짜 농부’ 의혹 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/aFDF1</link>
-            <guid>http://newstapa.org/article/aFDF1</guid>
-            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[농지투기 추적] ③헌법 비웃는 국회의원의 농지 재테크… 백종헌 ‘가짜 농부’ 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/13143542-0727-4C97-45F7-5K8I1KJA5SJ3Q9SS6JME.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[주간 뉴스타파] 정부가 말하지 않는 원전 감발의 비용 고지서 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/7-a0g</link>
+            <guid>http://newstapa.org/article/7-a0g</guid>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 정부가 말하지 않는 원전 감발의 비용 고지서]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/02164836-29F8-BACA-8D4C-6QGCKYZISYOZCYU05HD2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[농지투기 추적] ② 농지가 골프장으로...박덕흠 의원 일가의 '비결' (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/g9zS-</link>
-            <guid>http://newstapa.org/article/g9zS-</guid>
-            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[농지투기 추적] ② 농지가 골프장으로...박덕흠 의원 일가의 '비결']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/09201802-BEF5-CD78-6F36-G4M3NDIOBK1AXB7IC4JT.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[정부의 원전 도박 ② "원전 보상 체계 마련해야" 원전 특혜 의혹 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/kQqQE</link>
+            <guid>http://newstapa.org/article/kQqQE</guid>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정부의 원전 도박 ② "원전 보상 체계 마련해야" 원전 특혜 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/02165856-7FEE-BA0A-642B-RASRVPK23QP68EKOO4RZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[농지투기 추적] 누더기가 된 헌법정신... 누가 농지 투기로 돈을 벌었나 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/qcW1o</link>
-            <guid>http://newstapa.org/article/qcW1o</guid>
-            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[농지투기 추적] 누더기가 된 헌법정신... 누가 농지 투기로 돈을 벌었나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/09191526-50A1-0853-F824-E3NN44KHLU9IPQ61OLQE.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[정부의 원전 도박 ①"원전 출력 80% 줄여야" 기후부 내부 문건 입수 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/56I5i</link>
+            <guid>http://newstapa.org/article/56I5i</guid>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정부의 원전 도박 ①"원전 출력 80% 줄여야" 기후부 내부 문건 입수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/02165721-AA29-1C95-A2D5-80W53ROPZ882QG0W2MIE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현장1열] 기름값 치솟은 날, 도로 위 사람들의 이야기를 듣다 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/sAPAI</link>
-            <guid>http://newstapa.org/article/sAPAI</guid>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장1열] 기름값 치솟은 날, 도로 위 사람들의 이야기를 듣다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/10173652-EF5E-D246-80A0-9M0AN3745HUJT1KJJSD5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[현장1열] 세종보 재가동 저지 농성 700일만에 종료 "4대강 재자연화 의지 확인" (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/5tj7W</link>
+            <guid>http://newstapa.org/article/5tj7W</guid>
+            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장1열] 세종보 재가동 저지 농성 700일만에 종료 "4대강 재자연화 의지 확인"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/31162436-5943-6BFC-3E3B-KV8LSWEZZI2BO1B5CK7T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[간송미술관장, 전시 자금으로 '빚 갈아타기' 의혹 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/G3UK3</link>
-            <guid>http://newstapa.org/article/G3UK3</guid>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[간송미술관장, 전시 자금으로 '빚 갈아타기' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/10151849-115F-2FC5-9019-1BO6MB3VI7FQICW63V4L.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[KINN] 바람을 판 나라① 낙월해상풍력의 숨겨진 주인 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/cb5cG</link>
+            <guid>http://newstapa.org/article/cb5cG</guid>
+            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 바람을 판 나라① 낙월해상풍력의 숨겨진 주인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/19140016-0676-A037-BEE2-50Q6X4LN7FM656NO44A7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[간송미술관장, 29억 횡령 의혹… 제작사엔 "돈 없다" (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/hV8Lo</link>
-            <guid>http://newstapa.org/article/hV8Lo</guid>
+            <title><![CDATA[한국 원전 '롤모델' 프랑스도 원전vs재생에너지 충돌 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/dT-dX</link>
+            <guid>http://newstapa.org/article/dT-dX</guid>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국 원전 '롤모델' 프랑스도 원전vs재생에너지 충돌]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/13152432-8C52-4E5C-0C7E-O7MXN53WN7T2PDQEPMAJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["4대강 재자연화 의지 없다" 환경단체, 김성환 기후부 장관 사퇴 촉구 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/0dKhA</link>
+            <guid>http://newstapa.org/article/0dKhA</guid>
             <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[간송미술관장, 29억 횡령 의혹… 제작사엔 "돈 없다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/06144226-D95E-CA52-29FF-76P1L377ZLMAGB4LOCCG.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA["4대강 재자연화 의지 없다" 환경단체, 김성환 기후부 장관 사퇴 촉구]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/06164942-D028-4886-B933-UNS5P8DIFIUG2MSHBSAJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[타파스] 쿠팡이 미국 의회를 움직이는 법 (feat. 로비 160억) (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/o6K-7</link>
-            <guid>http://newstapa.org/article/o6K-7</guid>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 쿠팡이 미국 의회를 움직이는 법 (feat. 로비 160억)]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/09135224-9E3F-B20F-8659-QD28D964LT8O6WIN9214.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[현장에서] 이재명의 약속, 낙동강은 아직 기다린다 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/FoItw</link>
+            <guid>http://newstapa.org/article/FoItw</guid>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 이재명의 약속, 낙동강은 아직 기다린다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/27102122-2C49-9D08-F6AC-4VL6MAPICCJIDFRXD0SH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/XcGHS</link>
-            <guid>http://newstapa.org/article/XcGHS</guid>
-            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06170235-8053-DDA0-31A8-MTRIJGI9RABJX1M7RYXD.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[빛을 만드는 사람들 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/T-0C8</link>
+            <guid>http://newstapa.org/article/T-0C8</guid>
+            <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[빛을 만드는 사람들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/12180058-6B98-EFEA-54FC-KGT6X2H07DVHC8ZWX5CR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 뉴스타파] 쿠팡은 고치지 않는다, 로비한다 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/OhRY3</link>
-            <guid>http://newstapa.org/article/OhRY3</guid>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 쿠팡은 고치지 않는다, 로비한다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05170325-9A25-815E-BD0D-JHZXM6KJQWGVL8XFDY9H.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["공기 중 녹조 독소 불검출" 발표에 환경단체 "녹조 적을 때 한 예비조사" (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/KEolZ</link>
+            <guid>http://newstapa.org/article/KEolZ</guid>
+            <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["공기 중 녹조 독소 불검출" 발표에 환경단체 "녹조 적을 때 한 예비조사"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/11140016-1D6C-A26C-8FFE-3S08CZBEIZT90I5BNIHF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[법 위의 선박왕 ⑤ 권혁 탈세 돕고 퇴직 뒤 20억 받은 국세청 공무원 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/C54g9</link>
-            <guid>http://newstapa.org/article/C54g9</guid>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법 위의 선박왕 ⑤ 권혁 탈세 돕고 퇴직 뒤 20억 받은 국세청 공무원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/22162103-4D6B-824B-AC12-1F14VQN3IKWTK7JJG42I.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한강을 꿈꾸다 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/WhnMQ</link>
+            <guid>http://newstapa.org/article/WhnMQ</guid>
+            <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한강을 꿈꾸다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/19141205-989D-0DE6-DCAB-8K7OLJPMZ5X82GRHFA28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[법위의 선박왕 ④ '4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/l3mIk</link>
-            <guid>http://newstapa.org/article/l3mIk</guid>
-            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법위의 선박왕 ④ '4천 억 세금 소송' 권혁, 천억 대 자금 국내 유입 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/19155806-ED66-215E-D905-2UF1LX2CUMX567YQS8DZ.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[UN '삼성 베트남 공장 환경·보건 우려' 서한 정부와 삼성에 발송 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/1f07c</link>
+            <guid>http://newstapa.org/article/1f07c</guid>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[UN '삼성 베트남 공장 환경·보건 우려' 서한 정부와 삼성에 발송]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05112458-E6BB-34DF-3719-6G5JF0XHG93VJL0BY7G0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[타파스] '개점 휴업'해도 국민 전기료 4800억 원 받는 재벌 석탄발전소 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/eiXJB</link>
+            <guid>http://newstapa.org/article/eiXJB</guid>
+            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[타파스] '개점 휴업'해도 국민 전기료 4800억 원 받는 재벌 석탄발전소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/24141601-6557-74C0-4179-SY6BMWPLA00A5543TK4U.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <추적> 제작진, ‘2025 세상을 밝게 만든 사람들’ 환경부문 수상 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/3DAHq</link>
+            <guid>http://newstapa.org/article/3DAHq</guid>
+            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;추적&gt; 제작진, ‘2025 세상을 밝게 만든 사람들’ 환경부문 수상]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/12160357-E835-E31B-BDD0-EJ9JM7CPYIQ4LW5AHZFS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국가가 방치한 성폭력 긴급안전망 '1366', 떠나는 상담사들 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -1542,134 +1542,6 @@
             <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[서울의대 교수 3인 인터뷰... "의대생 복귀 방해는 파시즘"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/25184429-CD52-01A8-7550-JPQ2ZGKSSE0KV1K6HFKF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유⑧ 검찰의 ‘삼위일체’ (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/qTcUf</link>
-            <guid>http://newstapa.org/article/qTcUf</guid>
-            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유⑧ 검찰의 ‘삼위일체’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/17140641-4745-2F31-387D-2LRTVGNE9I1WD96E0AD1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다큐 뉴스타파] 먼저 때려야 이긴다는 믿음에 대하여 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/cP_l-</link>
-            <guid>http://newstapa.org/article/cP_l-</guid>
-            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다큐 뉴스타파] 먼저 때려야 이긴다는 믿음에 대하여]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/10182558-7761-10FC-F9DF-9AR25JQSEQS9THHZOV0V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5.16 쿠데타와 워싱턴의 ‘두 얼굴’① 내란세력과 손잡다 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/Iz434</link>
-            <guid>http://newstapa.org/article/Iz434</guid>
-            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5.16 쿠데타와 워싱턴의 ‘두 얼굴’① 내란세력과 손잡다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/15202105-5384-CAF2-0C24-W9AGZ4WZRV67KUAZVP1V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] AI와 전쟁③④⑤ 앤트로픽 가처분 소송의 전말 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/3yU-r</link>
-            <guid>http://newstapa.org/article/3yU-r</guid>
-            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] AI와 전쟁③④⑤ 앤트로픽 가처분 소송의 전말]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/13112324-CFB0-01A1-A35D-HYDVSQ1WNGPSQ7KKFNDY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 2, '담장을 쌓고 이웃으로 살자'- 송민순 전 외교통상부 장관 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/Iyp6B</link>
-            <guid>http://newstapa.org/article/Iyp6B</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 2, '담장을 쌓고 이웃으로 살자'- 송민순 전 외교통상부 장관]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/10173550-EC16-665F-7498-6KSUTLKKHSCLKGZ4YUCW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 1, '그래도 동족이다' - 정세현 전 통일부 장관 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/SRUoU</link>
-            <guid>http://newstapa.org/article/SRUoU</guid>
-            <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다큐 뉴스타파] 김정은과 함께 사는 두 가지 길 1, '그래도 동족이다' - 정세현 전 통일부 장관]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/27160817-5AE0-8BBF-A1C3-HPJSCO839HREZGGZ83AW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“국민에게 대북 살상 작전” 휴민트 여단장이 본 ‘노상원 수첩’ (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/xKy8x</link>
-            <guid>http://newstapa.org/article/xKy8x</guid>
-            <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“국민에게 대북 살상 작전” 휴민트 여단장이 본 ‘노상원 수첩’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/27142042-63D2-8758-1D76-3MXOLX85V83EJ2CZ1WPY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장1열] "성주 사드, 누구를 위한 무기였나?" (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/R_g0A</link>
-            <guid>http://newstapa.org/article/R_g0A</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장1열] "성주 사드, 누구를 위한 무기였나?"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26142125-5F01-8B5F-7D1A-P030H3M3KICMT5R8Q80N.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] AI와 전쟁① "개처럼 쫓아냈다"...트럼프와 앤트로픽의 대결 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/_i9vH</link>
-            <guid>http://newstapa.org/article/_i9vH</guid>
-            <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] AI와 전쟁① "개처럼 쫓아냈다"...트럼프와 앤트로픽의 대결]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/20145052-55B7-CC8B-A699-5MHL347NE04TZ19VFG5W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 타이-캄보디아 국경, 7만 9천 명의 ‘멈춰버린 시간’ (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/lK1_n</link>
-            <guid>http://newstapa.org/article/lK1_n</guid>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 타이-캄보디아 국경, 7만 9천 명의 ‘멈춰버린 시간’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/24144124-EAC9-A49A-E149-SQF0XI59MZ17ATPSOT78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민간 무인기 북한 침투 현장에 '9공수' 소속 현역 장교 동행 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/RAiCo</link>
-            <guid>http://newstapa.org/article/RAiCo</guid>
-            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[민간 무인기 북한 침투 현장에 '9공수' 소속 현역 장교 동행]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/12165932-C935-B233-31D2-HMNRK104YO8OUHNS8QSL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/XcGHS</link>
-            <guid>http://newstapa.org/article/XcGHS</guid>
-            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06170235-8053-DDA0-31A8-MTRIJGI9RABJX1M7RYXD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/orn0l</link>
-            <guid>http://newstapa.org/article/orn0l</guid>
-            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[에스텔엔지니어링 대표... 윤석열 정부 지원금 받아 무인기 연구 진행]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06154440-A1CE-1696-AEB1-7EM9E4JKU1SWJFW003IQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/Z9RRu</link>
-            <guid>http://newstapa.org/article/Z9RRu</guid>
-            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/04194535-09AE-A97E-EDD5-PJ4VPZLV98WLNULDCBPS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘북한 무인기’ 대학원생 회사에 '한국형 전투기 사업(KF-21) 연구원'도 참여 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/eFQ5n</link>
-            <guid>http://newstapa.org/article/eFQ5n</guid>
-            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘북한 무인기’ 대학원생 회사에 '한국형 전투기 사업(KF-21) 연구원'도 참여]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/03174318-1829-1D5A-23F3-7NPL2C122BLNQK7YQYE6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정보사와 대학원생, 그리고 윤석열… 무인기 사건 중간 정리 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/20jrg</link>
-            <guid>http://newstapa.org/article/20jrg</guid>
-            <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정보사와 대학원생, 그리고 윤석열… 무인기 사건 중간 정리]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30085112-4346-F1B3-306A-NK452ZB4P4J239X78OXH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명 공유 '팔레스타인 영상' 유족 찾았다... “아들 시신 돌려달라” (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -3224,6 +3096,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19133403-8F9B-88F0-EC01-XTTBI0UZJ0W0FHM7C8DY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<도서출판 뉴스타파> 책 첫 영문판 출간…아마존 킨들 전자책 출시 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/114063277</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/114063277</guid>
+            <pubDate>Fri, 24 Jul 2026 07:34:11 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;도서출판 뉴스타파&gt;가 한국전쟁을 폭격과 심리전, 포로 및 판문점 등 3가지 주제로 입체 조명한 ‘당신이 보지 못한 한국전쟁’ 시리즈 서적 3권이 영어로 완역돼 아마존 킨들 전자책으로 출시됐습니다.<br><br>이번에 영문 버전으로 나온 책은 &lt;당신이 보지 못한 한국전쟁: The Korean War You Never Saw&gt;라는 타이틀 아래 1권 ‘초토화 폭격: Scorched Earth Bombing’, 2권 ‘삐라 심리전: Leaflet Psycplogocal Warfare), 3권 ‘포로와 판문점: Prisoners and Panmumjom’입니다. <br><br>이번 뉴스타파의 한국전쟁 시리즈 영문판은 한국전쟁 정전협정 체결 73년 주년이 되는 7월 27일을 앞두고 영어권 독자에게 ‘잊혀진 전쟁’, ‘자유수호 전쟁’으로 알려진 한국전쟁의 실제 모습을 알리고, 아직 휴전상태인 한반도에 종전와 평화 협정이 절실하게 필요하다는 공감대를 넓히기 위해 기획됐습니다. <br><br>전자책으로 직접 소장해도 좋고, 해외 지인에게 소개하셔도 좋은 길잡이가 되겠죠.<br><br>👉영문판 시리즈는 아래 아마존 사이트에서 만날 수 있습니다.<br>-초토화 폭격: <span class="link_url">https://a.co/d/04TDG7lV</span><br>-삐라 심리전: <span class="link_url">https://a.co/d/0fJ211LN</span><br>-포로와 판문점:<span class="link_url">https://a.co/d/0jjmZFby</span><br><br>👉한글판은 여기서<br>-<span class="link_url">https://product.kyobobook.co.kr/detail/S000220273112</span><br><br>&lt;도서출판 뉴스타파&gt;가 출판한 책 판매 수익은 모두 독립언론 연대 협업 사업에 사용됩니다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘수소 전기’ 환상 깨진 용인 반도체, 속도전만 외치는 정부 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/114057941</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/114057941</guid>
@@ -3357,18 +3236,11 @@
             <content:encoded><![CDATA[[🔴라이브 예고] 최근 이재명 대통령은 풀리지 않는 대북 관계를 두고 '두드려라, 그러면 열릴 것이다'라고 말했습니다. 윤석열 정부 시절 남북 관계는 악화일로를 걸었는데요, 이로 인해 우발적 사고가 큰 충돌로 번질 수 있는 일촉즉발의 긴장이 계속되고 있습니다. 이재명 대통령 취임 이후 정부는 줄곧 긴장 완화 노력을 해왔는데 한번 걸어 잠긴 대화 창구는 좀처럼 열리지 않고 있습니다.<br><br>지난주 방송된 뉴스타파의 대표 다큐멘터리 시리즈 '다큐 뉴스타파'는 꽉 막힌 남북 관계의 선결 과제를 제시했습니다. 북한의 핵과 미사일에 대응하기 위해 고안된 한국군의 3축 체계, 그중 '선제타격론'과 '참수 작전'에 대한 재검토가 필요하다고 주문했는데요, 윤석열 정부 시절 강화된 이 두 교리가 북한군의 대응 수위를 높이며 한반도의 위험과 긴장을 한층 키우고 있다는 분석입니다. <br><br>방송이 나간 이후, 댓글 창은 뜨거웠습니다. 한쪽에선 공감이, 다른 한쪽에선 비판의 목소리가 나왔는데요, 뉴스타파는 오늘 밤 9시 라이브 방송을 통해 독자들의 여러 목소리에 답하고 진정한 평화의 길이 무엇일지 모색할 예정입니다. 다큐멘터리 연출한 최승호 PD, 주요 인터뷰이로 등장한 김정섭 세종연구소 수석연구위원이 출연합니다. 많은 시청과 관심 바랍니다!<br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://www.youtube.com/live/Jzm-aNEh8O8</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[윤석열의 내란 PART 3. 기록된 변명] 특별 페이지 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/113952978</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/113952978</guid>
-            <pubDate>Mon, 13 Jul 2026 10:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파 특별페이지 '윤석열의 내란 PART 3. 기록된 변명'이 오늘 업데이트됐습니다. 이번 업데이트에서는 박성재 전 법무부장관의 1심 판결문을 공개합니다.<br><br>헌법과 법률을 수호해야 할 법무부장관은 그날 밤 검사 파견 준비, 출국금지팀 대기, 수용 공간 확보를 직접 지시했습니다. 법치의 최전선에 있어야 할 사람이 내란의 수족이 된 밤, 그 변명과 법원의 응답을 이 페이지에서 확인하실 수 있습니다. 법원은 박 전 장관에게 징역 25년을 선고했습니다.<br><br>12.3 내란을 제대로 복기하고 역사의 교훈으로 삼기 위한 뉴스타파의 판결문 실명화 작업은 앞으로도 계속될 예정입니다.<br><br>👉 [윤석열의 내란 PART 3. 기록된 변명] 특별 페이지 보러가기 : <span class="link_url">https://pages.newstapa.org/2026/excuses/</span>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[‘수소 전기’ 환상 깨진 용인 반도체, 속도전만 외치는 정부 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260724101648250</link>
             <guid>https://v.daum.net/v/20260724101648250</guid>
             <pubDate>Fri, 24 Jul 2026 04:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260724101648250" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘수소 전기’ 환상 깨진 용인 반도체, 속도전만 외치는 정부</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F24%2Fnewstapa%2F20260724101700088spot.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260724101648250" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘수소 전기’ 환상 깨진 용인 반도체, 속도전만 외치는 정부</strong><span class="info_txt"><span class="txt_info">6시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F24%2Fnewstapa%2F20260724101700088spot.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F24%2Fnewstapa%2F20260724101700088spot.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3376,7 +3248,7 @@
             <link>https://v.daum.net/v/20260723180648870</link>
             <guid>https://v.daum.net/v/20260723180648870</guid>
             <pubDate>Thu, 23 Jul 2026 11:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260723180648870" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;죄 만드는 검(檢)&gt; ① "겁나고 두렵죠"... 국민 위에 검사</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F23%2Fnewstapa%2F20260723180712003bydr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260723180648870" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;죄 만드는 검(檢)&gt; ① "겁나고 두렵죠"... 국민 위에 검사</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F23%2Fnewstapa%2F20260723180712003bydr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F23%2Fnewstapa%2F20260723180712003bydr.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3384,7 +3256,7 @@
             <link>https://v.daum.net/v/20260723174151842</link>
             <guid>https://v.daum.net/v/20260723174151842</guid>
             <pubDate>Thu, 23 Jul 2026 11:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260723174151842" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '강약약강' 검찰의 기억, 무엇을 바꿀 것인가</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F23%2Fnewstapa%2F20260723174155455qpwg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260723174151842" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '강약약강' 검찰의 기억, 무엇을 바꿀 것인가</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F23%2Fnewstapa%2F20260723174155455qpwg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F23%2Fnewstapa%2F20260723174155455qpwg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3400,7 +3272,7 @@
             <link>https://v.daum.net/v/20260722160649236</link>
             <guid>https://v.daum.net/v/20260722160649236</guid>
             <pubDate>Wed, 22 Jul 2026 09:30:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260722160649236" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;죄 만드는 검(檢)&gt; 프로젝트... 평범한 당신을 노리는 검사의 ‘칼’</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F22%2Fnewstapa%2F20260722160654184zqwl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260722160649236" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;죄 만드는 검(檢)&gt; 프로젝트... 평범한 당신을 노리는 검사의 ‘칼’</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F22%2Fnewstapa%2F20260722160654184zqwl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F22%2Fnewstapa%2F20260722160654184zqwl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3424,7 +3296,7 @@
             <link>https://v.daum.net/v/20260721160649363</link>
             <guid>https://v.daum.net/v/20260721160649363</guid>
             <pubDate>Tue, 21 Jul 2026 08:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260721160649363" class="link_column"><div class="cont_thumb"><strong class="tit_txt">안규백 장관 ‘이중 전역’, 법적으로는 불가능</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F21%2Fnewstapa%2F20260721160650537zzae.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260721160649363" class="link_column"><div class="cont_thumb"><strong class="tit_txt">안규백 장관 ‘이중 전역’, 법적으로는 불가능</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F21%2Fnewstapa%2F20260721160650537zzae.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F21%2Fnewstapa%2F20260721160650537zzae.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3432,7 +3304,7 @@
             <link>https://v.daum.net/v/20260717155637066</link>
             <guid>https://v.daum.net/v/20260717155637066</guid>
             <pubDate>Fri, 17 Jul 2026 09:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260717155637066" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘검찰범죄’ 특검을 해야 하는 50가지 이유⑧ 검찰의 ‘삼위일체’</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F17%2Fnewstapa%2F20260717155638647desv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260717155637066" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘검찰범죄’ 특검을 해야 하는 50가지 이유⑧ 검찰의 ‘삼위일체’</strong><span class="info_txt"><span class="txt_info">2026. 7. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F17%2Fnewstapa%2F20260717155638647desv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F17%2Fnewstapa%2F20260717155638647desv.png" length="0" type="image/q70/"/>
         </item>
         <item>
