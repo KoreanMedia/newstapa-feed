@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jul 2026 00:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 03:57:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유⑨ 쌍끌이 사냥과 반쪽 항소]]></title>
+            <link>http://newstapa.org/article/4hMW6</link>
+            <guid>http://newstapa.org/article/4hMW6</guid>
+            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유⑨ 쌍끌이 사냥과 반쪽 항소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/27105025-75D3-E0A0-D0E1-H7EU18OJAEEW88QMN841.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['포렌식 입찰 비위 의혹' 공수처 수사관 3명 '파면' 의결]]></title>
             <link>http://newstapa.org/article/A2nCY</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 경기도 선관위, 더불어민주당 경기도당 회계부정 조사 착수]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/10155550-A8E1-4942-B46C-71910L9NLQXLLKEFWGO2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정치자금은쌈짓돈]③민주당 경기도당, 미신고 계좌로 직원 급여 페이백]]></title>
-            <link>http://newstapa.org/article/Zf-bt</link>
-            <guid>http://newstapa.org/article/Zf-bt</guid>
-            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[정치자금은쌈짓돈]③민주당 경기도당, 미신고 계좌로 직원 급여 페이백]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/10160118-96A7-AF4E-20AB-ZGJC4UHTI4LQDZDU2IPB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
