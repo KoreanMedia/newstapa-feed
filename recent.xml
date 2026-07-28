@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jul 2026 00:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 04:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["언론도, 국회도 가지 마라"...SK이노베이션E&S의 유족 입막음]]></title>
+            <link>http://newstapa.org/article/z6Y2D</link>
+            <guid>http://newstapa.org/article/z6Y2D</guid>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["언론도, 국회도 가지 마라"...SK이노베이션E&amp;S의 유족 입막음]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/28101649-0581-B403-3571-SNYZ4AQC2VKGYHN31A9P.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK이노베이션E&S, 해킹 대응하다 직원 숨졌는데…“해킹 없었다” 거짓말]]></title>
+            <link>http://newstapa.org/article/P-fJi</link>
+            <guid>http://newstapa.org/article/P-fJi</guid>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[SK이노베이션E&amp;S, 해킹 대응하다 직원 숨졌는데…“해킹 없었다” 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/28101523-03A4-68A6-14B8-LO82AH035J1WGWLZTOMO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유⑨ 쌍끌이 사냥과 반쪽 항소]]></title>
             <link>http://newstapa.org/article/4hMW6</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘정치자금 부정수수’ 윤상현, 권력으로 공수처 수사 ‘방탄’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/16163531-8205-451F-8CE3-GTF2ZEWA0F1R9FOUPRFM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘정치자금 부정수수’ 윤상현, 양복도 받았다]]></title>
-            <link>http://newstapa.org/article/v8Aki</link>
-            <guid>http://newstapa.org/article/v8Aki</guid>
-            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘정치자금 부정수수’ 윤상현, 양복도 받았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/16163416-380B-6BBB-52C8-2T5ED9UFJUYRVLAMRPBN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안규백 장관 병적 논란 새 의혹과 병적기록부 미공개 속사정]]></title>
-            <link>http://newstapa.org/article/7KeAO</link>
-            <guid>http://newstapa.org/article/7KeAO</guid>
-            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[안규백 장관 병적 논란 새 의혹과 병적기록부 미공개 속사정]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/16095818-10EC-E057-439E-Q2730KYBF78216Z9RE1U.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

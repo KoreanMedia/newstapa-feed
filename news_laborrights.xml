@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jul 2026 00:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 04:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["언론도, 국회도 가지 마라"...SK이노베이션E&S의 유족 입막음]]></title>
+            <link>http://newstapa.org/article/z6Y2D</link>
+            <guid>http://newstapa.org/article/z6Y2D</guid>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["언론도, 국회도 가지 마라"...SK이노베이션E&amp;S의 유족 입막음]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/28101649-0581-B403-3571-SNYZ4AQC2VKGYHN31A9P.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK이노베이션E&S, 해킹 대응하다 직원 숨졌는데…“해킹 없었다” 거짓말]]></title>
+            <link>http://newstapa.org/article/P-fJi</link>
+            <guid>http://newstapa.org/article/P-fJi</guid>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[SK이노베이션E&amp;S, 해킹 대응하다 직원 숨졌는데…“해킹 없었다” 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/28101523-03A4-68A6-14B8-LO82AH035J1WGWLZTOMO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국가가 방치한 성폭력 긴급안전망 '1366', 떠나는 상담사들]]></title>
             <link>http://newstapa.org/article/ye3SR</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["형, 집에 가자"...동생이 찾은 '죽음의 컨베이어벨트']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/16103443-A454-1391-983C-1CBLI3OOLW6F059RIEYN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미니다큐] “유골로 돌아온 아들, 진실 밝혀달라”...베트남에서 온 영상편지]]></title>
-            <link>http://newstapa.org/article/oBnFU</link>
-            <guid>http://newstapa.org/article/oBnFU</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[미니다큐] “유골로 돌아온 아들, 진실 밝혀달라”...베트남에서 온 영상편지]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26141234-5110-5F0B-33E2-QW3TONQV1A60QVK5I6PW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상]]></title>
-            <link>http://newstapa.org/article/zzayC</link>
-            <guid>http://newstapa.org/article/zzayC</guid>
-            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장1열] 6년의 기다림. 그리고 되찾은 평화의 소녀상]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/25202912-B4E1-9285-320C-DQUFZ322J0AR14M0Y03W.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
