@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jul 2026 00:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 04:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명 정부의 사법 개혁]]></title>
+            <link>https://newstapa.org/search?s=%EA%B2%80%EC%B0%B0</link>
+            <guid>https://newstapa.org/search?s=%EA%B2%80%EC%B0%B0</guid>
+            <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[10월 검찰청 폐지를 앞두고 멈춰 섰던 검찰 개혁 논의가 다시 시작되고 있습니다. 지난 검찰의 문제를 톺아보고 형사 사법 시스템 전반의 개혁 방안을 모색합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/29105328-94C4-DB89-1985-HIEK2D1UVPINI92EOSDZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제 21대 대통령선거]]></title>
             <link>https://newstapa.org/tags/%EC%A0%9C21%EB%8C%80%20%EB%8C%80%ED%86%B5%EB%A0%B9%EC%84%A0%EA%B1%B0</link>
