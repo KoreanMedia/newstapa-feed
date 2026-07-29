@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jul 2026 04:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 07:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] 잠입취재에 대한 2달러 판결과 기습질문에 대한 경고 판결]]></title>
+            <link>http://newstapa.org/article/M6Prg</link>
+            <guid>http://newstapa.org/article/M6Prg</guid>
+            <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 잠입취재에 대한 2달러 판결과 기습질문에 대한 경고 판결]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/29112950-796E-399C-399C-528GSAODVW3ZMF3277Z5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용인 반도체 국가산단 LNG발전소 "수소 혼소 재검토 필요"]]></title>
             <link>http://newstapa.org/article/2Q18M</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[안규백 장관 ‘이중 전역’, 법적으로는 불가능]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/21160302-A1DF-E5F4-4BA5-1BL60V9FQ9N0710ZHKR2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유⑧ 검찰의 ‘삼위일체’]]></title>
-            <link>http://newstapa.org/article/qTcUf</link>
-            <guid>http://newstapa.org/article/qTcUf</guid>
-            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유⑧ 검찰의 ‘삼위일체’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/17140641-4745-2F31-387D-2LRTVGNE9I1WD96E0AD1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

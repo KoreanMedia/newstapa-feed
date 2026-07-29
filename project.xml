@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jul 2026 04:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 07:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[10월 검찰청 폐지를 앞두고 멈춰 섰던 검찰 개혁 논의가 다시 시작되고 있습니다. 지난 검찰의 문제를 톺아보고 형사 사법 시스템 전반의 개혁 방안을 모색합니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/29105328-94C4-DB89-1985-HIEK2D1UVPINI92EOSDZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정치자금은 쌈짓돈?]]></title>
+            <link>https://newstapa.org/search?s=%EC%A0%95%EC%B9%98%EC%9E%90%EA%B8%88</link>
+            <guid>https://newstapa.org/search?s=%EC%A0%95%EC%B9%98%EC%9E%90%EA%B8%88</guid>
+            <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[투명한 정치자금 집행을 위한 법 규정을 위반한 회계 부정 문제를 집중 취재합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/29134852-4843-7C3A-5D62-2YPQUVL1KL9SP5BUVXVQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극우 추적]]></title>
+            <link>https://newstapa.org/tags/%EA%B7%B9%EC%9A%B0</link>
+            <guid>https://newstapa.org/tags/%EA%B7%B9%EC%9A%B0</guid>
+            <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[음모론과 반이성의 주장을 퍼뜨리는 극우 세력에 대한 우려가 날로 커지고 있습니다. 그 실태를 알리고 사회적 해법을 모색합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/29134803-EBA3-7501-B650-CHP3M8IA7Y9TC3JH6MPX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 21대 대통령선거]]></title>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jul 2026 04:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 07:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] 잠입취재에 대한 2달러 판결과 기습질문에 대한 경고 판결]]></title>
+            <link>http://newstapa.org/article/M6Prg</link>
+            <guid>http://newstapa.org/article/M6Prg</guid>
+            <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 잠입취재에 대한 2달러 판결과 기습질문에 대한 경고 판결]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/29112950-796E-399C-399C-528GSAODVW3ZMF3277Z5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리박스쿨, '극우 집회' 청년들로 '댓글부대' 조직했다]]></title>
             <link>http://newstapa.org/article/gLyly</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 2026 선거범죄 리포트: ‘선거일 이후’에도 매수죄는 적용된다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/06153711-4E84-1AF3-42E7-1GYSW0OXYXWGL5B6IN9U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해설 사법개혁] ⑤ 문제는 노태악이 아니라 기우종과 이지영이다]]></title>
-            <link>http://newstapa.org/article/-oYzE</link>
-            <guid>http://newstapa.org/article/-oYzE</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해설 사법개혁] ⑤ 문제는 노태악이 아니라 기우종과 이지영이다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/06165431-7C66-DC6F-D467-UE0GYRJ0O90MOZLAO02R.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
