@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Aug 2026 08:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 12:26:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[K-놀부전] '엘시티 비리왕' 이영복이 돌아왔다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/6tcBh</link>
+            <guid>http://newstapa.org/article/6tcBh</guid>
+            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[K-놀부전] '엘시티 비리왕' 이영복이 돌아왔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/03173233-D0B0-175A-0DF5-PZ3DW48YMOR9XF1WLK14.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11개월째 멈춰선 김병기 수사... 공익 제보자 "경찰, 제발 종지부 찍어달라" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/KI4cG</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 오세훈, '명태균 여론조사 대납' 1심 '당선무효형']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/22201954-AB22-8894-A94F-KUJFXEBJOYWYPSUI5K5G.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<죄 만드는 검(檢)> 프로젝트... 평범한 당신을 노리는 검사의 ‘칼’ (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/OGaEB</link>
-            <guid>http://newstapa.org/article/OGaEB</guid>
-            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;죄 만드는 검(檢)&gt; 프로젝트... 평범한 당신을 노리는 검사의 ‘칼’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/22160208-4907-311E-5009-4HQWF4XDIQ38MPZHQ20V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[11개월째 멈춰선 김병기 수사... 공익 제보자 "경찰, 제발 종지부 찍어달라" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/15133841-24E0-FAF8-B88E-UQSGIRFFEJN0E2G9MF0R.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[K-놀부전] '엘시티 비리왕' 이영복이 돌아왔다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/6tcBh</link>
+            <guid>http://newstapa.org/article/6tcBh</guid>
+            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[K-놀부전] '엘시티 비리왕' 이영복이 돌아왔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/03173233-D0B0-175A-0DF5-PZ3DW48YMOR9XF1WLK14.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<죄 만드는 검(檢)> ③ 증거 왜곡… “유죄로 몰 의도” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/AniIy</link>
             <guid>http://newstapa.org/article/AniIy</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[K-놀부전] 소금과 도둑질.... 한 코스닥 상장사의 '성장 비결']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/01132949-0654-E8DC-F739-V3CEAIMEBTUWMEZWREUQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 2026 선거범죄 리포트: 선거법 기소 당선자 변호인, 정당 전수 분석 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/1zUXU</link>
-            <guid>http://newstapa.org/article/1zUXU</guid>
-            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 2026 선거범죄 리포트: 선거법 기소 당선자 변호인, 정당 전수 분석]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/06153728-A033-FFD2-8BD0-KWHOLE1FEHAC4ZFHQD3V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위법, 국회 무력화, 물증 은폐… 서울중앙지검의 ‘예산 범죄’ 확인 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -1286,6 +1286,134 @@
             <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/08140352-0D95-1BDC-2689-T5BIL47IQC693GLVIJ6S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 경찰, 연세대 의대 교수 연구비 횡령 의혹 수사 착수 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/F10Ym</link>
+            <guid>http://newstapa.org/article/F10Ym</guid>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 경찰, 연세대 의대 교수 연구비 횡령 의혹 수사 착수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/16165012-01C4-7314-11B7-7NUJYFXDJ70FH9N31G2H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[R&D 예산 이렇게 샌다...연세대 의대 교수 연구비 횡령 의혹 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/jd9bg</link>
+            <guid>http://newstapa.org/article/jd9bg</guid>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[R&amp;D 예산 이렇게 샌다...연세대 의대 교수 연구비 횡령 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/07165328-D751-6F61-EB43-JGGQVU8OZCR5SEQM54B3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카지노 교육감과 업자, 그리고 기자 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/wZXtw</link>
+            <guid>http://newstapa.org/article/wZXtw</guid>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[카지노 교육감과 업자, 그리고 기자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/26175054-E8E0-7429-0491-GQY98KJSJU5ZGIW8YMHH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파]신앙의 이름으로 - 기독교 대안학교의 이념 전쟁 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/IUz7X</link>
+            <guid>http://newstapa.org/article/IUz7X</guid>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파]신앙의 이름으로 - 기독교 대안학교의 이념 전쟁]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/05162435-9EA9-DC31-BBD8-DIEZE5I3WQH1I89TQPVW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[목격자들] 열무야 열무야 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/3JPva</link>
+            <guid>http://newstapa.org/article/3JPva</guid>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목격자들] 열무야 열무야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/15132420-253E-A34D-DF63-0I01KV5Z7MJF30UN0ILA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] 소년의 이름 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/9_BmV</link>
+            <guid>http://newstapa.org/article/9_BmV</guid>
+            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파] 소년의 이름]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/30170121-0058-3E73-F4F4-KJVM7N98YFIV7PUKOA0R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] "윤석열 당선은 하나님 기적", "여자는 프러포즈 안 돼"…황당한 넥스트클럽 '성교육 강사 양성' 과정 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/dNTeI</link>
+            <guid>http://newstapa.org/article/dNTeI</guid>
+            <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] "윤석열 당선은 하나님 기적", "여자는 프러포즈 안 돼"…황당한 넥스트클럽 '성교육 강사 양성' 과정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/09/24123943-9878-2887-EC6C-VLA11N1VQU4TCY2E70RG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['주무관'과 '교육감'...수상한 '검정교과서' 계획 문건 공개 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/EVuEs</link>
+            <guid>http://newstapa.org/article/EVuEs</guid>
+            <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['주무관'과 '교육감'...수상한 '검정교과서' 계획 문건 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/23104241-4A12-876C-C482-41F8971G3PL1K0A504YT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 사상 첫 교과서 검정 합격 취소...뉴스타파 보도 11개월만 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/b9w_x</link>
+            <guid>http://newstapa.org/article/b9w_x</guid>
+            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 사상 첫 교과서 검정 합격 취소...뉴스타파 보도 11개월만]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/15150140-765D-66DD-26BC-1BUVNPWKKSG6SRMK1W9S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리박스쿨 뿌리① 리박스쿨 탄생은 개인의 일탈이 아니었다 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/i9GEt</link>
+            <guid>http://newstapa.org/article/i9GEt</guid>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리박스쿨 뿌리① 리박스쿨 탄생은 개인의 일탈이 아니었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10171530-F884-C46B-57BB-AZN354Y4350I62KO5TFM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국가교육위원회 회의록 공개...리박스쿨 유착 숨기고 '입단속' (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/YFnZ7</link>
+            <guid>http://newstapa.org/article/YFnZ7</guid>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국가교육위원회 회의록 공개...리박스쿨 유착 숨기고 '입단속']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/10172808-9DED-CA87-7D77-LWIN20UPUMUEEX06N35O.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세금으로 '이승만 찬양'…재외동포청, 교민 자녀 '극우 교육' 후원 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/NyUAi</link>
+            <guid>http://newstapa.org/article/NyUAi</guid>
+            <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세금으로 '이승만 찬양'…재외동포청, 교민 자녀 '극우 교육' 후원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/04164529-46A6-4EC9-5185-RFXCAV6A62WN0ODSZNSF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[교육부가 놓친 '리박스쿨' 자매단체, 교민 자녀들에게 '이승만 찬양' 교육 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/MnTNh</link>
+            <guid>http://newstapa.org/article/MnTNh</guid>
+            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[교육부가 놓친 '리박스쿨' 자매단체, 교민 자녀들에게 '이승만 찬양' 교육]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/03191458-46DF-A3D8-AD90-N0ZRLLMA3U23M0BCVFYB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대한교조, 리박스쿨, 뉴라이트의 ‘극우 역사 세미나’ (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/g0eYj</link>
+            <guid>http://newstapa.org/article/g0eYj</guid>
+            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대한교조, 리박스쿨, 뉴라이트의 ‘극우 역사 세미나’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/27203103-BC00-8B29-6ED7-2I5HYAMSP5OZAJLJEYFC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 세력의 '친일 교과서' 프로젝트 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/ufUfQ</link>
+            <guid>http://newstapa.org/article/ufUfQ</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 세력의 '친일 교과서' 프로젝트]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26163417-2FEE-B8DB-93A4-8TSX1XEAM6STAPZSGMCJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 감사원 "교과서 발행정지·합격취소 사유 해당"...뉴스타파 보도 8개월만 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/Qk_bj</link>
+            <guid>http://newstapa.org/article/Qk_bj</guid>
+            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 감사원 "교과서 발행정지·합격취소 사유 해당"...뉴스타파 보도 8개월만]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28172624-3391-4F2F-0D6B-69LGM5KD3QVOX5T4WOA0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[6.25 76주년 특집] 한국전쟁 당시 미 공군 폭격 명중률은 얼마나 될까 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
@@ -3248,6 +3376,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19133403-8F9B-88F0-EC01-XTTBI0UZJ0W0FHM7C8DY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[K-놀부전] '엘시티 비리왕' 이영복이 돌아왔다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/114161133</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/114161133</guid>
+            <pubDate>Mon, 03 Aug 2026 12:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[부산의 랜드마크로 불리는 엘시티라는 건물 아시나요. 서울 롯데타워에 이어 국내 2위 고층 빌딩으로 해운대 바닷가에 지어졌습니다. 현재 이곳을 좌지우지하고 있는 사람은 '이영복'인데요. <br><br>그는 과거 엘시티 시행 과정에서 정관계에 뇌물을 주고, 수백 억대 횡령까지 저질러 감옥에 갔습니다. 하지만 취재 결과, 그는 출소 후 엘시티에 복귀했고, 지금도 여러 비위를 저지르고 있는 정황이 확인됐습니다. 이영복의 전횡에 여러 엘시티 입주자들은 피해를 호소하고 있습니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/6LWq2NaWAJE</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/6tcBh</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[11개월째 멈춰선 김병기 수사... 공익 제보자 "경찰, 제발 종지부 찍어달라" (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/114137431</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/114137431</guid>
@@ -3381,18 +3516,19 @@
             <content:encoded><![CDATA[오세훈 서울시장이 '명태균 여론조사 대납 의혹' 재판 1심에서 당선무효형에 해당하는 벌금 1000만 원을 선고 받았습니다. 뉴스타파가 이 의혹을 보도한 지 1년 8개월 만입니다. <br><br>뉴스타파는 2024년 11월, 오세훈 시장이 2021년 서울시장 보궐선거를 앞두고 여론조사 업체 '미래한국연구소'에 비공표 여론조사를 의뢰한 사실을 보도했습니다. 오세훈 시장의 후원자 김한정 씨가 여론조사 비용을 대납한 사실도 포착했습니다.<br><br>서울중앙지방법원은 오 시장이 명 씨에게 총 다섯 건의 여론조사를 의뢰했고, 오 시장의 스폰서 김 씨가 2100만 원 가량의 조사 비용을 대납하게 했다고 판단했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/11T8P</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[〈죄 만드는 검(檢)〉 프로젝트... 평범한 당신을 노리는 검사의 ‘칼’ (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/114038843</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/114038843</guid>
-            <pubDate>Wed, 22 Jul 2026 09:30:04 GMT</pubDate>
-            <content:encoded><![CDATA[큰 관심을 모았던 국회의 '검찰 조작기소 의혹 국정조사'. 검찰이 수사권과 기소권을 오·남용한 사실과 정황이 대단히 구체적으로 드러났습니다.<br><br>그런데 의문이 들었습니다. 국정조사에서 다뤄진 사건은 대다수의 국민이 아는, 크고 굵직한 소위 ‘정치사건’들입니다. 검찰은 이런 정치사건에서만 자신들이 가진 수사권, 기소권을 오·남용했을까요. 권력을 가진 정치인에게도 이러는데 일반 시민에게는 더 하지 않았을까요.<br><br>뉴스타파는 여러 경로의 취재 과정을 거쳐 권력자라고 보기 어려운 일반 시민 가운데 검찰권 오·남용의 피해자들과 그 변호인들을 여럿 취재했습니다. 직접 만나 증언을 듣고, 사건의 실체를 파악할 수 있는 각종 자료를 제공받았습니다.<br><br>평범한 당신을 노리는 검사의 ‘칼’. &lt;죄 만드는 검(檢)&gt; 프로젝트를 통해 뉴스타파가 낱낱이 공개합니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/HhIPP2O4bj8</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/OGaEB</span>]]></content:encoded>
+            <title><![CDATA[[K-놀부전] '엘시티 비리왕' 이영복이 돌아왔다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260803173649627</link>
+            <guid>https://v.daum.net/v/20260803173649627</guid>
+            <pubDate>Mon, 03 Aug 2026 12:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260803173649627" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[K-놀부전] '엘시티 비리왕' 이영복이 돌아왔다</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F03%2Fnewstapa%2F20260803173706470ckkr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F03%2Fnewstapa%2F20260803173706470ckkr.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[11개월째 멈춰선 김병기 수사... 공익 제보자 "경찰, 제발 종지부 찍어달라" (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260731174137195</link>
             <guid>https://v.daum.net/v/20260731174137195</guid>
             <pubDate>Fri, 31 Jul 2026 10:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260731174137195" class="link_column"><div class="cont_thumb"><strong class="tit_txt">11개월째 멈춰선 김병기 수사... 공익 제보자 "경찰, 제발 종지부 찍어달라"</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F31%2Fnewstapa%2F20260731174147627upxx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260731174137195" class="link_column"><div class="cont_thumb"><strong class="tit_txt">11개월째 멈춰선 김병기 수사... 공익 제보자 "경찰, 제발 종지부 찍어달라"</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F31%2Fnewstapa%2F20260731174147627upxx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F31%2Fnewstapa%2F20260731174147627upxx.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3431,7 +3567,7 @@
             <link>https://v.daum.net/v/20260728185151870</link>
             <guid>https://v.daum.net/v/20260728185151870</guid>
             <pubDate>Tue, 28 Jul 2026 10:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260728185151870" class="link_column"><div class="cont_thumb"><strong class="tit_txt">리박스쿨, '극우 집회' 청년들로 '댓글부대' 조직했다</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F28%2Fnewstapa%2F20260728185152415xpnm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260728185151870" class="link_column"><div class="cont_thumb"><strong class="tit_txt">리박스쿨, '극우 집회' 청년들로 '댓글부대' 조직했다</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F28%2Fnewstapa%2F20260728185152415xpnm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F28%2Fnewstapa%2F20260728185152415xpnm.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3615,14 +3751,6 @@
             <pubDate>Fri, 10 Jul 2026 10:57:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260710164637422" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘검찰범죄’ 특검을 해야 하는 50가지 이유 ⑦ 서해의 추억</strong><span class="info_txt"><span class="txt_info">2026. 7. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F10%2Fnewstapa%2F20260710164638829mikd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F10%2Fnewstapa%2F20260710164638829mikd.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]경기도 선관위, 더불어민주당 경기도당 회계부정 조사 착수 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260710153637907</link>
-            <guid>https://v.daum.net/v/20260710153637907</guid>
-            <pubDate>Fri, 10 Jul 2026 07:38:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260710153637907" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화]경기도 선관위, 더불어민주당 경기도당 회계부정 조사 착수</strong><span class="info_txt"><span class="txt_info">2026. 7. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F10%2Fnewstapa%2F20260710153638431rlgj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F10%2Fnewstapa%2F20260710153638431rlgj.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
