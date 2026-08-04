@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 보건복지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Aug 2026 00:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 04:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서]고속철 통합과 미프진...그리고 정치 효능감]]></title>
+            <link>http://newstapa.org/article/UF5CK</link>
+            <guid>http://newstapa.org/article/UF5CK</guid>
+            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서]고속철 통합과 미프진...그리고 정치 효능감]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/04113602-D4CD-B251-AC71-6SPE9VDU8EHRMHZM2720.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[연금개혁의시간]⑩ 다가올 노인 40% 시대, 노인빈곤 막아야 경제가 산다]]></title>
             <link>http://newstapa.org/article/8lQ09</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화]진실화해위, 해외입양 진실규명 결정...한계도 드러내]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/26170547-0C5A-34F2-1961-1VIWVVBPKF1GCD163ZMD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울의대 교수 3인 인터뷰... "의대생 복귀 방해는 파시즘"]]></title>
-            <link>http://newstapa.org/article/wOl6l</link>
-            <guid>http://newstapa.org/article/wOl6l</guid>
-            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[서울의대 교수 3인 인터뷰... "의대생 복귀 방해는 파시즘"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/25184429-CD52-01A8-7550-JPQ2ZGKSSE0KV1K6HFKF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
