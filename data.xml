@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Aug 2026 04:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 07:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열의 397억 거짓말]]></title>
+            <link>https://pages.newstapa.org/2026/397</link>
+            <guid>https://pages.newstapa.org/2026/397</guid>
+            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[비리 세무서장을 둘러싼 검찰 내 유착 관계부터, 대선 후보의 거짓말이 법의 심판대에 오르기까지 — 그 모든 과정을 특별 페이지에 담았습니다. 397억 원이 걸린 거짓말의 전말, 지금 확인해 보세요.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/04152505-3A52-61F8-FCE4-CHLYJVLCROIRE7UPPWYJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리동네 0표 당선자들]]></title>
             <link>https://pages.newstapa.org/2026/vote63/</link>
@@ -14,22 +22,6 @@
             <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[경쟁자도 없고, 선거운동도 없고, 유권자의 심판도 없습니다. 무투표 당선자에게 유권자가 행사할 수 있는 견제 수단은 현행법상 없습니다. 뉴스타파는 제9회 지방선거 무투표 당선자 511명의 이름, 선거구, 전과 기록을 포함한 상세 정보를 전수 공개합니다. 내 지역구 무투표 당선자를 직접 확인해보세요.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/01191250-7AB7-72C2-BB46-0KIZI7GLKLLHZX0SF0T6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열의 내란 PART 3. 기록된 변명 - 피고인의 궤변과 법원의 판단]]></title>
-            <link>https://pages.newstapa.org/2026/excuses/</link>
-            <guid>https://pages.newstapa.org/2026/excuses/</guid>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[내란범들이 법정에서 내뱉은 파편화된 변명과, 이를 하나하나 해체하여 면밀히 살펴 사법부가 내놓은 엄중한 심판의 문장을 공개합니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/27155706-7680-A7F3-94FF-PT05RTKESTPDB3EBTAF2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈 떠보니 내가 특활비 결재하는 검사장?]]></title>
-            <link>https://pages.newstapa.org/2025/prosecutors_quiz/</link>
-            <guid>https://pages.newstapa.org/2025/prosecutors_quiz/</guid>
-            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰의 세금 부정사용·오남용 사례를 직접 체험할 수 있도록 인터랙티브 페이지 ‘눈 떠 보니 내가 특활비를 결재하는 검사장?!’을 제작·공개합니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05135848-6425-F1A5-711E-UQLVM0FOWE3XF192PFVM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파 데이터포털]]></title>
@@ -46,6 +38,22 @@
             <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기관별로 산발적으로 공개되던 공직자들의 재산 내역을 한데 모아, 모두가 쉽게 찾아 볼 수 있는 웹사이트를 제작했습니다. 공직자들의 여러 해에 걸친 재산 형성 과정을 직접 추적해 볼 수 있습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26113233-5D47-3157-9904-RW0H3PKG3LHNRNPCM028.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열의 내란 PART 3. 기록된 변명 - 피고인의 궤변과 법원의 판단]]></title>
+            <link>https://pages.newstapa.org/2026/excuses/</link>
+            <guid>https://pages.newstapa.org/2026/excuses/</guid>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내란범들이 법정에서 내뱉은 파편화된 변명과, 이를 하나하나 해체하여 면밀히 살펴 사법부가 내놓은 엄중한 심판의 문장을 공개합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/27155706-7680-A7F3-94FF-PT05RTKESTPDB3EBTAF2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈 떠보니 내가 특활비 결재하는 검사장?]]></title>
+            <link>https://pages.newstapa.org/2025/prosecutors_quiz/</link>
+            <guid>https://pages.newstapa.org/2025/prosecutors_quiz/</guid>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰의 세금 부정사용·오남용 사례를 직접 체험할 수 있도록 인터랙티브 페이지 ‘눈 떠 보니 내가 특활비를 결재하는 검사장?!’을 제작·공개합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05135848-6425-F1A5-711E-UQLVM0FOWE3XF192PFVM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검사의 난, 김건희 특검 검사 40명 실명 공개]]></title>
