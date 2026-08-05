@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Aug 2026 04:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 07:42:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://v.daum.net/v/20260804154650925</link>
             <guid>https://v.daum.net/v/20260804154650925</guid>
             <pubDate>Tue, 04 Aug 2026 07:42:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260804154650925" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“죄질이 가볍지 않은” 397억 원짜리 거짓말</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F04%2Fnewstapa%2F20260804154651736rggb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260804154650925" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“죄질이 가볍지 않은” 397억 원짜리 거짓말</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F04%2Fnewstapa%2F20260804154651736rggb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F04%2Fnewstapa%2F20260804154651736rggb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -60,7 +60,7 @@
             <link>https://v.daum.net/v/20260729150650654</link>
             <guid>https://v.daum.net/v/20260729150650654</guid>
             <pubDate>Wed, 29 Jul 2026 07:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260729150650654" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 잠입취재에 대한 2달러 판결과 기습질문에 대한 경고 판결</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260729150650654" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 잠입취재에 대한 2달러 판결과 기습질문에 대한 경고 판결</strong><span class="info_txt"><span class="txt_info">2026. 7. 29.</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[용인 반도체 국가산단 LNG발전소 "수소 혼소 재검토 필요"]]></title>
