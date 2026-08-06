@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Aug 2026 07:42:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 10:41:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 엘시티 왕국과 죽음의 터널]]></title>
+            <link>http://newstapa.org/article/E4dgT</link>
+            <guid>http://newstapa.org/article/E4dgT</guid>
+            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 엘시티 왕국과 죽음의 터널]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/06173754-B55D-9CD4-CE4A-RBOXX0DEIDX5WSGQH1DX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["비상줄 달아 달라" 묵살된 KTX 공사현장...4남매 아빠가 죽었다]]></title>
             <link>http://newstapa.org/article/rSPTf</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 6억 원 노동과 1년 11개월 노동]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/30171939-91BE-1FC0-D86D-0SUJ0QTSV9C4WG4EJJN6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다큐 뉴스타파] 소년의 이름]]></title>
-            <link>http://newstapa.org/article/9_BmV</link>
-            <guid>http://newstapa.org/article/9_BmV</guid>
-            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다큐 뉴스타파] 소년의 이름]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/30170121-0058-3E73-F4F4-KJVM7N98YFIV7PUKOA0R.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
