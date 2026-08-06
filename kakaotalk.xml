@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-08-06T04:15:54.496Z</updated>
+    <updated>2026-08-06T07:42:12.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/187ca29/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내란특검이 ‘박성재 공소기각’ 항소 취하한 속사정]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/114194206</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/114194206"/>
+        <updated>2026-08-06T07:42:04.248Z</updated>
+        <content type="html"><![CDATA[박성재 전 법무부 장관의 청탁금지법 위반 사건 이첩을 둘러싸고 내란특검과 종합특검이 충돌했다는 보도가 나오고 있습니다. 내란특검이 넘긴 청탁금지법 위반 사건을 종합특검이 수사 대상이 아니라는 이유로 언론을 통해 공개적으로 이첩을 거부한 데서 비롯됐습니다. 1심 재판부의 공소 기각에 불복해 항소했던 내란특검이 돌연 이를 취하한 것이 논란을 키웠습니다.  <br><br>내란 특검이 항소를 포기한 과정과 이유, 종합특검이 내란특검의 사건 이첩을 공개적으로 거부한 진짜 이유는 뭘까. 내란 수사와 재판을 꾸준히 취재해 온 조성식 뉴스타파 전문위원이 이번 문제를 다각적으로 취재했습니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/EIeuj</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["비상줄 달아 달라" 묵살된 KTX 공사현장...4남매 아빠가 죽었다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/114186243</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/114080430"/>
         <updated>2026-07-27T03:57:18.437Z</updated>
         <content type="html"><![CDATA[감사원과 검찰이 함께 벌인 '서해 공무원 피격 사건' 표적 수사. 그 전말이 마침내 드러났습니다.<br><br>유병호 전 감사원 사무총장은 새벽에 TV뉴스를 보다가 감사를 결심했다고 말했지만, 실제로는 감사원 사무총장 취임 다음 날 곧바로 감사 착수가 발표됐습니다. 감사원은 9개 기관, 수백 명을 상대로 157차례 포렌식을 벌였고, 검찰은 압수수색 영장에 '조사받지 않은 사실'을 마치 조사받은 것처럼 허위 기재해 법원에서 영장을 받아냈습니다.<br><br>3년 뒤 1심 법원은 박지원, 서훈, 서욱, 김홍희, 노은채 등 5명에게 적용된 25개 공소사실 전부를 무죄로 판단했습니다. 그러자 검찰은 항소마저 '반쪽'으로 냈습니다. 직권남용, 자료 삭제 등 핵심 혐의는 항소를 포기하고, 명예훼손 혐의만 남겨 다퉜지만 2심에서도 무죄가 확정됐습니다.<br><br>2022년 '조직범죄', '국기문란', '반인륜 범죄'로 불렸던 이 사건. 결국 법원은 단 하나의 범죄도 인정하지 않았습니다. 감사원과 검찰은 어떻게 손발을 맞춰 전 정권 안보라인을 겨냥했을까요.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/4hMW6</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['포렌식 입찰 비위 의혹' 공수처 수사관 3명 '파면' 의결]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/114065864</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/114065864"/>
-        <updated>2026-07-24T10:20:30.889Z</updated>
-        <content type="html"><![CDATA[인사혁신처 중앙징계위원회가 포렌식 장비 입찰 비위 의혹을 받고 있는 고위공직자범죄수사처 3명에 대한 파면을 의결했습니다.<br><br>지난 3월 공수처는 내부 감찰을 통해 포렌식 장비 관련 비위, 채용 관련 비위 등을 포착했습니다. 공수처는 인사혁신처 중앙징계위에 수사관 3명에 대한 중징계, 수사관 1명에 대해 경징계를 요구했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/A2nCY</span>]]></content>
     </entry>
 </feed>
