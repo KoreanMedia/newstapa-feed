@@ -4,22 +4,30 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Aug 2026 03:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 05:42:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<죄 만드는 검(檢)> ④ 주권자에 '사법 폭력' 가한 10명 중 8명이 승진하는 나라]]></title>
+            <link>https://v.daum.net/v/20260807143149955</link>
+            <guid>https://v.daum.net/v/20260807143149955</guid>
+            <pubDate>Fri, 07 Aug 2026 05:42:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260807143149955" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;죄 만드는 검(檢)&gt; ④ 주권자에 '사법 폭력' 가한 10명 중 8명이 승진하는 나라</strong><span class="info_txt"><span class="txt_info">10분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F07%2Fnewstapa%2F20260807143159854jvij.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F07%2Fnewstapa%2F20260807143159854jvij.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 엘시티 왕국과 죽음의 터널]]></title>
             <link>https://v.daum.net/v/20260806172648868</link>
             <guid>https://v.daum.net/v/20260806172648868</guid>
             <pubDate>Thu, 06 Aug 2026 10:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260806172648868" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 엘시티 왕국과 죽음의 터널</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260806172648868" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 엘시티 왕국과 죽음의 터널</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[내란특검이 ‘박성재 공소기각’ 항소 취하한 속사정]]></title>
             <link>https://v.daum.net/v/20260806144648539</link>
             <guid>https://v.daum.net/v/20260806144648539</guid>
             <pubDate>Thu, 06 Aug 2026 07:42:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260806144648539" class="link_column"><div class="cont_thumb"><strong class="tit_txt">내란특검이 ‘박성재 공소기각’ 항소 취하한 속사정</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F06%2Fnewstapa%2F20260806144649747azca.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260806144648539" class="link_column"><div class="cont_thumb"><strong class="tit_txt">내란특검이 ‘박성재 공소기각’ 항소 취하한 속사정</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F06%2Fnewstapa%2F20260806144649747azca.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F06%2Fnewstapa%2F20260806144649747azca.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -234,14 +242,6 @@
             <guid>https://v.daum.net/v/20260716164649045</guid>
             <pubDate>Thu, 16 Jul 2026 08:16:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260716164649045" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘정치자금 부정수수’ 윤상현, 권력으로 공수처 수사 ‘방탄’</strong><span class="info_txt"><span class="txt_info">2026. 7. 16.</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘정치자금 부정수수’ 윤상현, 양복도 받았다]]></title>
-            <link>https://v.daum.net/v/20260716164151808</link>
-            <guid>https://v.daum.net/v/20260716164151808</guid>
-            <pubDate>Thu, 16 Jul 2026 08:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260716164151808" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘정치자금 부정수수’ 윤상현, 양복도 받았다</strong><span class="info_txt"><span class="txt_info">2026. 7. 16.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F16%2Fnewstapa%2F20260716164156631mkyu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F16%2Fnewstapa%2F20260716164156631mkyu.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
