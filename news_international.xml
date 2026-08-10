@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/category/%EA%B5%AD%EC%A0%9C%ED%98%91%EC%97%85</id>
-    <title>뉴스타파 ─ 뉴스 ─ 국제협업</title>
-    <updated>2026-08-10T20:45:07.868Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스 ─ 국제협업</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 10 Aug 2026 21:45:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명 공유 '팔레스타인 영상' 유족 찾았다... “아들 시신 돌려달라”]]></title>
+            <link>http://newstapa.org/article/STAML</link>
+            <guid>http://newstapa.org/article/STAML</guid>
+            <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 공유 '팔레스타인 영상' 유족 찾았다... “아들 시신 돌려달라”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/12175934-D65D-943F-1B9E-UJOK5G03OO4YUDMVEPI9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[항암비용의 진실]② 나라마다 다른 ‘키트루다' 가격...한국 건강보험에도 부담]]></title>
+            <link>http://newstapa.org/article/NWYLD</link>
+            <guid>http://newstapa.org/article/NWYLD</guid>
+            <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[항암비용의 진실]② 나라마다 다른 ‘키트루다' 가격...한국 건강보험에도 부담]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/17171629-22BE-5DB8-1A5B-NQ702HUAIK9PGQF1I0PL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[항암비용의 진실]① 세계 매출 1위 의약품 ‘키트루다’에 숨겨진 전략]]></title>
+            <link>http://newstapa.org/article/HZFyg</link>
+            <guid>http://newstapa.org/article/HZFyg</guid>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[항암비용의 진실]① 세계 매출 1위 의약품 ‘키트루다’에 숨겨진 전략]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/17161854-5B4B-6BE9-EBC0-5HI8Z3DSAJWTBODH3J1R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 팔레스타인의 바이라인, 그 너머의 얼굴들]]></title>
+            <link>http://newstapa.org/article/cxk8T</link>
+            <guid>http://newstapa.org/article/cxk8T</guid>
+            <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 팔레스타인의 바이라인, 그 너머의 얼굴들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/08165708-4E06-A917-10D9-ZTXSJUKOPC07RU4PF562.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파나마 페이퍼스 10년] 뉴스타파는 어떻게 취재했나]]></title>
+            <link>http://newstapa.org/article/Vo2_Z</link>
+            <guid>http://newstapa.org/article/Vo2_Z</guid>
+            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[파나마 페이퍼스 10년] 뉴스타파는 어떻게 취재했나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/06141731-08A5-EA5C-A539-YCA0BD6RI0AYDYOJ4S15.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파나마 페이퍼스 10년①] 세계를 뒤흔든 이야기 : 어떻게 시작했나]]></title>
+            <link>http://newstapa.org/article/gP0W0</link>
+            <guid>http://newstapa.org/article/gP0W0</guid>
+            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[파나마 페이퍼스 10년①] 세계를 뒤흔든 이야기 : 어떻게 시작했나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/01105222-8020-D077-36A4-I89CMPEYLC0PMHCVFG0U.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팔레스타인 리포트 ⑨팔레스타인 앰뷸런스 운전사가 총탄 속에도 멈추지 않는 이유]]></title>
+            <link>http://newstapa.org/article/j6T_0</link>
+            <guid>http://newstapa.org/article/j6T_0</guid>
+            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팔레스타인 리포트 ⑨팔레스타인 앰뷸런스 운전사가 총탄 속에도 멈추지 않는 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/04151723-3C1F-B711-A6C3-ZEPWLVXPZXK2YL8X0DIM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팔레스타인 리포트 ⑧이스라엘의 '물 도둑질'...서안지구 주민들 생존 위협]]></title>
+            <link>http://newstapa.org/article/YZ56J</link>
+            <guid>http://newstapa.org/article/YZ56J</guid>
+            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팔레스타인 리포트 ⑧이스라엘의 '물 도둑질'...서안지구 주민들 생존 위협]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/04152127-15F6-7706-D3D6-TW6LMLICS20BYFNI7PVC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 타이-캄보디아 국경, 7만 9천 명의 ‘멈춰버린 시간’]]></title>
+            <link>http://newstapa.org/article/lK1_n</link>
+            <guid>http://newstapa.org/article/lK1_n</guid>
+            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 타이-캄보디아 국경, 7만 9천 명의 ‘멈춰버린 시간’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/24144124-EAC9-A49A-E149-SQF0XI59MZ17ATPSOT78.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[TM보고서 한일 협업취재] ‘아베–통일교 선거 거래’ 정황 드러나]]></title>
+            <link>http://newstapa.org/article/qrAMu</link>
+            <guid>http://newstapa.org/article/qrAMu</guid>
+            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TM보고서 한일 협업취재] ‘아베–통일교 선거 거래’ 정황 드러나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/03145010-8DE0-7649-D631-0Y5AAIEDVH64JL2ZPJM2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN]‘통일교 자금(Moonie Money)’, 네팔 정치를 뒤흔들다]]></title>
+            <link>http://newstapa.org/article/3DqL7</link>
+            <guid>http://newstapa.org/article/3DqL7</guid>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN]‘통일교 자금(Moonie Money)’, 네팔 정치를 뒤흔들다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/26140956-4532-EEA4-6110-HX2R1G8BUUCTT0WKISNP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적]]></title>
+            <link>http://newstapa.org/article/-PmF4</link>
+            <guid>http://newstapa.org/article/-PmF4</guid>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/23185041-2D82-6660-4DF0-OGD1T5E5JZQQU6IY3A16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 두니아, 캄보디아 스캠 조직 내부문건 입수… ‘연가 일수’까지 파악]]></title>
+            <link>http://newstapa.org/article/_uRUx</link>
+            <guid>http://newstapa.org/article/_uRUx</guid>
+            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 두니아, 캄보디아 스캠 조직 내부문건 입수… ‘연가 일수’까지 파악]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/21142354-8BEA-370A-BE30-SI2W8ZL5V02DRZZD3JWZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“뉴스타파는 멈추지 않았다”...GIJC 총회서 ‘잠입취재·압수수색’ 공유]]></title>
+            <link>http://newstapa.org/article/fWLkH</link>
+            <guid>http://newstapa.org/article/fWLkH</guid>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“뉴스타파는 멈추지 않았다”...GIJC 총회서 ‘잠입취재·압수수색’ 공유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/03133320-EC97-517A-143B-8PTCA73ANMAH60UFWLYF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국제범죄조직 돈세탁 통로된 세계 최대 코인거래소]]></title>
+            <link>http://newstapa.org/article/7ceHc</link>
+            <guid>http://newstapa.org/article/7ceHc</guid>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국제범죄조직 돈세탁 통로된 세계 최대 코인거래소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/18144450-0FA9-FDD4-789B-H7XGINKU5LC2WSNRBT4H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 코인거래소, 캄보디아 스캠 사기단 등 돈세탁 통로]]></title>
+            <link>http://newstapa.org/article/AthUW</link>
+            <guid>http://newstapa.org/article/AthUW</guid>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코인거래소, 캄보디아 스캠 사기단 등 돈세탁 통로]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/18144349-8803-47AB-F5C3-YAFY4U2X2SLX308PHMNO.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
