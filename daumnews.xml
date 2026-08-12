@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Aug 2026 23:43:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 01:59:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했나?]]></title>
+            <link>https://v.daum.net/v/20260812100137731</link>
+            <guid>https://v.daum.net/v/20260812100137731</guid>
+            <pubDate>Wed, 12 Aug 2026 01:59:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260812100137731" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했나?</strong><span class="info_txt"><span class="txt_info">57분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F12%2Fnewstapa%2F20260812100201687rhub.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F12%2Fnewstapa%2F20260812100201687rhub.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[‘현장 사진 지워라’ KTX 공사현장 죽음 뒤의 거짓말]]></title>
             <link>https://v.daum.net/v/20260810182137767</link>
@@ -236,14 +244,6 @@
             <pubDate>Fri, 17 Jul 2026 09:13:28 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260717155637066" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘검찰범죄’ 특검을 해야 하는 50가지 이유⑧ 검찰의 ‘삼위일체’</strong><span class="info_txt"><span class="txt_info">2026. 7. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F17%2Fnewstapa%2F20260717155638647desv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F17%2Fnewstapa%2F20260717155638647desv.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 보완수사권 폐지 vs 존치, 율사들의 썰전]]></title>
-            <link>https://v.daum.net/v/20260716180155996</link>
-            <guid>https://v.daum.net/v/20260716180155996</guid>
-            <pubDate>Thu, 16 Jul 2026 11:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260716180155996" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 보완수사권 폐지 vs 존치, 율사들의 썰전</strong><span class="info_txt"><span class="txt_info">2026. 7. 16.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F16%2Fnewstapa%2F20260716180159121stpd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F16%2Fnewstapa%2F20260716180159121stpd.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

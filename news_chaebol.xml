@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 재벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Aug 2026 23:43:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 01:59:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했나?]]></title>
+            <link>http://newstapa.org/article/tsK1h</link>
+            <guid>http://newstapa.org/article/tsK1h</guid>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했나?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/11173822-0A4B-871A-8918-AJEVIM0T25QXVRLMQ1LI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조선일보 차남 방정오, 회삿돈으로 ‘방 캐피탈 파트너스’ 설립 추진 의혹]]></title>
             <link>http://newstapa.org/article/--1qt</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 500만불 움직인 Mr.Big, 방정오를 향한 배임 증거]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/12213828-B370-8FB3-D3CB-U7NTQGXAHE4PFBBRLIY9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡, 개인정보 유출 사건 후 검찰·경찰·청와대 등 출신 전관 9명 영입]]></title>
-            <link>http://newstapa.org/article/WXnAD</link>
-            <guid>http://newstapa.org/article/WXnAD</guid>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡, 개인정보 유출 사건 후 검찰·경찰·청와대 등 출신 전관 9명 영입]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/05135406-0C7D-A246-BDA1-XKIVYUP81M4D4BTHNQM4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
