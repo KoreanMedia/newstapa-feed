@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 경제소비자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Aug 2026 11:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 13:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[K-놀부전] KT의 인프라 '인질극']]></title>
+            <link>http://newstapa.org/article/mC67U</link>
+            <guid>http://newstapa.org/article/mC67U</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[K-놀부전] KT의 인프라 '인질극']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/13155358-C217-1BC0-FEA2-QODEPL8UBIYR99MGQNZR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했나?]]></title>
             <link>http://newstapa.org/article/tsK1h</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 쿠팡이 미국 의회를 움직이는 법 (feat. 로비 160억)]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/09135224-9E3F-B20F-8659-QD28D964LT8O6WIN9214.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사]]></title>
-            <link>http://newstapa.org/article/XcGHS</link>
-            <guid>http://newstapa.org/article/XcGHS</guid>
-            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡 로비 받은 미 의원들의 ‘한국 때리기’… 선거 후원금 전수조사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/06170235-8053-DDA0-31A8-MTRIJGI9RABJX1M7RYXD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
