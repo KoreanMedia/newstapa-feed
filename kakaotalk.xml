@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-08-13T06:19:25.322Z</updated>
+    <updated>2026-08-13T08:24:25.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/a5e76f6/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1천 명의 마음으로 만드는 다큐, 목격자들 제작비 전달식 - 뉴스타파]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/114262273</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/114262273"/>
+        <updated>2026-08-13T08:24:17.033Z</updated>
+        <content type="html"><![CDATA[시민들의 후원으로 운영하는 뉴스타파는 열린 플랫폼을 지향합니다.<br><br>지난 8월 12일, 2026년 세번째 ‘목격자들 제작비 전달식’이 열렸습니다. 이번 선정작은 김응수 감독의 &lt;쌍꺼풀과 덧니&gt;, 이재구·이한별 감독의 &lt;검은 유골-사라진 이름들&gt;, 이지윤 감독의 &lt;원래 그런 것은 없다&gt;입니다.<br><br>세 작품은 서로 다른 시대와 현장을 다루지만, 죽음과 희생을 다룬다는 공통점이 있습니다. 1980년대 전쟁을 반대하며 분신한 청년, 일제 강제동원 노동자의 유골, 방송 노동자의 죽음을 각자의 방식으로 기록합니다.<br><br>목격자들의 제작지원금은 뉴스타파 후원회원들이 보내주신 소중한 회비로 마련됩니다. 뉴스타파는 앞으로도 독립감독들과 함께 더 나은 세상을 위한 다큐멘터리를 제작하겠습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/loPxUYd7IJs</span><br>📄2026년 7월 목격자들 공모 심사평 : <span class="link_url">https://kcij.org/notice/u/uJCFs</span><br>👉독립다큐멘터리 응원하기 : <span class="link_url">https://withnewstapa.org/support/</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[목격자들] 1945, 돈즈루보]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/114256534</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/114108115"/>
         <updated>2026-07-29T07:46:06.669Z</updated>
         <content type="html"><![CDATA[지금 대법원은 질문에 답하지 않으려는 공적 인물에게 거듭해서 질문한 행위가 위법인지 심리하고 있습니다. <br><br>하급심은 국회의원회관에서 국회의원을 따라가며 1분 31초 동안 질문한 일이 위법하다고 했습니다. 만약 대법원이 가장 공적인 인물에게 가장 공적인 장소에서 질문하는 것조차 허용하지 않는다면, 이제 기자들은 질문하지 않는 자신의 게으름을 합리화할 무기를 갖게 됩니다. <br><br>그래서 이 사건 구도는 ‘의원 vs. 기자’가 아니라 ‘의원 vs. 국민’이고, 재판 대상은 국민의 알권리입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/M6Prg</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 반도체 국가산단 LNG발전소 "수소 혼소 재검토 필요"]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/114103141</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/114103141"/>
-        <updated>2026-07-29T04:15:13.798Z</updated>
-        <content type="html"><![CDATA[삼성전자의 용인 반도체 국가산단에 전력을 공급하기로 한 발전회사들이 수소 혼소 계획 재검토가 필요하다고 밝혔습니다. <br><br>용인 지역의 신규 반도체 팹 운용에 따른 전력 부족 우려에도 불구하고 정부는 ‘속도전’을 강조하고 있지만 이미 1차 전력 공급계획부터 심각한 차질이 발생한 것입니다. <br><br>졸속으로 추진된 용인 반도체 국가산단계획을 전면 재검토해야 한다는 지적이 재차 나오고 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/2Q18M</span>]]></content>
     </entry>
 </feed>
