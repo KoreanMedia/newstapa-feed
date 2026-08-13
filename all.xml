@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Aug 2026 23:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 02:01:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[목격자들] 1945, 돈즈루보 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Hr6IB</link>
+            <guid>http://newstapa.org/article/Hr6IB</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목격자들] 1945, 돈즈루보]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/13102617-23CF-276A-1F16-DXLSAAFP1QTIEAH5436F.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했나? (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/tsK1h</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[용인 반도체 국가산단 LNG발전소 "수소 혼소 재검토 필요"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/28172457-EF3B-0B0A-42E5-NXD9AUF38MP2Z3NRU61N.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리박스쿨, '극우 집회' 청년들로 '댓글부대' 조직했다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/gLyly</link>
-            <guid>http://newstapa.org/article/gLyly</guid>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[리박스쿨, '극우 집회' 청년들로 '댓글부대' 조직했다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/28184710-F44A-CC49-8203-SPIB6H3GH1IIVQCXWNK9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘조성현 기소’ 종합특검-내란특검 최후의 공방 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28172624-3391-4F2F-0D6B-69LGM5KD3QVOX5T4WOA0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[목격자들] 1945, 돈즈루보 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/Hr6IB</link>
+            <guid>http://newstapa.org/article/Hr6IB</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목격자들] 1945, 돈즈루보]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/13102617-23CF-276A-1F16-DXLSAAFP1QTIEAH5436F.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[6.25 76주년 특집] 한국전쟁 당시 미 공군 폭격 명중률은 얼마나 될까 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/R0kgL</link>
             <guid>http://newstapa.org/article/R0kgL</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[해방80년 특집] 한일 협정 반대 여론을 막아라…미국의 심리전]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14190704-DE4E-1A5B-985A-D7SDGA3E3BDQKFTVWLSI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['주무관'과 '교육감'...수상한 '검정교과서' 계획 문건 공개 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/EVuEs</link>
-            <guid>http://newstapa.org/article/EVuEs</guid>
-            <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['주무관'과 '교육감'...수상한 '검정교과서' 계획 문건 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/07/23104241-4A12-876C-C482-41F8971G3PL1K0A504YT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서]고속철 통합과 미프진...그리고 정치 효능감 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -3384,6 +3384,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/19133403-8F9B-88F0-EC01-XTTBI0UZJ0W0FHM7C8DY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[목격자들] 1945, 돈즈루보 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/114256534</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/114256534</guid>
+            <pubDate>Thu, 13 Aug 2026 02:01:21 GMT</pubDate>
+            <content:encoded><![CDATA[일본 나라현 돈즈루보산에는 전체 길이 1,700m가 넘는 인공동굴이 있습니다. 자연동굴이 아니라, 태평양전쟁 막바지인 1945년 일본군이 만든 지하 군사시설입니다.<br><br>일제는 이 지하호를 만들기 위해 수많은 조선인을 동원했습니다. 나라를 빼앗긴 조선인들은 깊은 땅속에서 일본군의 군사시설을 만들다 해방을 맞았습니다. 이들을 감독한 지휘관 가운데에는 조선의 마지막 황태자 영친왕 이은도 있었습니다.<br><br>1945년 8월 15일, 지하에서 해방을 맞은 조선인들과 패망을 맞은 일본군은 어떤 모습이었을까요?<br><br>‘목격자들’ &lt;1945, 돈즈루보&gt;에서 확인하세요.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/r9vq-7vAaos</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/Hr6IB</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[누가 내 케이크를 먹었을까_삼성반도체 초과이윤 배분 규칙의 비밀 〈다큐 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/114244177</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/114244177</guid>
@@ -3517,18 +3524,19 @@
             <content:encoded><![CDATA[삼성전자의 용인 반도체 국가산단에 전력을 공급하기로 한 발전회사들이 수소 혼소 계획 재검토가 필요하다고 밝혔습니다. <br><br>용인 지역의 신규 반도체 팹 운용에 따른 전력 부족 우려에도 불구하고 정부는 ‘속도전’을 강조하고 있지만 이미 1차 전력 공급계획부터 심각한 차질이 발생한 것입니다. <br><br>졸속으로 추진된 용인 반도체 국가산단계획을 전면 재검토해야 한다는 지적이 재차 나오고 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/2Q18M</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[리박스쿨, '극우 집회' 청년들로 '댓글부대' 조직했다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/114099665</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/114099665</guid>
-            <pubDate>Tue, 28 Jul 2026 10:37:54 GMT</pubDate>
-            <content:encoded><![CDATA[서울중앙지방법원에서 진행 중인 리박스쿨 공직선거법 위반 사건 재판을 통해 리박스쿨 댓글부대 '6·3 자유승리댓글단(자승단)'의 모집 경로가 구체적으로 드러났습니다.<br><br>청년 피고인들의 법정 증언을 종합하면, 윤석열 탄핵 반대 집회와 '윤어게인' 집회, 광화문 보수 집회 등이 리박스쿨 댓글부대의 사실상 인력 모집 창구 역할을 했습니다.<br><br>집회에서 리박스쿨 관계자들과 접촉한 청년들은 자유민주당 사무실에서 댓글 교육을 받은 뒤 조직적으로 댓글을 작성했고, 활동을 마친 뒤 '장학금' 명목의 돈을 받았습니다.<br><br>리박스쿨 댓글부대 청년들은 어쩌다 불법 댓글공작에 가담하게 된 것인지, 기사에서 확인하세요.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/gLyly</span>]]></content:encoded>
+            <title><![CDATA[[목격자들] 1945, 돈즈루보 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260813103652520</link>
+            <guid>https://v.daum.net/v/20260813103652520</guid>
+            <pubDate>Thu, 13 Aug 2026 02:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260813103652520" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[목격자들] 1945, 돈즈루보</strong><span class="info_txt"><span class="txt_info">24분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F13%2Fnewstapa%2F20260813103658853kkzt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F13%2Fnewstapa%2F20260813103658853kkzt.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했나? (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260812100137731</link>
             <guid>https://v.daum.net/v/20260812100137731</guid>
             <pubDate>Wed, 12 Aug 2026 01:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260812100137731" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했나?</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F12%2Fnewstapa%2F20260812100201687rhub.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260812100137731" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했나?</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F12%2Fnewstapa%2F20260812100201687rhub.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F12%2Fnewstapa%2F20260812100201687rhub.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3752,14 +3760,6 @@
             <pubDate>Tue, 21 Jul 2026 08:32:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260721160649363" class="link_column"><div class="cont_thumb"><strong class="tit_txt">안규백 장관 ‘이중 전역’, 법적으로는 불가능</strong><span class="info_txt"><span class="txt_info">2026. 7. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F21%2Fnewstapa%2F20260721160650537zzae.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F21%2Fnewstapa%2F20260721160650537zzae.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유⑧ 검찰의 ‘삼위일체’ (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260717155637066</link>
-            <guid>https://v.daum.net/v/20260717155637066</guid>
-            <pubDate>Fri, 17 Jul 2026 09:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260717155637066" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘검찰범죄’ 특검을 해야 하는 50가지 이유⑧ 검찰의 ‘삼위일체’</strong><span class="info_txt"><span class="txt_info">2026. 7. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F17%2Fnewstapa%2F20260717155638647desv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F17%2Fnewstapa%2F20260717155638647desv.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
