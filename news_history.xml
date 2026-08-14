@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Aug 2026 10:04:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 11:45:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해방81년 특집] 숭미의 기원② 미국은 친미엘리트를 어떻게 키웠나]]></title>
+            <link>http://newstapa.org/article/dYv5o</link>
+            <guid>http://newstapa.org/article/dYv5o</guid>
+            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해방81년 특집] 숭미의 기원② 미국은 친미엘리트를 어떻게 키웠나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/14194634-ABB5-5FB8-DF5D-F8HB7YOW58ET6BYOERMW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[목격자들] 1945, 돈즈루보]]></title>
             <link>http://newstapa.org/article/Hr6IB</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[해방80년특집: 숭미의 기원①] 광화문 성조기는 어디서 왔나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14183710-F1D6-8FC2-D34F-MVOE0FHVH7QROFQXLTI9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해방80년 특집] 한일 협정 반대 여론을 막아라…미국의 심리전]]></title>
-            <link>http://newstapa.org/article/pTCAa</link>
-            <guid>http://newstapa.org/article/pTCAa</guid>
-            <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해방80년 특집] 한일 협정 반대 여론을 막아라…미국의 심리전]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14190704-DE4E-1A5B-985A-D7SDGA3E3BDQKFTVWLSI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
