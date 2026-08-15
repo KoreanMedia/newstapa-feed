@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Aug 2026 11:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 12:39:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3544,7 +3544,7 @@
             <link>https://v.daum.net/v/20260813210651069</link>
             <guid>https://v.daum.net/v/20260813210651069</guid>
             <pubDate>Thu, 13 Aug 2026 13:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260813210651069" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[K-놀부전] KT의 인프라 '인질극'</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F13%2Fnewstapa%2F20260813210711330xpef.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260813210651069" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[K-놀부전] KT의 인프라 '인질극'</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F13%2Fnewstapa%2F20260813210711330xpef.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F13%2Fnewstapa%2F20260813210711330xpef.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
