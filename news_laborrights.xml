@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Aug 2026 06:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 07:40:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[목격자들] 우리의 연애]]></title>
+            <link>http://newstapa.org/article/4qJBq</link>
+            <guid>http://newstapa.org/article/4qJBq</guid>
+            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목격자들] 우리의 연애]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/18154651-61DF-BF1A-07F8-P3ERPMOPP7WDHPQ1P4V9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했나?]]></title>
             <link>http://newstapa.org/article/tsK1h</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰과 체불왕 ① 회장님의 대국민 거짓말, 그후 3년]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/10174012-A7AA-4FE2-C66E-HUSGGBQ9L5ZQ7109Q7UN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[목격자들] 열무야 열무야]]></title>
-            <link>http://newstapa.org/article/3JPva</link>
-            <guid>http://newstapa.org/article/3JPva</guid>
-            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[목격자들] 열무야 열무야]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/05/15132420-253E-A34D-DF63-0I01KV5Z7MJF30UN0ILA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

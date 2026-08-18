@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Aug 2026 06:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 07:40:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[목격자들] 우리의 연애]]></title>
+            <link>http://newstapa.org/article/4qJBq</link>
+            <guid>http://newstapa.org/article/4qJBq</guid>
+            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목격자들] 우리의 연애]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/18154651-61DF-BF1A-07F8-P3ERPMOPP7WDHPQ1P4V9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해방81년 특집] 숭미의 기원② 미국은 친미엘리트를 어떻게 키웠나]]></title>
             <link>http://newstapa.org/article/dYv5o</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[11개월째 멈춰선 김병기 수사... 공익 제보자 "경찰, 제발 종지부 찍어달라"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/31162157-05CC-8303-B1E9-IR5WDBDDPE9KZA83NK2P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 선관위 개혁 '동상이몽', 선거 재건 vs 윤어게인]]></title>
-            <link>http://newstapa.org/article/zSXoe</link>
-            <guid>http://newstapa.org/article/zSXoe</guid>
-            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 선관위 개혁 '동상이몽', 선거 재건 vs 윤어게인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/18111200-2D5E-E545-53E2-3UG5MKUDPMOC1CGAFF3Z.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
