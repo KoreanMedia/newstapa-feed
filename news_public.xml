@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Aug 2026 08:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 09:35:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<부정선거 음모론을 파헤치다> 1편, ‘부정선거, 재선거’ 구호는 타당한가]]></title>
+            <link>http://newstapa.org/article/ST-p7</link>
+            <guid>http://newstapa.org/article/ST-p7</guid>
+            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 1편, ‘부정선거, 재선거’ 구호는 타당한가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/18174200-D08C-C945-42B9-DF1YXM6LMDUVEDBS5P46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['반 이재명’ 집회 후 성남시 수의계약 의혹]]></title>
             <link>http://newstapa.org/article/sd3k2</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 보완수사권 폐지 vs 존치, 율사들의 썰전]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/16175323-25DB-EBD0-4286-E1CE9ZHO8TXP40BXT4TR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 경찰, 연세대 의대 교수 연구비 횡령 의혹 수사 착수]]></title>
-            <link>http://newstapa.org/article/F10Ym</link>
-            <guid>http://newstapa.org/article/F10Ym</guid>
-            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 경찰, 연세대 의대 교수 연구비 횡령 의혹 수사 착수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/16165012-01C4-7314-11B7-7NUJYFXDJ70FH9N31G2H.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
