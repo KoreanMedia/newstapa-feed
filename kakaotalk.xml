@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-08-19T03:52:29.559Z</updated>
+    <updated>2026-08-19T05:38:53.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/a5e76f6/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[KINN] [협찬방송 대해부]① ‘대국민 사기’ 먹는 알부민 1년 내내 홍보]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/114307714</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/114307714"/>
+        <updated>2026-08-19T05:38:46.697Z</updated>
+        <content type="html"><![CDATA[미디어 감시 전문매체 뉴스어디는 2022년부터 2026년 5월까지 4년 5개월치 건강정보 프로그램 협찬 내역을 전수조사해 3만 건 이상의 협찬 방송을 확인했습니다. 건강정보라는 이름으로 제품을 홍보하고 돈을 받는 행태가 방송계에 만연한데요, 그 중 ‘알부민’ 등 협찬상품의 효능이 방송을 어떻게 어떻게 부풀려지고 시청자를 기만했는지 분석했습니다.<br><br>이 기사는 뉴스타파함께재단과 한국탐사저널리즘센터가 연대 협업하는 한국독립언론네트워크(KINN) 회원사인 ‘뉴스어디'가 취재했습니다.<br><br>👉&nbsp;&nbsp;전체기사 보기 :&nbsp;<span class="link_url">https://newswhere.org/news/report/3319</span>/<br>👉 뉴스어디 응원하기 : <span class="link_url">https://online.mrm.or.kr/UblKLtQ</span><br>👉 뉴스어디 뉴스레터 구독 : <span class="link_url">https://newswhere.org/newsletter/</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부정선거 음모론을 파헤치다] ① ‘부정선거, 재선거’ 구호는 타당한가]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/114299969</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/114170559"/>
         <updated>2026-08-04T07:42:33.707Z</updated>
         <content type="html"><![CDATA["내가 이남석 변호사를 소개해 준 거야" — 2012년, 윤석열은 윤우진 전 용산세무서장에게 변호사를 소개해줬다고  말했습니다. 하지만 2019년 검찰총장 청문회부터 2022년 대선까지, 그는 이 사실을 계속 부인했습니다. 2026년 7월, 법원은 이를 공직선거법 위반(허위사실 공표)으로 판단했습니다. 판결이 대법원에서 확정되면 국민의힘은 대선 비용으로 보전받은 397억 원을 중앙선거관리위원회에 반환해야 합니다.<br><br>뉴스타파는 이 거짓말의 실체를 밝히기 위해 지난 8년간 끈질기게 취재를 이어왔습니다. 비리 세무서장을 둘러싼 검찰 내 유착 관계부터, 대선 후보의 거짓말이 법의 심판대에 오르기까지 — 그 모든 과정을 특별 페이지에 담았습니다. 397억 원이 걸린 거짓말의 전말, 지금 확인해 보세요.<br><br>📰 더 자세한 내용은 특별페이지에서 확인하세요 : <span class="link_url">https://pages.newstapa.org/2026/397</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서]고속철 통합과 미프진...그리고 정치 효능감]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/114169250</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/114169250"/>
-        <updated>2026-08-04T07:42:33.709Z</updated>
-        <content type="html"><![CDATA[고속철도 민영화 과정에서 기형적으로 출범했던 수서고속철도가 출범 13년 만에 코레일과 통합됩니다. 이번 통합은 그간 이원화로 인한 불편을 해소하고 시민 편익을 높인다는 점에서 정치 효능감을 높여주는 사례로 평가받을만 합니다. <br><br>이와 함께 대통령이 언급했던 먹는 임신중지약 도입같은 현안도 조속한 해결을 기대해 봅니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/UF5CK</span>]]></content>
     </entry>
 </feed>
