@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Aug 2026 07:43:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 10:32:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<부정선거 음모론을 파헤치다> 2편 , '당일투표 수개표' 사전투표는 조작 가능한가?]]></title>
+            <link>http://newstapa.org/article/G9HNY</link>
+            <guid>http://newstapa.org/article/G9HNY</guid>
+            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 2편 , '당일투표 수개표' 사전투표는 조작 가능한가?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/19164232-22A9-3140-A887-MIPN1HYPOBSL20Q6U24P.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] [협찬방송 대해부]① ‘대국민 사기’ 먹는 알부민 1년 내내 홍보]]></title>
             <link>http://newstapa.org/article/E8ii_</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“방정오 법적 문제될 수도” 500만 달러 송금 위법성 인식 정황]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/19174801-77D6-B03A-F292-MT811NP587Z9SOUJVL4Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“방정오 개인 이익 위해…” 하이그라운드 전직 대표 진술서 입수]]></title>
-            <link>http://newstapa.org/article/_uGLU</link>
-            <guid>http://newstapa.org/article/_uGLU</guid>
-            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“방정오 개인 이익 위해…” 하이그라운드 전직 대표 진술서 입수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/18223001-51B4-A2A5-3D9C-58UXWKPKG4EACHP2XQ40.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
