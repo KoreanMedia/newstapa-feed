@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 외교안보</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Aug 2026 07:43:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 08:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 친일과 숭미의 덫, '노땡스' 말 못하는 나라]]></title>
+            <link>http://newstapa.org/article/I3OYs</link>
+            <guid>http://newstapa.org/article/I3OYs</guid>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 친일과 숭미의 덫, '노땡스' 말 못하는 나라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/20165942-5F7B-29D7-73FB-NDK0M3DZGBTL612F1A2K.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해방81년 특집] 숭미의 기원② 미국은 친미엘리트를 어떻게 키웠나]]></title>
             <link>http://newstapa.org/article/dYv5o</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 윤석열 내란과 정보사, 그리고 전직 '블랙 요원' A 중령]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/04194535-09AE-A97E-EDD5-PJ4VPZLV98WLNULDCBPS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘북한 무인기’ 대학원생 회사에 '한국형 전투기 사업(KF-21) 연구원'도 참여]]></title>
-            <link>http://newstapa.org/article/eFQ5n</link>
-            <guid>http://newstapa.org/article/eFQ5n</guid>
-            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘북한 무인기’ 대학원생 회사에 '한국형 전투기 사업(KF-21) 연구원'도 참여]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/03174318-1829-1D5A-23F3-7NPL2C122BLNQK7YQYE6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
