@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Aug 2026 07:45:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 08:43:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<부정선거 음모론을 파헤치다> 4편, '선거에 중국이 개입했다'는 주장, 사실인가]]></title>
+            <link>http://newstapa.org/article/J_fkU</link>
+            <guid>http://newstapa.org/article/J_fkU</guid>
+            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 4편, '선거에 중국이 개입했다'는 주장, 사실인가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/21171822-4668-D1DB-0A13-3W100ZZQGUPMX4U8C005.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] [협찬방송 대해부]② 건강 프로 한 편에 1억4000만 원…‘협찬 단가표’보니]]></title>
+            <link>http://newstapa.org/article/c3WFz</link>
+            <guid>http://newstapa.org/article/c3WFz</guid>
+            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] [협찬방송 대해부]② 건강 프로 한 편에 1억4000만 원…‘협찬 단가표’보니]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/21164933-910D-44AD-D33F-5PLN16CX3S1R88BL6UGI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<부정선거 음모론을 파헤치다> 3편, ‘몸통은 A-WEB’이라는 주장, 근거가 있나]]></title>
             <link>http://newstapa.org/article/jbJoW</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] 이란전쟁 보도…‘누가 이겼나’가 ‘누가 죽었나’보다 10배 많아]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/03173137-A722-84D6-E94B-YG83UN1SM9TZNMVTD7PX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황]]></title>
-            <link>http://newstapa.org/article/f3JJN</link>
-            <guid>http://newstapa.org/article/f3JJN</guid>
-            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/30151306-BD26-19DC-981E-RWFQVBDCJU8WHUDS7N1L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 차남 회사의 사라진 500만불, 방상훈 회장도 물었다]]></title>
-            <link>http://newstapa.org/article/NFnKr</link>
-            <guid>http://newstapa.org/article/NFnKr</guid>
-            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 차남 회사의 사라진 500만불, 방상훈 회장도 물었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/19152658-9858-0095-9477-UCTH4T1ED0Z8IZLWH5BP.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

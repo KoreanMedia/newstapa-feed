@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Aug 2026 07:45:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 08:43:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<부정선거 음모론을 파헤치다> 4편, '선거에 중국이 개입했다'는 주장, 사실인가]]></title>
+            <link>http://newstapa.org/article/J_fkU</link>
+            <guid>http://newstapa.org/article/J_fkU</guid>
+            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 4편, '선거에 중국이 개입했다'는 주장, 사실인가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/21171822-4668-D1DB-0A13-3W100ZZQGUPMX4U8C005.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] [협찬방송 대해부]② 건강 프로 한 편에 1억4000만 원…‘협찬 단가표’보니]]></title>
+            <link>http://newstapa.org/article/c3WFz</link>
+            <guid>http://newstapa.org/article/c3WFz</guid>
+            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] [협찬방송 대해부]② 건강 프로 한 편에 1억4000만 원…‘협찬 단가표’보니]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/21164933-910D-44AD-D33F-5PLN16CX3S1R88BL6UGI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 친일과 숭미의 덫, '노땡스' 말 못하는 나라]]></title>
             <link>http://newstapa.org/article/I3OYs</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘현장 사진 지워라’ KTX 공사현장 죽음 뒤의 거짓말]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/10175813-3CF0-0D99-26B7-742CLKW519YP5ZC5CKZK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘조성현 기소’ 종합특검-내란특검 최후의 공방]]></title>
-            <link>http://newstapa.org/article/o23oC</link>
-            <guid>http://newstapa.org/article/o23oC</guid>
-            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘조성현 기소’ 종합특검-내란특검 최후의 공방]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/07155542-0221-48C7-3869-VNXU7ND6H0WVQVM76UXC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<죄 만드는 검(檢)> ④ 주권자에 '사법 폭력' 가한 10명 중 8명이 승진하는 나라]]></title>
-            <link>http://newstapa.org/article/kB8Rt</link>
-            <guid>http://newstapa.org/article/kB8Rt</guid>
-            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;죄 만드는 검(檢)&gt; ④ 주권자에 '사법 폭력' 가한 10명 중 8명이 승진하는 나라]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/07142012-1D20-C11E-E416-BKHNZBXKL3JL4RNQYTBK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
