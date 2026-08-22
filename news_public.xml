@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/category/%EA%B3%B5%EC%A7%81%EA%B0%90%EC%8B%9C</id>
-    <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
-    <updated>2026-08-22T08:33:10.676Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 22 Aug 2026 09:28:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<부정선거 음모론을 파헤치다> 4편, '선거에 중국이 개입했다'는 주장, 사실인가]]></title>
+            <link>http://newstapa.org/article/J_fkU</link>
+            <guid>http://newstapa.org/article/J_fkU</guid>
+            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 4편, '선거에 중국이 개입했다'는 주장, 사실인가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/21171822-4668-D1DB-0A13-3W100ZZQGUPMX4U8C005.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<부정선거 음모론을 파헤치다> 3편, ‘몸통은 A-WEB’이라는 주장, 근거가 있나]]></title>
+            <link>http://newstapa.org/article/jbJoW</link>
+            <guid>http://newstapa.org/article/jbJoW</guid>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 3편, ‘몸통은 A-WEB’이라는 주장, 근거가 있나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/21140216-1D5F-97F4-8C2A-Z2FYQ75R4SVZGJIV4HAV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대통령 관저 감사는 어떻게 좌절됐나...유병호 공소장 전문 공개]]></title>
+            <link>http://newstapa.org/article/5oSNp</link>
+            <guid>http://newstapa.org/article/5oSNp</guid>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령 관저 감사는 어떻게 좌절됐나...유병호 공소장 전문 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/20150716-BB95-0D2F-C1B2-L903M7SKGYPSM6QAFCFK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<부정선거 음모론을 파헤치다> 2편 , '당일투표 수개표' 사전투표는 조작 가능한가?]]></title>
+            <link>http://newstapa.org/article/G9HNY</link>
+            <guid>http://newstapa.org/article/G9HNY</guid>
+            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 2편 , '당일투표 수개표' 사전투표는 조작 가능한가?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/19164232-22A9-3140-A887-MIPN1HYPOBSL20Q6U24P.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<부정선거 음모론을 파헤치다> 1편, ‘부정선거, 재선거’ 구호는 타당한가]]></title>
+            <link>http://newstapa.org/article/ST-p7</link>
+            <guid>http://newstapa.org/article/ST-p7</guid>
+            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 1편, ‘부정선거, 재선거’ 구호는 타당한가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/20172648-FD2C-6D79-EF9A-F82GGTAQ0IGIYJ76RL5A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['반 이재명’ 집회 후 성남시 수의계약 의혹]]></title>
+            <link>http://newstapa.org/article/sd3k2</link>
+            <guid>http://newstapa.org/article/sd3k2</guid>
+            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['반 이재명’ 집회 후 성남시 수의계약 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/14163551-A594-3308-6805-X18YCF5EL1Y2Q9867QMH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘조성현 기소’ 종합특검-내란특검 최후의 공방]]></title>
+            <link>http://newstapa.org/article/o23oC</link>
+            <guid>http://newstapa.org/article/o23oC</guid>
+            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘조성현 기소’ 종합특검-내란특검 최후의 공방]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/07155542-0221-48C7-3869-VNXU7ND6H0WVQVM76UXC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내란특검이 ‘박성재 공소기각’ 항소 취하한 속사정]]></title>
+            <link>http://newstapa.org/article/EIeuj</link>
+            <guid>http://newstapa.org/article/EIeuj</guid>
+            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[내란특검이 ‘박성재 공소기각’ 항소 취하한 속사정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/06144229-16B7-EB21-AAA3-VN124BZOXY9V4Y7Z19AZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“죄질이 가볍지 않은” 397억 원짜리 거짓말]]></title>
+            <link>http://newstapa.org/article/9qI00</link>
+            <guid>http://newstapa.org/article/9qI00</guid>
+            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“죄질이 가볍지 않은” 397억 원짜리 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/04153731-CD0E-C604-3915-F9LXAJE86F5UXTZVJ5NN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[11개월째 멈춰선 김병기 수사... 공익 제보자 "경찰, 제발 종지부 찍어달라"]]></title>
+            <link>http://newstapa.org/article/KI4cG</link>
+            <guid>http://newstapa.org/article/KI4cG</guid>
+            <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[11개월째 멈춰선 김병기 수사... 공익 제보자 "경찰, 제발 종지부 찍어달라"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/31162157-05CC-8303-B1E9-IR5WDBDDPE9KZA83NK2P.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 선관위 개혁 '동상이몽', 선거 재건 vs 윤어게인]]></title>
+            <link>http://newstapa.org/article/zSXoe</link>
+            <guid>http://newstapa.org/article/zSXoe</guid>
+            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 선관위 개혁 '동상이몽', 선거 재건 vs 윤어게인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/18111200-2D5E-E545-53E2-3UG5MKUDPMOC1CGAFF3Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유⑨ 쌍끌이 사냥과 반쪽 항소]]></title>
+            <link>http://newstapa.org/article/4hMW6</link>
+            <guid>http://newstapa.org/article/4hMW6</guid>
+            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유⑨ 쌍끌이 사냥과 반쪽 항소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/27105025-75D3-E0A0-D0E1-H7EU18OJAEEW88QMN841.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['포렌식 입찰 비위 의혹' 공수처 수사관 3명 '파면' 의결]]></title>
+            <link>http://newstapa.org/article/A2nCY</link>
+            <guid>http://newstapa.org/article/A2nCY</guid>
+            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['포렌식 입찰 비위 의혹' 공수처 수사관 3명 '파면' 의결]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/24172046-8824-CEA3-2ACD-20G71UZWJ51SW67PVU3H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] '강약약강' 검찰의 기억, 무엇을 바꿀 것인가]]></title>
+            <link>http://newstapa.org/article/tbnUM</link>
+            <guid>http://newstapa.org/article/tbnUM</guid>
+            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] '강약약강' 검찰의 기억, 무엇을 바꿀 것인가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/23173517-3DD2-11A0-FA53-PMMEPQSKO6UILE64B9Y9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 오세훈, '명태균 여론조사 대납' 1심 '당선무효형']]></title>
+            <link>http://newstapa.org/article/11T8P</link>
+            <guid>http://newstapa.org/article/11T8P</guid>
+            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 오세훈, '명태균 여론조사 대납' 1심 '당선무효형']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/22201954-AB22-8894-A94F-KUJFXEBJOYWYPSUI5K5G.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[정치자금은쌈짓돈]⑤유령간담회 비용...실체는 당직자들 밥값]]></title>
+            <link>http://newstapa.org/article/Wr2He</link>
+            <guid>http://newstapa.org/article/Wr2He</guid>
+            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[정치자금은쌈짓돈]⑤유령간담회 비용...실체는 당직자들 밥값]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/22110551-5D95-6AF0-8FF3-E0ZEAIHHKYE3JFEUNJKI.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
