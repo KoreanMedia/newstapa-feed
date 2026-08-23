@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/recent</id>
-    <title>뉴스타파 ─ 뉴스</title>
-    <updated>2026-08-23T19:24:38.570Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 23 Aug 2026 20:24:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<부정선거 음모론을 파헤치다> 4편, '선거에 중국이 개입했다'는 주장, 사실인가]]></title>
+            <link>http://newstapa.org/article/J_fkU</link>
+            <guid>http://newstapa.org/article/J_fkU</guid>
+            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 4편, '선거에 중국이 개입했다'는 주장, 사실인가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/21171822-4668-D1DB-0A13-3W100ZZQGUPMX4U8C005.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] [협찬방송 대해부]② 건강 프로 한 편에 1억4000만 원…‘협찬 단가표’보니]]></title>
+            <link>http://newstapa.org/article/c3WFz</link>
+            <guid>http://newstapa.org/article/c3WFz</guid>
+            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] [협찬방송 대해부]② 건강 프로 한 편에 1억4000만 원…‘협찬 단가표’보니]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/21164933-910D-44AD-D33F-5PLN16CX3S1R88BL6UGI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 친일과 숭미의 덫, '노땡스' 말 못하는 나라]]></title>
+            <link>http://newstapa.org/article/I3OYs</link>
+            <guid>http://newstapa.org/article/I3OYs</guid>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 친일과 숭미의 덫, '노땡스' 말 못하는 나라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/20165942-5F7B-29D7-73FB-NDK0M3DZGBTL612F1A2K.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<부정선거 음모론을 파헤치다> 3편, ‘몸통은 A-WEB’이라는 주장, 근거가 있나]]></title>
+            <link>http://newstapa.org/article/jbJoW</link>
+            <guid>http://newstapa.org/article/jbJoW</guid>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 3편, ‘몸통은 A-WEB’이라는 주장, 근거가 있나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/21140216-1D5F-97F4-8C2A-Z2FYQ75R4SVZGJIV4HAV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대통령 관저 감사는 어떻게 좌절됐나...유병호 공소장 전문 공개]]></title>
+            <link>http://newstapa.org/article/5oSNp</link>
+            <guid>http://newstapa.org/article/5oSNp</guid>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령 관저 감사는 어떻게 좌절됐나...유병호 공소장 전문 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/20150716-BB95-0D2F-C1B2-L903M7SKGYPSM6QAFCFK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<부정선거 음모론을 파헤치다> 2편 , '당일투표 수개표' 사전투표는 조작 가능한가?]]></title>
+            <link>http://newstapa.org/article/G9HNY</link>
+            <guid>http://newstapa.org/article/G9HNY</guid>
+            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 2편 , '당일투표 수개표' 사전투표는 조작 가능한가?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/19164232-22A9-3140-A887-MIPN1HYPOBSL20Q6U24P.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공기업 돈 떼먹은 이영복... 수백억대 차명 부동산 소유 의혹]]></title>
+            <link>http://newstapa.org/article/h67Fq</link>
+            <guid>http://newstapa.org/article/h67Fq</guid>
+            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공기업 돈 떼먹은 이영복... 수백억대 차명 부동산 소유 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/19131858-788D-35AD-4B73-VDJAQT2ISMRUNVQ194WZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] [협찬방송 대해부]① ‘대국민 사기’ 먹는 알부민 1년 내내 홍보]]></title>
+            <link>http://newstapa.org/article/E8ii_</link>
+            <guid>http://newstapa.org/article/E8ii_</guid>
+            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] [협찬방송 대해부]① ‘대국민 사기’ 먹는 알부민 1년 내내 홍보]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/19134624-B8ED-1406-118D-6U1PJB1NL3QV0JW4E9BE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<부정선거 음모론을 파헤치다> 1편, ‘부정선거, 재선거’ 구호는 타당한가]]></title>
+            <link>http://newstapa.org/article/ST-p7</link>
+            <guid>http://newstapa.org/article/ST-p7</guid>
+            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 1편, ‘부정선거, 재선거’ 구호는 타당한가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/20172648-FD2C-6D79-EF9A-F82GGTAQ0IGIYJ76RL5A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[목격자들] 우리의 연애]]></title>
+            <link>http://newstapa.org/article/4qJBq</link>
+            <guid>http://newstapa.org/article/4qJBq</guid>
+            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목격자들] 우리의 연애]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/18154651-61DF-BF1A-07F8-P3ERPMOPP7WDHPQ1P4V9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해방81년 특집] 숭미의 기원② 미국은 친미엘리트를 어떻게 키웠나]]></title>
+            <link>http://newstapa.org/article/dYv5o</link>
+            <guid>http://newstapa.org/article/dYv5o</guid>
+            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해방81년 특집] 숭미의 기원② 미국은 친미엘리트를 어떻게 키웠나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/14194634-ABB5-5FB8-DF5D-F8HB7YOW58ET6BYOERMW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['반 이재명’ 집회 후 성남시 수의계약 의혹]]></title>
+            <link>http://newstapa.org/article/sd3k2</link>
+            <guid>http://newstapa.org/article/sd3k2</guid>
+            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['반 이재명’ 집회 후 성남시 수의계약 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/14163551-A594-3308-6805-X18YCF5EL1Y2Q9867QMH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[K-놀부전] KT의 인프라 '인질극']]></title>
+            <link>http://newstapa.org/article/mC67U</link>
+            <guid>http://newstapa.org/article/mC67U</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[K-놀부전] KT의 인프라 '인질극']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/13155358-C217-1BC0-FEA2-QODEPL8UBIYR99MGQNZR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[목격자들] 1945, 돈즈루보]]></title>
+            <link>http://newstapa.org/article/Hr6IB</link>
+            <guid>http://newstapa.org/article/Hr6IB</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목격자들] 1945, 돈즈루보]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/13102617-23CF-276A-1F16-DXLSAAFP1QTIEAH5436F.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했나?]]></title>
+            <link>http://newstapa.org/article/tsK1h</link>
+            <guid>http://newstapa.org/article/tsK1h</guid>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했나?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/11173822-0A4B-871A-8918-AJEVIM0T25QXVRLMQ1LI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘현장 사진 지워라’ KTX 공사현장 죽음 뒤의 거짓말]]></title>
+            <link>http://newstapa.org/article/wBNUm</link>
+            <guid>http://newstapa.org/article/wBNUm</guid>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘현장 사진 지워라’ KTX 공사현장 죽음 뒤의 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/10175813-3CF0-0D99-26B7-742CLKW519YP5ZC5CKZK.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
