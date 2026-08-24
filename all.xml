@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Aug 2026 08:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 09:00:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리박스쿨 댓글부대 ‘배후 세력’ 추적 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/yqlKt</link>
+            <guid>http://newstapa.org/article/yqlKt</guid>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리박스쿨 댓글부대 ‘배후 세력’ 추적]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24170801-7F30-2E70-975B-80KPZI11K087ANNAQEZX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서]이재명 정부와 AI '숫자 놀음' (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/_ZsiX</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/14163551-A594-3308-6805-X18YCF5EL1Y2Q9867QMH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[K-놀부전] KT의 인프라 '인질극' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/mC67U</link>
-            <guid>http://newstapa.org/article/mC67U</guid>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[K-놀부전] KT의 인프라 '인질극']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/13155358-C217-1BC0-FEA2-QODEPL8UBIYR99MGQNZR.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[리박스쿨 댓글부대 ‘배후 세력’ 추적 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/yqlKt</link>
+            <guid>http://newstapa.org/article/yqlKt</guid>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리박스쿨 댓글부대 ‘배후 세력’ 추적]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24170801-7F30-2E70-975B-80KPZI11K087ANNAQEZX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<의원님의 변호사비> 추적… 미반환 소송 비용 최초 검증 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['포렌식 입찰 비위 의혹' 공수처 수사관 3명 '파면' 의결]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/24172046-8824-CEA3-2ACD-20G71UZWJ51SW67PVU3H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '강약약강' 검찰의 기억, 무엇을 바꿀 것인가 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/tbnUM</link>
-            <guid>http://newstapa.org/article/tbnUM</guid>
-            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] '강약약강' 검찰의 기억, 무엇을 바꿀 것인가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/23173517-3DD2-11A0-FA53-PMMEPQSKO6UILE64B9Y9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/18144450-0FA9-FDD4-789B-H7XGINKU5LC2WSNRBT4H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[리박스쿨 댓글부대 ‘배후 세력’ 추적 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/yqlKt</link>
+            <guid>http://newstapa.org/article/yqlKt</guid>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리박스쿨 댓글부대 ‘배후 세력’ 추적]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24170801-7F30-2E70-975B-80KPZI11K087ANNAQEZX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<부정선거 음모론을 파헤치다> 4편, '선거에 중국이 개입했다'는 주장, 사실인가 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/J_fkU</link>
             <guid>http://newstapa.org/article/J_fkU</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/06154520-99AB-AD70-45AF-51X5SBSJPVRRDZZDO8OH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 이란전쟁 보도…‘누가 이겼나’가 ‘누가 죽었나’보다 10배 많아 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/QTExv</link>
-            <guid>http://newstapa.org/article/QTExv</guid>
-            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 이란전쟁 보도…‘누가 이겼나’가 ‘누가 죽었나’보다 10배 많아]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/03173137-A722-84D6-E94B-YG83UN1SM9TZNMVTD7PX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명 정부의 사법 개혁 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3384,6 +3384,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/24151913-DBF6-1B04-5873-45ANECAXVLPZH3A0U3ER.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[미니다큐] 리박스쿨 댓글부대 ‘배후 세력’ 추적 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/114354231</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/114354231</guid>
+            <pubDate>Mon, 24 Aug 2026 09:00:49 GMT</pubDate>
+            <content:encoded><![CDATA[돈을 받고 하루 수십 개씩 댓글을 달았던 리박스쿨 청년들. 이들은 어디서 왔고, 누가 배후에 있었을까요?<br><br>지난해 리박스쿨의 불법 댓글부대 ‘자승단’을 기획하고 돈을 댄 세력과 청년들이 댓글공작에 가담한 경로를 추적했습니다. 그 과정에서 윤석열 탄핵 반대 집회가 댓글부대원을 모집하는 통로로 활용됐고, 자유민주당 인사들이 댓글 활동을 제안하고 자금을 지원한 정황도 확인됐습니다.<br><br>이게 다가 아닙니다. 이들의 뿌리는 10여 년 전으로 거슬러 올라갑니다. 이명박-박근혜 정부 시절 국정원과 청와대의 불법 지원을 받았던 관변단체와 인물들이 리박스쿨 주변에서 다시 등장한 겁니다.<br><br>국정원 여론조작 사건부터 리박스쿨까지 이어져 온 극우 네트워크를 미니 다큐 &lt;리박스쿨 댓글부대 ‘배후 세력’ 추적&gt;에서 확인하세요!<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/OEzRveKvrZs</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/yqlKt</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[현장에서]이재명 정부와 AI '숫자 놀음' (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/114352548</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/114352548</guid>
@@ -3517,18 +3524,19 @@
             <content:encoded><![CDATA[일본 나라현 돈즈루보산에는 전체 길이 1,700m가 넘는 인공동굴이 있습니다. 자연동굴이 아니라, 태평양전쟁 막바지인 1945년 일본군이 만든 지하 군사시설입니다.<br><br>일제는 이 지하호를 만들기 위해 수많은 조선인을 동원했습니다. 나라를 빼앗긴 조선인들은 깊은 땅속에서 일본군의 군사시설을 만들다 해방을 맞았습니다. 이들을 감독한 지휘관 가운데에는 조선의 마지막 황태자 영친왕 이은도 있었습니다.<br><br>1945년 8월 15일, 지하에서 해방을 맞은 조선인들과 패망을 맞은 일본군은 어떤 모습이었을까요?<br><br>‘목격자들’ &lt;1945, 돈즈루보&gt;에서 확인하세요.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/r9vq-7vAaos</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/Hr6IB</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[누가 내 케이크를 먹었을까_삼성반도체 초과이윤 배분 규칙의 비밀 〈다큐 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/114244177</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/114244177</guid>
-            <pubDate>Wed, 12 Aug 2026 01:59:10 GMT</pubDate>
-            <content:encoded><![CDATA[2026년, 삼성전자는 사상 최대 영업이익을 눈앞에 두고 있습니다. 증권가 전망치는 최대 360조 원, 전년 대비 최대 726% 증가한 수치입니다.<br><br>그런데 같은 회사, 같은 해, 성과급은 6억 원과 6백만원, 100배 차이입니다.<br><br>삼성전자 DS 부문 메모리 사업부 직원의 올해 성과급은 약 6억 원. DX 부문 직원은 600만 원. 그리고 같은 공장, 같은 라인에서 일하는 사내하청 노동자에게는 단 한 푼도 돌아가지 않았습니다.<br><br>뉴스타파는 삼성반도체 초과이윤을 둘러싼 배분 규칙의 비밀을 추적했습니다. 협상 테이블 위에서 무엇이 오갔는지, 노동자들 사이에 그어진 계급의 선은 어디서 시작됐는지, 그리고 국가는 이 초과이윤에 어떤 역할을 했는지 짚었습니다.<br><br>성과 있는 곳에 보상이 있다고 삼성은 말합니다. 그러나 우리는 묻습니다. 그 성과는, 도대체 누가 설계했을까요? <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/cKhuTAI56B0</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/tsK1h</span>]]></content:encoded>
+            <title><![CDATA[리박스쿨 댓글부대 ‘배후 세력’ 추적 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260824171650864</link>
+            <guid>https://v.daum.net/v/20260824171650864</guid>
+            <pubDate>Mon, 24 Aug 2026 09:00:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824171650864" class="link_column"><div class="cont_thumb"><strong class="tit_txt">리박스쿨 댓글부대 ‘배후 세력’ 추적</strong><span class="info_txt"><span class="txt_info">44분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824171702512dpoy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824171702512dpoy.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[현장에서]이재명 정부와 AI '숫자 놀음' (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260824153136094</link>
             <guid>https://v.daum.net/v/20260824153136094</guid>
             <pubDate>Mon, 24 Aug 2026 07:00:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824153136094" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서]이재명 정부와 AI '숫자 놀음'</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824153138211aegd.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824153136094" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서]이재명 정부와 AI '숫자 놀음'</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824153138211aegd.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824153138211aegd.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3536,7 +3544,7 @@
             <link>https://v.daum.net/v/20260824151648308</link>
             <guid>https://v.daum.net/v/20260824151648308</guid>
             <pubDate>Mon, 24 Aug 2026 07:00:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824151648308" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;의원님의 변호사비&gt; 추적… 미반환 소송 비용 최초 검증</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824152939335hbxe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824151648308" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;의원님의 변호사비&gt; 추적… 미반환 소송 비용 최초 검증</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824152939335hbxe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824152939335hbxe.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3544,7 +3552,7 @@
             <link>https://v.daum.net/v/20260824111152833</link>
             <guid>https://v.daum.net/v/20260824111152833</guid>
             <pubDate>Mon, 24 Aug 2026 03:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824111152833" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824111153823njxc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824111152833" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월</strong><span class="info_txt"><span class="txt_info">6시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824111153823njxc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824111153823njxc.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3552,8 +3560,8 @@
             <link>https://v.daum.net/v/20260821172651368</link>
             <guid>https://v.daum.net/v/20260821172651368</guid>
             <pubDate>Fri, 21 Aug 2026 08:43:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260821172651368" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;부정선거 음모론을 파헤치다&gt; 4편, '선거에 중국이 개입했다'는 주장, 사실인가</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F21%2Fnewstapa%2F20260821172702288bfhw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F21%2Fnewstapa%2F20260821172702288bfhw.jpg" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260821172651368" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;부정선거 음모론을 파헤치다&gt; 4편, '선거에 중국이 개입했다'는 주장, 사실인가</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824172351618mvzx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824172351618mvzx.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[KINN] [협찬방송 대해부]② 건강 프로 한 편에 1억4000만 원…‘협찬 단가표’보니 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3568,7 +3576,7 @@
             <link>https://v.daum.net/v/20260820171149591</link>
             <guid>https://v.daum.net/v/20260820171149591</guid>
             <pubDate>Thu, 20 Aug 2026 08:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260820171149591" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 친일과 숭미의 덫, '노땡스' 말 못하는 나라</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F20%2Fnewstapa%2F20260820171151913muaw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260820171149591" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 친일과 숭미의 덫, '노땡스' 말 못하는 나라</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F20%2Fnewstapa%2F20260820171151913muaw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F20%2Fnewstapa%2F20260820171151913muaw.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3592,7 +3600,7 @@
             <link>https://v.daum.net/v/20260819170651172</link>
             <guid>https://v.daum.net/v/20260819170651172</guid>
             <pubDate>Wed, 19 Aug 2026 10:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260819170651172" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;부정선거 음모론을 파헤치다&gt; 2편 , '당일투표 수개표' 사전투표는 조작 가능한가?</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F19%2Fnewstapa%2F20260819170700928gtna.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260819170651172" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;부정선거 음모론을 파헤치다&gt; 2편 , '당일투표 수개표' 사전투표는 조작 가능한가?</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F19%2Fnewstapa%2F20260819170700928gtna.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F19%2Fnewstapa%2F20260819170700928gtna.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3616,7 +3624,7 @@
             <link>https://v.daum.net/v/20260818175650013</link>
             <guid>https://v.daum.net/v/20260818175650013</guid>
             <pubDate>Tue, 18 Aug 2026 09:35:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260818175650013" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;부정선거 음모론을 파헤치다&gt; 1편, ‘부정선거, 재선거’ 구호는 타당한가</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F20%2Fnewstapa%2F20260820172854857sass.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260818175650013" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;부정선거 음모론을 파헤치다&gt; 1편, ‘부정선거, 재선거’ 구호는 타당한가</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F20%2Fnewstapa%2F20260820172854857sass.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F20%2Fnewstapa%2F20260820172854857sass.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3753,14 +3761,6 @@
             <pubDate>Thu, 30 Jul 2026 09:33:40 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260730165651827" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 선관위 개혁 '동상이몽', 선거 재건 vs 윤어게인</strong><span class="info_txt"><span class="txt_info">2026. 7. 30.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F31%2Fnewstapa%2F20260731104952855wvhh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F31%2Fnewstapa%2F20260731104952855wvhh.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[<죄 만드는 검(檢)> ③ 증거 왜곡… “유죄로 몰 의도” (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260729172650873</link>
-            <guid>https://v.daum.net/v/20260729172650873</guid>
-            <pubDate>Wed, 29 Jul 2026 10:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260729172650873" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;죄 만드는 검(檢)&gt; ③ 증거 왜곡… “유죄로 몰 의도”</strong><span class="info_txt"><span class="txt_info">2026. 7. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F29%2Fnewstapa%2F20260729172714371vich.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F29%2Fnewstapa%2F20260729172714371vich.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
