@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Aug 2026 05:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 07:00:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서]이재명 정부와 AI '숫자 놀음' (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/_ZsiX</link>
+            <guid>http://newstapa.org/article/_ZsiX</guid>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서]이재명 정부와 AI '숫자 놀음']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24152336-80C7-CA73-84B4-KT0YYTHEAU05V2V08Z00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<의원님의 변호사비> 추적… 미반환 소송 비용 최초 검증 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/7bmNh</link>
+            <guid>http://newstapa.org/article/7bmNh</guid>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;의원님의 변호사비&gt; 추적… 미반환 소송 비용 최초 검증]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24150009-F3C0-2217-BC24-SFY3AJQ4P8T5CCEOKD2Q.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/X53vu</link>
@@ -120,20 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/13155358-C217-1BC0-FEA2-QODEPL8UBIYR99MGQNZR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[목격자들] 1945, 돈즈루보 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Hr6IB</link>
-            <guid>http://newstapa.org/article/Hr6IB</guid>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[목격자들] 1945, 돈즈루보]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/13102617-23CF-276A-1F16-DXLSAAFP1QTIEAH5436F.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했나? (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/tsK1h</link>
-            <guid>http://newstapa.org/article/tsK1h</guid>
-            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했나?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/11173822-0A4B-871A-8918-AJEVIM0T25QXVRLMQ1LI.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[<의원님의 변호사비> 추적… 미반환 소송 비용 최초 검증 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/7bmNh</link>
+            <guid>http://newstapa.org/article/7bmNh</guid>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;의원님의 변호사비&gt; 추적… 미반환 소송 비용 최초 검증]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24150009-F3C0-2217-BC24-SFY3AJQ4P8T5CCEOKD2Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] '강약약강' 검찰의 기억, 무엇을 바꿀 것인가]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/23173517-3DD2-11A0-FA53-PMMEPQSKO6UILE64B9Y9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 오세훈, '명태균 여론조사 대납' 1심 '당선무효형' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/11T8P</link>
-            <guid>http://newstapa.org/article/11T8P</guid>
-            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 오세훈, '명태균 여론조사 대납' 1심 '당선무효형']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/22201954-AB22-8894-A94F-KUJFXEBJOYWYPSUI5K5G.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3384,6 +3384,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/24151913-DBF6-1B04-5873-45ANECAXVLPZH3A0U3ER.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서]이재명 정부와 AI '숫자 놀음' (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/114352548</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/114352548</guid>
+            <pubDate>Mon, 24 Aug 2026 07:00:31 GMT</pubDate>
+            <content:encoded><![CDATA[지난 6월 이재명 정부가 ‘3대 메가프로젝트’를 발표하면서 모든 게 뒤집혔습니다. ‘전기 먹는 하마’라는 반도체 팹과 데이터센터를 폭발적으로 늘려야 한다는 ‘선언’ 앞에서 앞서 논의된 12차 전력수급기본계획의 수요 전망이 사실상 폐기된 겁니다. 먼저 만든 전력 계획은 무용했습니다. 국운을 걸겠다며 대기업 총수들 앞에서 90도로 고개를 숙이는 이재명 대통령의 ‘결기’ 만큼이나 AI 산업에 대한 국가적 기대는 드높았고, 이의를 제기하는 것은 불경해 보이기까지 했습니다. 그러나 하고 싶은 것과 할 수 있는 것은 엄연히 다릅니다. <br><br>기업이나 정부가 원하는 사업이나 정책을 추진하는 건 자유지만, 그 사업성이나 타당성을 따지고 면밀한 계획을 세우는 건 각 분야 전문가들의 몫입니다. 이 검증을 위해 12차 전기본 전문가위원회(총괄위원회)가 존재합니다. 그러나 지난 4월에 총괄위원회가 발표했던 계획과 3대 메가 프로젝트 이후 대폭 수정된 새 계획을 비교해 보면 이제 누구에게 검증을 맡겨야 하나 싶은 의문이 듭니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/_ZsiX</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[〈의원님의 변호사비〉 추적… 미반환 소송 비용 최초 검증 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/114352250</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/114352250</guid>
+            <pubDate>Mon, 24 Aug 2026 07:00:31 GMT</pubDate>
+            <content:encoded><![CDATA[국회의원들은 변호사 선임 비용을 정치자금에서 꺼내 쓰곤 합니다. 물론 늘 공익적인 목적으로만 쓰는 건 아닙니다. 개인의 비리 혐의를 변호하는 데 정치자금이 쓰이기도 합니다. <br><br>이를 막기 위한 책임은 선거관리위원회에 있습니다. 선관위는 국회의원들의 정치자금 지출이 적절했는지를 매년 체크합니다. 변호사 선임 비용의 경우, 적어도 불법 행위 변호에 정치자금이 쓰이는 걸 막기 위해 '유죄 확정 판결시 반환'이라는 방침을 세워 관리하고 있습니다. <br><br>그런데 이러한 관리 방식이 제대로 이뤄지고 있을까요. 전혀 그렇지 않았습니다. 뉴스타파는 유죄 확정 판결이 났는데도 불구하고, 정치자금 반환이 이뤄지고 있지 않은 여러 '미반환' 사례들을 찾아냈습니다. &lt;의원님의 변호사비&gt; 연속 보도를 통해 관련 내용을 차례로 보도할 예정입니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/YdYj3vYxoeE</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/7bmNh</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/114348614</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/114348614</guid>
@@ -3510,25 +3524,27 @@
             <content:encoded><![CDATA[2026년, 삼성전자는 사상 최대 영업이익을 눈앞에 두고 있습니다. 증권가 전망치는 최대 360조 원, 전년 대비 최대 726% 증가한 수치입니다.<br><br>그런데 같은 회사, 같은 해, 성과급은 6억 원과 6백만원, 100배 차이입니다.<br><br>삼성전자 DS 부문 메모리 사업부 직원의 올해 성과급은 약 6억 원. DX 부문 직원은 600만 원. 그리고 같은 공장, 같은 라인에서 일하는 사내하청 노동자에게는 단 한 푼도 돌아가지 않았습니다.<br><br>뉴스타파는 삼성반도체 초과이윤을 둘러싼 배분 규칙의 비밀을 추적했습니다. 협상 테이블 위에서 무엇이 오갔는지, 노동자들 사이에 그어진 계급의 선은 어디서 시작됐는지, 그리고 국가는 이 초과이윤에 어떤 역할을 했는지 짚었습니다.<br><br>성과 있는 곳에 보상이 있다고 삼성은 말합니다. 그러나 우리는 묻습니다. 그 성과는, 도대체 누가 설계했을까요? <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/cKhuTAI56B0</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/tsK1h</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘현장 사진 지워라’ KTX 공사현장 죽음 뒤의 거짓말 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/114229033</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/114229033</guid>
-            <pubDate>Mon, 10 Aug 2026 09:24:04 GMT</pubDate>
-            <content:encoded><![CDATA["우리 조금 다친 건 거짓말해도 괜찮아요. 그런데 사람이 죽었잖아요. 왜 거짓말을 하냐고요."<br>(故 아웅민우 씨 동료 이주노동자)<br><br>국가철도공단이 발주하고 SK에코플랜트가 시공하는 KTX 공사 현장에서 지난 7월 1일 미얀마 이주노동자 故 아웅민우 씨가 목숨을 잃었습니다.<br><br>앞서 뉴스타파는 국토부 장관이 직접 안전점검을 벌인 현장이었지만, 점검 후 단 47일 만에 안전장치 하나 없는 터널 안에서 고인이 홀로 작업하다 컨베이어벨트에 끼여 숨졌다고 보도했습니다.<br><br>그런데 사건은 여기서 끝나지 않았습니다. 사고 직후 사측은 목격자에게 현장 사진 삭제를 지시했고, 과거 부상자들에게도 "문에 끼었다", “냉장고 들다가 다쳤다”고 거짓말을 강요하며 상습적으로 산재를 은폐해왔다는 동료들의 폭로가 나왔습니다.<br><br>원청 SK에코플랜트로부터 '무재해 표창장'까지 받을 정도로 성실했던 이주노동자 故 아웅민우 씨. 다시 일터로 돌아가야 할 그의 동료들이 두려움을 무릅쓰고 카메라 앞에서 증언한 이유는 하나였습니다. "고인의 죽음 앞에 회사가 더 이상 거짓말을 하지 않기를…”<br><br>故 아웅민우 씨 사망 이후 현장에서 어떤 일이 있었는지 영상으로 만나보시죠.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/T8nMABhe8vs</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/wBNUm</span>]]></content:encoded>
+            <title><![CDATA[[현장에서]이재명 정부와 AI '숫자 놀음' (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260824153136094</link>
+            <guid>https://v.daum.net/v/20260824153136094</guid>
+            <pubDate>Mon, 24 Aug 2026 07:00:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824153136094" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서]이재명 정부와 AI '숫자 놀음'</strong><span class="info_txt"><span class="txt_info">29분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824153138211aegd.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824153138211aegd.png" length="0" type="image/q70/"/>
         </item>
         <item>
-            <title><![CDATA[‘조성현 기소’ 종합특검-내란특검 최후의 공방 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/114207634</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/114207634</guid>
-            <pubDate>Fri, 07 Aug 2026 07:17:49 GMT</pubDate>
-            <content:encoded><![CDATA['서강대교 회군'의 주인공 조성현 대령, 그는 정말 계엄군의 국회 진입을 막은 의인일까요, 아니면 시민의 완강한 저항에 밀린 '전략적 후퇴'였을까요? 국방부가 훈장을 주고 대통령이 직접 치하한 그를 두고, 왜 내란특검과 종합특검은 정반대의 결론을 내렸을까요?<br><br>내란특검(조은석 특별검사)은 조성현 전 수도방위사령부 1경비단장(대령)을 불기소했지만, 종합특검(권창영 특별검사)은 그를 내란중요임무종사자로 보고 기소를 강행하려 합니다. 지난 5일 내란특검이 "위법한 기소"라며 이례적으로 강경한 보도자료를 낸 데 이어, 종합특검도 "특별한 사정이 없는 한 기소한다"고 맞서면서 두 특검의 갈등은 최고조에 달했습니다.<br><br>두 특검의 대치 이면에는 개정 종합특검법의 사전 협의 의무, 새로 신설된 형사소송법상 공소기각 사유, 검찰사건사무규칙 '각하' 조항을 둘러싼 법리 다툼이 있습니다. 하지만 더 중요한 건 조 대령의 실제 행적입니다. 그는 정말 헌법을 지키려 했을까요, 시민에 막혀 후퇴한 것일까요?<br><br>&lt;뉴스타파&gt;가 종합특검-내란특검, 두 특검의 최후의 공방을 취재했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/o23oC</span>]]></content:encoded>
+            <title><![CDATA[<의원님의 변호사비> 추적… 미반환 소송 비용 최초 검증 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260824151648308</link>
+            <guid>https://v.daum.net/v/20260824151648308</guid>
+            <pubDate>Mon, 24 Aug 2026 07:00:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824151648308" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;의원님의 변호사비&gt; 추적… 미반환 소송 비용 최초 검증</strong><span class="info_txt"><span class="txt_info">43분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824152939335hbxe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824152939335hbxe.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260824111152833</link>
             <guid>https://v.daum.net/v/20260824111152833</guid>
             <pubDate>Mon, 24 Aug 2026 03:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824111152833" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824111153823njxc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824111152833" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824111153823njxc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824111153823njxc.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3568,7 +3584,7 @@
             <link>https://v.daum.net/v/20260820151151178</link>
             <guid>https://v.daum.net/v/20260820151151178</guid>
             <pubDate>Thu, 20 Aug 2026 06:48:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260820151151178" class="link_column"><div class="cont_thumb"><strong class="tit_txt">대통령 관저 감사는 어떻게 좌절됐나...유병호 공소장 전문 공개</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F20%2Fnewstapa%2F20260820151153195wyqy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260820151151178" class="link_column"><div class="cont_thumb"><strong class="tit_txt">대통령 관저 감사는 어떻게 좌절됐나...유병호 공소장 전문 공개</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F20%2Fnewstapa%2F20260820151153195wyqy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F20%2Fnewstapa%2F20260820151153195wyqy.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3584,7 +3600,7 @@
             <link>https://v.daum.net/v/20260819145150877</link>
             <guid>https://v.daum.net/v/20260819145150877</guid>
             <pubDate>Wed, 19 Aug 2026 07:43:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260819145150877" class="link_column"><div class="cont_thumb"><strong class="tit_txt">공기업 돈 떼먹은 이영복... 수백억대 차명 부동산 소유 의혹</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F19%2Fnewstapa%2F20260819145159498gkiz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260819145150877" class="link_column"><div class="cont_thumb"><strong class="tit_txt">공기업 돈 떼먹은 이영복... 수백억대 차명 부동산 소유 의혹</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F19%2Fnewstapa%2F20260819145159498gkiz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F19%2Fnewstapa%2F20260819145159498gkiz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3745,21 +3761,6 @@
             <pubDate>Wed, 29 Jul 2026 10:42:40 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260729172650873" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;죄 만드는 검(檢)&gt; ③ 증거 왜곡… “유죄로 몰 의도”</strong><span class="info_txt"><span class="txt_info">2026. 7. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F29%2Fnewstapa%2F20260729172714371vich.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F29%2Fnewstapa%2F20260729172714371vich.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] 잠입취재에 대한 2달러 판결과 기습질문에 대한 경고 판결 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260729150650654</link>
-            <guid>https://v.daum.net/v/20260729150650654</guid>
-            <pubDate>Wed, 29 Jul 2026 07:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260729150650654" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 잠입취재에 대한 2달러 판결과 기습질문에 대한 경고 판결</strong><span class="info_txt"><span class="txt_info">2026. 7. 29.</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[용인 반도체 국가산단 LNG발전소 "수소 혼소 재검토 필요" (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260729100152289</link>
-            <guid>https://v.daum.net/v/20260729100152289</guid>
-            <pubDate>Wed, 29 Jul 2026 04:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260729100152289" class="link_column"><div class="cont_thumb"><strong class="tit_txt">용인 반도체 국가산단 LNG발전소 "수소 혼소 재검토 필요"</strong><span class="info_txt"><span class="txt_info">2026. 7. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F29%2Fnewstapa%2F20260729100154057mcaj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F29%2Fnewstapa%2F20260729100154057mcaj.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
