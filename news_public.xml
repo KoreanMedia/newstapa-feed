@@ -4,16 +4,24 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Aug 2026 01:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 03:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월]]></title>
+            <link>http://newstapa.org/article/X53vu</link>
+            <guid>http://newstapa.org/article/X53vu</guid>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24094749-1D31-0EF4-EB05-P3CDVDR2O4BNTP3DIIQ2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<부정선거 음모론을 파헤치다> 4편, '선거에 중국이 개입했다'는 주장, 사실인가]]></title>
             <link>http://newstapa.org/article/J_fkU</link>
             <guid>http://newstapa.org/article/J_fkU</guid>
             <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 4편, '선거에 중국이 개입했다'는 주장, 사실인가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/21171822-4668-D1DB-0A13-3W100ZZQGUPMX4U8C005.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24110933-23A8-EB52-3334-4SLRO11F55GGSBVJVGGK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<부정선거 음모론을 파헤치다> 3편, ‘몸통은 A-WEB’이라는 주장, 근거가 있나]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 오세훈, '명태균 여론조사 대납' 1심 '당선무효형']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/22201954-AB22-8894-A94F-KUJFXEBJOYWYPSUI5K5G.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정치자금은쌈짓돈]⑤유령간담회 비용...실체는 당직자들 밥값]]></title>
-            <link>http://newstapa.org/article/Wr2He</link>
-            <guid>http://newstapa.org/article/Wr2He</guid>
-            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[정치자금은쌈짓돈]⑤유령간담회 비용...실체는 당직자들 밥값]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/22110551-5D95-6AF0-8FF3-E0ZEAIHHKYE3JFEUNJKI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Aug 2026 01:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 03:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월]]></title>
+            <link>https://v.daum.net/v/20260824111152833</link>
+            <guid>https://v.daum.net/v/20260824111152833</guid>
+            <pubDate>Mon, 24 Aug 2026 03:05:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824111152833" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월</strong><span class="info_txt"><span class="txt_info">53분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824111153823njxc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824111153823njxc.png" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[<부정선거 음모론을 파헤치다> 4편, '선거에 중국이 개입했다'는 주장, 사실인가]]></title>
             <link>https://v.daum.net/v/20260821172651368</link>
@@ -236,14 +244,6 @@
             <pubDate>Wed, 29 Jul 2026 04:15:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260729100152289" class="link_column"><div class="cont_thumb"><strong class="tit_txt">용인 반도체 국가산단 LNG발전소 "수소 혼소 재검토 필요"</strong><span class="info_txt"><span class="txt_info">2026. 7. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F29%2Fnewstapa%2F20260729100154057mcaj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F29%2Fnewstapa%2F20260729100154057mcaj.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[리박스쿨, '극우 집회' 청년들로 '댓글부대' 조직했다]]></title>
-            <link>https://v.daum.net/v/20260728185151870</link>
-            <guid>https://v.daum.net/v/20260728185151870</guid>
-            <pubDate>Tue, 28 Jul 2026 10:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260728185151870" class="link_column"><div class="cont_thumb"><strong class="tit_txt">리박스쿨, '극우 집회' 청년들로 '댓글부대' 조직했다</strong><span class="info_txt"><span class="txt_info">2026. 7. 28.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F28%2Fnewstapa%2F20260728185152415xpnm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202607%2F28%2Fnewstapa%2F20260728185152415xpnm.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
