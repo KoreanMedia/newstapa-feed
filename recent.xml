@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Aug 2026 01:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 13:56:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] 이재명 정부의 '실용적' 4대강 재자연화]]></title>
+            <link>http://newstapa.org/article/b-IbD</link>
+            <guid>http://newstapa.org/article/b-IbD</guid>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파] 이재명 정부의 '실용적' 4대강 재자연화]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/28180859-A884-A9B9-DDC5-XUTBNOQPNYR4G8EBZNIC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공순이 : 이름이 된 직업]]></title>
+            <link>http://newstapa.org/article/m2k8e</link>
+            <guid>http://newstapa.org/article/m2k8e</guid>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공순이 : 이름이 된 직업]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/28141012-4497-6C9F-1CE4-05MJ8BB9EKBWO96NXR29.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화]'입양기록 유출' 아동권리보장원 9억 과징금...뉴스타파 보도 2년 만]]></title>
             <link>http://newstapa.org/article/pH71b</link>
@@ -24,11 +40,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/27175801-CCCD-F92D-2366-1ARVKXPE3GXGNQV5LXAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘조성현 기소’ 종합특검-내란특검 30일 공문 전쟁 ①]]></title>
+            <title><![CDATA[‘조성현 기소’ 종합특검-내란특검 30일 공문 전쟁 ① "국민 보호에 기여"]]></title>
             <link>http://newstapa.org/article/tJqM9</link>
             <guid>http://newstapa.org/article/tJqM9</guid>
             <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘조성현 기소’ 종합특검-내란특검 30일 공문 전쟁 ①]]></content:encoded>
+            <content:encoded><![CDATA[‘조성현 기소’ 종합특검-내란특검 30일 공문 전쟁 ① "국민 보호에 기여"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/27165302-F1F2-990B-1BA2-4OXG4VZC65AE0VR08VX8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 친일과 숭미의 덫, '노땡스' 말 못하는 나라]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/20165942-5F7B-29D7-73FB-NDK0M3DZGBTL612F1A2K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<부정선거 음모론을 파헤치다> 3편, ‘몸통은 A-WEB’이라는 주장, 근거가 있나]]></title>
-            <link>http://newstapa.org/article/jbJoW</link>
-            <guid>http://newstapa.org/article/jbJoW</guid>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 3편, ‘몸통은 A-WEB’이라는 주장, 근거가 있나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/21140216-1D5F-97F4-8C2A-Z2FYQ75R4SVZGJIV4HAV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령 관저 감사는 어떻게 좌절됐나...유병호 공소장 전문 공개]]></title>
-            <link>http://newstapa.org/article/5oSNp</link>
-            <guid>http://newstapa.org/article/5oSNp</guid>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대통령 관저 감사는 어떻게 좌절됐나...유병호 공소장 전문 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/20150716-BB95-0D2F-C1B2-L903M7SKGYPSM6QAFCFK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

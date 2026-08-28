@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 환경</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Aug 2026 01:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 13:56:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[다큐 뉴스타파] 이재명 정부의 '실용적' 4대강 재자연화]]></title>
+            <link>http://newstapa.org/article/b-IbD</link>
+            <guid>http://newstapa.org/article/b-IbD</guid>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다큐 뉴스타파] 이재명 정부의 '실용적' 4대강 재자연화]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/28180859-A884-A9B9-DDC5-XUTBNOQPNYR4G8EBZNIC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘수소 전기’ 환상 깨진 용인 반도체, 속도전만 외치는 정부]]></title>
             <link>http://newstapa.org/article/k_ixo</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] '개점 휴업'해도 국민 전기료 4800억 원 받는 재벌 석탄발전소]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/24141601-6557-74C0-4179-SY6BMWPLA00A5543TK4U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <추적> 제작진, ‘2025 세상을 밝게 만든 사람들’ 환경부문 수상]]></title>
-            <link>http://newstapa.org/article/3DAHq</link>
-            <guid>http://newstapa.org/article/3DAHq</guid>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;추적&gt; 제작진, ‘2025 세상을 밝게 만든 사람들’ 환경부문 수상]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/12160357-E835-E31B-BDD0-EJ9JM7CPYIQ4LW5AHZFS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
