@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Aug 2026 04:06:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 11:26:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일그러진 언론, '조선'에 기자는 무엇인가]]></title>
+            <link>http://newstapa.org/article/fBhSZ</link>
+            <guid>http://newstapa.org/article/fBhSZ</guid>
+            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[일그러진 언론, '조선'에 기자는 무엇인가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/31165439-EA01-D254-63DC-CDNG7MBG19NANY6T16G5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ② “내란 지휘부에 타격”]]></title>
+            <link>http://newstapa.org/article/-IwkD</link>
+            <guid>http://newstapa.org/article/-IwkD</guid>
+            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ② “내란 지휘부에 타격”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/31150019-0FEB-264C-749E-RV34SOGT6RV31MQ7YBG4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파] 이재명 정부의 '실용적' 4대강 재자연화]]></title>
             <link>http://newstapa.org/article/b-IbD</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 4편, '선거에 중국이 개입했다'는 주장, 사실인가]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24110933-23A8-EB52-3334-4SLRO11F55GGSBVJVGGK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] [협찬방송 대해부]② 건강 프로 한 편에 1억4000만 원…‘협찬 단가표’보니]]></title>
-            <link>http://newstapa.org/article/c3WFz</link>
-            <guid>http://newstapa.org/article/c3WFz</guid>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] [협찬방송 대해부]② 건강 프로 한 편에 1억4000만 원…‘협찬 단가표’보니]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/21164933-910D-44AD-D33F-5PLN16CX3S1R88BL6UGI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 친일과 숭미의 덫, '노땡스' 말 못하는 나라]]></title>
-            <link>http://newstapa.org/article/I3OYs</link>
-            <guid>http://newstapa.org/article/I3OYs</guid>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 친일과 숭미의 덫, '노땡스' 말 못하는 나라]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/20165942-5F7B-29D7-73FB-NDK0M3DZGBTL612F1A2K.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

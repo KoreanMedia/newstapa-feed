@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Aug 2026 04:06:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 11:26:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일그러진 언론, '조선'에 기자는 무엇인가 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/fBhSZ</link>
+            <guid>http://newstapa.org/article/fBhSZ</guid>
+            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[일그러진 언론, '조선'에 기자는 무엇인가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/31165439-EA01-D254-63DC-CDNG7MBG19NANY6T16G5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ② “내란 지휘부에 타격” (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/-IwkD</link>
+            <guid>http://newstapa.org/article/-IwkD</guid>
+            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ② “내란 지휘부에 타격”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/31150019-0FEB-264C-749E-RV34SOGT6RV31MQ7YBG4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파] 이재명 정부의 '실용적' 4대강 재자연화 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/b-IbD</link>
@@ -120,20 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24110933-23A8-EB52-3334-4SLRO11F55GGSBVJVGGK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[KINN] [협찬방송 대해부]② 건강 프로 한 편에 1억4000만 원…‘협찬 단가표’보니 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/c3WFz</link>
-            <guid>http://newstapa.org/article/c3WFz</guid>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] [협찬방송 대해부]② 건강 프로 한 편에 1억4000만 원…‘협찬 단가표’보니]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/21164933-910D-44AD-D33F-5PLN16CX3S1R88BL6UGI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 친일과 숭미의 덫, '노땡스' 말 못하는 나라 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/I3OYs</link>
-            <guid>http://newstapa.org/article/I3OYs</guid>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 친일과 숭미의 덫, '노땡스' 말 못하는 나라]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/20165942-5F7B-29D7-73FB-NDK0M3DZGBTL612F1A2K.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ② “내란 지휘부에 타격” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/-IwkD</link>
+            <guid>http://newstapa.org/article/-IwkD</guid>
+            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ② “내란 지휘부에 타격”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/31150019-0FEB-264C-749E-RV34SOGT6RV31MQ7YBG4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<의원님의 변호사비> ②반환 대상 알고도 선관위는 두 달 뭉갰다… 최강욱 사례 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/04153731-CD0E-C604-3915-F9LXAJE86F5UXTZVJ5NN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11개월째 멈춰선 김병기 수사... 공익 제보자 "경찰, 제발 종지부 찍어달라" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/KI4cG</link>
-            <guid>http://newstapa.org/article/KI4cG</guid>
-            <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[11개월째 멈춰선 김병기 수사... 공익 제보자 "경찰, 제발 종지부 찍어달라"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/31162157-05CC-8303-B1E9-IR5WDBDDPE9KZA83NK2P.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ② “내란 지휘부에 타격” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/-IwkD</link>
+            <guid>http://newstapa.org/article/-IwkD</guid>
+            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ② “내란 지휘부에 타격”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/31150019-0FEB-264C-749E-RV34SOGT6RV31MQ7YBG4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘조성현 기소’ 종합특검-내란특검 30일 공문 전쟁 ① "국민 보호에 기여" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유⑨ 쌍끌이 사냥과 반쪽 항소]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/27105025-75D3-E0A0-D0E1-H7EU18OJAEEW88QMN841.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<죄 만드는 검(檢)> ① "겁나고 두렵죠"... 국민 위에 검사 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/g-slB</link>
-            <guid>http://newstapa.org/article/g-slB</guid>
-            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;죄 만드는 검(檢)&gt; ① "겁나고 두렵죠"... 국민 위에 검사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/23174604-0AB7-519F-1A7A-ZW9MH48J044350VQFQV3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위법, 국회 무력화, 물증 은폐… 서울중앙지검의 ‘예산 범죄’ 확인 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/18144450-0FA9-FDD4-789B-H7XGINKU5LC2WSNRBT4H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일그러진 언론, '조선'에 기자는 무엇인가 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/fBhSZ</link>
+            <guid>http://newstapa.org/article/fBhSZ</guid>
+            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[일그러진 언론, '조선'에 기자는 무엇인가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/31165439-EA01-D254-63DC-CDNG7MBG19NANY6T16G5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[리박스쿨 댓글부대 ‘배후 세력’ 추적 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/yqlKt</link>
             <guid>http://newstapa.org/article/yqlKt</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[동아·조선투위, '자유언론 투쟁 기자 해고 정당' 판결에 '재판 소원']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/14180046-0635-16AF-4BE6-EASMNYHRYSMGBGRCS2RU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/T_N3z</link>
-            <guid>http://newstapa.org/article/T_N3z</guid>
-            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, 방정오 '500만 달러 배임' 의혹 수사 착수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/06154520-99AB-AD70-45AF-51X5SBSJPVRRDZZDO8OH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명 정부의 사법 개혁 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3384,6 +3384,27 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/24151913-DBF6-1B04-5873-45ANECAXVLPZH3A0U3ER.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[4대강 보는 어떻게 할 겁니까? : 김성환 기후부 장관 인터뷰 〈다큐 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/114430079</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/114430079</guid>
+            <pubDate>Mon, 31 Aug 2026 11:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 정부가 4대강 보 처리 결정을 앞두고 있습니다. '실용'을 앞세우고 있는 이재명 정부는 어떻게 4대강 재자연화를 할 것인가, 김성환 기후에너지환경부 장관에게 '4대강 보를 어떻게 할 것인지' 물었습니다.<br><br>이 영상은 8.28. 방송된 다큐 뉴스타파 '이재명 정부의 '실용적' 4대강 재자연화'에 담긴 김성환 장관 인터뷰 풀영상입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/Ui0XzR7dDjA</span><br>👉〈이재명 정부의 '실용적' 4대강 재자연화 보러가기〉 : <span class="link_url">https://youtu.be/eF5cyM2eOBY</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일그러진 언론, '조선'에 기자는 무엇인가 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/114428306</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/114428306</guid>
+            <pubDate>Mon, 31 Aug 2026 11:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[조선일보 자회사인 조선뉴스프레스에서 심각한 언론 윤리 위반 행위가 포착됐습니다. 한 소속 기자와 분쟁 중인 조선뉴스프레스는 '기자가 아니어도 돈을 벌기 위해 기자 명함을 줄 수 있다', '광고 게시글도 기사 형식으로 올리는 게 더 홍보 효과가 좋아 그렇게 했다', '기자는 갑의 기분을 상하게 해선 안 된다'는 등의 주장을 했습니다. <br><br>심지어 자신들이 뽑은 기자가 조선뉴스프레스와 계약 관계에 있는 기업 회장 아내의 기분을 상하게 했다는 이유로, 해당 기자를 콜센터로 보내버리기도 했습니다. 조선뉴스프레스 측은 '정당한 인사 조치'였다는 입장입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/0ihZHftuqdo</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/fBhSZ</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ② “내란 지휘부에 타격” (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/114425429</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/114425429</guid>
+            <pubDate>Mon, 31 Aug 2026 11:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 19일 종합특검(권창영 특별검사)이 조성현 대령을 기소하자, 내란특검(조은석 특별검사)은 국회의장에게 지난 한 달간(7.23~8.19) 조 대령 기소를 놓고 종합특검과 주고받은 공문 일체를 송부했습니다. 총 9개, 64쪽 분량입니다. 내란특검은 조 대령 기소의 문제점을, 종합특검은 기소의 불가피성을 각자가 파악한 사실과 논리로 설파하고 있습니다.<br><br>&lt;뉴스타파&gt;는 양측 공방이 담긴 공문 일체를 입수했습니다. 조 대령 기소 문제가 국민적 관심사라는 점을 고려해 3회에 걸쳐 주요 내용을 소개합니다.<br><br>2편에서는 내란특검이 종합특검에 보낸 공문 내용을 소개합니다. 내란특검은 “12.3 비상계엄 당시 조성현의 행태가 내란을 저지하는 데 결정적 공을 세웠다”고 평가하면서 “조 대령 불입건은 향후 유사한 사태에서 위헌·위법한 명령을 회피하게 하기 위한 것”이라고 주장했습니다. 아울러 종합특검의 조 대령 기소 방침에 대해 “향후 소극적으로 임무를 수행해도 결국 엄중한 형사처벌을 받는 결과는 같으므로 오히려 내란이 성공하도록 적극적으로 임무를 수행하도록 유인하는 결과가 될 수 있다”고 우려했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/-IwkD</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[다큐 뉴스타파] 이재명 정부의 '실용적' 4대강 재자연화 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/114405960</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/114405960</guid>
@@ -3503,32 +3524,27 @@
             <content:encoded><![CDATA[[🔴라이브 예고] 해방 81년을 맞는 이번 광복절을 전후해 두 가지 사건이 우리 여론을 달궜습니다. 하나는 한 유명인과 관련된 친일 후손 논란이었고, 다른 하나는 트럼프 미국 대통령의 지시에 따라 한미연합훈련 규모가 이례적으로 축소된 일이었습니다.<br><br>별개의 두 사건이지만 그 이면에는 친일과 숭미라는 우리 근현대사의 질곡이 담겨 있습니다. 친일 청산의 과제는 망각의 문제에 가로막혀 있습니다. 최근 안상호의 친일 행적과 그의 후손들의 재산 문제가 불거지자 전문가들은 친일 후손이라는 그 자체가 아니라 역사의식과 성찰의 실종에 대해 분노해야 한다고 지적했습니다.<br><br>과거의 외교 관행을 벗어나 능동적인 한미 관계를 구축해야 한다는 시대적인 요구는 '가짜 안보'에 발목 잡혀 있습니다. 양국 정상이 국익을 놓고 첨예한 설전을 벌이는 와중에도 야당과 보수언론은 '한미 동맹 강화'라는 관성적인 주장에 기대 정치적 공격을 하는데 주력하고 있습니다. <br><br>오늘 밤 9시 라이브로 진행되는 주간 뉴스타파는 두 현안 속에 숨어있는 친일·숭미의 코드를 읽습니다. 독립운동가 지청천 장군의 외손자인 이준식 전 독립기념관장(역사정의실천연대 정책위원장),  다큐멘터리 '숭미의 기원' 연출자이자 도서 '친일과 망각' 공저자인 김용진 기자가 출연합니다. 많은 시청과 관심 바랍니다!   <br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://www.youtube.com/live/GFVYMBFOUG0</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[부정선거 음모론을 파헤치다] ③ ‘몸통은 A-WEB’이라는 주장, 근거가 있나 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/114321373</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/114321373</guid>
-            <pubDate>Thu, 20 Aug 2026 07:43:12 GMT</pubDate>
-            <content:encoded><![CDATA[잠실 올림픽공원 2-1번 게이트 앞에서 미국 수사기관의 개입을 요구하는 목소리가 커지고 있습니다. 이곳에 모인 시위대들은 인천 송도에 있는 '세계선거기관협의회(A-WEB, Association of World Election Bodies)'가 전 세계에 부정선거를 수출하는 본거지라고 주장합니다. 그 배후에는 중국 공산당과 미국의 좌파 국제기구가 있다는 것이 이들이 미국의 개입을 애타게 호소하는 이유입니다. '부정선거 A-WEB, 한미공조 수사해'라는 구호를 외치면서 말이죠.<br><br>국내 문제를 두고 외국 수사기관에 도움을 요청하는 건, 내정 간섭을 자청하는 것은 아닐까요. 문제는 이 같은 황당한 주장이 잠실을 넘어 우리 사회 곳곳에 빠르게 퍼지고 있다는 것입니다. 기존 한미 극우 네트워크가 이 담론에 지속적인 생명력을 불어넣고 있고요. 이에 뉴스타파는 잠실 현장을 시작으로 다양한 전문가들을 만나며 'A-WEB 음모론'을 다각도로 팩트체크했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/IZrLg4L2Eko</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/jbJoW</span>]]></content:encoded>
+            <title><![CDATA[일그러진 언론, '조선'에 기자는 무엇인가 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260831170149955</link>
+            <guid>https://v.daum.net/v/20260831170149955</guid>
+            <pubDate>Mon, 31 Aug 2026 11:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260831170149955" class="link_column"><div class="cont_thumb"><strong class="tit_txt">일그러진 언론, '조선'에 기자는 무엇인가</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F31%2Fnewstapa%2F20260831170158644jnyc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F31%2Fnewstapa%2F20260831170158644jnyc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
-            <title><![CDATA[대통령 관저 감사는 어떻게 좌절됐나...유병호 공소장 전문 공개수정 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/114320296</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/114320296</guid>
-            <pubDate>Thu, 20 Aug 2026 06:47:53 GMT</pubDate>
-            <content:encoded><![CDATA[지난 7일 종합특검(권창영 특별검사)은 유병호 감사원 감사위원을 직권남용권리행사방해 혐의로 구속 기소했습니다. 대통령 관저 이전 관련 감사결과를 축소·은폐하기 위해 감사과정에 부당하게 관여한 혐의입니다.<br><br>뉴스타파는 공소장 전문을 입수, 국민 알 권리를 위해 주요 내용을 요약 보도합니다.  공소장에는 정권 핵심부, 특히 김건희 씨가 관여한 대통령 관저 이전에 대한 감사원의 감사가 어떻게 방해받고 좌절됐는지 상세히 기록돼 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/5oSNp</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[부정선거 음모론을 파헤치다] ②, '당일투표 수개표' 사전투표는 조작 가능한가? (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/114310536</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/114310536</guid>
-            <pubDate>Wed, 19 Aug 2026 10:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[이번 6.3 지방선거 인천 송도 사전투표에서 1, 2위 후보의 득표수가 동일하게 나오는 이른바 ’쌍둥이 득표‘가 발생했습니다. <br><br>이를 두고 장동혁 국민의힘 대표는 “5억 9천만 분의 1의 확률”이라며 사전투표 폐지론까지 제기했는데요. 과연 쌍둥이 득표는 선거 조작의 정황일까요, 아니면 통계적 우연일까요? <br><br>뉴스타파가 쌍둥이 득표 논란부터 잠실 시위 현장에서 퍼지는 '당일투표, 수개표' 구호까지, 반복되는 사전투표 의혹을 정밀 팩트체크했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/woRGZM2dXp4</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/G9HNY</span>]]></content:encoded>
+            <title><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ② “내란 지휘부에 타격” (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260831150637592</link>
+            <guid>https://v.daum.net/v/20260831150637592</guid>
+            <pubDate>Mon, 31 Aug 2026 11:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260831150637592" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ② “내란 지휘부에 타격”</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F31%2Fnewstapa%2F20260831150639038bxzy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F31%2Fnewstapa%2F20260831150639038bxzy.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[다큐 뉴스타파] 이재명 정부의 '실용적' 4대강 재자연화 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260828181637899</link>
             <guid>https://v.daum.net/v/20260828181637899</guid>
             <pubDate>Fri, 28 Aug 2026 13:56:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260828181637899" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파] 이재명 정부의 '실용적' 4대강 재자연화</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F28%2Fnewstapa%2F20260828181647471xjsu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260828181637899" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파] 이재명 정부의 '실용적' 4대강 재자연화</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F28%2Fnewstapa%2F20260828181647471xjsu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F28%2Fnewstapa%2F20260828181647471xjsu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3536,7 +3552,7 @@
             <link>https://v.daum.net/v/20260828141149594</link>
             <guid>https://v.daum.net/v/20260828141149594</guid>
             <pubDate>Fri, 28 Aug 2026 13:56:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260828141149594" class="link_column"><div class="cont_thumb"><strong class="tit_txt">공순이 : 이름이 된 직업</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F28%2Fnewstapa%2F20260828141155588dzya.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260828141149594" class="link_column"><div class="cont_thumb"><strong class="tit_txt">공순이 : 이름이 된 직업</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F28%2Fnewstapa%2F20260828141155588dzya.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F28%2Fnewstapa%2F20260828141155588dzya.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3544,14 +3560,14 @@
             <link>https://v.daum.net/v/20260827180148304</link>
             <guid>https://v.daum.net/v/20260827180148304</guid>
             <pubDate>Thu, 27 Aug 2026 16:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260827180148304" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 외국 청년에 떠민 노인 돌봄, 얼룩진 코리아 드림</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260827180148304" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 외국 청년에 떠민 노인 돌봄, 얼룩진 코리아 드림</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[변화]'입양기록 유출' 아동권리보장원 9억 과징금...뉴스타파 보도 2년 만 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260827173636969</link>
             <guid>https://v.daum.net/v/20260827173636969</guid>
             <pubDate>Thu, 27 Aug 2026 16:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260827173636969" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화]'입양기록 유출' 아동권리보장원 9억 과징금...뉴스타파 보도 2년 만</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F27%2Fnewstapa%2F20260827173638176kohk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260827173636969" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화]'입양기록 유출' 아동권리보장원 9억 과징금...뉴스타파 보도 2년 만</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F27%2Fnewstapa%2F20260827173638176kohk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F27%2Fnewstapa%2F20260827173638176kohk.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3559,7 +3575,7 @@
             <link>https://v.daum.net/v/20260827170148845</link>
             <guid>https://v.daum.net/v/20260827170148845</guid>
             <pubDate>Thu, 27 Aug 2026 16:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260827170148845" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘조성현 기소’ 종합특검-내란특검 30일 공문 전쟁 ①</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F27%2Fnewstapa%2F20260827170150491eich.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260827170148845" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘조성현 기소’ 종합특검-내란특검 30일 공문 전쟁 ①</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F27%2Fnewstapa%2F20260827170150491eich.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F27%2Fnewstapa%2F20260827170150491eich.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3567,7 +3583,7 @@
             <link>https://v.daum.net/v/20260827162637144</link>
             <guid>https://v.daum.net/v/20260827162637144</guid>
             <pubDate>Thu, 27 Aug 2026 16:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260827162637144" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[AI데이터센터의 대가] ① 미국 빅테크 “비용 다 내겠다” VS 한국 기업 “예산 지원, 세액공제 해 달라”</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F27%2Fnewstapa%2F20260827162638534szuw.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260827162637144" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[AI데이터센터의 대가] ① 미국 빅테크 “비용 다 내겠다” VS 한국 기업 “예산 지원, 세액공제 해 달라”</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F27%2Fnewstapa%2F20260827162638534szuw.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F27%2Fnewstapa%2F20260827162638534szuw.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3575,7 +3591,7 @@
             <link>https://v.daum.net/v/20260827160148887</link>
             <guid>https://v.daum.net/v/20260827160148887</guid>
             <pubDate>Thu, 27 Aug 2026 16:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260827160148887" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;의원님의 변호사비&gt; ②반환 대상 알고도 선관위는 두 달 뭉갰다… 최강욱 사례</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F27%2Fnewstapa%2F20260827160156993ikmc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260827160148887" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;의원님의 변호사비&gt; ②반환 대상 알고도 선관위는 두 달 뭉갰다… 최강욱 사례</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F27%2Fnewstapa%2F20260827160156993ikmc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F27%2Fnewstapa%2F20260827160156993ikmc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3583,7 +3599,7 @@
             <link>https://v.daum.net/v/20260826174637868</link>
             <guid>https://v.daum.net/v/20260826174637868</guid>
             <pubDate>Wed, 26 Aug 2026 09:43:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260826174637868" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[해설 사법개혁] ⑥ 조희대는 왜 이렇게 대법관을 제청했나</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F26%2Fnewstapa%2F20260826174638540logt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260826174637868" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[해설 사법개혁] ⑥ 조희대는 왜 이렇게 대법관을 제청했나</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F26%2Fnewstapa%2F20260826174638540logt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F26%2Fnewstapa%2F20260826174638540logt.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3599,7 +3615,7 @@
             <link>https://v.daum.net/v/20260824171650864</link>
             <guid>https://v.daum.net/v/20260824171650864</guid>
             <pubDate>Mon, 24 Aug 2026 09:00:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824171650864" class="link_column"><div class="cont_thumb"><strong class="tit_txt">리박스쿨 댓글부대 ‘배후 세력’ 추적</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824171702512dpoy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824171650864" class="link_column"><div class="cont_thumb"><strong class="tit_txt">리박스쿨 댓글부대 ‘배후 세력’ 추적</strong><span class="info_txt"><span class="txt_info">2026. 8. 24.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824171702512dpoy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824171702512dpoy.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3607,7 +3623,7 @@
             <link>https://v.daum.net/v/20260824153136094</link>
             <guid>https://v.daum.net/v/20260824153136094</guid>
             <pubDate>Mon, 24 Aug 2026 07:00:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824153136094" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서]이재명 정부와 AI '숫자 놀음'</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824153138211aegd.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824153136094" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서]이재명 정부와 AI '숫자 놀음'</strong><span class="info_txt"><span class="txt_info">2026. 8. 24.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824153138211aegd.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824153138211aegd.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3615,7 +3631,7 @@
             <link>https://v.daum.net/v/20260824151648308</link>
             <guid>https://v.daum.net/v/20260824151648308</guid>
             <pubDate>Mon, 24 Aug 2026 07:00:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824151648308" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;의원님의 변호사비&gt; 추적… 미반환 소송 비용 최초 검증</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824152939335hbxe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260824151648308" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;의원님의 변호사비&gt; 추적… 미반환 소송 비용 최초 검증</strong><span class="info_txt"><span class="txt_info">2026. 8. 24.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824152939335hbxe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F24%2Fnewstapa%2F20260824152939335hbxe.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3745,22 +3761,6 @@
             <pubDate>Wed, 12 Aug 2026 01:59:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260812100137731" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[다큐 뉴스타파]6억, 6백 그리고 0원_삼성 반도체 성과급, 보상은 공정했나?</strong><span class="info_txt"><span class="txt_info">2026. 8. 12.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F12%2Fnewstapa%2F20260812100201687rhub.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F12%2Fnewstapa%2F20260812100201687rhub.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘현장 사진 지워라’ KTX 공사현장 죽음 뒤의 거짓말 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260810182137767</link>
-            <guid>https://v.daum.net/v/20260810182137767</guid>
-            <pubDate>Mon, 10 Aug 2026 09:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260810182137767" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘현장 사진 지워라’ KTX 공사현장 죽음 뒤의 거짓말</strong><span class="info_txt"><span class="txt_info">2026. 8. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F10%2Fnewstapa%2F20260810182152672exst.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F10%2Fnewstapa%2F20260810182152672exst.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘조성현 기소’ 종합특검-내란특검 최후의 공방 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260807160137066</link>
-            <guid>https://v.daum.net/v/20260807160137066</guid>
-            <pubDate>Fri, 07 Aug 2026 07:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260807160137066" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘조성현 기소’ 종합특검-내란특검 최후의 공방</strong><span class="info_txt"><span class="txt_info">2026. 8. 7.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F07%2Fnewstapa%2F20260807160138326pajt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F07%2Fnewstapa%2F20260807160138326pajt.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
