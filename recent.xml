@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Sep 2026 03:56:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 09:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN][협찬방송 대해부]③ “홈쇼핑 먼저 잡고 방송 찾는다”…연계편성의 비밀]]></title>
+            <link>http://newstapa.org/article/--Fhu</link>
+            <guid>http://newstapa.org/article/--Fhu</guid>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN][협찬방송 대해부]③ “홈쇼핑 먼저 잡고 방송 찾는다”…연계편성의 비밀]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/01141457-3F56-EBFE-6F2F-T8XFZR8UV067BI9VUK4D.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일그러진 언론, '조선'에 기자는 무엇인가]]></title>
             <link>http://newstapa.org/article/fBhSZ</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24094749-1D31-0EF4-EB05-P3CDVDR2O4BNTP3DIIQ2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<부정선거 음모론을 파헤치다> 4편, '선거에 중국이 개입했다'는 주장, 사실인가]]></title>
-            <link>http://newstapa.org/article/J_fkU</link>
-            <guid>http://newstapa.org/article/J_fkU</guid>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 4편, '선거에 중국이 개입했다'는 주장, 사실인가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24110933-23A8-EB52-3334-4SLRO11F55GGSBVJVGGK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
