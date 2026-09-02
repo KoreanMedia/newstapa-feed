@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Sep 2026 03:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 08:30:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AI데이터센터의 대가] ②미국에서 급증하는 전력망 불안…'뒷문' 열어준 한국]]></title>
+            <link>http://newstapa.org/article/m4rqA</link>
+            <guid>http://newstapa.org/article/m4rqA</guid>
+            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[AI데이터센터의 대가] ②미국에서 급증하는 전력망 불안…'뒷문' 열어준 한국]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/02164104-A07F-5323-52D4-E4NYTFRRH8M5IBHFGUKP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<의원님의 변호사비> ③기본적인 지출 확인에도 진땀 빼는 선관위…유승희 사례]]></title>
+            <link>http://newstapa.org/article/2OO8C</link>
+            <guid>http://newstapa.org/article/2OO8C</guid>
+            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;의원님의 변호사비&gt; ③기본적인 지출 확인에도 진땀 빼는 선관위…유승희 사례]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/02152408-1840-1F90-B72C-H8UQ9MSFAFLN7ZP9IHTM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN][협찬방송 대해부]③ “홈쇼핑 먼저 잡고 방송 찾는다”…연계편성의 비밀]]></title>
             <link>http://newstapa.org/article/--Fhu</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서]이재명 정부와 AI '숫자 놀음']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24152336-80C7-CA73-84B4-KT0YYTHEAU05V2V08Z00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<의원님의 변호사비> 추적… 미반환 소송 비용 최초 검증]]></title>
-            <link>http://newstapa.org/article/7bmNh</link>
-            <guid>http://newstapa.org/article/7bmNh</guid>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;의원님의 변호사비&gt; 추적… 미반환 소송 비용 최초 검증]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24150009-F3C0-2217-BC24-SFY3AJQ4P8T5CCEOKD2Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월]]></title>
-            <link>http://newstapa.org/article/X53vu</link>
-            <guid>http://newstapa.org/article/X53vu</guid>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24094749-1D31-0EF4-EB05-P3CDVDR2O4BNTP3DIIQ2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
