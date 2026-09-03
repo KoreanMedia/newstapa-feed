@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Sep 2026 03:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 08:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리박스쿨 댓글조작 교육 강사, 국힘 추천 전직 EBS 이사였다]]></title>
+            <link>http://newstapa.org/article/8Dn-F</link>
+            <guid>http://newstapa.org/article/8Dn-F</guid>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리박스쿨 댓글조작 교육 강사, 국힘 추천 전직 EBS 이사였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/03173525-4FBC-0EBA-5E69-UUF01I1CXHJAPU6M22R6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<의원님의 변호사비> ④판결문 하나 받는데도 쩔쩔매는 선관위… 정진석 사례]]></title>
+            <link>http://newstapa.org/article/wY2Xn</link>
+            <guid>http://newstapa.org/article/wY2Xn</guid>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;의원님의 변호사비&gt; ④판결문 하나 받는데도 쩔쩔매는 선관위… 정진석 사례]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/03164208-59CD-4686-5CB7-OLKV736DWQP9CF9W6DEH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[AI데이터센터의 대가] ②미국에서 급증하는 전력망 불안…'뒷문' 열어준 한국]]></title>
             <link>http://newstapa.org/article/m4rqA</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;의원님의 변호사비&gt; ①불법 변호에 못 쓰는데 선관위는 놓쳤다…황보승희 사례]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/25173011-A87E-1ABA-17FB-43O7KYRIDC4WQLBRT3NY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리박스쿨 댓글부대 ‘배후 세력’ 추적]]></title>
-            <link>http://newstapa.org/article/yqlKt</link>
-            <guid>http://newstapa.org/article/yqlKt</guid>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[리박스쿨 댓글부대 ‘배후 세력’ 추적]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24170801-7F30-2E70-975B-80KPZI11K087ANNAQEZX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서]이재명 정부와 AI '숫자 놀음']]></title>
-            <link>http://newstapa.org/article/_ZsiX</link>
-            <guid>http://newstapa.org/article/_ZsiX</guid>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서]이재명 정부와 AI '숫자 놀음']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24152336-80C7-CA73-84B4-KT0YYTHEAU05V2V08Z00.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

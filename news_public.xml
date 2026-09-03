@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Sep 2026 03:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 08:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리박스쿨 댓글조작 교육 강사, 국힘 추천 전직 EBS 이사였다]]></title>
+            <link>http://newstapa.org/article/8Dn-F</link>
+            <guid>http://newstapa.org/article/8Dn-F</guid>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[리박스쿨 댓글조작 교육 강사, 국힘 추천 전직 EBS 이사였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/03173525-4FBC-0EBA-5E69-UUF01I1CXHJAPU6M22R6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<의원님의 변호사비> ④판결문 하나 받는데도 쩔쩔매는 선관위… 정진석 사례]]></title>
+            <link>http://newstapa.org/article/wY2Xn</link>
+            <guid>http://newstapa.org/article/wY2Xn</guid>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;의원님의 변호사비&gt; ④판결문 하나 받는데도 쩔쩔매는 선관위… 정진석 사례]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/03164208-59CD-4686-5CB7-OLKV736DWQP9CF9W6DEH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<의원님의 변호사비> ③기본적인 지출 확인에도 진땀 빼는 선관위…유승희 사례]]></title>
             <link>http://newstapa.org/article/2OO8C</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['반 이재명’ 집회 후 성남시 수의계약 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/14163551-A594-3308-6805-X18YCF5EL1Y2Q9867QMH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘조성현 기소’ 종합특검-내란특검 최후의 공방]]></title>
-            <link>http://newstapa.org/article/o23oC</link>
-            <guid>http://newstapa.org/article/o23oC</guid>
-            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘조성현 기소’ 종합특검-내란특검 최후의 공방]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/07155542-0221-48C7-3869-VNXU7ND6H0WVQVM76UXC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내란특검이 ‘박성재 공소기각’ 항소 취하한 속사정]]></title>
-            <link>http://newstapa.org/article/EIeuj</link>
-            <guid>http://newstapa.org/article/EIeuj</guid>
-            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[내란특검이 ‘박성재 공소기각’ 항소 취하한 속사정]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/06144229-16B7-EB21-AAA3-VN124BZOXY9V4Y7Z19AZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
