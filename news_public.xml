@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Sep 2026 08:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 13:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[리박스쿨 댓글조작 교육 강사, 국힘 추천 전직 EBS 이사였다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/03173525-4FBC-0EBA-5E69-UUF01I1CXHJAPU6M22R6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 뛰고, 묻고, 찍어야 비로소 보이는 것들]]></title>
+            <link>http://newstapa.org/article/_JETy</link>
+            <guid>http://newstapa.org/article/_JETy</guid>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 뛰고, 묻고, 찍어야 비로소 보이는 것들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/03165113-2FFD-8D8C-6F77-NH0F1ATAVFY3QKYQH84Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<의원님의 변호사비> ④판결문 하나 받는데도 쩔쩔매는 선관위… 정진석 사례]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;부정선거 음모론을 파헤치다&gt; 1편, ‘부정선거, 재선거’ 구호는 타당한가]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/20172648-FD2C-6D79-EF9A-F82GGTAQ0IGIYJ76RL5A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['반 이재명’ 집회 후 성남시 수의계약 의혹]]></title>
-            <link>http://newstapa.org/article/sd3k2</link>
-            <guid>http://newstapa.org/article/sd3k2</guid>
-            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['반 이재명’ 집회 후 성남시 수의계약 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/14163551-A594-3308-6805-X18YCF5EL1Y2Q9867QMH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
