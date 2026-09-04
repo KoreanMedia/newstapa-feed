@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Sep 2026 05:45:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 10:51:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ③ “박정훈에게 맡기자”]]></title>
+            <link>http://newstapa.org/article/Qg_CX</link>
+            <guid>http://newstapa.org/article/Qg_CX</guid>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ③ “박정훈에게 맡기자”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/04145203-C077-8256-4F25-HKJICZRSW9QCIGOO1520.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리박스쿨 댓글조작 교육 강사, 국힘 추천 전직 EBS 이사였다]]></title>
             <link>http://newstapa.org/article/8Dn-F</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;의원님의 변호사비&gt; ②반환 대상 알고도 선관위는 두 달 뭉갰다… 최강욱 사례]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/27155625-5238-FD47-AEB7-OIRHX8O4XNU22ZXETPHI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해설 사법개혁] ⑥ 조희대는 왜 이렇게 대법관을 제청했나]]></title>
-            <link>http://newstapa.org/article/efsnA</link>
-            <guid>http://newstapa.org/article/efsnA</guid>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해설 사법개혁] ⑥ 조희대는 왜 이렇게 대법관을 제청했나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/26154419-95A6-5984-D80B-HENC4MCZS6GBMU8I16TF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
