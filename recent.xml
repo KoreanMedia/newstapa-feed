@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Sep 2026 05:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 10:46:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<의원님의 변호사비> ⑤부정 선거, 언론 공격 다 된다... '원고 소송' 정치자금 추적]]></title>
+            <link>http://newstapa.org/article/_v35_</link>
+            <guid>http://newstapa.org/article/_v35_</guid>
+            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;의원님의 변호사비&gt; ⑤부정 선거, 언론 공격 다 된다... '원고 소송' 정치자금 추적]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/08152553-ECA7-381C-5DF9-SBQ9PEKYWX7FRN8VXHRS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[종합특검 핵심 관계자 “조성현 구속까지 검토했으나, 정부 입장 고려해...”]]></title>
             <link>http://newstapa.org/article/jIlF6</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[다큐 뉴스타파] 이재명 정부의 '실용적' 4대강 재자연화]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/28180859-A884-A9B9-DDC5-XUTBNOQPNYR4G8EBZNIC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공순이 : 이름이 된 직업]]></title>
-            <link>http://newstapa.org/article/m2k8e</link>
-            <guid>http://newstapa.org/article/m2k8e</guid>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공순이 : 이름이 된 직업]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/28141012-4497-6C9F-1CE4-05MJ8BB9EKBWO96NXR29.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
