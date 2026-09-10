@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Sep 2026 05:50:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 10:48:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 내주고 빼주는 AI 속도전, 국민 몫 데이터센터의 대가]]></title>
+            <link>http://newstapa.org/article/CNIe0</link>
+            <guid>http://newstapa.org/article/CNIe0</guid>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 내주고 빼주는 AI 속도전, 국민 몫 데이터센터의 대가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/10175719-FE94-55F6-9B21-ZY4QG2EZEZJHC5Z9WBV4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<의원님의 변호사비> ⑥'6개월'간 '방문 열람'만 가능… 선관위의 이상한 정보공개]]></title>
+            <link>http://newstapa.org/article/HfO-j</link>
+            <guid>http://newstapa.org/article/HfO-j</guid>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;의원님의 변호사비&gt; ⑥'6개월'간 '방문 열람'만 가능… 선관위의 이상한 정보공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/10165406-3F03-A2D1-4FC8-75SK68C8TEMVYVZ3B8SK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰과 체불왕⑥ '대국민 사기극' 박영우, 그 딸도 뻔뻔한 거짓말]]></title>
             <link>http://newstapa.org/article/1_Yp3</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;의원님의 변호사비&gt; ③기본적인 지출 확인에도 진땀 빼는 선관위…유승희 사례]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/02152408-1840-1F90-B72C-H8UQ9MSFAFLN7ZP9IHTM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN][협찬방송 대해부]③ “홈쇼핑 먼저 잡고 방송 찾는다”…연계편성의 비밀]]></title>
-            <link>http://newstapa.org/article/--Fhu</link>
-            <guid>http://newstapa.org/article/--Fhu</guid>
-            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN][협찬방송 대해부]③ “홈쇼핑 먼저 잡고 방송 찾는다”…연계편성의 비밀]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/01141457-3F56-EBFE-6F2F-T8XFZR8UV067BI9VUK4D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일그러진 언론, '조선'에 기자는 무엇인가]]></title>
-            <link>http://newstapa.org/article/fBhSZ</link>
-            <guid>http://newstapa.org/article/fBhSZ</guid>
-            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[일그러진 언론, '조선'에 기자는 무엇인가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/31165439-EA01-D254-63DC-CDNG7MBG19NANY6T16G5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

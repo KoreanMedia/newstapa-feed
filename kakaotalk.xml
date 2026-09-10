@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-09-10T05:50:29.811Z</updated>
+    <updated>2026-09-10T10:48:53.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/4720614/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 뉴스타파] 내주고 빼주는 AI 속도전, 국민 몫 데이터센터의 대가]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/114548708</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/114548708"/>
+        <updated>2026-09-10T10:48:44.648Z</updated>
+        <content type="html"><![CDATA[[🔴라이브 예고] 당신은 로봇입니까? 인터넷 공간에서 인간임을 증명하는 수단마저 무용해졌습니다. 최신 AI 모델이 '캡차' 게임 48단계를 모두 통과했다는 뉴스가 전해졌습니다. 늦출 수도, 피할 수 없는 없는 변화가 우리 삶에 임박했습니다. <br><br>정부는 속도전으로 대응하고 있습니다. 'AI 3대 강국'이라는 목표를 내걸고 승자 독식의 기술 패권 경쟁에 뛰어들었습니다. 2000조 원에 이르는 자금을 투입하고, 일선 기업에게 규제 완화, 세제 혜택, 인프라 구축을 지원하는 올인 정책을 펴고 있습니다.<br><br>하지만 정작 우리 앞 선두주자들은 'AI 백래시'에 봉착한 상탭니다. 그 중심에는 AI 데이터센터가 있습니다. 지역의 물과 전력 자원을 빨아들이고, 소음 등 환경 피해를 낳는 통에 사회 갈등 비용을 날로 커지고 있습니다. 이윤은 기업이 독식하는데, 비용과 위험은 공동체가 함께 부담해야 한다는 진실이 속속 드러나며 대책 마련에 고심하고 있습니다. 머잖아 우리도 맞닥뜨리게 될 문제입니다. 내주고, 봐주고, 빼줘서라도 따라잡아야 한다는 속도전의 대가는 결국 후불제로 돌아올 수밖에 없습니다.<br><br>오늘 밤 9시 라이브로 진행되는 주간 뉴스타파 라이브에는 이 문제 연속 보도한 조원일 기자, 시민사회를 대표하는 에너지 정책 전문가 이헌석 에너지정의행동 정책위원이 출연합니다. <br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://www.youtube.com/live/fYbEuQB_Vv8</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<의원님의 변호사비> ⑥'6개월'간 '방문 열람'만 가능… 선관위의 이상한 정보공개]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/114547819</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/114547819"/>
+        <updated>2026-09-10T10:48:44.650Z</updated>
+        <content type="html"><![CDATA[국회의원이 공적 자금인 정치자금을 사유화, 오·남용했는지 검증하기 위해서는 구체적인 사용처가 나와 있는 '증빙 자료'를 봐야 합니다. 단순 '회계보고서'만으로는 지출 목적 등을 알기 어렵기 때문에 영수증 등 세부 증빙 자료를 살펴봐야 하는 겁니다. <br><br>하지만 선관위가 이 증빙 자료를 공개하는 방식에 여러 제약이 있습니다. ▲열람 기한은 단 6개월이고 ▲복사는 불가, 오로지 '방문 열람'만 가능하며 ▲지난 연도 자료는 비공개, 딱 그 해의 증빙 자료만 볼 수 있습니다. <br><br>뉴스타파는 정치자금법 42조 2항에 근거한, 이 같은 공개 방식이 국민의 알권리를 침해한다고 판단했습니다. 이에 이 법률에 대한 헌법소원을 제기할 예정입니다. 뉴스타파의 기획 보도 &lt;의원님의 변호사비&gt; 여섯 번째 편입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/JGiQN8eZLDk</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/HfO-j</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검찰과 체불왕⑥ '대국민 사기극' 박영우, 그 딸도 뻔뻔한 거짓말]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/114532757</id>
@@ -130,19 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/114460136"/>
         <updated>2026-09-02T08:30:44.323Z</updated>
         <content type="html"><![CDATA[미국은 2025년 상반기 대규모 데이터센터의 전력망 연쇄 이탈 사고가 발생한 후 본격적인 규제 논의에 착수했습니다. 조사 결과 전력망 사업자들이 AI 데이터센터발 위기 상황에 대처할 준비가 부족하다는 사실도 드러났습니다. 이에 따라 개별 AI데이터센터 사업자에 대한 자율적 권고 조치로는 부족하다는 판단하에 강제 이행 기준을 마련하고 있는 상황입니다. 무엇보다, 과거 발전소나 송전망 같은 전력 공급자 중심으로 적용됐던 전력망 규제 기준을 AI 데이터센터와 같은 대규모 전력 수요자에게도 적용해야 한다는 원칙을 확립했습니다. <br><br>그런데 같은 시간 한국은 정반대로 움직이고 있습니다. AI데이터센터가 가져올 전력망 위기에 대비하는 대신 사업자에게 예외를 인정해 주는 ‘뒷문’까지 제공하고 있습니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/m4rqA</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[의원님의 변호사비] ③기본적인 지출 확인에도 진땀 빼는 선관위… 유승희 사례]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/114459283</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/114459283"/>
-        <updated>2026-09-02T08:30:44.324Z</updated>
-        <content type="html"><![CDATA[국회의원의 정치자금 부정 사용을 막기 위해 선거관리위원회가 갖춘 관리 체계가, 정작 현장에서는 어떤 사건에 정치자금이 쓰였는지 즉각 파악하지 못할 정도로 구멍이 뚫려있는 것으로 확인됐습니다. 더불어민주당 소속 3선 국회의원을 지낸 유승희 전 의원 사례가 대표적입니다. <br><br>지출 내용을 확인하고, 확정 판결 이후 정치자금 반환 절차를 밟아야 하는 선관위는 "현재로서 (지출 내용이) 확인이 안 된다"고 합니다. 왜일까요. &lt;의원님의 변호사비&gt; 세 번째 편에서 그 시스템 허점을 다룹니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/PNseTcqeRvA</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/2OO8C</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[다큐 클립] 보를 열자 녹조가 사라졌다… 낙동강은 왜 못 여나]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/114457368</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/114457368"/>
-        <updated>2026-09-02T08:30:44.324Z</updated>
-        <content type="html"><![CDATA[보로 물길을 막은 뒤 낙동강에는 해마다 녹조가 창궐했습니다. 녹조는 강에만 머물지 않았습니다. 녹조 물은 농경지로 들어갔고 농산물과 주민들의 콧속에서 독소가 검출됐습니다. 올해는 낙동강 주민들의 소변에서도 녹조 독소 마이크로시스틴이 나왔습니다.<br><br>그렇다면 녹조를 줄일 방법은 없을까요? 수문을 연 금강에서는 녹조가 크게 줄고 모래톱과 여울이 돌아왔습니다. 그런데 이재명 정부는 보 개방보다 오염물질을 줄이는 데 훨씬 많은 예산을 투입하고 있습니다. 녹조를 줄이는 가장 효과적인 방법은 무엇인지, 낙동강과 금강을 비교해 확인했습니다.<br><br>지난 8월 28일 방송된 〈이재명 정부의 '실용적' 4대강 재자연화 〉의 클립 영상입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/TTNmR1cU10M</span><br>👉 &lt;다큐 뉴스타파&gt; 풀버전 보러가기 : <span class="link_url">https://youtu.be/eF5cyM2eOBY</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/b-IbD</span>]]></content>
     </entry>
 </feed>

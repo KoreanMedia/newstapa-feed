@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Sep 2026 05:50:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 10:48:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<의원님의 변호사비> ⑥'6개월'간 '방문 열람'만 가능… 선관위의 이상한 정보공개]]></title>
+            <link>http://newstapa.org/article/HfO-j</link>
+            <guid>http://newstapa.org/article/HfO-j</guid>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;의원님의 변호사비&gt; ⑥'6개월'간 '방문 열람'만 가능… 선관위의 이상한 정보공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/10165406-3F03-A2D1-4FC8-75SK68C8TEMVYVZ3B8SK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["검찰총장 인사청문회 때 왜 말바꿨나"...'윤석열 당선 무효' 걸린 항소심 시작]]></title>
             <link>http://newstapa.org/article/MTm8L</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[리박스쿨 댓글부대 ‘배후 세력’ 추적]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24170801-7F30-2E70-975B-80KPZI11K087ANNAQEZX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<의원님의 변호사비> 추적… 미반환 소송 비용 최초 검증]]></title>
-            <link>http://newstapa.org/article/7bmNh</link>
-            <guid>http://newstapa.org/article/7bmNh</guid>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;의원님의 변호사비&gt; 추적… 미반환 소송 비용 최초 검증]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/24150009-F3C0-2217-BC24-SFY3AJQ4P8T5CCEOKD2Q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
