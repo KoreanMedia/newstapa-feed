@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Sep 2026 04:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 09:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] 타이완 대법관 파동과 한국 대법관 논란의 다른 미래]]></title>
+            <link>http://newstapa.org/article/5Mq41</link>
+            <guid>http://newstapa.org/article/5Mq41</guid>
+            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 타이완 대법관 파동과 한국 대법관 논란의 다른 미래]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/16134734-F1F8-7B34-A595-YC1H0E19K9SGYM4E2KCO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유⑩ 뉴스타파 침탈 3년…검사는 사라지고 재판만 계속]]></title>
             <link>http://newstapa.org/article/RNxB3</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;죄 만드는 검(檢)&gt; ④ 주권자에 '사법 폭력' 가한 10명 중 8명이 승진하는 나라]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/07142012-1D20-C11E-E416-BKHNZBXKL3JL4RNQYTBK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내란특검이 ‘박성재 공소기각’ 항소 취하한 속사정]]></title>
-            <link>http://newstapa.org/article/EIeuj</link>
-            <guid>http://newstapa.org/article/EIeuj</guid>
-            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[내란특검이 ‘박성재 공소기각’ 항소 취하한 속사정]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/06144229-16B7-EB21-AAA3-VN124BZOXY9V4Y7Z19AZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
