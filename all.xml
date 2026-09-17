@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Sep 2026 05:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 11:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 빚 멍에 쓴 외국인 선원, K-어업 '나라 망신' 피라미드 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/hf4_C</link>
+            <guid>http://newstapa.org/article/hf4_C</guid>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 빚 멍에 쓴 외국인 선원, K-어업 '나라 망신' 피라미드]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/17174359-B231-7FF9-60BE-0X0UX3KZJPFPSHSFW1DG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 조선일보 자회사 매출 걱정한 노동위... '기업 압력에 기자, 콜센터 보내도 된다' (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/dGIhz</link>
+            <guid>http://newstapa.org/article/dGIhz</guid>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 조선일보 자회사 매출 걱정한 노동위... '기업 압력에 기자, 콜센터 보내도 된다']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/17145007-36CB-9EA2-0B5E-3PFHUCMG1E37HH6S5V4L.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[칼럼] 타이완 대법관 파동과 한국 대법관 논란의 다른 미래 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/5Mq41</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘항공권 조작 지방의원 명단’ 2심도 공개 판결 "수사 중이라도 비공개 정보 아냐"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/07143432-9AEA-4FC4-B8F4-ZX5L1FWXJZ3SG8502BYI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] 이재명 정부의 국가기록관리는 어디로 가는가? (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/gUNJ3</link>
-            <guid>http://newstapa.org/article/gUNJ3</guid>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] 이재명 정부의 국가기록관리는 어디로 가는가?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/07145335-88A6-4D18-E152-5QZSALTBHHFA21RYGYEH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ③ “박정훈에게 맡기자” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Qg_CX</link>
-            <guid>http://newstapa.org/article/Qg_CX</guid>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ③ “박정훈에게 맡기자”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/04145203-C077-8256-4F25-HKJICZRSW9QCIGOO1520.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유⑩ 뉴스타파 침탈 3년…검사는 사라지고 재판만 계속 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1800,6 +1800,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/02/04194535-09AE-A97E-EDD5-PJ4VPZLV98WLNULDCBPS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 빚 멍에 쓴 외국인 선원, K-어업 '나라 망신' 피라미드 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
+            <link>http://newstapa.org/article/hf4_C</link>
+            <guid>http://newstapa.org/article/hf4_C</guid>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 빚 멍에 쓴 외국인 선원, K-어업 '나라 망신' 피라미드]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/17174359-B231-7FF9-60BE-0X0UX3KZJPFPSHSFW1DG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[K-어업의 브로커들] ②“빌런은 수협”…불법을 부르는 ‘선원관리 계약서’ 입수 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
             <link>http://newstapa.org/article/94w2W</link>
             <guid>http://newstapa.org/article/94w2W</guid>
@@ -1918,14 +1926,6 @@
             <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[한일 공동취재] 일본 탄사, ‘TM 문건’ 속 통일교-자민당 추적]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/23185041-2D82-6660-4DF0-OGD1T5E5JZQQU6IY3A16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 두니아, 캄보디아 스캠 조직 내부문건 입수… ‘연가 일수’까지 파악 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
-            <link>http://newstapa.org/article/_uRUx</link>
-            <guid>http://newstapa.org/article/_uRUx</guid>
-            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 두니아, 캄보디아 스캠 조직 내부문건 입수… ‘연가 일수’까지 파악]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/21142354-8BEA-370A-BE30-SI2W8ZL5V02DRZZD3JWZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 조선일보 자회사 매출 걱정한 노동위... '기업 압력에 기자, 콜센터 보내도 된다' (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
@@ -3384,6 +3384,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26100538-D789-2DE1-C108-BOE9IBAJU3N3IT1CWEDQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[🔴주간 뉴스타파] 빚 멍에 쓴 외국인 선원, K-어업 '나라 망신' 피라미드 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/114622056</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/114622056</guid>
+            <pubDate>Thu, 17 Sep 2026 11:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[[🔴지금 시청하세요] 이 보도를 보시면 식탁 위에 오른 생선구이를 보며 생각이 많아질 수도 있습니다. 흔들리는 어선 갑판 위, 누군가 피땀을 흘려 그물을 던지고 올려 오늘의 반찬거리를 댑니다. 1996년 처음으로 외국인 산업기술연수생 18명이 한국 어선에 오른 지 30년, 이제 이 일을 감당하는 선원 절반 이상은 외국인입니다. <br><br>뉴스타파는 지난 8개월간 인도네시아 현지 독립언론 자링, 글로벌 비영리단체 환경정의재단(EJF) 등과 함께 한국 어선에 오른 외국인 선원의 열악한 노동 환경, 불공정 계약 행태를 들여다보는 국제 협업 취재를 진행했습니다. 외국인 선원들은 코리아 드림을 꿈꾸며 5년 치 임금에 해당하는 돈을 치르고 한국 어선에 오르지만, 그를 기다리고 있는 것은 비용과 책임을 떠넘기는 우리 어업의 고질적인 피라미드 구조였습니다. <br><br>앞서 뉴스타파는 외국인 선원이 치르는 1300만 원 송출비의 내막을 들여다보고, 처우 개선보다 이탈 방지에 초점을 맞추는 수협의 불공정 계약 행태를 고발했습니다. 이어 오늘은 선원에게 '이탈 보증금'을 부담시키는 기형적인 산업 구조와 이 돈을 편취하기 위한 업체들의 천태만상을 보도합니다. 또 이러한 K-어업의 치부가 국제 사회에서 한국에 대한 평판을 떨어뜨리는 망신살이가 되고 있다는 점도 전합니다.<br><br>오늘 밤 9시 주간 뉴스타파에는 'K-어업의 브로커들' 시리즈를 연속 보도하고 있는 홍우람, 김지윤 기자가 출연합니다. 많은 시청과 관심 바랍니다!<br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://www.youtube.com/live/p6GJpsJAKAk</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 노동위, 기업 압력에 기자를 콜센터 보내도 된다? (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/114618698</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/114618698</guid>
+            <pubDate>Thu, 17 Sep 2026 11:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[조선일보 자회사인 조선뉴스프레스의 기자가 콜센터 등 비보도부서로 전직된 사건에 대해 서울지방노동위원회가 '부당전직이 아니다'고 판정했습니다. 해당 기자는 조선뉴스프레스의 매출을 올려주는 기업 측으로부터 항의를 받은 뒤 콜센터로 인사 조치됐는데, 지노위는 이에 대해 "주요 거래처와 신뢰 관계 회복을 위해 업무상 필요한" 조치였다고 봤습니다. 행정기관조차 언론의 자본 종속을 기정사실화한다는 점에서 우려스러운 판정이 아닐 수 없습니다. <br><br>또 판정서를 보니 지노위가 기본적인 사실관계도 잘 파악하지 않은 것으로 보이는 내용도 있었습니다. 해당 기자는 중앙노동위원회에 재심을 신청할 계획입니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/dGIhz</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[칼럼] 타이완 대법관 파동과 한국 대법관 논란의 다른 미래 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/114604785</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/114604785</guid>
@@ -3510,18 +3524,20 @@
             <content:encoded><![CDATA[최근 국회 행정안전위원회는 공공기록물법 개정안을 의결하고 법제사법위원회에 회부했습니다. 개정안의 핵심적인 내용은 ‘국가기록관리의 총괄·조정의 권한’을 중앙 기록물 관리기관인 국가기록원에서 행정안전부로 변경한다는 것입니다. <br><br>지난 2024년 기록관리 학계 등 전문가 단체가 국가기록관리의 독립성 문제를 근거로 반대하여 거두어들인 법안이 이번에 의원입법으로 다시 등장한 것입니다. 조해원 전문위원은 국가기록물 관리 제도가 이재명 정부에 이르러 오히려 제도 도입 이전의 과거로 돌아가고 있다고 지적합니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/gUNJ3</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴스타파 탐사로드 : 좋은 언론의 조건 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/114489022</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/114489022</guid>
-            <pubDate>Fri, 04 Sep 2026 10:51:37 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파 제작진들이 전국의 회원들을 직접 만나러 떠납니다! 뉴스타파의 오프라인 회원 초청 시사회인 '뉴스타파 탐사로드'가 부산 롯데시네마 센텀시티에서 첫선을 보였습니다. 예상보다 많은 171명의 후원 회원들이 현장을 찾으면서 상영관 복도까지 인원들이 가득 차는 성황을 이뤘습니다.<br><br>이날 행사에는 뉴스타파 목격자들 '공순이'와 미니다큐 '리박스쿨 재판기록'이 선공개됐습니다. 또 제작진들과의 토크, 선물과 경품 증정, 기념촬영 등 다채로운 행사가 진행됐습니다. 앞으로도 전국의 후원회원들을 만나기 위한 뉴스타파 탐사로드는 계속될 예정입니다.<br><br>이 영상은 8월 22일 부산·경남 회원들과 함께한 탐사로드 현장 모습을 담고 있습니다. <br><br>👉 뉴스타파 탐사로드 부산·경남 현장영상 바로보기 : <span class="link_url">https://youtu.be/fJ2YpURNMp0</span>]]></content:encoded>
+            <title><![CDATA[[주간 뉴스타파] 빚 멍에 쓴 외국인 선원, K-어업 '나라 망신' 피라미드 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260917175651788</link>
+            <guid>https://v.daum.net/v/20260917175651788</guid>
+            <pubDate>Thu, 17 Sep 2026 11:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260917175651788" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 빚 멍에 쓴 외국인 선원, K-어업 '나라 망신' 피라미드</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F17%2Fnewstapa%2F20260917175654249pitn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F17%2Fnewstapa%2F20260917175654249pitn.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
-            <title><![CDATA[KINN 유튜브 채널, 영화 <압수수색> 무료공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/114486719</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/114486719</guid>
-            <pubDate>Fri, 04 Sep 2026 10:51:37 GMT</pubDate>
-            <content:encoded><![CDATA[🎬영화&lt;압수수색-내란의 시작&gt;을 공개합니다! 오직 KINN 유튜브 채널에서!<br><br>3년 전, 2023년 9월 윤석열 정치 검찰은 뉴스타파 뉴스룸과 한상진, 봉지욱 기자 집을 압수수색했습니다. 권력 감시 보도는 ‘가짜뉴스’로 몰렸고, 탐사보도는 수사 대상이 됐습니다.<br><br>3년이 지난 지금, 윤석열은 내란수괴 재판을 받고 있습니다. <br>한상진 봉지욱 등 뉴스타파 기자의 보도로 윤석열과 오세훈은 공직선거법 위반 혐의로 기소돼 각각 대통령과 서울시장 당선무효형을 받았습니다.<br><br>권력의 무차별 탄압에 맞서 싸운 뉴스타파 기자들의 이야기, &lt;압수수색: 내란의 시작&gt;을 한국독립언론네트워크 KINN 유튜브 채널에서 한 달간 무료 공개합니다. <br><br>2025년 독립영화 최고 화제작이었던 &lt;압수수색: 내란의 시작&gt;, 지금은 OTT 등 다른 플랫폼에서 볼 수 없습니다. ​오직 KINN 유튜브에서만 무료로 보실 수 있습니다. 많은 시청 바랍니다.<br><br>🎬영화&lt;압수수색&gt; 시청하기 <span class="link_url">https://youtu.be/anIam0VVUP4</span><br>🖋[독한기자 KINN] 응원하기 <span class="link_url">https://withnewstapa.org/support/</span>]]></content:encoded>
+            <title><![CDATA[[현장에서] 조선일보 자회사 매출 걱정한 노동위... '기업 압력에 기자, 콜센터 보내도 된다' (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260917145650098</link>
+            <guid>https://v.daum.net/v/20260917145650098</guid>
+            <pubDate>Thu, 17 Sep 2026 11:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260917145650098" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 조선일보 자회사 매출 걱정한 노동위... '기업 압력에 기자, 콜센터 보내도 된다'</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F17%2Fnewstapa%2F20260917145651958mwvf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F17%2Fnewstapa%2F20260917145651958mwvf.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[칼럼] 타이완 대법관 파동과 한국 대법관 논란의 다른 미래 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3544,7 +3560,7 @@
             <link>https://v.daum.net/v/20260915181650212</link>
             <guid>https://v.daum.net/v/20260915181650212</guid>
             <pubDate>Tue, 15 Sep 2026 13:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260915181650212" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[K-어업의 브로커들] ②“빌런은 수협”…불법을 부르는 ‘선원관리 계약서’ 입수</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F15%2Fnewstapa%2F20260915181707494fstg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260915181650212" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[K-어업의 브로커들] ②“빌런은 수협”…불법을 부르는 ‘선원관리 계약서’ 입수</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F15%2Fnewstapa%2F20260915181707494fstg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F15%2Fnewstapa%2F20260915181707494fstg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3552,7 +3568,7 @@
             <link>https://v.daum.net/v/20260911171637597</link>
             <guid>https://v.daum.net/v/20260911171637597</guid>
             <pubDate>Fri, 11 Sep 2026 08:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260911171637597" class="link_column"><div class="cont_thumb"><strong class="tit_txt">공기업 돈 3천억 안 갚는 '비리왕' 이영복, '부산 엘시티 지분'도 차명 보유 정황</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F11%2Fnewstapa%2F20260911171646332kaym.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260911171637597" class="link_column"><div class="cont_thumb"><strong class="tit_txt">공기업 돈 3천억 안 갚는 '비리왕' 이영복, '부산 엘시티 지분'도 차명 보유 정황</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F11%2Fnewstapa%2F20260911171646332kaym.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F11%2Fnewstapa%2F20260911171646332kaym.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3560,7 +3576,7 @@
             <link>https://v.daum.net/v/20260911155150818</link>
             <guid>https://v.daum.net/v/20260911155150818</guid>
             <pubDate>Fri, 11 Sep 2026 08:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260911155150818" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[K-어업의 브로커들] ①한국 선원이 되는 값, 1300만 원…그 돈은 누가 가져갔나</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F11%2Fnewstapa%2F20260911155209778nzjy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260911155150818" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[K-어업의 브로커들] ①한국 선원이 되는 값, 1300만 원…그 돈은 누가 가져갔나</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F11%2Fnewstapa%2F20260911155209778nzjy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F11%2Fnewstapa%2F20260911155209778nzjy.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3568,7 +3584,7 @@
             <link>https://v.daum.net/v/20260910180148960</link>
             <guid>https://v.daum.net/v/20260910180148960</guid>
             <pubDate>Thu, 10 Sep 2026 10:48:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260910180148960" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 내주고 빼주는 AI 속도전, 국민 몫 데이터센터의 대가</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F10%2Fnewstapa%2F20260910180152657ycie.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260910180148960" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 내주고 빼주는 AI 속도전, 국민 몫 데이터센터의 대가</strong><span class="info_txt"><span class="txt_info">2026. 9. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F10%2Fnewstapa%2F20260910180152657ycie.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F10%2Fnewstapa%2F20260910180152657ycie.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3576,7 +3592,7 @@
             <link>https://v.daum.net/v/20260910170637656</link>
             <guid>https://v.daum.net/v/20260910170637656</guid>
             <pubDate>Thu, 10 Sep 2026 10:48:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260910170637656" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;의원님의 변호사비&gt; ⑥'6개월'간 '방문 열람'만 가능… 선관위의 이상한 정보공개</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F10%2Fnewstapa%2F20260910170645095tltb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260910170637656" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;의원님의 변호사비&gt; ⑥'6개월'간 '방문 열람'만 가능… 선관위의 이상한 정보공개</strong><span class="info_txt"><span class="txt_info">2026. 9. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F10%2Fnewstapa%2F20260910170645095tltb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F10%2Fnewstapa%2F20260910170645095tltb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3744,22 +3760,6 @@
             <guid>https://v.daum.net/v/20260827180148304</guid>
             <pubDate>Thu, 27 Aug 2026 16:11:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260827180148304" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 외국 청년에 떠민 노인 돌봄, 얼룩진 코리아 드림</strong><span class="info_txt"><span class="txt_info">2026. 8. 27.</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[변화]'입양기록 유출' 아동권리보장원 9억 과징금...뉴스타파 보도 2년 만 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260827173636969</link>
-            <guid>https://v.daum.net/v/20260827173636969</guid>
-            <pubDate>Thu, 27 Aug 2026 16:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260827173636969" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[변화]'입양기록 유출' 아동권리보장원 9억 과징금...뉴스타파 보도 2년 만</strong><span class="info_txt"><span class="txt_info">2026. 8. 27.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F27%2Fnewstapa%2F20260827173638176kohk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F27%2Fnewstapa%2F20260827173638176kohk.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘조성현 기소’ 종합특검-내란특검 30일 공문 전쟁 ① (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260827170148845</link>
-            <guid>https://v.daum.net/v/20260827170148845</guid>
-            <pubDate>Thu, 27 Aug 2026 16:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260827170148845" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘조성현 기소’ 종합특검-내란특검 30일 공문 전쟁 ①</strong><span class="info_txt"><span class="txt_info">2026. 8. 27.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F27%2Fnewstapa%2F20260827170150491eich.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202608%2F27%2Fnewstapa%2F20260827170150491eich.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
