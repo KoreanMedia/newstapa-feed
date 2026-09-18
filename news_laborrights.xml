@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Sep 2026 03:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 08:52:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['체불왕' 박영우 딸의 거짓말… 국회가 위증 혐의로 고발한다]]></title>
+            <link>http://newstapa.org/article/whOQw</link>
+            <guid>http://newstapa.org/article/whOQw</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['체불왕' 박영우 딸의 거짓말… 국회가 위증 혐의로 고발한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/18173623-85D4-07FB-9A86-DG9TYOYTUROOTIAQSI9Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[K-어업의 브로커들] ③“선원이 도망가면 돈을 번다”…수협의 ‘을’이 ‘갑’이 된 비결]]></title>
+            <link>http://newstapa.org/article/orm6x</link>
+            <guid>http://newstapa.org/article/orm6x</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[K-어업의 브로커들] ③“선원이 도망가면 돈을 번다”…수협의 ‘을’이 ‘갑’이 된 비결]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/18171831-A88E-43C0-EDD9-I6ZWYYCAK0KGQY0MSHU5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[K-어업의 브로커들] ②“빌런은 수협”…불법을 부르는 ‘선원관리 계약서’ 입수]]></title>
             <link>http://newstapa.org/article/94w2W</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["언론도, 국회도 가지 마라"...SK이노베이션E&amp;S의 유족 입막음]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/28101649-0581-B403-3571-SNYZ4AQC2VKGYHN31A9P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK이노베이션E&S, 해킹 대응하다 직원 숨졌는데…“해킹 없었다” 거짓말]]></title>
-            <link>http://newstapa.org/article/P-fJi</link>
-            <guid>http://newstapa.org/article/P-fJi</guid>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[SK이노베이션E&amp;S, 해킹 대응하다 직원 숨졌는데…“해킹 없었다” 거짓말]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/28101523-03A4-68A6-14B8-LO82AH035J1WGWLZTOMO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가가 방치한 성폭력 긴급안전망 '1366', 떠나는 상담사들]]></title>
-            <link>http://newstapa.org/article/ye3SR</link>
-            <guid>http://newstapa.org/article/ye3SR</guid>
-            <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국가가 방치한 성폭력 긴급안전망 '1366', 떠나는 상담사들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/07/02173932-9E6A-E60C-4CFF-EQ9X4WVDP1IKY688ZQTD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
