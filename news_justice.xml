@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Sep 2026 03:41:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 09:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘방첩사 리스트’로 운명이 뒤바뀐 장성들 ① 비상계엄 5일 전 맞교대 인사]]></title>
+            <link>http://newstapa.org/article/iFn8_</link>
+            <guid>http://newstapa.org/article/iFn8_</guid>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘방첩사 리스트’로 운명이 뒤바뀐 장성들 ① 비상계엄 5일 전 맞교대 인사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/22164945-5933-C029-FDCC-DH3SXE5SXD1VFKMOZHRQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['체불왕' 박영우 딸의 거짓말… 국회가 위증 혐의로 고발한다]]></title>
             <link>http://newstapa.org/article/whOQw</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공기업 돈 떼먹은 이영복... 수백억대 차명 부동산 소유 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/19131858-788D-35AD-4B73-VDJAQT2ISMRUNVQ194WZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘조성현 기소’ 종합특검-내란특검 최후의 공방]]></title>
-            <link>http://newstapa.org/article/o23oC</link>
-            <guid>http://newstapa.org/article/o23oC</guid>
-            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘조성현 기소’ 종합특검-내란특검 최후의 공방]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/07155542-0221-48C7-3869-VNXU7ND6H0WVQVM76UXC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
