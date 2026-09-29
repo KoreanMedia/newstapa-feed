@@ -4,9 +4,16 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Sep 2026 06:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 13:49:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘방첩사 리스트’로 운명이 뒤바뀐 장성들 ② “왜 내가 가야 하느냐”]]></title>
+            <link>http://newstapa.org/article/6uDal</link>
+            <guid>http://newstapa.org/article/6uDal</guid>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘방첩사 리스트’로 운명이 뒤바뀐 장성들 ② “왜 내가 가야 하느냐”]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[대법원, 조희대 ‘허위 업무추진비’ 인정하고 사과… “죄송스럽다”]]></title>
             <link>http://newstapa.org/article/W88mS</link>
@@ -126,14 +133,6 @@
             <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[칼럼] 이재명 정부의 국가기록관리는 어디로 가는가?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/07145335-88A6-4D18-E152-5QZSALTBHHFA21RYGYEH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ③ “박정훈에게 맡기자”]]></title>
-            <link>http://newstapa.org/article/Qg_CX</link>
-            <guid>http://newstapa.org/article/Qg_CX</guid>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ③ “박정훈에게 맡기자”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/04145203-C077-8256-4F25-HKJICZRSW9QCIGOO1520.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

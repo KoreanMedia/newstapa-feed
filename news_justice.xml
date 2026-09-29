@@ -4,9 +4,16 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Sep 2026 06:39:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 13:49:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘방첩사 리스트’로 운명이 뒤바뀐 장성들 ② “왜 내가 가야 하느냐”]]></title>
+            <link>http://newstapa.org/article/6uDal</link>
+            <guid>http://newstapa.org/article/6uDal</guid>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘방첩사 리스트’로 운명이 뒤바뀐 장성들 ② “왜 내가 가야 하느냐”]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘방첩사 리스트’로 운명이 뒤바뀐 장성들 ① 비상계엄 5일 전 맞교대 인사]]></title>
             <link>http://newstapa.org/article/iFn8_</link>
@@ -126,14 +133,6 @@
             <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대통령 관저 감사는 어떻게 좌절됐나...유병호 공소장 전문 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/20150716-BB95-0D2F-C1B2-L903M7SKGYPSM6QAFCFK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공기업 돈 떼먹은 이영복... 수백억대 차명 부동산 소유 의혹]]></title>
-            <link>http://newstapa.org/article/h67Fq</link>
-            <guid>http://newstapa.org/article/h67Fq</guid>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공기업 돈 떼먹은 이영복... 수백억대 차명 부동산 소유 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/19131858-788D-35AD-4B73-VDJAQT2ISMRUNVQ194WZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

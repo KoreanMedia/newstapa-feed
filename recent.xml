@@ -4,9 +4,16 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Sep 2026 06:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 13:49:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘방첩사 리스트’로 운명이 뒤바뀐 장성들 ② “왜 내가 가야 하느냐”]]></title>
+            <link>http://newstapa.org/article/6uDal</link>
+            <guid>http://newstapa.org/article/6uDal</guid>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘방첩사 리스트’로 운명이 뒤바뀐 장성들 ② “왜 내가 가야 하느냐”]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[대법원, 조희대 ‘허위 업무추진비’ 인정하고 사과… “죄송스럽다”]]></title>
             <link>http://newstapa.org/article/W88mS</link>
@@ -126,14 +133,6 @@
             <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 조선일보 자회사 매출 걱정한 노동위... '기업 압력에 기자, 콜센터 보내도 된다']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/17145007-36CB-9EA2-0B5E-3PFHUCMG1E37HH6S5V4L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] 타이완 대법관 파동과 한국 대법관 논란의 다른 미래]]></title>
-            <link>http://newstapa.org/article/5Mq41</link>
-            <guid>http://newstapa.org/article/5Mq41</guid>
-            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] 타이완 대법관 파동과 한국 대법관 논란의 다른 미래]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/16134734-F1F8-7B34-A595-YC1H0E19K9SGYM4E2KCO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
