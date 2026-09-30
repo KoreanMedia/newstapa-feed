@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Sep 2026 04:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 10:58:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] 대통령의 SNS 기록을 제대로 보존하려면 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/ThOMg</link>
+            <guid>http://newstapa.org/article/ThOMg</guid>
+            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 대통령의 SNS 기록을 제대로 보존하려면]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/30135337-E07F-505B-EE46-N5A4OROP5R2YEIIT4B0V.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘방첩사 리스트’로 운명이 뒤바뀐 장성들 ② “왜 내가 가야 하느냐” (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/6uDal</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/17174359-B231-7FF9-60BE-0X0UX3KZJPFPSHSFW1DG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현장에서] 조선일보 자회사 매출 걱정한 노동위... '기업 압력에 기자, 콜센터 보내도 된다' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/dGIhz</link>
-            <guid>http://newstapa.org/article/dGIhz</guid>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 조선일보 자회사 매출 걱정한 노동위... '기업 압력에 기자, 콜센터 보내도 된다']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/17145007-36CB-9EA2-0B5E-3PFHUCMG1E37HH6S5V4L.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[칼럼] 대통령의 SNS 기록을 제대로 보존하려면 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/ThOMg</link>
+            <guid>http://newstapa.org/article/ThOMg</guid>
+            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 대통령의 SNS 기록을 제대로 보존하려면]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/30135337-E07F-505B-EE46-N5A4OROP5R2YEIIT4B0V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘방첩사 리스트’로 운명이 뒤바뀐 장성들 ② “왜 내가 가야 하느냐” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰, ‘김승원 식약처 청탁’ 수사 때 ‘디넷’ 활용 불법 수사 정황]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/07180656-3867-E2C3-5C78-OZZJO1V84HFUAXXMXE4R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] 이재명 정부의 국가기록관리는 어디로 가는가? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/gUNJ3</link>
-            <guid>http://newstapa.org/article/gUNJ3</guid>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] 이재명 정부의 국가기록관리는 어디로 가는가?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/07145335-88A6-4D18-E152-5QZSALTBHHFA21RYGYEH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘방첩사 리스트’로 운명이 뒤바뀐 장성들 ② “왜 내가 가야 하느냐” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3384,6 +3384,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26100538-D789-2DE1-C108-BOE9IBAJU3N3IT1CWEDQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[🎬 2026 뉴스타파펀드·뉴스타파아시아펀드 선정작 발표 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/114743054</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/114743054</guid>
+            <pubDate>Wed, 30 Sep 2026 10:58:08 GMT</pubDate>
+            <content:encoded><![CDATA[🎬 2026 뉴스타파펀드·뉴스타파아시아펀드 선정작을 발표합니다<br><br>뉴스타파함께재단과 뉴스타파는 DMZ국제다큐멘터리영화제와 함께 다큐멘터리 창작자를 지원하는 ‘뉴스타파펀드’와 ‘뉴스타파아시아펀드’를 운영하고 있습니다. 올해 DMZ국제다큐멘터리영화제 인더스트리에 초청된 프로젝트 가운데 심사를 거쳐 아래 두 작품을 선정했습니다.<br><br> 2026 뉴스타파펀드<br>&lt;한 걸음 한 걸음&gt;, 김수목 독립감독<br><br>2018년부터 이어진 한국와이퍼 해고 노동자들의 투쟁을 다룬 작품입니다. 이 작품은 해고와 복직 투쟁에 머무르지 않고 ‘투쟁 이후에도 계속되는 노동자의 삶과 일상’을 담았습니다. 기존 노동 다큐멘터리의 익숙한 서사를 넘어서는 시선이 높은 평가를 받았습니다.<br><br>2026 뉴스타파아시아펀드<br>&lt;불의 혀&gt; (Tongues of Fire) | Alyx Ayn Arumpac 독립감독(필리핀)<br><br>이 작품은 국가적 범죄 은폐와 책임추궁 노력을 담고 있습니다. &lt;불의 혀&gt;가 다루고 있는 내용은 근년의 한국 사회를 살아온 우리들에게도 익숙한 의제입니다. 자세한 내용은 내년 작품과 함께 공개합니다.<br><br>두 작품에는 각각 1천만 원의 제작비가 지원하며, 완성 후 뉴스타파 &lt;목격자들&gt;에 방송합니다. <br><br>뉴스타파함께재단과 뉴스타파는 앞으로도 다큐멘터리 창작자들과 연대와 협업을 이어나가도록 하겠습니다. 다큐멘터리의 미래를 위해 분투 중인 모든 창작자들을 응원합니다.<br><br>👉 &lt;목격자들&gt; 온라인 상영관 바로가기: <span class="link_url">https://withnewstapa.org/witness/</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[칼럼] 대통령의 SNS 기록을 제대로 보존하려면 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/114740679</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/114740679</guid>
+            <pubDate>Wed, 30 Sep 2026 10:58:08 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 대통령은 하루에도 몇 개씩 X(구 트위터)에 정치나 정책 문제와 관련해 자신의 생각을 말하고 있습니다. 이 대통령은 성남시장 시절부터 행정에 SNS를 적극적으로 활용했고, 이것을 시민들은 적극 행정과 소통의 사례로 생각했습니다. <br><br>대통령이 개인 SNS 계정을 통해 국정 운영의 방향을 밝히거나 주요 정책에 대한 메시지를 발신하는 것은 디지털 시대에 맞는 대국민 소통 방식입니다. 하지만 국가 기록관리 체계라는 점에서는 문제가 있다는 지적도 나오고 있습니다. 대통령기록물위 하나인 대통령의 SNS 게시물이 제대로 수집, 관리되지 않을 수 있다는 우려입니다. 국가기록관리전문가인 조해원 전 서울기록원장이 국가기록물인 대통령의 개인 SNS 게시물을 올바로 수집, 관리할 수 있는 방안을 제시합니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/ThOMg</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘방첩사 리스트’로 운명이 뒤바뀐 장성들 ② “왜 내가 가야 하느냐” (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/114735836</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/114735836</guid>
@@ -3510,25 +3524,19 @@
             <content:encoded><![CDATA[한국탐사저널리즘센터(뉴스타파)에서 99% 시민과 소통하며 보다 나은 미래를 만들어 나가고자 하는 신입 영상취재기자, 신입 회계담당자를 모십니다.<br><br>📌지원자격 및 요건(공통)<br>- 한국탐사저널리즘센터(뉴스타파) 설립 정신과 미션에 동의하는 분이어야 합니다.<br>- 탐사보도와 비영리 저널리즘을 이해하고 실천할 수 있는 분이어야 합니다.<br>- 신입으로 입사 가능한 분이어야 합니다.<br>- 해외여행에 결격사유가 없는 분이어야 합니다.<br><br>📌지원방법 및 접수기간<br>- 2026년 9월 14일(월) ~ 2026년 9월 27일(일) 24:00 까지<br>- 채용 지원서 제출 링크 : (영상취재)<span class="link_url">https://forms.gle/MnRV6dErHteb1w1r7</span><br>(회계)<span class="link_url">https://forms.gle/U7yAVwWT2DNo8TDD7</span><br><br>📌직무별 지원자격, 주요업무, 우대조건, 전형방법 등 상세내용은 공지사항을 참고해주시기 바랍니다.<br>- 공지사항(영상취재) 내용 확인 링크 : <span class="link_url">https://www.kcij.org/notice/u/Pl03d</span><br>- 공지사항(회계 담당) 내용 확인 링크 : <span class="link_url">https://www.kcij.org/notice/u/jdH1z</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['체불왕' 박영우 딸의 거짓말… 국회가 위증 혐의로 고발한다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/114636479</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/114636479</guid>
-            <pubDate>Fri, 18 Sep 2026 08:52:18 GMT</pubDate>
-            <content:encoded><![CDATA[국회가 청문회에서 사실과 다른 거짓말을 한, 즉 위증 혐의로 대유위니아 임금 체불 사건 박영우 회장의 딸 박은진 씨를 고발하기로 했습니다. <br><br>또 국회는 다음달 열리는 2026년 국정감사에서 임금 체불 사태의 책임자인 박 회장 부녀를 증인석에 세워 집중 추궁하기로 했습니다. <br><br>뉴스타파는 지난 9일 보도에서 지난해 1월 국회 청문회에 나온 박 회장의 딸 박은진 씨가 "육아와 출산으로 인해 경영에 관여하지 않았다"고 증언했으나 인사, 재무 등 경영 전반에 관여한 카카오톡 메시지를 공개한 바 있습니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/whOQw</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[K-어업의 브로커들③“선원이 도망가면 돈을 번다”…수협의 ‘을’이 ‘갑’이 된 비결 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/114636276</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/114636276</guid>
-            <pubDate>Fri, 18 Sep 2026 08:52:18 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파는 &lt;K-어업의 브로커들&gt; 시리즈를 통해 외국인 선원제의 다단계 착취 구조를 연속 보도하고 있습니다. <br><br>앞서 1·2편에서 소개한 인도네시아 선원 부디 씨. 그는 한국 배에서 일하기 위해 1300만 원을 민간업체에 냈습니다. 이 가운데 약 700만 원은 수협중앙회가 정한 공식 송출비 상한액이었습니다. 그렇다면 남은 600만 원은 무엇이었을까요? 3편은 그 600만 원에 대한 이야기입니다. <br><br>취재 결과, 선원이 계약 기간을 채우지 못하고 배를 떠나면 돌려주지 않는 불법 ‘이탈보증금’이었습니다. 더 큰 문제는 이 돈이 국내 송입업체와 현지 송출업체의 수입이 되는 구조였습니다. 선원의 이탈을 막겠다며 걷은 돈이, 거꾸로 선원이 이탈하면 업체의 돈이 되는 겁니다.<br><br>“차라리 선원이 도망가기를 바라는 업체도 있다.”<br><br>&lt;K-어업의 브로커들&gt; 3편에서는 선원들이 낸 불법 보증금이 누구의 주머니로, 어떻게 흘러가는지 추적합니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/WlCf9hbwVA8</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/orm6x</span>]]></content:encoded>
+            <title><![CDATA[[칼럼] 대통령의 SNS 기록을 제대로 보존하려면 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20260930135658786</link>
+            <guid>https://v.daum.net/v/20260930135658786</guid>
+            <pubDate>Wed, 30 Sep 2026 10:58:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260930135658786" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 대통령의 SNS 기록을 제대로 보존하려면</strong><span class="info_txt"><span class="txt_info">6시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F30%2Fnewstapa%2F20260930135659771efpt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F30%2Fnewstapa%2F20260930135659771efpt.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[‘방첩사 리스트’로 운명이 뒤바뀐 장성들 ② “왜 내가 가야 하느냐” (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20260929203702327</link>
             <guid>https://v.daum.net/v/20260929203702327</guid>
             <pubDate>Tue, 29 Sep 2026 13:49:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260929203702327" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘방첩사 리스트’로 운명이 뒤바뀐 장성들 ② “왜 내가 가야 하느냐”</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F29%2Fnewstapa%2F20260929203703757hpyy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260929203702327" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘방첩사 리스트’로 운명이 뒤바뀐 장성들 ② “왜 내가 가야 하느냐”</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F29%2Fnewstapa%2F20260929203703757hpyy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F29%2Fnewstapa%2F20260929203703757hpyy.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3536,7 +3544,7 @@
             <link>https://v.daum.net/v/20260929142656657</link>
             <guid>https://v.daum.net/v/20260929142656657</guid>
             <pubDate>Tue, 29 Sep 2026 06:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260929142656657" class="link_column"><div class="cont_thumb"><strong class="tit_txt">대법원, 조희대 ‘허위 업무추진비’ 인정하고 사과… “죄송스럽다”</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F29%2Fnewstapa%2F20260929142658053uldr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260929142656657" class="link_column"><div class="cont_thumb"><strong class="tit_txt">대법원, 조희대 ‘허위 업무추진비’ 인정하고 사과… “죄송스럽다”</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F29%2Fnewstapa%2F20260929142658053uldr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F29%2Fnewstapa%2F20260929142658053uldr.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3552,7 +3560,7 @@
             <link>https://v.daum.net/v/20260928142710039</link>
             <guid>https://v.daum.net/v/20260928142710039</guid>
             <pubDate>Mon, 28 Sep 2026 11:31:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260928142710039" class="link_column"><div class="cont_thumb"><strong class="tit_txt">조희대 ‘허위 업무추진비’… 올해 상반기에만 최소 13건 확인</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F28%2Fnewstapa%2F20260928145301287hdxb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260928142710039" class="link_column"><div class="cont_thumb"><strong class="tit_txt">조희대 ‘허위 업무추진비’… 올해 상반기에만 최소 13건 확인</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F28%2Fnewstapa%2F20260928145301287hdxb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F28%2Fnewstapa%2F20260928145301287hdxb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3560,7 +3568,7 @@
             <link>https://v.daum.net/v/20260928142658025</link>
             <guid>https://v.daum.net/v/20260928142658025</guid>
             <pubDate>Mon, 28 Sep 2026 11:31:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260928142658025" class="link_column"><div class="cont_thumb"><strong class="tit_txt">조희대 청탁금지법 위반 의혹… 대법원 허위 자료로 은폐</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F28%2Fnewstapa%2F20260928150600699nzhl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260928142658025" class="link_column"><div class="cont_thumb"><strong class="tit_txt">조희대 청탁금지법 위반 의혹… 대법원 허위 자료로 은폐</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F28%2Fnewstapa%2F20260928150600699nzhl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F28%2Fnewstapa%2F20260928150600699nzhl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3568,7 +3576,7 @@
             <link>https://v.daum.net/v/20260923142138139</link>
             <guid>https://v.daum.net/v/20260923142138139</guid>
             <pubDate>Wed, 23 Sep 2026 05:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260923142138139" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서] ‘허위정보는 국경이 없다’ 동아시아 시빅해커들을 만나다</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F23%2Fnewstapa%2F20260923142139561evxr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260923142138139" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서] ‘허위정보는 국경이 없다’ 동아시아 시빅해커들을 만나다</strong><span class="info_txt"><span class="txt_info">2026. 9. 23.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F23%2Fnewstapa%2F20260923142139561evxr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F23%2Fnewstapa%2F20260923142139561evxr.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3576,7 +3584,7 @@
             <link>https://v.daum.net/v/20260923140136418</link>
             <guid>https://v.daum.net/v/20260923140136418</guid>
             <pubDate>Wed, 23 Sep 2026 05:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260923140136418" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'김병기가 시켜 경찰에 거짓 확인서 썼다'... 공천 헌금 '증거인멸' 시도 의혹</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F23%2Fnewstapa%2F20260923140144599qcuw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260923140136418" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'김병기가 시켜 경찰에 거짓 확인서 썼다'... 공천 헌금 '증거인멸' 시도 의혹</strong><span class="info_txt"><span class="txt_info">2026. 9. 23.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F23%2Fnewstapa%2F20260923140144599qcuw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F23%2Fnewstapa%2F20260923140144599qcuw.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3754,14 +3762,6 @@
             <pubDate>Mon, 07 Sep 2026 15:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260907181149936" class="link_column"><div class="cont_thumb"><strong class="tit_txt">검찰, ‘김승원 식약처 청탁’ 수사 때 ‘디넷’ 활용 불법 수사 정황</strong><span class="info_txt"><span class="txt_info">2026. 9. 7.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F07%2Fnewstapa%2F20260907181150936hymb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F07%2Fnewstapa%2F20260907181150936hymb.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘항공권 조작 지방의원 명단’ 2심도 공개 판결 "수사 중이라도 비공개 정보 아냐" (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20260907171637290</link>
-            <guid>https://v.daum.net/v/20260907171637290</guid>
-            <pubDate>Mon, 07 Sep 2026 09:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260907171637290" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘항공권 조작 지방의원 명단’ 2심도 공개 판결 "수사 중이라도 비공개 정보 아냐"</strong><span class="info_txt"><span class="txt_info">2026. 9. 7.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F07%2Fnewstapa%2F20260907171638212nvka.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F07%2Fnewstapa%2F20260907171638212nvka.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
