@@ -4,15 +4,23 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Oct 2026 01:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 08:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“하루 아침에 거래 중단”… 신세계면세점 불공정 거래 정황 추가 확인]]></title>
+            <link>https://v.daum.net/v/20261001151658402</link>
+            <guid>https://v.daum.net/v/20261001151658402</guid>
+            <pubDate>Thu, 01 Oct 2026 08:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261001151658402" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“하루 아침에 거래 중단”… 신세계면세점 불공정 거래 정황 추가 확인</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F01%2Fnewstapa%2F20261001151707453bnmn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F01%2Fnewstapa%2F20261001151707453bnmn.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[[칼럼] 대통령의 SNS 기록을 제대로 보존하려면]]></title>
             <link>https://v.daum.net/v/20260930135658786</link>
             <guid>https://v.daum.net/v/20260930135658786</guid>
             <pubDate>Wed, 30 Sep 2026 10:58:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260930135658786" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 대통령의 SNS 기록을 제대로 보존하려면</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F30%2Fnewstapa%2F20260930135659771efpt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260930135658786" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[칼럼] 대통령의 SNS 기록을 제대로 보존하려면</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F30%2Fnewstapa%2F20260930135659771efpt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F30%2Fnewstapa%2F20260930135659771efpt.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://v.daum.net/v/20260929142656657</link>
             <guid>https://v.daum.net/v/20260929142656657</guid>
             <pubDate>Tue, 29 Sep 2026 06:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260929142656657" class="link_column"><div class="cont_thumb"><strong class="tit_txt">대법원, 조희대 ‘허위 업무추진비’ 인정하고 사과… “죄송스럽다”</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F29%2Fnewstapa%2F20260929142658053uldr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260929142656657" class="link_column"><div class="cont_thumb"><strong class="tit_txt">대법원, 조희대 ‘허위 업무추진비’ 인정하고 사과… “죄송스럽다”</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F29%2Fnewstapa%2F20260929142658053uldr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F29%2Fnewstapa%2F20260929142658053uldr.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://v.daum.net/v/20260929110657181</link>
             <guid>https://v.daum.net/v/20260929110657181</guid>
             <pubDate>Tue, 29 Sep 2026 06:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260929110657181" class="link_column"><div class="cont_thumb"><strong class="tit_txt">신세계면세점, ‘패밀리 라인’과 부당 내부 거래 의혹</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F29%2Fnewstapa%2F20260929110708950vmiz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260929110657181" class="link_column"><div class="cont_thumb"><strong class="tit_txt">신세계면세점, ‘패밀리 라인’과 부당 내부 거래 의혹</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F29%2Fnewstapa%2F20260929110708950vmiz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F29%2Fnewstapa%2F20260929110708950vmiz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://v.daum.net/v/20260928142710039</link>
             <guid>https://v.daum.net/v/20260928142710039</guid>
             <pubDate>Mon, 28 Sep 2026 11:31:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260928142710039" class="link_column"><div class="cont_thumb"><strong class="tit_txt">조희대 ‘허위 업무추진비’… 올해 상반기에만 최소 13건 확인</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F28%2Fnewstapa%2F20260928145301287hdxb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260928142710039" class="link_column"><div class="cont_thumb"><strong class="tit_txt">조희대 ‘허위 업무추진비’… 올해 상반기에만 최소 13건 확인</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F28%2Fnewstapa%2F20260928145301287hdxb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F28%2Fnewstapa%2F20260928145301287hdxb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://v.daum.net/v/20260928142658025</link>
             <guid>https://v.daum.net/v/20260928142658025</guid>
             <pubDate>Mon, 28 Sep 2026 11:31:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260928142658025" class="link_column"><div class="cont_thumb"><strong class="tit_txt">조희대 청탁금지법 위반 의혹… 대법원 허위 자료로 은폐</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F28%2Fnewstapa%2F20260928150600699nzhl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260928142658025" class="link_column"><div class="cont_thumb"><strong class="tit_txt">조희대 청탁금지법 위반 의혹… 대법원 허위 자료로 은폐</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F28%2Fnewstapa%2F20260928150600699nzhl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F28%2Fnewstapa%2F20260928150600699nzhl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 08 Sep 2026 05:44:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260908103652053" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[AI데이터센터의 대가] ③전력 공급 대안? 질문 순서부터 틀렸다</strong><span class="info_txt"><span class="txt_info">2026. 9. 8.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F08%2Fnewstapa%2F20260908103653630otaw.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F08%2Fnewstapa%2F20260908103653630otaw.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, ‘김승원 식약처 청탁’ 수사 때 ‘디넷’ 활용 불법 수사 정황]]></title>
-            <link>https://v.daum.net/v/20260907181149936</link>
-            <guid>https://v.daum.net/v/20260907181149936</guid>
-            <pubDate>Mon, 07 Sep 2026 15:03:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20260907181149936" class="link_column"><div class="cont_thumb"><strong class="tit_txt">검찰, ‘김승원 식약처 청탁’ 수사 때 ‘디넷’ 활용 불법 수사 정황</strong><span class="info_txt"><span class="txt_info">2026. 9. 7.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F07%2Fnewstapa%2F20260907181150936hymb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202609%2F07%2Fnewstapa%2F20260907181150936hymb.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

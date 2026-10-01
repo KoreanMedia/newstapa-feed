@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 재벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Oct 2026 01:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 08:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“하루 아침에 거래 중단”… 신세계면세점 불공정 거래 정황 추가 확인]]></title>
+            <link>http://newstapa.org/article/bdITt</link>
+            <guid>http://newstapa.org/article/bdITt</guid>
+            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“하루 아침에 거래 중단”… 신세계면세점 불공정 거래 정황 추가 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/01150714-8963-CD58-1600-ZO0I9ORQCD93XBDZQCL9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신세계면세점, ‘패밀리 라인’과 부당 내부 거래 의혹]]></title>
             <link>http://newstapa.org/article/5Wy3_</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 조선일보 ‘재벌집 막내아들’과 사라진 500만 달러]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/16145308-24E6-1881-C38C-O6O0IHYFJRI65SPF5VSS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조선일보 둘째 아들, 회삿돈 500만 달러 배임 의혹]]></title>
-            <link>http://newstapa.org/article/U20YK</link>
-            <guid>http://newstapa.org/article/U20YK</guid>
-            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조선일보 둘째 아들, 회삿돈 500만 달러 배임 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/12200858-8375-C3AE-FA70-I1EL17FZ75P4MAZBHH0I.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
