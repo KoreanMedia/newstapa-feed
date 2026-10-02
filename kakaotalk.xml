@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-10-02T01:22:10.387Z</updated>
+    <updated>2026-10-02T08:02:44.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/a27c5a1/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공수처, '정치자금 부정수수' 윤상현 소환조사]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/114778440</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/114778440"/>
+        <updated>2026-10-02T08:02:36.468Z</updated>
+        <content type="html"><![CDATA['정치자금 부정수수' 혐의로 고위공직자범죄수사처 수사를 받고 있는 국민의힘 5선 중진 윤상현 의원이 지난달 중순 피의자 조사를 받은 사실이 뒤늦게 확인됐습니다.<br><br>지난해 9월 뉴스타파는 윤 의원이 2023년 1월부터 2024년 8월까지 1년 반 동안 인천의 한 홍보업체로부터 수천만 원 상당의 홍보 콘텐츠를 공짜로 제공받았다고 보도한 바 있습니다.<br><br>뉴스타파 보도 5일 후 윤 의원이 홍보업체 대표를 불러내 "텔레그램을 지우라"며 증거인멸을 교사하고, 변호사를 붙여주겠다고 회유한 사실도 드러났습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/V4C8C</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대법원, 조희대의 213만 원짜리 ‘소맥 회식’도 은폐]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/114775898</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/114775898"/>
+        <updated>2026-10-02T08:02:36.468Z</updated>
+        <content type="html"><![CDATA[대법원이 대법원장의 업무추진비 증빙 자료에 식당 주류 결제 내역 등 민감한 정보를 모두 없앤 영수증을 첨부하고 있는 것으로 확인됐습니다.<br><br>조희대 대법원장은 올해 6월 국민 세금인 업무추진비로 한정식 전문점에서 ‘소맥’을 곁들인 회식 자리를 가졌습니다.<br><br>그런데 해당 업무추진비 증빙 자료에는 한정식 코스 요리는 물론 소주와 맥주 등의 주문 내역을 완전히 없앤 영수증이 첨부됐습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/rqHDKogCaOg</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/_SDEg</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간 뉴스타파] 6개월만에 업계 1위, 알고보니 재벌집 조카사위]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/114764761</id>
@@ -130,19 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/114674325"/>
         <updated>2026-09-22T09:07:58.076Z</updated>
         <content type="html"><![CDATA[국민의힘 김민수 최고위원은 지난 2019년 성공한 사업가라는 점을 앞세워 정계에 입문했고, 지난해 8월 국민의힘 지도부로 선출됐습니다.<br><br>그런데 김 최고위원이 과거 청소노동자를 탄압하는 '악덕 사업주'였던 사실이 뉴스타파 취재 결과 확인됐습니다. 김 최고위원이 운영하던 청소 용역 업체는 노동자들에게 “노동조합을 비롯한 사조직을 결성하면 징계 및 근로 계약 해지까지 감수하겠다”는 서약서를 작성하라고 요구하기도 했습니다.<br><br>김 최고위원의 노동자 탄압은 그해 국회 국정감사에서도 언급될 만큼 심각한 수준이었던 것으로 확인됐습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/WDtfaNhN-X0</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/x-U-m</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언론은 과연 살아날 수 있나?...<감시견의 이빨 애완견의 꼬리> 출간]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/114674046</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/114674046"/>
-        <updated>2026-09-22T09:07:58.078Z</updated>
-        <content type="html"><![CDATA[KBS 새 사장을 뽑기 위한 공모가 9월 17일 시작됐다. 빠르면 11월 중 새 사장이 나올 전망이다. 윤석열 정권 시절 KBS에 낙하한 박민과 그 뒤를 이른 ‘파우치 사장’ 박장범. 이 두 사람이 처절하게 망가뜨린 KBS를 바로잡기 위한 첫걸음이다. <br><br>그러나 사장 한 명 바뀐다고 KBS가 공영방송으로 다시 거듭날 수 있을까? 이 질문에 대한 답을 언론학자이자 미디어비평가 최경진 교수가 &lt;감시견의 이빨 애완견의 꼬리&gt;에서 집요하게 파고든다. 그는 31기 KBS 시청자위원회 위원장을 지냈다. 그가 박민 사장 취임 초기 면전에서 던진 고언은 지금도 회자된다.<br><br>"대표 공영방송 KBS가 암울했던 과거사 속에서 그래도 조금씩이나마 지키려고 했던 그 면모와 권위가, 지난 며칠간 KBS에서 일어난 일들로 일순간 물거품이 되는 것은 아닐지 깊은 우려의 마음을 갖지 않을 수 없습니다."<br><br>도서출판 뉴스타파가 출간하는 이 책은1장 '언론 장악 잔혹사를 기록하다'로 문을 열고 권력과 언론의 애증 관계, KBS 몰락의 서사, 선거 보도 문제, 검찰과 언론의 권력 메커니즘, 매체 간 상호 비평, 그리고 AI 시대 저널리즘의 운명까지 총 13개 장에 걸쳐 한국 언론의 실체를 다각도로 조명한다.<br><br>2000년대 초반 KBS 매체비평 프로그램 미디어포커스 고정패널과 자문위원으로 일하면서 국내에 ‘미디어 저널리즘’을 소개한 저자가 한국 언론이 다시 살아날 길을 제시한다. 그것이 바로 한국 민주주의가 살아날 길이기 때문이다. <br><br>도서출판 뉴스타파 신간 &lt;감시견의 이빨 애완견의 꼬리&gt;는 아래 교보문고, 알라딘, 뉴스타파굿즈스토어 링크에서 예약 구매하실 수 있습니다!<br><br><span class="link_url">https://product.kyobobook.co.kr/detail/S000221426822</span><br><span class="link_url">https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=402794624&amp;start=pcsearch_auto</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[🔴라이브] 중간 착취와 편법 재산 증식, 김민수의 '일 안하고 돈버는 법']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/114674026</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/114674026"/>
-        <updated>2026-09-22T09:07:58.080Z</updated>
-        <content type="html"><![CDATA[[🔴라이브 예고] "일을 하지 않고 돈을 벌 수 있는 방법 뭐가 있습니까? (중략) 가장 대표적인 게 비즈니스, 사업체입니다."<br><br>귀가 솔깃해지는 이 말, 지난해 9월 연단에 선 김민수 국민의힘 최고위원이 청년들을 향해 던진 말입니다. 김 최고위원은 연 매출 100억 원대 중소기업 태원비엠씨를 일군 창업가 출신 정치인입니다. 선배 창업가가 청년의 창업을 독려하는 것까진 좋은데, 사업가가 일을 안 하고 돈을 번다니 어딘가 이상합니다.  <br><br>김 최고의원의 기이한 '기업가 정신론'이 최혜정 기자의 호기심을 자극했습니다. 그의 재산, 기업 경영 방식에 대해 들여다봤더니, 노동자의 임금과 처우는 낮추고 자신의 몫은 키우는 중간착취와 개인과 법인의 경계를 허무는 편법적인 자산 증식 과정이 드러났습니다. <br><br>오늘 밤 9시 뉴스타파 라이브에서는 일하지 않고 돈을 번다는 특별한 사업의 민낯을 밝힙니다. 이 문제 취재한 최혜정 기자, 2014년 태원비엠씨 노동쟁의 사태 당시 노동자들을 지원한 조진 공공운수노조 의료연대본부 정책국장이 출연합니다. 많은 시청과 관심 바랍니다!<br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://www.youtube.com/live/6y9Cndi9K3Q</span>]]></content>
     </entry>
 </feed>

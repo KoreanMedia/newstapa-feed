@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Oct 2026 01:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 08:02:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공수처, '정치자금 부정수수' 윤상현 소환조사]]></title>
+            <link>http://newstapa.org/article/V4C8C</link>
+            <guid>http://newstapa.org/article/V4C8C</guid>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공수처, '정치자금 부정수수' 윤상현 소환조사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/02155235-1AF4-F510-ACB1-AV9WKQBHEDJ0228HNZTB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대법원, 조희대의 213만 원짜리 ‘소맥 회식’도 은폐]]></title>
+            <link>http://newstapa.org/article/_SDEg</link>
+            <guid>http://newstapa.org/article/_SDEg</guid>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대법원, 조희대의 213만 원짜리 ‘소맥 회식’도 은폐]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/02133133-7F35-034D-EBA2-REUZI74SGAIV9X166HI4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[칼럼] 대통령의 SNS 기록을 제대로 보존하려면]]></title>
             <link>http://newstapa.org/article/ThOMg</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;의원님의 변호사비&gt; ⑤부정 선거, 언론 공격 다 된다... '원고 소송' 정치자금 추적]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/08152553-ECA7-381C-5DF9-SBQ9PEKYWX7FRN8VXHRS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[종합특검 핵심 관계자 “조성현 구속까지 검토했으나, 정부 입장 고려해...”]]></title>
-            <link>http://newstapa.org/article/jIlF6</link>
-            <guid>http://newstapa.org/article/jIlF6</guid>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[종합특검 핵심 관계자 “조성현 구속까지 검토했으나, 정부 입장 고려해...”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/08131501-7E91-6F98-602F-HEP2K5BAGU8T2W1LUQBO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, ‘김승원 식약처 청탁’ 수사 때 ‘디넷’ 활용 불법 수사 정황]]></title>
-            <link>http://newstapa.org/article/lHuYZ</link>
-            <guid>http://newstapa.org/article/lHuYZ</guid>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, ‘김승원 식약처 청탁’ 수사 때 ‘디넷’ 활용 불법 수사 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/07180656-3867-E2C3-5C78-OZZJO1V84HFUAXXMXE4R.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
