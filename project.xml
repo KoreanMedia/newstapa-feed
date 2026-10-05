@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Oct 2026 08:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 18:01:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -299,7 +299,8 @@
             <link>https://newstapa.org/tags/%EB%82%99%ED%95%98%EC%82%B0%EC%9D%B4%EC%8F%9C%EB%8B%A4</link>
             <guid>https://newstapa.org/tags/%EB%82%99%ED%95%98%EC%82%B0%EC%9D%B4%EC%8F%9C%EB%8B%A4</guid>
             <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라 공공기관들의 한해 기부ㆍ후원금 예산은 무려 1조 원. '낙하산' 사장들이 이 예산을 쌈짓돈처럼 사유화하고 있는 실태를 추적했습니다.]]></content:encoded>
+            <content:encoded><![CDATA[우리나라 공공기관들의 한해 기부ㆍ후원금 예산은 무려 1조 원.
+'낙하산' 사장들이 이 예산을 쌈짓돈처럼 사유화하고 있는 실태를 추적했습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/11165049-1EB5-E7B2-8BB2-08ABRCGXZ3WG0GMT26U5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -427,7 +428,7 @@
             <link>https://newstapa.org/tags/%EB%85%B8%EB%82%98%EC%97%86</link>
             <guid>https://newstapa.org/tags/%EB%85%B8%EB%82%98%EC%97%86</guid>
             <pubDate>Thu, 28 Mar 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[장기요양보험제도 시행 이후 노인요양원이 급격히 늘었지만, 노인을 돈벌이 대상으로 삼는 비리가 계속되고 있습니다. '노나없' 시리즈를 통해 노인들의 삶과 인권을 위협하는 우리 사회의 문제점을 분석하고 개선 방향을 모색해보겠습니다.]]></content:encoded>
+            <content:encoded><![CDATA[장기요양보험제도 시행 이후 노인요양원이 급격히 늘었지만, 노인을 돈벌이 대상으로 삼는 비리가 계속되고 있습니다.  '노나없' 시리즈를 통해 노인들의 삶과 인권을 위협하는 우리 사회의 문제점을 분석하고 개선 방향을 모색해보겠습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/12/9aeb99a20900f2f8b64631aed644dd7c85e39fefe7880d9bb909b35a5aa4d3316c5f7fb03878fef34802f4e537669bbbc6c2eb404c1c68726beb23d557cc4635.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
