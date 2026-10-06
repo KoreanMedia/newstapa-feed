@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Oct 2026 06:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 13:59:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['허위 업무추진비' 왜? 조희대 "못 먹어본 음식 먹고 싶다는 구성원 소망" 때문]]></title>
+            <link>http://newstapa.org/article/XQBOC</link>
+            <guid>http://newstapa.org/article/XQBOC</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['허위 업무추진비' 왜? 조희대 "못 먹어본 음식 먹고 싶다는 구성원 소망" 때문]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/06221024-0EFA-8230-70A9-1I6V4NAOQC9GYBS0QP2B.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["2012년 윤석열 녹음파일은 White Lie"... '윤석열 당선 무효' 항소심 두번째 재판]]></title>
+            <link>http://newstapa.org/article/bqdvG</link>
+            <guid>http://newstapa.org/article/bqdvG</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["2012년 윤석열 녹음파일은 White Lie"... '윤석열 당선 무효' 항소심 두번째 재판]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/06162523-23B0-B30D-7D22-UIWJNXVM4YMZ5G6XY4BE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연말에 업무추진비 ‘32배 몰아쓰기’… 조희대, 세금 오·남용 정황]]></title>
             <link>http://newstapa.org/article/YUazb</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뿌리고 나눠먹고 몰아쓰고… 김지용 중수청장 후보자, 특활비 의혹 ‘종합세트’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/18134313-21A7-DC81-47D3-QAT76C5HT51ZXUZ8I2M0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유⑩ 뉴스타파 침탈 3년…검사는 사라지고 재판만 계속]]></title>
-            <link>http://newstapa.org/article/RNxB3</link>
-            <guid>http://newstapa.org/article/RNxB3</guid>
-            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘검찰범죄’ 특검을 해야 하는 50가지 이유⑩ 뉴스타파 침탈 3년…검사는 사라지고 재판만 계속]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/16103247-A295-756A-D9AB-AX8SHKIOGNT17RRQK86Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<의원님의 변호사비> ⑥'6개월'간 '방문 열람'만 가능… 선관위의 이상한 정보공개]]></title>
-            <link>http://newstapa.org/article/HfO-j</link>
-            <guid>http://newstapa.org/article/HfO-j</guid>
-            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;의원님의 변호사비&gt; ⑥'6개월'간 '방문 열람'만 가능… 선관위의 이상한 정보공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/10165406-3F03-A2D1-4FC8-75SK68C8TEMVYVZ3B8SK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Oct 2026 06:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 13:59:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['허위 업무추진비' 왜? 조희대 "못 먹어본 음식 먹고 싶다는 구성원 소망" 때문]]></title>
+            <link>http://newstapa.org/article/XQBOC</link>
+            <guid>http://newstapa.org/article/XQBOC</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['허위 업무추진비' 왜? 조희대 "못 먹어본 음식 먹고 싶다는 구성원 소망" 때문]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/06221024-0EFA-8230-70A9-1I6V4NAOQC9GYBS0QP2B.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["2012년 윤석열 녹음파일은 White Lie"... '윤석열 당선 무효' 항소심 두번째 재판]]></title>
+            <link>http://newstapa.org/article/bqdvG</link>
+            <guid>http://newstapa.org/article/bqdvG</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["2012년 윤석열 녹음파일은 White Lie"... '윤석열 당선 무효' 항소심 두번째 재판]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/06162523-23B0-B30D-7D22-UIWJNXVM4YMZ5G6XY4BE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연말에 업무추진비 ‘32배 몰아쓰기’… 조희대, 세금 오·남용 정황]]></title>
             <link>http://newstapa.org/article/YUazb</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조희대 청탁금지법 위반 의혹… 대법원 허위 자료로 은폐]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/28142711-C2D3-098D-901D-4V3JS0KGM9BWHI2X74LN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] ‘허위정보는 국경이 없다’ 동아시아 시빅해커들을 만나다]]></title>
-            <link>http://newstapa.org/article/oXf5w</link>
-            <guid>http://newstapa.org/article/oXf5w</guid>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] ‘허위정보는 국경이 없다’ 동아시아 시빅해커들을 만나다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/23141610-941B-2ECD-8465-D57UP5A9SIJ3HSA1JNF4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김병기가 시켜 경찰에 거짓 확인서 썼다'... 공천 헌금 '증거인멸' 시도 의혹]]></title>
-            <link>http://newstapa.org/article/zLcXh</link>
-            <guid>http://newstapa.org/article/zLcXh</guid>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['김병기가 시켜 경찰에 거짓 확인서 썼다'... 공천 헌금 '증거인멸' 시도 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/23135440-08F4-794F-3385-X6NRK24XWD65Y4RN4KYP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
