@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Oct 2026 04:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 11:36:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[목격자들] 혁명의 날들(Days of a Revolution)]]></title>
+            <link>http://newstapa.org/article/QdWti</link>
+            <guid>http://newstapa.org/article/QdWti</guid>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목격자들] 혁명의 날들(Days of a Revolution)]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/07142356-AA7A-461F-C1DA-75M7NEJ6B305QGXQISZO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선박왕 권혁, 뉴스타파 보도 7개월만에 세금 1천억 원 납부]]></title>
+            <link>http://newstapa.org/article/cmEI2</link>
+            <guid>http://newstapa.org/article/cmEI2</guid>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[선박왕 권혁, 뉴스타파 보도 7개월만에 세금 1천억 원 납부]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/07134623-74BD-7F18-56EF-VXQVMXB3MFOQ1C2C083H.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["명태균 증거 인멸 유죄" 부장판사, 세관 조사 시작되자 휴대폰 교체]]></title>
             <link>http://newstapa.org/article/ouYEH</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대법원, 조희대 ‘허위 업무추진비’ 인정하고 사과… “죄송스럽다”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/29142404-495D-39A8-05C5-E6CKG1KXBQ9QR9CLKS2K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신세계면세점, ‘패밀리 라인’과 부당 내부 거래 의혹]]></title>
-            <link>http://newstapa.org/article/5Wy3_</link>
-            <guid>http://newstapa.org/article/5Wy3_</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[신세계면세점, ‘패밀리 라인’과 부당 내부 거래 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/29110218-340F-CF4A-ED7E-86HH19BTCYNMF3JDUUS9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조희대 ‘허위 업무추진비’… 올해 상반기에만 최소 13건 확인]]></title>
-            <link>http://newstapa.org/article/I4mIX</link>
-            <guid>http://newstapa.org/article/I4mIX</guid>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조희대 ‘허위 업무추진비’… 올해 상반기에만 최소 13건 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/28142306-96B5-C2AF-FBE5-ZDS3V1DGRTBZ1BWWXYWG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
