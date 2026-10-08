@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Oct 2026 04:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 11:51:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조희대 대법원장 업무추진비 식당 지도]]></title>
+            <link>https://pages.newstapa.org/2026/jhd-expense/</link>
+            <guid>https://pages.newstapa.org/2026/jhd-expense/</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“못 먹어본 음식을 먹어보고 싶다”는 법원 구성원들의 소망. 그 소망을 위해 국민 세금은 어디서, 얼마나 쓰였을까요. 조희대 대법원장의 업무추진비가 쓰인 식당과 허위 조작 기록이 확인된 내역을 지도 위에 모았습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/08163615-CB9C-D6EB-60C2-JWP54XS7CUW80IJSQPSU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열의 397억 거짓말]]></title>
             <link>https://pages.newstapa.org/2026/397</link>

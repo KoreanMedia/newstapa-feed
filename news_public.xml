@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Oct 2026 04:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 11:51:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 혐오 정치 전성시대, 상처 밟고 혐오에 타라]]></title>
+            <link>http://newstapa.org/article/vb-Ps</link>
+            <guid>http://newstapa.org/article/vb-Ps</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 혐오 정치 전성시대, 상처 밟고 혐오에 타라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/08174110-7876-45E2-6574-75T8VWG030A40P6DOYKO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조희대 대법원장의 ‘소망’ 업무추진비 식당 지도 공개]]></title>
+            <link>http://newstapa.org/article/97jfb</link>
+            <guid>http://newstapa.org/article/97jfb</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조희대 대법원장의 ‘소망’ 업무추진비 식당 지도 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/08163221-904E-C21A-617F-RUSZRETI442LE3UPGX7O.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 경찰의 부작위는 누구의 편인가]]></title>
+            <link>http://newstapa.org/article/prWm0</link>
+            <guid>http://newstapa.org/article/prWm0</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 경찰의 부작위는 누구의 편인가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/08145719-19A3-910C-2882-726MHB81H9U1K2ZPFKA8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 세금 오남용 비리 연루 재선 지방의원 1,443명]]></title>
             <link>http://newstapa.org/article/8ltV-</link>
@@ -110,30 +134,6 @@
             <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조희대 청탁금지법 위반 의혹… 대법원 허위 자료로 은폐]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/28142711-C2D3-098D-901D-4V3JS0KGM9BWHI2X74LN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김병기가 시켜 경찰에 거짓 확인서 썼다'... 공천 헌금 '증거인멸' 시도 의혹]]></title>
-            <link>http://newstapa.org/article/zLcXh</link>
-            <guid>http://newstapa.org/article/zLcXh</guid>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['김병기가 시켜 경찰에 거짓 확인서 썼다'... 공천 헌금 '증거인멸' 시도 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/23135440-08F4-794F-3385-X6NRK24XWD65Y4RN4KYP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘 김민수, 회삿돈으로 건물 매입…15억 시세차익]]></title>
-            <link>http://newstapa.org/article/tJ36y</link>
-            <guid>http://newstapa.org/article/tJ36y</guid>
-            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 김민수, 회삿돈으로 건물 매입…15억 시세차익]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/22175147-DA44-E0A8-3C84-JC90C3MWJFS7A4G9T6CF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘 김민수 최고위원, 국회 공인 ‘악덕 고용주’였다]]></title>
-            <link>http://newstapa.org/article/x-U-m</link>
-            <guid>http://newstapa.org/article/x-U-m</guid>
-            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 김민수 최고위원, 국회 공인 ‘악덕 고용주’였다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/22175124-515A-2F2C-CE7A-6GTAT7PTOFO7F2QXLHB9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
