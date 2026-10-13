@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Oct 2026 20:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 02:29:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] ‘이진관 기피신청’ 인용이 조희대 대법원장의 다음 그림일까]]></title>
+            <link>http://newstapa.org/article/nGQeM</link>
+            <guid>http://newstapa.org/article/nGQeM</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] ‘이진관 기피신청’ 인용이 조희대 대법원장의 다음 그림일까]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13100435-1C7F-55F7-7E8C-NPYSA97T3NHNAUQ752IW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김지용 중수청장 후보자 7대 의혹의 이면]]></title>
+            <link>http://newstapa.org/article/9o-Aw</link>
+            <guid>http://newstapa.org/article/9o-Aw</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김지용 중수청장 후보자 7대 의혹의 이면]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13100108-AC15-CE85-2ADC-MJ45ZBU8MIYPPVY10YP3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["명태균 증거 인멸 유죄" 부장판사, 세관 조사 시작되자 휴대폰 교체]]></title>
             <link>http://newstapa.org/article/ouYEH</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰, ‘김승원 식약처 청탁’ 수사 때 ‘디넷’ 활용 불법 수사 정황]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/07180656-3867-E2C3-5C78-OZZJO1V84HFUAXXMXE4R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘항공권 조작 지방의원 명단’ 2심도 공개 판결 "수사 중이라도 비공개 정보 아냐"]]></title>
-            <link>http://newstapa.org/article/C_zXg</link>
-            <guid>http://newstapa.org/article/C_zXg</guid>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘항공권 조작 지방의원 명단’ 2심도 공개 판결 "수사 중이라도 비공개 정보 아냐"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/07143432-9AEA-4FC4-B8F4-ZX5L1FWXJZ3SG8502BYI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ③ “박정훈에게 맡기자”]]></title>
-            <link>http://newstapa.org/article/Qg_CX</link>
-            <guid>http://newstapa.org/article/Qg_CX</guid>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘조성현 기소’ 내란특검-종합특검 30일 공문 전쟁 ③ “박정훈에게 맡기자”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/04145203-C077-8256-4F25-HKJICZRSW9QCIGOO1520.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
