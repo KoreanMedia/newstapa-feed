@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Oct 2026 01:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 07:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,20 +120,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/24145805-2FA8-CA57-7112-7WRQ43SA6WU01378GJPS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[1948, 사라진 병사들: 그들은 돌아오지 않았다]]></title>
-            <link>http://newstapa.org/article/ArqDC</link>
-            <guid>http://newstapa.org/article/ArqDC</guid>
-            <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1948, 사라진 병사들: 그들은 돌아오지 않았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/23110830-6DC9-9B53-9E2B-FFJCU446OLQ3G4JYZE19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[김낙년 '친일 교과서 집필' 논란에 질타 쏟아진 국감장]]></title>
             <link>http://newstapa.org/article/PzG0Q</link>
             <guid>http://newstapa.org/article/PzG0Q</guid>
             <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김낙년 '친일 교과서 집필' 논란에 질타 쏟아진 국감장]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/10/17161329-39C1-2936-C129-BFU4NU1UEJIOKZII28B8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[해방80년특집: 숭미의 기원①] 광화문 성조기는 어디서 왔나]]></title>
+            <link>http://newstapa.org/article/d8S6X</link>
+            <guid>http://newstapa.org/article/d8S6X</guid>
+            <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해방80년특집: 숭미의 기원①] 광화문 성조기는 어디서 왔나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/08/14183710-F1D6-8FC2-D34F-MVOE0FHVH7QROFQXLTI9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
