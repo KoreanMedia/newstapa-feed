@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Oct 2026 07:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 13:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] <의원님의 변호사비> 최강욱 550만 원 반환... 선관위, 환수 개시·대책 마련]]></title>
+            <link>http://newstapa.org/article/use2i</link>
+            <guid>http://newstapa.org/article/use2i</guid>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] &lt;의원님의 변호사비&gt; 최강욱 550만 원 반환... 선관위, 환수 개시·대책 마련]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/14180743-61B7-5645-C023-HAMNLSGAUGYTHCLWYW9F.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나라땅으로 임대업... 인천항의 '봉이 김선달'들]]></title>
+            <link>http://newstapa.org/article/dlEPC</link>
+            <guid>http://newstapa.org/article/dlEPC</guid>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[나라땅으로 임대업... 인천항의 '봉이 김선달'들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/14180237-9ABE-FE35-7E85-9AMJUE2IBWDSCM7WVC0E.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[칼럼] 대통령기록관은 대통령기록을 관리할 자격이 있나]]></title>
             <link>http://newstapa.org/article/5XKU-</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[기고] 세금 오남용 비리 연루 재선 지방의원 1,443명]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/08105830-6466-5BCE-98C1-RHNH8BBHVOB2O0U3TCAO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["명태균 증거 인멸 유죄" 부장판사, 세관 조사 시작되자 휴대폰 교체]]></title>
-            <link>http://newstapa.org/article/ouYEH</link>
-            <guid>http://newstapa.org/article/ouYEH</guid>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["명태균 증거 인멸 유죄" 부장판사, 세관 조사 시작되자 휴대폰 교체]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/07080724-DAAD-13F5-1CFF-NIAFJEZF67M9QHH6N5B6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['허위 업무추진비' 왜? 조희대 "못 먹어본 음식 먹고 싶다는 구성원 소망" 때문]]></title>
-            <link>http://newstapa.org/article/XQBOC</link>
-            <guid>http://newstapa.org/article/XQBOC</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['허위 업무추진비' 왜? 조희대 "못 먹어본 음식 먹고 싶다는 구성원 소망" 때문]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/06221024-0EFA-8230-70A9-1I6V4NAOQC9GYBS0QP2B.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
