@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Oct 2026 07:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 13:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 국감 나온 오세훈, '조사 은폐' 누구 지시인가]]></title>
+            <link>http://newstapa.org/article/dXTc-</link>
+            <guid>http://newstapa.org/article/dXTc-</guid>
+            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 국감 나온 오세훈, '조사 은폐' 누구 지시인가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/15181158-4491-C502-5DF7-M0U6J0AP98JNP4TLWNHT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노동자 3명 숨진 천안 기름공장…16년간 노동부 감독 기록 '0']]></title>
+            <link>http://newstapa.org/article/cmrcs</link>
+            <guid>http://newstapa.org/article/cmrcs</guid>
+            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[노동자 3명 숨진 천안 기름공장…16년간 노동부 감독 기록 '0']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/15151431-6448-EBDA-4B64-0TBVS91N2TKUQ5F82UB1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대법관 임명 방법에 관한 5문 5답 ②]]></title>
             <link>http://newstapa.org/article/SveBK</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공수처, 윤석열의 '한동훈 지키기 사건' 5년 끌다 각하... 법원 판단과 배치]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13131028-57E1-E985-EDD9-CDCURHH9M96P4Q7WGGBH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] ‘이진관 기피신청’ 인용이 조희대 대법원장의 다음 그림일까]]></title>
-            <link>http://newstapa.org/article/nGQeM</link>
-            <guid>http://newstapa.org/article/nGQeM</guid>
-            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] ‘이진관 기피신청’ 인용이 조희대 대법원장의 다음 그림일까]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13100435-1C7F-55F7-7E8C-NPYSA97T3NHNAUQ752IW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김지용 중수청장 후보자 7대 의혹의 이면]]></title>
-            <link>http://newstapa.org/article/9o-Aw</link>
-            <guid>http://newstapa.org/article/9o-Aw</guid>
-            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김지용 중수청장 후보자 7대 의혹의 이면]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13100108-AC15-CE85-2ADC-MJ45ZBU8MIYPPVY10YP3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
