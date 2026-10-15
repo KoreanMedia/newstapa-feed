@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Oct 2026 01:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 07:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공수처 "조희대 업무추진비 수사 예정", 중수청장 후보자 "수사 가능"]]></title>
+            <link>http://newstapa.org/article/iEFEh</link>
+            <guid>http://newstapa.org/article/iEFEh</guid>
+            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공수처 "조희대 업무추진비 수사 예정", 중수청장 후보자 "수사 가능"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/15105333-C70F-6927-1027-5VR2USJQWXRQPHE88YPM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파기될 뻔한 한강버스 수사의뢰서, '브로커와 뇌물 의혹' 담겼다]]></title>
             <link>http://newstapa.org/article/AQ2OF</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 혐오 정치 전성시대, 상처 밟고 혐오에 타라]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/08174110-7876-45E2-6574-75T8VWG030A40P6DOYKO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조희대 대법원장의 ‘소망’ 업무추진비 식당 지도 공개]]></title>
-            <link>http://newstapa.org/article/97jfb</link>
-            <guid>http://newstapa.org/article/97jfb</guid>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조희대 대법원장의 ‘소망’ 업무추진비 식당 지도 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/08163221-904E-C21A-617F-RUSZRETI442LE3UPGX7O.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
