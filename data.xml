@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Oct 2026 00:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 05:33:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -417,8 +417,8 @@
         </item>
         <item>
             <title><![CDATA[박근혜 최순실 체제의 부역자들]]></title>
-            <link>http://traitors.newstapa.org/</link>
-            <guid>http://traitors.newstapa.org/</guid>
+            <link>https://pages.newstapa.org/n2016_traitors/</link>
+            <guid>https://pages.newstapa.org/n2016_traitors/</guid>
             <pubDate>Sat, 12 Nov 2016 00:00:00 GMT</pubDate>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2016/11/4b9d20f393275271775dda972b7ca23e97b85618593a779ecdaa9942510d75c3b09a4cd29f2d748b9f842510ac81072a2a291d3baea0bbd3a4be43dffa400cc4.jpg" length="0" type="image/jpg"/>
         </item>

@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Oct 2026 00:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 05:33:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,11 +104,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/02153222-4898-F681-5D54-5WUF0728WVMBKF8A7QN9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공순이 : 이름이 된 직업]]></title>
+            <title><![CDATA[[목격자들] 공순이 : 이름이 된 직업]]></title>
             <link>http://newstapa.org/article/m2k8e</link>
             <guid>http://newstapa.org/article/m2k8e</guid>
             <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공순이 : 이름이 된 직업]]></content:encoded>
+            <content:encoded><![CDATA[[목격자들] 공순이 : 이름이 된 직업]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/28141012-4497-6C9F-1CE4-05MJ8BB9EKBWO96NXR29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
