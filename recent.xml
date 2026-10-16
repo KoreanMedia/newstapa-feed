@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Oct 2026 05:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 10:52:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[K-어업의 브로커들] 외국인 선원 송출비 1,480건 분석…4명 중 3명이 돈 더 냈다]]></title>
+            <link>http://newstapa.org/article/HhFSD</link>
+            <guid>http://newstapa.org/article/HhFSD</guid>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[K-어업의 브로커들] 외국인 선원 송출비 1,480건 분석…4명 중 3명이 돈 더 냈다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/16181318-9FB1-8285-1E65-VCUQOQZGYCTBF34LB5TB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[목격자들] 1948, 사라진 병사들②: 동포의 학살을 거부한다]]></title>
+            <link>http://newstapa.org/article/vkMEl</link>
+            <guid>http://newstapa.org/article/vkMEl</guid>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목격자들] 1948, 사라진 병사들②: 동포의 학살을 거부한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/16133832-7699-C767-B0F8-I13PHU15SV7S0EXR3PAY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 국감 나온 오세훈, '조사 은폐' 누구 지시인가]]></title>
             <link>http://newstapa.org/article/dXTc-</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[수사 검사·판사까지 변호사로...'빚 3천억' 이영복의 호화 변호인단]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13141931-9F81-AD05-A0A0-NNR3ZKOTGTMZAQF4RS9J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민변·뉴스타파 "정치자금법 42조는 알 권리 침해" 헌법소원]]></title>
-            <link>http://newstapa.org/article/7gVtg</link>
-            <guid>http://newstapa.org/article/7gVtg</guid>
-            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[민변·뉴스타파 "정치자금법 42조는 알 권리 침해" 헌법소원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13142521-42C6-DEE0-849F-5800HJ3B2N1Z672KRNPN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공수처, 윤석열의 '한동훈 지키기 사건' 5년 끌다 각하... 법원 판단과 배치]]></title>
-            <link>http://newstapa.org/article/nt3Dr</link>
-            <guid>http://newstapa.org/article/nt3Dr</guid>
-            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공수처, 윤석열의 '한동훈 지키기 사건' 5년 끌다 각하... 법원 판단과 배치]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13131028-57E1-E985-EDD9-CDCURHH9M96P4Q7WGGBH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
