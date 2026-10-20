@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/category/%EA%B3%B5%EC%A7%81%EA%B0%90%EC%8B%9C</id>
-    <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
-    <updated>2026-10-20T18:59:26.147Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 20 Oct 2026 22:13:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['한강버스 자료 파기 지시' 부인한 서울시...공익신고자, 고발장 제출]]></title>
+            <link>http://newstapa.org/article/Cmq9Z</link>
+            <guid>http://newstapa.org/article/Cmq9Z</guid>
+            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['한강버스 자료 파기 지시' 부인한 서울시...공익신고자, 고발장 제출]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/20171718-49F1-0309-1CCF-FYNHGWB8K99QG9RPNLGK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘봉이 김선달’ 항만 사업권 사유화… 세습되고 거래됐다]]></title>
+            <link>http://newstapa.org/article/-jUEo</link>
+            <guid>http://newstapa.org/article/-jUEo</guid>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘봉이 김선달’ 항만 사업권 사유화… 세습되고 거래됐다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/19180746-B914-2E5B-CB42-MWZ08Z8HGX8QXWX6BLMP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 국감 나온 오세훈, '조사 은폐' 누구 지시인가]]></title>
+            <link>http://newstapa.org/article/dXTc-</link>
+            <guid>http://newstapa.org/article/dXTc-</guid>
+            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 국감 나온 오세훈, '조사 은폐' 누구 지시인가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/15181158-4491-C502-5DF7-M0U6J0AP98JNP4TLWNHT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공수처 "조희대 업무추진비 수사 예정", 중수청장 후보자 "수사 가능"]]></title>
+            <link>http://newstapa.org/article/iEFEh</link>
+            <guid>http://newstapa.org/article/iEFEh</guid>
+            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공수처 "조희대 업무추진비 수사 예정", 중수청장 후보자 "수사 가능"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/15105333-C70F-6927-1027-5VR2USJQWXRQPHE88YPM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파기될 뻔한 한강버스 수사의뢰서, '브로커와 뇌물 의혹' 담겼다]]></title>
+            <link>http://newstapa.org/article/AQ2OF</link>
+            <guid>http://newstapa.org/article/AQ2OF</guid>
+            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[파기될 뻔한 한강버스 수사의뢰서, '브로커와 뇌물 의혹' 담겼다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/14191737-89B9-7320-A112-51O4GYRR1XRECCZJBIIP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오세훈, 한강버스 비위 내부조사 '무마·은폐' 의혹]]></title>
+            <link>http://newstapa.org/article/JcTTV</link>
+            <guid>http://newstapa.org/article/JcTTV</guid>
+            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오세훈, 한강버스 비위 내부조사 '무마·은폐' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/14192209-3209-016E-43EB-BMYTWN5WYX9FPG3Y5OJ7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] <의원님의 변호사비> 최강욱 550만 원 반환... 선관위, 환수 개시·대책 마련]]></title>
+            <link>http://newstapa.org/article/use2i</link>
+            <guid>http://newstapa.org/article/use2i</guid>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] &lt;의원님의 변호사비&gt; 최강욱 550만 원 반환... 선관위, 환수 개시·대책 마련]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/14180743-61B7-5645-C023-HAMNLSGAUGYTHCLWYW9F.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나라땅으로 임대업... 인천항의 '봉이 김선달'들]]></title>
+            <link>http://newstapa.org/article/dlEPC</link>
+            <guid>http://newstapa.org/article/dlEPC</guid>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[나라땅으로 임대업... 인천항의 '봉이 김선달'들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/14180237-9ABE-FE35-7E85-9AMJUE2IBWDSCM7WVC0E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[칼럼] 대통령기록관은 대통령기록을 관리할 자격이 있나]]></title>
+            <link>http://newstapa.org/article/5XKU-</link>
+            <guid>http://newstapa.org/article/5XKU-</guid>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 대통령기록관은 대통령기록을 관리할 자격이 있나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/14133907-3A5A-61D8-8D92-PQWYGRBY4RHEALV6WXH0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 '계란말이 만찬' 이후 기자 해외 연수 급증...일부 보고서는 '복붙']]></title>
+            <link>http://newstapa.org/article/a-hFZ</link>
+            <guid>http://newstapa.org/article/a-hFZ</guid>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤 '계란말이 만찬' 이후 기자 해외 연수 급증...일부 보고서는 '복붙']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/14113312-CBA6-42E0-C7DC-TU261AKOAK1OLCDPJLX0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“0.99달러 저작권 마타도어”?...한동훈 해명에 빠진 사실들]]></title>
+            <link>http://newstapa.org/article/2t43L</link>
+            <guid>http://newstapa.org/article/2t43L</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“0.99달러 저작권 마타도어”?...한동훈 해명에 빠진 사실들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13172440-021D-9C1E-8EF9-MX77X28TVQKOASAO7VAX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조희대 '허위 업무추진비'에 침묵하는 수사기관… 국수본부장 "직무유기"]]></title>
+            <link>http://newstapa.org/article/OFiJR</link>
+            <guid>http://newstapa.org/article/OFiJR</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조희대 '허위 업무추진비'에 침묵하는 수사기관… 국수본부장 "직무유기"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13154503-C5E2-7C3B-3ECD-ZT3J55NDHTV0WABOUYR6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민변·뉴스타파 "정치자금법 42조는 알 권리 침해" 헌법소원]]></title>
+            <link>http://newstapa.org/article/7gVtg</link>
+            <guid>http://newstapa.org/article/7gVtg</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[민변·뉴스타파 "정치자금법 42조는 알 권리 침해" 헌법소원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13142521-42C6-DEE0-849F-5800HJ3B2N1Z672KRNPN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공수처, 윤석열의 '한동훈 지키기 사건' 5년 끌다 각하... 법원 판단과 배치]]></title>
+            <link>http://newstapa.org/article/nt3Dr</link>
+            <guid>http://newstapa.org/article/nt3Dr</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공수처, 윤석열의 '한동훈 지키기 사건' 5년 끌다 각하... 법원 판단과 배치]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13131028-57E1-E985-EDD9-CDCURHH9M96P4Q7WGGBH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[칼럼] ‘이진관 기피신청’ 인용이 조희대 대법원장의 다음 그림일까]]></title>
+            <link>http://newstapa.org/article/nGQeM</link>
+            <guid>http://newstapa.org/article/nGQeM</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] ‘이진관 기피신청’ 인용이 조희대 대법원장의 다음 그림일까]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13100435-1C7F-55F7-7E8C-NPYSA97T3NHNAUQ752IW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김지용 중수청장 후보자 7대 의혹의 이면]]></title>
+            <link>http://newstapa.org/article/9o-Aw</link>
+            <guid>http://newstapa.org/article/9o-Aw</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김지용 중수청장 후보자 7대 의혹의 이면]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13100108-AC15-CE85-2ADC-MJ45ZBU8MIYPPVY10YP3.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

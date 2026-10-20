@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/category/%EC%98%88%EC%82%B0%EA%B0%90%EC%8B%9C</id>
-    <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
-    <updated>2026-10-20T18:59:26.167Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 20 Oct 2026 22:13:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공수처 "조희대 업무추진비 수사 예정", 중수청장 후보자 "수사 가능"]]></title>
+            <link>http://newstapa.org/article/iEFEh</link>
+            <guid>http://newstapa.org/article/iEFEh</guid>
+            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공수처 "조희대 업무추진비 수사 예정", 중수청장 후보자 "수사 가능"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/15105333-C70F-6927-1027-5VR2USJQWXRQPHE88YPM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조희대 '허위 업무추진비'에 침묵하는 수사기관… 국수본부장 "직무유기"]]></title>
+            <link>http://newstapa.org/article/OFiJR</link>
+            <guid>http://newstapa.org/article/OFiJR</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조희대 '허위 업무추진비'에 침묵하는 수사기관… 국수본부장 "직무유기"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13154503-C5E2-7C3B-3ECD-ZT3J55NDHTV0WABOUYR6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조희대 대법원장의 ‘소망’ 업무추진비 식당 지도 공개]]></title>
+            <link>http://newstapa.org/article/97jfb</link>
+            <guid>http://newstapa.org/article/97jfb</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조희대 대법원장의 ‘소망’ 업무추진비 식당 지도 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/08163221-904E-C21A-617F-RUSZRETI442LE3UPGX7O.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['허위 업무추진비' 왜? 조희대 "못 먹어본 음식 먹고 싶다는 구성원 소망" 때문]]></title>
+            <link>http://newstapa.org/article/XQBOC</link>
+            <guid>http://newstapa.org/article/XQBOC</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['허위 업무추진비' 왜? 조희대 "못 먹어본 음식 먹고 싶다는 구성원 소망" 때문]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/06221024-0EFA-8230-70A9-1I6V4NAOQC9GYBS0QP2B.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연말에 업무추진비 ‘32배 몰아쓰기’… 조희대, 세금 오·남용 정황]]></title>
+            <link>http://newstapa.org/article/YUazb</link>
+            <guid>http://newstapa.org/article/YUazb</guid>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[연말에 업무추진비 ‘32배 몰아쓰기’… 조희대, 세금 오·남용 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/02184523-6D86-2FFC-D578-NFIVYN6PU92US2QV1U37.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대법원, 조희대의 213만 원짜리 ‘소맥 회식’도 은폐]]></title>
+            <link>http://newstapa.org/article/_SDEg</link>
+            <guid>http://newstapa.org/article/_SDEg</guid>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대법원, 조희대의 213만 원짜리 ‘소맥 회식’도 은폐]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/02133133-7F35-034D-EBA2-REUZI74SGAIV9X166HI4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대법원, 조희대 ‘허위 업무추진비’ 인정하고 사과… “죄송스럽다”]]></title>
+            <link>http://newstapa.org/article/W88mS</link>
+            <guid>http://newstapa.org/article/W88mS</guid>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대법원, 조희대 ‘허위 업무추진비’ 인정하고 사과… “죄송스럽다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/29142404-495D-39A8-05C5-E6CKG1KXBQ9QR9CLKS2K.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조희대 ‘허위 업무추진비’… 올해 상반기에만 최소 13건 확인]]></title>
+            <link>http://newstapa.org/article/I4mIX</link>
+            <guid>http://newstapa.org/article/I4mIX</guid>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조희대 ‘허위 업무추진비’… 올해 상반기에만 최소 13건 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/28142306-96B5-C2AF-FBE5-ZDS3V1DGRTBZ1BWWXYWG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조희대 청탁금지법 위반 의혹… 대법원 허위 자료로 은폐]]></title>
+            <link>http://newstapa.org/article/pfFw-</link>
+            <guid>http://newstapa.org/article/pfFw-</guid>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조희대 청탁금지법 위반 의혹… 대법원 허위 자료로 은폐]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/28142711-C2D3-098D-901D-4V3JS0KGM9BWHI2X74LN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뿌리고 나눠먹고 몰아쓰고… 김지용 중수청장 후보자, 특활비 의혹 ‘종합세트’]]></title>
+            <link>http://newstapa.org/article/_XS7Z</link>
+            <guid>http://newstapa.org/article/_XS7Z</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뿌리고 나눠먹고 몰아쓰고… 김지용 중수청장 후보자, 특활비 의혹 ‘종합세트’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/18134313-21A7-DC81-47D3-QAT76C5HT51ZXUZ8I2M0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘항공권 조작 지방의원 명단’ 2심도 공개 판결 "수사 중이라도 비공개 정보 아냐"]]></title>
+            <link>http://newstapa.org/article/C_zXg</link>
+            <guid>http://newstapa.org/article/C_zXg</guid>
+            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘항공권 조작 지방의원 명단’ 2심도 공개 판결 "수사 중이라도 비공개 정보 아냐"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/07143432-9AEA-4FC4-B8F4-ZX5L1FWXJZ3SG8502BYI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위법, 국회 무력화, 물증 은폐… 서울중앙지검의 ‘예산 범죄’ 확인]]></title>
+            <link>http://newstapa.org/article/cCyzi</link>
+            <guid>http://newstapa.org/article/cCyzi</guid>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[위법, 국회 무력화, 물증 은폐… 서울중앙지검의 ‘예산 범죄’ 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/20162947-E3DA-0852-8FDA-BEUREO17WDUV1TJWZ2WB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파X하승수, 전·현직 대통령실의 금고를 열어라]]></title>
+            <link>http://newstapa.org/article/L6kYO</link>
+            <guid>http://newstapa.org/article/L6kYO</guid>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파X하승수, 전·현직 대통령실의 금고를 열어라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/11145118-8F58-C7CE-C525-UQL8J43KHAPXWSHACCBP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기고] 지방의회 비리 감추는 국민권익위?]]></title>
+            <link>http://newstapa.org/article/-Yerm</link>
+            <guid>http://newstapa.org/article/-Yerm</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고] 지방의회 비리 감추는 국민권익위?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/12160358-EBE0-3420-9245-QHO1ABKY2IWRCLRK2LIS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 통일교 궁전에 UN사무국? 막 오르는 '통일교 특검']]></title>
+            <link>http://newstapa.org/article/df8Z4</link>
+            <guid>http://newstapa.org/article/df8Z4</guid>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 통일교 궁전에 UN사무국? 막 오르는 '통일교 특검']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/26174319-9E76-C4B7-0896-1LUCG64ATV0DI6M24M55.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] '가평복귀'... 통일교 게이트의 새로운 축을 찾다]]></title>
+            <link>http://newstapa.org/article/tGXvH</link>
+            <guid>http://newstapa.org/article/tGXvH</guid>
+            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] '가평복귀'... 통일교 게이트의 새로운 축을 찾다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/18165444-875C-F19B-B256-Q9TJ4EADNTE6PN5ZBF50.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
