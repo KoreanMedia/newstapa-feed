@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Oct 2026 01:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 07:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대법관 임명 방법에 관한 5문 5답 ③]]></title>
+            <link>http://newstapa.org/article/B-RhJ</link>
+            <guid>http://newstapa.org/article/B-RhJ</guid>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대법관 임명 방법에 관한 5문 5답 ③]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/21153700-91AD-CD29-F414-LN3Z8ZG8C41MB1J7QJ5K.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[23명 사망에 대표 징역 4년 확정...아리셀 참사 유족 "성의도, 예의도 없다"]]></title>
             <link>http://newstapa.org/article/04qpL</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[나라땅으로 임대업... 인천항의 '봉이 김선달'들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/14180237-9ABE-FE35-7E85-9AMJUE2IBWDSCM7WVC0E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[목격자들] 1948, 사라진 병사들①: 그들은 돌아오지 않았다]]></title>
-            <link>http://newstapa.org/article/ArqDC</link>
-            <guid>http://newstapa.org/article/ArqDC</guid>
-            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[목격자들] 1948, 사라진 병사들①: 그들은 돌아오지 않았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/14172432-0BCA-FB76-5E7C-4AH79AA4L1Y6UBKYDBBP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
