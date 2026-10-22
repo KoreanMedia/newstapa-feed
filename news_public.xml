@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Oct 2026 01:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 07:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한강버스 공익신고자, 오세훈 시장 고소..."신분 노출 발언 수사, 엄벌해야"]]></title>
+            <link>http://newstapa.org/article/eaJaU</link>
+            <guid>http://newstapa.org/article/eaJaU</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한강버스 공익신고자, 오세훈 시장 고소..."신분 노출 발언 수사, 엄벌해야"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/22140731-6379-37F2-58C6-FNJE9S8VIHYNK57LOB43.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘윤석열 당선 무효’ 재판장이 던진 5개 치명적 질문]]></title>
             <link>http://newstapa.org/article/qze20</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[민변·뉴스타파 "정치자금법 42조는 알 권리 침해" 헌법소원]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13142521-42C6-DEE0-849F-5800HJ3B2N1Z672KRNPN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공수처, 윤석열의 '한동훈 지키기 사건' 5년 끌다 각하... 법원 판단과 배치]]></title>
-            <link>http://newstapa.org/article/nt3Dr</link>
-            <guid>http://newstapa.org/article/nt3Dr</guid>
-            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공수처, 윤석열의 '한동훈 지키기 사건' 5년 끌다 각하... 법원 판단과 배치]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13131028-57E1-E985-EDD9-CDCURHH9M96P4Q7WGGBH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
