@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Oct 2026 07:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 13:56:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강남이 사들인 강북의 미래]]></title>
+            <link>https://pages.newstapa.org/2026/hannam/</link>
+            <guid>https://pages.newstapa.org/2026/hannam/</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파는 서울 용산구 한남3구역 3,244필지의 등기 기록을 한 줄씩 추적했습니다. 2002년부터 2022년까지 20년의 기록을 따라가자 땅의 주인이 바뀌는 과정이 드러났습니다. 원주민의 땅은 16%까지 줄었고 외지인의 땅은 70%까지 늘어났습니다. 한남3구역의 20년을 특별페이지에서 확인해보세요.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/22180552-A030-2896-860F-WB3OXTK5VOVY3MOCSZM4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조희대 대법원장 업무추진비 식당 지도]]></title>
             <link>https://pages.newstapa.org/2026/jhd-expense/</link>
@@ -14,22 +22,6 @@
             <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“못 먹어본 음식을 먹어보고 싶다”는 법원 구성원들의 소망. 그 소망을 위해 국민 세금은 어디서, 얼마나 쓰였을까요. 조희대 대법원장의 업무추진비가 쓰인 식당과 허위 조작 기록이 확인된 내역을 지도 위에 모았습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/08163615-CB9C-D6EB-60C2-JWP54XS7CUW80IJSQPSU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열의 397억 거짓말]]></title>
-            <link>https://pages.newstapa.org/2026/397</link>
-            <guid>https://pages.newstapa.org/2026/397</guid>
-            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[비리 세무서장을 둘러싼 검찰 내 유착 관계부터, 대선 후보의 거짓말이 법의 심판대에 오르기까지 — 그 모든 과정을 특별 페이지에 담았습니다. 397억 원이 걸린 거짓말의 전말, 지금 확인해 보세요.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/04152505-3A52-61F8-FCE4-CHLYJVLCROIRE7UPPWYJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 동네 0표 당선자들]]></title>
-            <link>https://pages.newstapa.org/2026/vote63/</link>
-            <guid>https://pages.newstapa.org/2026/vote63/</guid>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[경쟁자도 없고, 선거운동도 없고, 유권자의 심판도 없습니다. 무투표 당선자에게 유권자가 행사할 수 있는 견제 수단은 현행법상 없습니다. 뉴스타파는 제9회 지방선거 무투표 당선자 511명의 이름, 선거구, 전과 기록을 포함한 상세 정보를 전수 공개합니다. 내 지역구 무투표 당선자를 직접 확인해보세요.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/01191250-7AB7-72C2-BB46-0KIZI7GLKLLHZX0SF0T6.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파 데이터포털]]></title>
@@ -46,6 +38,22 @@
             <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기관별로 산발적으로 공개되던 공직자들의 재산 내역을 한데 모아, 모두가 쉽게 찾아 볼 수 있는 웹사이트를 제작했습니다. 공직자들의 여러 해에 걸친 재산 형성 과정을 직접 추적해 볼 수 있습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26113233-5D47-3157-9904-RW0H3PKG3LHNRNPCM028.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열의 397억 거짓말]]></title>
+            <link>https://pages.newstapa.org/2026/397</link>
+            <guid>https://pages.newstapa.org/2026/397</guid>
+            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[비리 세무서장을 둘러싼 검찰 내 유착 관계부터, 대선 후보의 거짓말이 법의 심판대에 오르기까지 — 그 모든 과정을 특별 페이지에 담았습니다. 397억 원이 걸린 거짓말의 전말, 지금 확인해 보세요.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/04152505-3A52-61F8-FCE4-CHLYJVLCROIRE7UPPWYJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 동네 0표 당선자들]]></title>
+            <link>https://pages.newstapa.org/2026/vote63/</link>
+            <guid>https://pages.newstapa.org/2026/vote63/</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경쟁자도 없고, 선거운동도 없고, 유권자의 심판도 없습니다. 무투표 당선자에게 유권자가 행사할 수 있는 견제 수단은 현행법상 없습니다. 뉴스타파는 제9회 지방선거 무투표 당선자 511명의 이름, 선거구, 전과 기록을 포함한 상세 정보를 전수 공개합니다. 내 지역구 무투표 당선자를 직접 확인해보세요.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/06/01191250-7AB7-72C2-BB46-0KIZI7GLKLLHZX0SF0T6.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[윤석열의 내란 PART 3. 기록된 변명 - 피고인의 궤변과 법원의 판단]]></title>

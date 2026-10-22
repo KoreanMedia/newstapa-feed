@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Oct 2026 07:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 13:56:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[재개발과 외지인] ① 한남3구역 20년 등기 분석]]></title>
+            <link>http://newstapa.org/article/Q16iO</link>
+            <guid>http://newstapa.org/article/Q16iO</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[재개발과 외지인] ① 한남3구역 20년 등기 분석]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/22201347-319B-B579-510B-ERD42VM5ATE8IGLG17WB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한남3구역 20년, 기록을 한 줄씩 추적했다]]></title>
+            <link>http://newstapa.org/article/HBDz0</link>
+            <guid>http://newstapa.org/article/HBDz0</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한남3구역 20년, 기록을 한 줄씩 추적했다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/22175710-A9E7-7813-3692-QAY5SHTD3FYJG766OQ0M.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] (네가 살던) 헌집 다오, (내가 살) 새집 짓게]]></title>
+            <link>http://newstapa.org/article/I5BeX</link>
+            <guid>http://newstapa.org/article/I5BeX</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] (네가 살던) 헌집 다오, (내가 살) 새집 짓게]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/22174706-260E-9F51-5C4F-XTKZGUUQFKTJIPB60P5S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국세청, 일감 몰아주기 의혹 신세계면세점 특별 세무조사 착수]]></title>
             <link>http://newstapa.org/article/4rXmE</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 국감 나온 오세훈, '조사 은폐' 누구 지시인가]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/15181158-4491-C502-5DF7-M0U6J0AP98JNP4TLWNHT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노동자 3명 숨진 천안 기름공장…16년간 노동부 감독 기록 '0']]></title>
-            <link>http://newstapa.org/article/cmrcs</link>
-            <guid>http://newstapa.org/article/cmrcs</guid>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노동자 3명 숨진 천안 기름공장…16년간 노동부 감독 기록 '0']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/15151431-6448-EBDA-4B64-0TBVS91N2TKUQ5F82UB1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대법관 임명 방법에 관한 5문 5답 ②]]></title>
-            <link>http://newstapa.org/article/SveBK</link>
-            <guid>http://newstapa.org/article/SveBK</guid>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대법관 임명 방법에 관한 5문 5답 ②]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/15111227-4592-B3FA-2787-1ZXQZAR6QRTJ6DK7B661.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공수처 "조희대 업무추진비 수사 예정", 중수청장 후보자 "수사 가능"]]></title>
-            <link>http://newstapa.org/article/iEFEh</link>
-            <guid>http://newstapa.org/article/iEFEh</guid>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공수처 "조희대 업무추진비 수사 예정", 중수청장 후보자 "수사 가능"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/15105333-C70F-6927-1027-5VR2USJQWXRQPHE88YPM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
