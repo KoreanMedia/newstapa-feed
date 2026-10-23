@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Oct 2026 01:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 07:05:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화]경기도선관위, 민주당 경기도당 6명 고발...김승원은 제외]]></title>
+            <link>http://newstapa.org/article/cgoZH</link>
+            <guid>http://newstapa.org/article/cgoZH</guid>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화]경기도선관위, 민주당 경기도당 6명 고발...김승원은 제외]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/23110237-C1E2-FF14-ED0F-1USMPLFTIP9DBYMNPQW9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ① ‘기부’와 ‘합의’]]></title>
+            <link>http://newstapa.org/article/5_RBV</link>
+            <guid>http://newstapa.org/article/5_RBV</guid>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ① ‘기부’와 ‘합의’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/23104255-FA99-F882-FF97-KMTVBQHY79SED8RYMVPF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한강버스 공익신고자, 오세훈 시장 고소..."신분 노출 발언 수사, 엄벌해야"]]></title>
             <link>http://newstapa.org/article/eaJaU</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“0.99달러 저작권 마타도어”?...한동훈 해명에 빠진 사실들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13172440-021D-9C1E-8EF9-MX77X28TVQKOASAO7VAX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조희대 '허위 업무추진비'에 침묵하는 수사기관… 국수본부장 "직무유기"]]></title>
-            <link>http://newstapa.org/article/OFiJR</link>
-            <guid>http://newstapa.org/article/OFiJR</guid>
-            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조희대 '허위 업무추진비'에 침묵하는 수사기관… 국수본부장 "직무유기"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13154503-C5E2-7C3B-3ECD-ZT3J55NDHTV0WABOUYR6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민변·뉴스타파 "정치자금법 42조는 알 권리 침해" 헌법소원]]></title>
-            <link>http://newstapa.org/article/7gVtg</link>
-            <guid>http://newstapa.org/article/7gVtg</guid>
-            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[민변·뉴스타파 "정치자금법 42조는 알 권리 침해" 헌법소원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/13142521-42C6-DEE0-849F-5800HJ3B2N1Z672KRNPN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
