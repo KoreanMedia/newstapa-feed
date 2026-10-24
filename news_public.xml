@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Oct 2026 00:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 05:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ② 법리냐, 법감정이냐]]></title>
+            <link>http://newstapa.org/article/DSBzN</link>
+            <guid>http://newstapa.org/article/DSBzN</guid>
+            <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ② 법리냐, 법감정이냐]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/23173913-B642-EC42-5B36-BPW5RREMJ4M410ELX6HN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“판사 매수했다”며 돈받은 변호사, 국민의힘 성남시 수정구 조직위원장에]]></title>
             <link>http://newstapa.org/article/_guPI</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[칼럼] 대통령기록관은 대통령기록을 관리할 자격이 있나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/14133907-3A5A-61D8-8D92-PQWYGRBY4RHEALV6WXH0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 '계란말이 만찬' 이후 기자 해외 연수 급증...일부 보고서는 '복붙']]></title>
-            <link>http://newstapa.org/article/a-hFZ</link>
-            <guid>http://newstapa.org/article/a-hFZ</guid>
-            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤 '계란말이 만찬' 이후 기자 해외 연수 급증...일부 보고서는 '복붙']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/14113312-CBA6-42E0-C7DC-TU261AKOAK1OLCDPJLX0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

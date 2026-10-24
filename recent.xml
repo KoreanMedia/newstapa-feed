@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Oct 2026 00:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 05:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ② 법리냐, 법감정이냐]]></title>
+            <link>http://newstapa.org/article/DSBzN</link>
+            <guid>http://newstapa.org/article/DSBzN</guid>
+            <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ② 법리냐, 법감정이냐]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/23173913-B642-EC42-5B36-BPW5RREMJ4M410ELX6HN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“판사 매수했다”며 돈받은 변호사, 국민의힘 성남시 수정구 조직위원장에]]></title>
             <link>http://newstapa.org/article/_guPI</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘봉이 김선달’ 항만 사업권 사유화… 세습되고 거래됐다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/19180746-B914-2E5B-CB42-MWZ08Z8HGX8QXWX6BLMP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유해진 집 앞 시위 김상진은 리박스쿨 대표의 “1호 장학생”]]></title>
-            <link>http://newstapa.org/article/b_Flw</link>
-            <guid>http://newstapa.org/article/b_Flw</guid>
-            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유해진 집 앞 시위 김상진은 리박스쿨 대표의 “1호 장학생”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/19154936-E041-763A-B8CD-7Q62TMQH5U7KEMY6UQ8C.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
