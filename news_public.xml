@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Oct 2026 03:35:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 09:49:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“명태균, 과장은 좀 있지만... 오세훈, 운이 좋다” 김영선 전 의원 인터뷰]]></title>
+            <link>http://newstapa.org/article/mtjF2</link>
+            <guid>http://newstapa.org/article/mtjF2</guid>
+            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“명태균, 과장은 좀 있지만... 오세훈, 운이 좋다” 김영선 전 의원 인터뷰]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/26180431-63AB-E483-A608-9VITLEL98OL0LKG4TYLY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검사들은 김건희 주가조작 불기소를 위해 어떻게 움직였나]]></title>
+            <link>http://newstapa.org/article/wX3Ui</link>
+            <guid>http://newstapa.org/article/wX3Ui</guid>
+            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검사들은 김건희 주가조작 불기소를 위해 어떻게 움직였나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/26151405-CA07-CDC5-9A6C-RZXAOX0OERGKMZDD3YFA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공수처, 법원이 배척한 ‘윤석열 논리’로 ‘한동훈 감찰 방해’ 각하]]></title>
             <link>http://newstapa.org/article/wf0q3</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오세훈, 한강버스 비위 내부조사 '무마·은폐' 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/14192209-3209-016E-43EB-BMYTWN5WYX9FPG3Y5OJ7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] <의원님의 변호사비> 최강욱 550만 원 반환... 선관위, 환수 개시·대책 마련]]></title>
-            <link>http://newstapa.org/article/use2i</link>
-            <guid>http://newstapa.org/article/use2i</guid>
-            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] &lt;의원님의 변호사비&gt; 최강욱 550만 원 반환... 선관위, 환수 개시·대책 마련]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/14180743-61B7-5645-C023-HAMNLSGAUGYTHCLWYW9F.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나라땅으로 임대업... 인천항의 '봉이 김선달'들]]></title>
-            <link>http://newstapa.org/article/dlEPC</link>
-            <guid>http://newstapa.org/article/dlEPC</guid>
-            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[나라땅으로 임대업... 인천항의 '봉이 김선달'들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/14180237-9ABE-FE35-7E85-9AMJUE2IBWDSCM7WVC0E.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
