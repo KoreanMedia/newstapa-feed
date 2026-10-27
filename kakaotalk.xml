@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-10-26T21:26:49.179Z</updated>
+    <updated>2026-10-27T07:25:42.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/7cdbcf7/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['애니 엄마' 정유경에게 지난 한 주간 벌어진 일]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115011806</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115011806"/>
+        <updated>2026-10-27T07:25:34.417Z</updated>
+        <content type="html"><![CDATA[지난 한 주간 (주)신세계를 이끄는 정유경 회장이 언론의 주목을 받았습니다. <br><br>정유경 회장이 중앙일보 인수전에 참여하는 등 호재들을 발표했지만, 뉴스타파 보도로 촉발된 국세청의 전격적인 세무조사라는 악재를 맞았습니다. <br><br>대기업 저승사자라고 불리는 서울청 조사4국의 대대적인 특별 세무조사입니다. <br><br>그 과정을 지켜보는 건 취재 기자로서는 흥미로운 일이 아닐 수 없었습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/eiU83</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이태원 참사 4주기] 이태원 참사 '미공개 파일'... 실패한 국가의 초상]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115012799</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/114961380"/>
         <updated>2026-10-21T13:32:40.084Z</updated>
         <content type="html"><![CDATA[뉴스타파가 보도한 조희대 대법원장의 청탁금지법 위반 의혹과 관련해 정일연 국민권익위원장이 "면밀하게 조사 중이며 조속히 조사해 결론 내리겠다"고 말했습니다.<br><br>고위공직자범죄수사처와 중대범죄수사청은 뉴스타파의 보도에 근거해 조 대법원장의 '허위 업무추진비'를 둘러싼 범죄 혐의에 대한 수사를 본격화하고 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/TZVJy</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DMZ 영화제 뉴스타파아시아펀드 전달식]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/114960069</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/114960069"/>
-        <updated>2026-10-21T07:10:32.458Z</updated>
-        <content type="html"><![CDATA[“뉴스타파에 나온다고? 그럴 줄 알았으면 좀 더 예쁘게 찍었어야지!”<br><br>다큐멘터리 &lt;한 걸음 한 걸음&gt;의 주인공인 한국와이퍼 해고 노동자들은 뉴스타파 &lt;목격자들&gt; 방송 소식에 기쁨을 감추지 못했습니다. 이 작품은 해고 노동자들의 투쟁과 그 이후의 삶을 유쾌하게 기록한 작품으로  ‘뉴스타파펀드’ 지원작으로 선정됐습니다. <br><br>뉴스타파펀드 전달식 현장과 함께 김수목 감독이 전하는 작품의 뒷이야기를 영상으로 확인하세요.<br><br>📢 목격자들 10월 정기공모 <span class="link_url">https://withnewstapa.org/witnesses-2026-10</span>/ <br>🎞️ 목격자들 상영관 <span class="link_url">https://withnewstapa.org/witness</span>/<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/6NtYbMSx3qM</span>]]></content>
     </entry>
 </feed>

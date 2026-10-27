@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 재벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Oct 2026 21:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 07:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] '애니 엄마' 정유경 회장에게 지난 한 주간 벌어진 일]]></title>
+            <link>http://newstapa.org/article/eiU83</link>
+            <guid>http://newstapa.org/article/eiU83</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] '애니 엄마' 정유경 회장에게 지난 한 주간 벌어진 일]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/26171957-A0C5-5B91-7506-DZYCAPV863HH192C9I4W.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국세청, 일감 몰아주기 의혹 신세계면세점 특별 세무조사 착수]]></title>
             <link>http://newstapa.org/article/4rXmE</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/23103505-6412-9CBA-F1C0-J74A1IP4V3OM7U0QY6U8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“방정오 법적 문제될 수도” 500만 달러 송금 위법성 인식 정황]]></title>
-            <link>http://newstapa.org/article/nHVX2</link>
-            <guid>http://newstapa.org/article/nHVX2</guid>
-            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“방정오 법적 문제될 수도” 500만 달러 송금 위법성 인식 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/19174801-77D6-B03A-F292-MT811NP587Z9SOUJVL4Q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
