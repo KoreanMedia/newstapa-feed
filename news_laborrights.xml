@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Oct 2026 04:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 11:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[K-어업의 브로커들] ⑦30년 만의 평등? 한국인끼리 합의한 외국인 선원 최저임금 ‘꼼수’]]></title>
+            <link>http://newstapa.org/article/fPdII</link>
+            <guid>http://newstapa.org/article/fPdII</guid>
+            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[K-어업의 브로커들] ⑦30년 만의 평등? 한국인끼리 합의한 외국인 선원 최저임금 ‘꼼수’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/27161315-BE8E-30BA-836F-SFHESVKBI2HJI216KHTE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이태원 참사 4주기] 이태원 참사 '미공개 파일'... 실패한 국가의 초상]]></title>
             <link>http://newstapa.org/article/RqjHb</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 뛰고, 묻고, 찍어야 비로소 보이는 것들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/03165113-2FFD-8D8C-6F77-NH0F1ATAVFY3QKYQH84Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[반론보도] 〈SK 이노베이션 E&S, 해킹 대응하다 직원 숨졌는데…“해킹 없었다” 거짓말〉 및 〈“언론도, 국회도 가지 마라”…SK 이노베이션 E&S의 유족 입막음〉 보도 관련]]></title>
-            <link>http://newstapa.org/article/n3rPt</link>
-            <guid>http://newstapa.org/article/n3rPt</guid>
-            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[반론보도] 〈SK 이노베이션 E&amp;S, 해킹 대응하다 직원 숨졌는데…“해킹 없었다” 거짓말〉 및 〈“언론도, 국회도 가지 마라”…SK 이노베이션 E&amp;S의 유족 입막음〉 보도 관련]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/02153222-4898-F681-5D54-5WUF0728WVMBKF8A7QN9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
