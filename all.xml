@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Oct 2026 02:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 09:30:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 이태원 참사 4주기, '국가 부재' 순간의 목격자들 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/9nga4</link>
+            <guid>http://newstapa.org/article/9nga4</guid>
+            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사 4주기, '국가 부재' 순간의 목격자들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/29165727-DB5C-5BF9-9AB0-QH7QJKRQQGRPM5KYOTJ1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 첫 삽은 떴는데 전기는 어디서 옵니까? (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/o89Rp</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/22175710-A9E7-7813-3692-QAY5SHTD3FYJG766OQ0M.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 뉴스타파] (네가 살던) 헌집 다오, (내가 살) 새집 짓게 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/I5BeX</link>
-            <guid>http://newstapa.org/article/I5BeX</guid>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] (네가 살던) 헌집 다오, (내가 살) 새집 짓게]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/22174706-260E-9F51-5C4F-XTKZGUUQFKTJIPB60P5S.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[주간 뉴스타파] 이태원 참사 4주기, '국가 부재' 순간의 목격자들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/9nga4</link>
+            <guid>http://newstapa.org/article/9nga4</guid>
+            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사 4주기, '국가 부재' 순간의 목격자들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/29165727-DB5C-5BF9-9AB0-QH7QJKRQQGRPM5KYOTJ1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조희대 ‘허위 업무추진비’… 경찰도 수사 착수, 국회는 국정조사 추진 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공수처 "조희대 업무추진비 수사 예정", 중수청장 후보자 "수사 가능"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/15105333-C70F-6927-1027-5VR2USJQWXRQPHE88YPM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파기될 뻔한 한강버스 수사의뢰서, '브로커와 뇌물 의혹' 담겼다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/AQ2OF</link>
-            <guid>http://newstapa.org/article/AQ2OF</guid>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[파기될 뻔한 한강버스 수사의뢰서, '브로커와 뇌물 의혹' 담겼다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/14191737-89B9-7320-A112-51O4GYRR1XRECCZJBIIP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] '애니 엄마' 정유경 회장에게 지난 한 주간 벌어진 일 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/24141601-6557-74C0-4179-SY6BMWPLA00A5543TK4U.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 이태원 참사 4주기, '국가 부재' 순간의 목격자들 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/9nga4</link>
+            <guid>http://newstapa.org/article/9nga4</guid>
+            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사 4주기, '국가 부재' 순간의 목격자들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/29165727-DB5C-5BF9-9AB0-QH7QJKRQQGRPM5KYOTJ1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[K-어업의 브로커들] ⑦30년 만의 평등? 한국인끼리 합의한 외국인 선원 최저임금 ‘꼼수’ (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/fPdII</link>
             <guid>http://newstapa.org/article/fPdII</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰과 체불왕⑥  '대국민 사기극' 박영우, 그 딸도 뻔뻔한 거짓말]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/09151202-7C11-81B7-AE10-HXW7MZF3BA71HTRA8JS9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 뛰고, 묻고, 찍어야 비로소 보이는 것들 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/_JETy</link>
-            <guid>http://newstapa.org/article/_JETy</guid>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 뛰고, 묻고, 찍어야 비로소 보이는 것들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/09/03165113-2FFD-8D8C-6F77-NH0F1ATAVFY3QKYQH84Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이태원 참사 4주기] 이태원 참사 '미공개 파일'... 실패한 국가의 초상 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -3401,6 +3401,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26100538-D789-2DE1-C108-BOE9IBAJU3N3IT1CWEDQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 이태원 참사 4주기, '국가 부재' 순간의 목격자들 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/contents/posts/115054206</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/contents/posts/115054206</guid>
+            <pubDate>Thu, 29 Oct 2026 09:29:57 GMT</pubDate>
+            <content:encoded><![CDATA[[🔴라이브 예고] 이태원 참사가 발생한지 꼭 4년 되는 날입니다. 서울 광화문 광장은 참사를 추모하는 보라색으로 메워졌습니다. 이재명 대통령이 대통령 신분으로는 처음 기억식을 찾아 "국가의 부재와 방임으로 국민이 억울하게 희생되는 일이 없도록 하겠다"고 약속했습니다.<br><br>최근 뉴스타파는 4주기 다큐멘터리를 통해 참사 당일의 CCTV, 신고 녹취, 바디캠 영상 등 '미공개 파일'을 공개했습니다. 급박한 신고 전화에도 일선 경찰들의 대응은 더뎠고, 참사가 발생한 시점에도 정부 컨트롤타워는 갈피를 잡지 못했습니다. 대통령과 수뇌부는 유가족을 위로하고 진상 파악에 나서긴커녕, 어떻게 정치적 파장을 줄일지 골몰했습니다.<br><br>뉴스타파가 4년 만에 고발한 이 적나라한 국가 부재의 현장에 시청자들이 큰 반응을 보였습니다. 책임자 엄벌을 촉구하는 한편, 망각과 2차 가해에 고통받는 유가족을 위로했습니다. 참사를 딛고 온전한 치유와 안전 사회로 가기 위한 여정은 아직 현재 진행형입니다.<br><br>오늘 밤 9시, 주간 뉴스타파에는 이태원 참사 4주기 다큐멘터리를 취재·제작한 홍주환 기자가 출연합니다. 다큐에 미처 담지 못한 이야기, 사회적 참사 취재의 후일담 등을 들려드릴 예정입니다. 많은 시청과 관심 바랍니다! <br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://www.youtube.com/live/SeokvJ6nrFI</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[클립] ‘미공개 파일’로 본 이태원 참사 현장의 재구성 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/contents/posts/115054041</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/contents/posts/115054041</guid>
+            <pubDate>Thu, 29 Oct 2026 09:29:57 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파는 2022년 10월 29일 발생한 ‘이태원 참사’ 당시 현장을 담은 ‘미공개’ CCTV 영상과 신고 녹음파일, 경찰·소방의 무전 녹음파일 등을 다수 확보해 현장을 재구성했습니다. <br><br>당시 시민들은 정부에 여러차례 도움을 요청했지만 모두 외면당했고, 그 결과 현장에서만 158명이 사망했습니다. <br><br>참사 이후에도 트라우마 등으로 인한 피해는 계속됐고, 현재 기준 희생자는 162명에 달하고 있습니다. <br><br>지난 10월 26일 방송된 〈이태원 참사 ‘미공개 파일’… 실패한 국가의 초상&gt;의 클립 영상입니다. 오늘 이태원 참사 4주기를 맞아 올립니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/fdbwLTKi4sk</span><br>👉 전체 영상 보기 : <span class="link_url">https://youtu.be/ZV-vHw6rA24</span><br>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 첫 삽은 떴는데 전기는 어디서 옵니까? (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/contents/posts/115035281</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/contents/posts/115035281</guid>
@@ -3527,25 +3541,19 @@
             <content:encoded><![CDATA[경기도 선거관리위원회가 당직자 급여 등을 지급한 후 이를 돌려받아 정당의 경비로 사용한 혐의 등으로 더불어민주당 경기도당 회계책임자인 전현직 사무처장 등 6명을 경기남부경찰청에 고발했습니다.<br><br>뉴스타파가 지난 7월 민주당 경기도당의 회계부정 의혹을 집중보도하자 선관위가 조사에 착수한지 3개월여 만입니다. 그러나 회계부정 의혹이 일었던 기간 동안 경기도당 위원장을 역임한 김승원 의원은 고발대상자에서 제외됐습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/cgoZH</span><br>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ① ‘기부’와 ‘합의’ (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/contents/posts/114980491</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/contents/posts/114980491</guid>
-            <pubDate>Fri, 23 Oct 2026 07:05:34 GMT</pubDate>
-            <content:encoded><![CDATA[명태균 게이트 최대 쟁점인 무상여론조사 의혹에 대한 사법적 진실이 미궁에 빠졌습니다. 20대 대통령 선거 당시 국민의힘 후보이던 윤석열 씨가 명태균 씨로부터 여론조사를 무상으로 받았다는 정치자금법 위반 혐의에 대해 1심(서울중앙지방법원 형사 33부)은 일부 유죄를, 2심(서울고등법원 형사 7부)은 완전 무죄를 선고했습니다.<br> <br>두 재판부는 사실관계 대부분을 공유했지만, 여론조사 제공에 대한 ‘합의’가 있었는지, 그 대가를 정치자금 법에서 규정하는 ‘재산상 이익’으로 볼 수 있는지를 두고 판단이 엇갈렸습니다. 뉴스타파는 1, 2심 판결문의 주요 쟁점을 분석한 결과를 두 번에 걸쳐 공개합니다. 장차 대법원에서 확정될 사법적 판단의 향방을 가늠해 봤습니다.  <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/5_RBV</span><br>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[재개발과 외지인] ① 한남3구역 20년 등기 분석 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/contents/posts/114976178</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/contents/posts/114976178</guid>
-            <pubDate>Thu, 22 Oct 2026 13:56:40 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파가 한남3구역 등기 데이터를 분석한 결과, 정비사업 과정에서 원래 거주하던 원주민과 세입자들은 대거 이주한 반면, 그 빈자리는 강남 3구 등 외지인과 이들의 자녀 세대가 채운 것으로 나타났습니다. <br><br>이로 인해 주거 환경 개선이라는 공익적 목적의 정비사업이 실제로는 서민의 주거권을 침해하고, 일부 자산가들의 투자 및 부의 대물림 수단으로 활용되고 있다는 우려가 나옵니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/b189OHyUD2A</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/Q16iO</span>]]></content:encoded>
+            <title><![CDATA[[주간 뉴스타파] 이태원 참사 4주기, '국가 부재' 순간의 목격자들 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20261029171620918</link>
+            <guid>https://v.daum.net/v/20261029171620918</guid>
+            <pubDate>Thu, 29 Oct 2026 09:30:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261029171620918" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 이태원 참사 4주기, '국가 부재' 순간의 목격자들</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F29%2Fnewstapa%2F20261029171623646avqc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F29%2Fnewstapa%2F20261029171623646avqc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 첫 삽은 떴는데 전기는 어디서 옵니까? (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20261029110124376</link>
             <guid>https://v.daum.net/v/20261029110124376</guid>
             <pubDate>Thu, 29 Oct 2026 02:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261029110124376" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 첫 삽은 떴는데 전기는 어디서 옵니까?</strong><span class="info_txt"><span class="txt_info">9분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F29%2Fnewstapa%2F20261029110126039wyyt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261029110124376" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 첫 삽은 떴는데 전기는 어디서 옵니까?</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F29%2Fnewstapa%2F20261029110126039wyyt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F29%2Fnewstapa%2F20261029110126039wyyt.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3553,7 +3561,7 @@
             <link>https://v.daum.net/v/20261028174122530</link>
             <guid>https://v.daum.net/v/20261028174122530</guid>
             <pubDate>Wed, 28 Oct 2026 11:03:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261028174122530" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[K-어업의 브로커들] ⑦30년 만의 평등? 한국인끼리 합의한 외국인 선원 최저임금 ‘꼼수’</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F28%2Fnewstapa%2F20261028174124600escs.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261028174122530" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[K-어업의 브로커들] ⑦30년 만의 평등? 한국인끼리 합의한 외국인 선원 최저임금 ‘꼼수’</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F28%2Fnewstapa%2F20261028174124600escs.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F28%2Fnewstapa%2F20261028174124600escs.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3561,7 +3569,7 @@
             <link>https://v.daum.net/v/20261028132122598</link>
             <guid>https://v.daum.net/v/20261028132122598</guid>
             <pubDate>Wed, 28 Oct 2026 04:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261028132122598" class="link_column"><div class="cont_thumb"><strong class="tit_txt">조희대 ‘허위 업무추진비’… 경찰도 수사 착수, 국회는 국정조사 추진</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261028132122598" class="link_column"><div class="cont_thumb"><strong class="tit_txt">조희대 ‘허위 업무추진비’… 경찰도 수사 착수, 국회는 국정조사 추진</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[현장에서] '애니 엄마' 정유경 회장에게 지난 한 주간 벌어진 일 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3584,7 +3592,7 @@
             <link>https://v.daum.net/v/20261026180632264</link>
             <guid>https://v.daum.net/v/20261026180632264</guid>
             <pubDate>Mon, 26 Oct 2026 09:49:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261026180632264" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“명태균, 과장은 좀 있지만... 오세훈, 운이 좋다” 김영선 전 의원 인터뷰</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F26%2Fnewstapa%2F20261026180633835yajb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261026180632264" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“명태균, 과장은 좀 있지만... 오세훈, 운이 좋다” 김영선 전 의원 인터뷰</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F26%2Fnewstapa%2F20261026180633835yajb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F26%2Fnewstapa%2F20261026180633835yajb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3592,7 +3600,7 @@
             <link>https://v.daum.net/v/20261026152120289</link>
             <guid>https://v.daum.net/v/20261026152120289</guid>
             <pubDate>Mon, 26 Oct 2026 09:49:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261026152120289" class="link_column"><div class="cont_thumb"><strong class="tit_txt">검사들은 김건희 주가조작 불기소를 위해 어떻게 움직였나</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F26%2Fnewstapa%2F20261026152121882qoww.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261026152120289" class="link_column"><div class="cont_thumb"><strong class="tit_txt">검사들은 김건희 주가조작 불기소를 위해 어떻게 움직였나</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F26%2Fnewstapa%2F20261026152121882qoww.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F26%2Fnewstapa%2F20261026152121882qoww.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3616,7 +3624,7 @@
             <link>https://v.daum.net/v/20261023163623787</link>
             <guid>https://v.daum.net/v/20261023163623787</guid>
             <pubDate>Fri, 23 Oct 2026 13:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261023163623787" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“판사 매수했다”며 돈받은 변호사, 국민의힘 성남시 수정구 조직위원장에</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F23%2Fnewstapa%2F20261023163624439vgfb.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261023163623787" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“판사 매수했다”며 돈받은 변호사, 국민의힘 성남시 수정구 조직위원장에</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F23%2Fnewstapa%2F20261023163624439vgfb.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F23%2Fnewstapa%2F20261023163624439vgfb.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3624,7 +3632,7 @@
             <link>https://v.daum.net/v/20261023140622994</link>
             <guid>https://v.daum.net/v/20261023140622994</guid>
             <pubDate>Fri, 23 Oct 2026 07:05:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261023140622994" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[재개발과 외지인] ② 13억짜리 반지하와 열 명의 주인</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F23%2Fnewstapa%2F20261023140635697bnnb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261023140622994" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[재개발과 외지인] ② 13억짜리 반지하와 열 명의 주인</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F23%2Fnewstapa%2F20261023140635697bnnb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F23%2Fnewstapa%2F20261023140635697bnnb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3663,7 +3671,7 @@
             <link>https://v.daum.net/v/20261022180117238</link>
             <guid>https://v.daum.net/v/20261022180117238</guid>
             <pubDate>Thu, 22 Oct 2026 13:56:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261022180117238" class="link_column"><div class="cont_thumb"><strong class="tit_txt">한남3구역 20년, 기록을 한 줄씩 추적했다</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F22%2Fnewstapa%2F20261022180119161rtdp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261022180117238" class="link_column"><div class="cont_thumb"><strong class="tit_txt">한남3구역 20년, 기록을 한 줄씩 추적했다</strong><span class="info_txt"><span class="txt_info">2026. 10. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F22%2Fnewstapa%2F20261022180119161rtdp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F22%2Fnewstapa%2F20261022180119161rtdp.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3671,7 +3679,7 @@
             <link>https://v.daum.net/v/20261022160620191</link>
             <guid>https://v.daum.net/v/20261022160620191</guid>
             <pubDate>Thu, 22 Oct 2026 07:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261022160620191" class="link_column"><div class="cont_thumb"><strong class="tit_txt">국세청, 일감 몰아주기 의혹 신세계면세점 특별 세무조사 착수</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F22%2Fnewstapa%2F20261022160621998unum.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261022160620191" class="link_column"><div class="cont_thumb"><strong class="tit_txt">국세청, 일감 몰아주기 의혹 신세계면세점 특별 세무조사 착수</strong><span class="info_txt"><span class="txt_info">2026. 10. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F22%2Fnewstapa%2F20261022160621998unum.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F22%2Fnewstapa%2F20261022160621998unum.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3679,7 +3687,7 @@
             <link>https://v.daum.net/v/20261022141620369</link>
             <guid>https://v.daum.net/v/20261022141620369</guid>
             <pubDate>Thu, 22 Oct 2026 07:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261022141620369" class="link_column"><div class="cont_thumb"><strong class="tit_txt">한강버스 공익신고자, 오세훈 시장 고소..."신분 노출 발언 수사, 엄벌해야"</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F22%2Fnewstapa%2F20261022141622521xvmk.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261022141620369" class="link_column"><div class="cont_thumb"><strong class="tit_txt">한강버스 공익신고자, 오세훈 시장 고소..."신분 노출 발언 수사, 엄벌해야"</strong><span class="info_txt"><span class="txt_info">2026. 10. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F22%2Fnewstapa%2F20261022141622521xvmk.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F22%2Fnewstapa%2F20261022141622521xvmk.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3768,14 +3776,6 @@
             <pubDate>Thu, 15 Oct 2026 13:10:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261015182158101" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 국감 나온 오세훈, '조사 은폐' 누구 지시인가</strong><span class="info_txt"><span class="txt_info">2026. 10. 15.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F15%2Fnewstapa%2F20261015182200588grlf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F15%2Fnewstapa%2F20261015182200588grlf.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[노동자 3명 숨진 천안 기름공장…16년간 노동부 감독 기록 '0' (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20261015173153161</link>
-            <guid>https://v.daum.net/v/20261015173153161</guid>
-            <pubDate>Thu, 15 Oct 2026 13:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261015173153161" class="link_column"><div class="cont_thumb"><strong class="tit_txt">노동자 3명 숨진 천안 기름공장…16년간 노동부 감독 기록 '0'</strong><span class="info_txt"><span class="txt_info">2026. 10. 15.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F15%2Fnewstapa%2F20261015173154548yuuf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202610%2F15%2Fnewstapa%2F20261015173154548yuuf.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
