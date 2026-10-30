@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Oct 2026 08:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 15:39:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['검찰범죄' 특검을 해야 하는 50가지 이유⑫ 문자 조작 등 뉴스타파 케이스(2)]]></title>
+            <link>http://newstapa.org/article/FsxCD</link>
+            <guid>http://newstapa.org/article/FsxCD</guid>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['검찰범죄' 특검을 해야 하는 50가지 이유⑫ 문자 조작 등 뉴스타파 케이스(2)]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/30173405-0144-4A79-005A-42WAGUV3XRCCKTKO6493.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 이태원 참사 4주기, '국가 부재' 순간의 목격자들]]></title>
             <link>http://newstapa.org/article/9nga4</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 국감 나온 오세훈, '조사 은폐' 누구 지시인가]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/15181158-4491-C502-5DF7-M0U6J0AP98JNP4TLWNHT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공수처 "조희대 업무추진비 수사 예정", 중수청장 후보자 "수사 가능"]]></title>
-            <link>http://newstapa.org/article/iEFEh</link>
-            <guid>http://newstapa.org/article/iEFEh</guid>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공수처 "조희대 업무추진비 수사 예정", 중수청장 후보자 "수사 가능"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/15105333-C70F-6927-1027-5VR2USJQWXRQPHE88YPM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

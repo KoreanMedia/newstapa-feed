@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Oct 2026 08:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 15:39:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['검찰범죄' 특검을 해야 하는 50가지 이유⑫ 문자 조작 등 뉴스타파 케이스(2)]]></title>
+            <link>http://newstapa.org/article/FsxCD</link>
+            <guid>http://newstapa.org/article/FsxCD</guid>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['검찰범죄' 특검을 해야 하는 50가지 이유⑫ 문자 조작 등 뉴스타파 케이스(2)]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/30173405-0144-4A79-005A-42WAGUV3XRCCKTKO6493.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 이태원 참사 4주기, '국가 부재' 순간의 목격자들]]></title>
             <link>http://newstapa.org/article/9nga4</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[재개발과 외지인] ① 한남3구역 20년 등기 분석]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/22201347-319B-B579-510B-ERD42VM5ATE8IGLG17WB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한남3구역 20년, 기록을 한 줄씩 추적했다]]></title>
-            <link>http://newstapa.org/article/HBDz0</link>
-            <guid>http://newstapa.org/article/HBDz0</guid>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한남3구역 20년, 기록을 한 줄씩 추적했다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/22175710-A9E7-7813-3692-QAY5SHTD3FYJG766OQ0M.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

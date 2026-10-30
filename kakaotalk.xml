@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-10-30T08:11:14.637Z</updated>
+    <updated>2026-10-30T15:39:49.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/7cdbcf7/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['검찰범죄' 특검을 해야 하는 50가지 이유⑫ 문자 조작 등 뉴스타파 케이스(2)]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115070989</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115070989"/>
+        <updated>2026-10-30T15:39:41.071Z</updated>
+        <content type="html"><![CDATA[뉴스타파는 국회 ‘정치검찰 조작기소 국정조사 특위’의 청문회 기록 등 2천여쪽의 관련 문건과 영상회의록 등을 분석해 검찰의 증거조작 등 불법 수사 의혹이 제기된 사례를 모아 유형별로 연속 보도하고 있습니다. ‘검찰 범죄’를 수사할 특검이 필요한지, 시민이 판단할 수 있는 근거를 제공하기 위해서입니다.<br><br>12번째 기사는 지난 2023년 뉴스타파와 소속 기자를 압수수색했을 때 벌어진 조작 사례를 정리했습니다. 검찰은 있지도 않았던 문자 내용을 수사보고서에 기록해가며 무리한 수사와 여론몰이에 나섰습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/FsxCD</span><br>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간 뉴스타파] 이태원 참사 4주기, '국가 부재' 순간의 목격자들]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115054206</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/114983908"/>
         <updated>2026-10-23T07:05:34.367Z</updated>
         <content type="html"><![CDATA[서울에서 가장 비싼 재개발 구역으로 꼽히는 용산구 한남3구역. 이곳에서 가장 자주 팔린 집은 한강이 보이는 집도, 넓은 집도 아닌 ‘반지하’였습니다. <br><br>뉴스타파가 한남3구역 공동주택 1,671호의 20년 치 등기를 전수 분석한 결과, 반지하는 지상층보다 24% 더 자주 주인이 바뀌었습니다. 정부가 부동산 규제를 풀 때마다 반지하 거래가 먼저 늘었고, 같은 넓이로 따진 매매가는 오히려 지상층보다 비쌌습니다. 반지하 한 칸 값은 13억 원까지 올랐지만, 반지하 소유자 가운데 구역 안에 사는 사람은 10%도 되지 않았습니다.<br><br>앞서 뉴스타파는 한남3구역 20년치 등기를 분석해 외지인 소유 부동산 비중이 60%를 넘었다는 사실을 보도했습니다. 이번 편에서는 그중에서도 외지인 투자가 가장 활발했던 곳, 반지하를 들여다봤습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/Hve535E9yBo</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/8brmn</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[변화] 경기도선관위, 민주당 경기도당 6명 고발...김승원은 제외]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/114980949</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/114980949"/>
-        <updated>2026-10-23T07:05:34.371Z</updated>
-        <content type="html"><![CDATA[경기도 선거관리위원회가 당직자 급여 등을 지급한 후 이를 돌려받아 정당의 경비로 사용한 혐의 등으로 더불어민주당 경기도당 회계책임자인 전현직 사무처장 등 6명을 경기남부경찰청에 고발했습니다.<br><br>뉴스타파가 지난 7월 민주당 경기도당의 회계부정 의혹을 집중보도하자 선관위가 조사에 착수한지 3개월여 만입니다. 그러나 회계부정 의혹이 일었던 기간 동안 경기도당 위원장을 역임한 김승원 의원은 고발대상자에서 제외됐습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/cgoZH</span><br>]]></content>
     </entry>
 </feed>
