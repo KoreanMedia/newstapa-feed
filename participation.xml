@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 참여</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Nov 2026 07:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 17:55:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] ‘마피아’·’죽을래 과장’ 이렇게 보도하고 무죄 나니 침묵]]></title>
+            <link>https://www.newstapa.org/article/ie2Ba</link>
+            <guid>https://www.newstapa.org/article/ie2Ba</guid>
+            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2026.11.02]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/02174110-2B24-03B9-551C-YHCKM1LGSLQ4EX5EI926.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN][협찬방송 대해부]③ “홈쇼핑 먼저 잡고 방송 찾는다”…연계편성의 비밀]]></title>
             <link>https://www.newstapa.org/article/--Fhu</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2026.04.03]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/03173137-A722-84D6-E94B-YG83UN1SM9TZNMVTD7PX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] AI와 전쟁 ② 선이 그어지고, 지워지고, 처벌받기까지]]></title>
-            <link>https://www.newstapa.org/article/c6Rup</link>
-            <guid>https://www.newstapa.org/article/c6Rup</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2026.03.26]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/26100538-D789-2DE1-C108-BOE9IBAJU3N3IT1CWEDQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
