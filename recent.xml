@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Nov 2026 00:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 07:40:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공수처, 법원 판단 무시하고 '한동훈 수사 방해'·'판사 사찰' 윤석열에 면죄부]]></title>
+            <link>http://newstapa.org/article/ZUR__</link>
+            <guid>http://newstapa.org/article/ZUR__</guid>
+            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공수처, 법원 판단 무시하고 '한동훈 수사 방해'·'판사 사찰' 윤석열에 면죄부]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/03145529-5A4A-2EF5-9E05-T8VAVIADCDWUEBY6SB2C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“조우형은 박영수 영향력을 보고 찾아왔다”... <뉴스타파 v. 윤석열> 27차 공판]]></title>
+            <link>http://newstapa.org/article/sL54V</link>
+            <guid>http://newstapa.org/article/sL54V</guid>
+            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“조우형은 박영수 영향력을 보고 찾아왔다”... &lt;뉴스타파 v. 윤석열&gt; 27차 공판]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/03135536-3881-28BD-D1C7-MX4MPU14ENMHS1Z9UA5K.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한강버스 공익신고자, 공수처에 오세훈 시장 고발]]></title>
+            <link>http://newstapa.org/article/cZAya</link>
+            <guid>http://newstapa.org/article/cZAya</guid>
+            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한강버스 공익신고자, 공수처에 오세훈 시장 고발]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/03110659-A6A9-5253-1E79-I9UOW097K9IQ0QNPTDN1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] ‘마피아’·’죽을래 과장’ 이렇게 보도하고 무죄 나니 침묵]]></title>
             <link>http://newstapa.org/article/ie2Ba</link>
@@ -110,30 +134,6 @@
             <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“판사 매수했다”며 돈받은 변호사, 국민의힘 성남시 수정구 조직위원장에]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/23163254-BF99-5EAB-344A-DVRLCF7156V8I34YY4W1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[재개발과 외지인] ② 13억짜리 반지하와 열 명의 주인]]></title>
-            <link>http://newstapa.org/article/8brmn</link>
-            <guid>http://newstapa.org/article/8brmn</guid>
-            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[재개발과 외지인] ② 13억짜리 반지하와 열 명의 주인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/23140003-B4A0-0800-C38A-6R30NRDJVVG6PO47XZZZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]경기도선관위, 민주당 경기도당 6명 고발...김승원은 제외]]></title>
-            <link>http://newstapa.org/article/cgoZH</link>
-            <guid>http://newstapa.org/article/cgoZH</guid>
-            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화]경기도선관위, 민주당 경기도당 6명 고발...김승원은 제외]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/23110237-C1E2-FF14-ED0F-1USMPLFTIP9DBYMNPQW9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ① ‘기부’와 ‘합의’]]></title>
-            <link>http://newstapa.org/article/5_RBV</link>
-            <guid>http://newstapa.org/article/5_RBV</guid>
-            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ① ‘기부’와 ‘합의’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/23104255-FA99-F882-FF97-KMTVBQHY79SED8RYMVPF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
