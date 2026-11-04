@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-11-03T21:34:07.902Z</updated>
+    <updated>2026-11-04T01:58:29.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/7cdbcf7/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] 연세대, 횡령 의혹 의대 교수 직무정지·연구비 사용 전면 금지]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115122055</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115122055"/>
+        <updated>2026-11-04T01:58:20.562Z</updated>
+        <content type="html"><![CDATA[연세대학교가 연구비 횡령 의혹이 제기된 의과대학 정 모 교수의 직무를 정지하고 연구비 사용을 전면 금지했습니다. <br><br>뉴스타파가 정 교수 연구실의 5년간 거래 내역을 분석해 283건의 허위 명세서로 정부 연구비를 타낸 정황을 보도한 지 넉 달 만입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/jI4Qo</span><br>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[🔴라이브] 821조 매머드 예산, 약자의 자리는 비좁다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115116924</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115009361"/>
         <updated>2026-10-26T09:49:38.337Z</updated>
         <content type="html"><![CDATA["통정매매에 가담했지만 시세조종의 의도는 없었다"<br><br>2년 전, 김건희 씨의 주가조작 혐의에 대해 서울중앙지검 도이치모터스 수사팀이 불기소 처분을 하며 내놓은 설명입니다.<br><br>다음 날 국회 국정감사장에 나온 이창수 당시 지검장은 "누구를 돕거나 봐주려는 생각이 전혀 없었다"고 했습니다.<br><br>정말 수사팀은 김건희 씨를 다른 피의자들과 동등하게 대했을까요?<br><br>뉴스타파가 입수한 종합특검 공소장에는 이 해명과 배치되는 검사들의 행적이 담겨 있습니다. 수사팀은 김 씨의 답변을 받기도 전에 불기소장 초안을 작성했습니다. 수사 결과를 발표한 뒤에도 무혐의 근거를 보강하기 위해 김 씨에게 유리한 방향으로 보고서를 수정했습니다. <br><br>검사들이 김건희 주가조작 불기소를 위해 어떻게 움직였는지 살펴 봤습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/wX3Ui</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공수처, 법원이 배척한 ‘윤석열 논리’로 ‘한동훈 감찰 방해’ 각하]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115004394</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115004394"/>
-        <updated>2026-10-26T03:34:55.725Z</updated>
-        <content type="html"><![CDATA[뉴스타파는 고위공직자범죄수사처 (공수처)가 윤석열 전 대통령의 검찰총장 시절 ‘한동훈 감찰 방해’ 사건을 각하 처분한 사실을 지난 13일 보도했습니다.<br><br>그런데 공수처가 과거 법원이 윤석열 징계 취소 소송 당시 배척한 윤석열 측 논리로 각하 이유를 댄 사실이 추가로 확인됐습니다.<br><br>뉴스타파가 윤석열의 한동훈 감찰 방해 사건의 불기소 이유서를 입수해 확인한 결과, 지난해 3월 검찰이 법원이 배척한 윤석열 측 주장과 유사한 논리로 사건을 각하했고, 공수처는 지난 7월 검찰 주장을 되풀이하며 추가수사 필요성이 없다고 한 것으로 밝혀졌습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/wf0q3</span>]]></content>
     </entry>
 </feed>

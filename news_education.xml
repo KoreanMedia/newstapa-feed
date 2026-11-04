@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 교육</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Nov 2026 21:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 01:58:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 연세대, 횡령 의혹 의대 교수 직무정지·연구비 사용 전면 금지]]></title>
+            <link>http://newstapa.org/article/jI4Qo</link>
+            <guid>http://newstapa.org/article/jI4Qo</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 연세대, 횡령 의혹 의대 교수 직무정지·연구비 사용 전면 금지]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/03151829-7854-6D53-EEE9-W6ZN2W6U4V6BOGCNS3OG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 경찰, 연세대 의대 교수 연구비 횡령 의혹 수사 착수]]></title>
             <link>http://newstapa.org/article/F10Ym</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 세력의 '친일 교과서' 프로젝트]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/06/26163417-2FEE-B8DB-93A4-8TSX1XEAM6STAPZSGMCJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 감사원 "교과서 발행정지·합격취소 사유 해당"...뉴스타파 보도 8개월만]]></title>
-            <link>http://newstapa.org/article/Qk_bj</link>
-            <guid>http://newstapa.org/article/Qk_bj</guid>
-            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 감사원 "교과서 발행정지·합격취소 사유 해당"...뉴스타파 보도 8개월만]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/28172624-3391-4F2F-0D6B-69LGM5KD3QVOX5T4WOA0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
