@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 재벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Nov 2026 11:57:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 15:44:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["죽여버려 저XX" 베뉴지 김만진 회장의 ‘조카 폭행’]]></title>
+            <link>http://newstapa.org/article/7P8EK</link>
+            <guid>http://newstapa.org/article/7P8EK</guid>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["죽여버려 저XX" 베뉴지 김만진 회장의 ‘조카 폭행’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/06144002-9E15-EBDB-6C7D-S354UG9VPWG4D7TV5TT6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] '애니 엄마' 정유경 회장에게 지난 한 주간 벌어진 일]]></title>
             <link>http://newstapa.org/article/eiU83</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[하이그라운드 '500만 달러' 차용증, 감사 직전 급조 정황]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/30151306-BD26-19DC-981E-RWFQVBDCJU8WHUDS7N1L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”]]></title>
-            <link>http://newstapa.org/article/Tav_S</link>
-            <guid>http://newstapa.org/article/Tav_S</guid>
-            <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] 속속 드러나는 ‘500만 달러 송금’의 전말 “방정오 개인의 이익 때문에...”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/03/23103505-6412-9CBA-F1C0-J74A1IP4V3OM7U0QY6U8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
