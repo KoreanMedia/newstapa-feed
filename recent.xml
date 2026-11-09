@@ -4,17 +4,9 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Nov 2026 21:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 01:30:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[「방심위·선방위에 얽히고설킨 보수단체 '공언련' 인맥」기사 관련 반론보도문]]></title>
-            <link>http://newstapa.org/article/oWIjN</link>
-            <guid>http://newstapa.org/article/oWIjN</guid>
-            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[「방심위·선방위에 얽히고설킨 보수단체 '공언련' 인맥」기사 관련 반론보도문]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/06111513-077F-D0B5-7325-JQ631RVHRYDPT8URCYYN.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과]]></title>
             <link>http://newstapa.org/article/HxPrq</link>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조희대 ‘허위 업무추진비’… 경찰도 수사 착수, 국회는 국정조사 추진]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/28111326-7464-5443-058B-ID0P38V04W6WP2WWS5LZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] '애니 엄마' 정유경 회장에게 지난 한 주간 벌어진 일]]></title>
+            <link>http://newstapa.org/article/eiU83</link>
+            <guid>http://newstapa.org/article/eiU83</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] '애니 엄마' 정유경 회장에게 지난 한 주간 벌어진 일]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/26171957-A0C5-5B91-7506-DZYCAPV863HH192C9I4W.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
