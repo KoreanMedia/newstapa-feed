@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Nov 2026 01:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 09:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인천항의 봉이 김선달' 인천항만공사가 뭉개고, 해경이 봐줬다]]></title>
+            <link>http://newstapa.org/article/b0wJR</link>
+            <guid>http://newstapa.org/article/b0wJR</guid>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['인천항의 봉이 김선달' 인천항만공사가 뭉개고, 해경이 봐줬다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/09170658-082E-DE18-1553-WWZTFT5WPFOMV3NHAZH5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 '대통령 당선 무효', 대법원 결정만 남았다]]></title>
+            <link>http://newstapa.org/article/-Sd0g</link>
+            <guid>http://newstapa.org/article/-Sd0g</guid>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 '대통령 당선 무효', 대법원 결정만 남았다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/09104358-BD01-2498-099A-G6JA9RMUTPJVYELBZGP9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과]]></title>
             <link>http://newstapa.org/article/HxPrq</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“판사 매수했다”며 돈받은 변호사, 국민의힘 성남시 수정구 조직위원장에]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/23163254-BF99-5EAB-344A-DVRLCF7156V8I34YY4W1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]경기도선관위, 민주당 경기도당 6명 고발...김승원은 제외]]></title>
-            <link>http://newstapa.org/article/cgoZH</link>
-            <guid>http://newstapa.org/article/cgoZH</guid>
-            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화]경기도선관위, 민주당 경기도당 6명 고발...김승원은 제외]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/23110237-C1E2-FF14-ED0F-1USMPLFTIP9DBYMNPQW9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ① ‘기부’와 ‘합의’]]></title>
-            <link>http://newstapa.org/article/5_RBV</link>
-            <guid>http://newstapa.org/article/5_RBV</guid>
-            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ① ‘기부’와 ‘합의’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/23104255-FA99-F882-FF97-KMTVBQHY79SED8RYMVPF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-11-09T01:30:32.696Z</updated>
+    <updated>2026-11-09T09:17:21.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/7cdbcf7/assets/favicon-CmO6ClOa.ico</icon>
+    <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/e88dd5e/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인천항의 봉이 김선달' 인천항만공사가 뭉개고, 해경이 봐줬다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115178998</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115178998"/>
+        <updated>2026-11-09T09:17:12.277Z</updated>
+        <content type="html"><![CDATA[뉴스타파가 '인천항의 봉이 김선달들' 35곳을 보도한 이후 인천해경은 별도의 팀을 꾸려 수사를 하고 있습니다.<br><br>그러나 뉴스타파의 연속보도로 드러난 인천항 항만배후단지 불법전대가 장기간 지속된 배경에는 관리·감독기관인 인천항만공사의 부실한 대응과 수사기관의 석연치 않은 수사가 있었던 것으로 파악됐습니다.<br><br>인천항만공사는 2024년 8월부터 불법전대 사실을 신고받고도 이를 바로 잡지 않았고, 해경은 지난해 불법전대 관련 수사를 벌였지만 현장 조사나 계좌 추적조차 하지 않았습니다. <br><br>특히 문제가 된 업체 가운데 지역 경제계의 유력 인사들이 연루된 업체는 아예 수사 대상에서 제외한 사실이 뉴스타파 취재로 드러났습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/b0wJR</span><br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 '대통령 당선 무효', 대법원 결정만 남았다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115172294</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115172294"/>
+        <updated>2026-11-09T09:17:12.279Z</updated>
+        <content type="html"><![CDATA[‘20대 대통령 당선 무효’가 걸린 ‘윤석열 거짓말’ 사건 항소심에서도 징역형 집행유예가 선고됐습니다. 지난 4일 서울고법 형사2-1부(백승엽 황승태 김영현 고법판사)는 윤석열에게 징역 1년 6개월, 집행유예 3년을 선고했습니다. 윤석열은 선고 다음날 대법원에 상고장을 냈습니다.<br><br>이 재판에선 2022년 20대 대선 당시 윤석열의 공직선거법 위반(허위 사실 공표) 혐의를 다툽니다. ①2012년 뇌물 수수 혐의로 경찰 수사를 받던 윤우진 당시 용산세무서장에게 변호사를 소개하고도 소개하지 않았다고 관훈토론회에서 말하고, ②2013년 이후 여러 차례 무속인 건진법사 전성배를 만난 사실이 있음에도 만난 사실이 없다고 불교행사에서 기자들에게 말한 것이 대상입니다. 1심에 이어 항소심 재판부도 2가지 공소사실을 모두 인정했습니다. <br><br>이 사건에서 최종적으로 100만 원 이상 실형이 확정되면, 윤석열의 20대 대통령 당선은 무효가 됩니다. 윤석열을 20대 대선 후보로 세웠던 국민의힘은 선거관리위원회에서 보전받은 선거비용 397억 원을 토해내야 합니다. 모두 헌정사 최초의 일입니다. 이 사건을 처음부터 기록해 온 한상진 기자가 항소심 판결문을 입수해 분석했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/-Sd0g</span><br>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115158554</id>
@@ -130,19 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115035281"/>
         <updated>2026-10-29T02:11:12.997Z</updated>
         <content type="html"><![CDATA[윤석열 정부가 전력 공급 대책도 없이 기습 발표하고, 이재명 정부가 “더 빨리’를 외치며 이어받은 용인 반도체 국가산단 부지 조성 공사가 28일 착공에 들어갔습니다. <br><br>전력은 어디서 끌어올지, 비용은 누가 낼지, 탄소는 어떻게 줄일지. 지난 3년 7개월 동안 국회와 전문가, 시민사회가 던진 질문에 정부는 '속도'로만 답해 왔습니다. <br><br>그러나 한번 깎아낸 산은 되돌릴 수 없고, 한번 지은 가스발전소는 수십 년 동안 탄소를 내뿜습니다. 정부는 언제까지 이 우려들을 덮어 둔 채 질주할 생각일까요. 전력 부족과 요금 부담, 탄소 청구서가 현실로 닥쳤을 때, 그 책임은 과연 누가 지게 될까요.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/o89Rp</span><br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상을 바꾼 온라인 탐정들의 이야기, <벨링캣-시민을 위한 첩보국> 출간 안내]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115045572</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115045572"/>
-        <updated>2026-10-29T02:11:12.998Z</updated>
-        <content type="html"><![CDATA[“매혹적이다 ⭑⭑⭑⭑⭑”<br><br>뉴욕타임스가 극찬한 벨링캣, 드디어 한글판이 나왔습니다. 전국 유명서점과 뉴스타파스마트스토어에서 만날 수 있습니다.<br><br>[‘벨링캣-시민을 위한 첩보국’ 구매하기]<br><br>👉교보문고:  <span class="link_url">https://product.kyobobook.co.kr/detail/S000221755629</span><br>👉알라딘: <span class="link_url">https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=405083037</span><br>👉예스24: <span class="link_url">https://www.yes24.com/product/goods/199251367</span><br>👉뉴스타파스토어: <span class="link_url">https://smartstore.naver.com/newstapagoods/products/13834780671</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-어업의 브로커들] ⑦30년 만의 평등? 외국인 선원 최저임금 ‘꼼수’]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115039965</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115039965"/>
-        <updated>2026-10-28T11:03:03.467Z</updated>
-        <content type="html"><![CDATA[“올해 최저임금이 올랐는데, 급여를 받아보니 평소보다 더 적었어요. 이유는 뒤늦게 알았어요.”<br>-에코(가명) 씨, 한국 어선의 현직 인도네시아 출신 선원<br><br>올해부터 외국인 선원도 한국인 선원과 같은 최저임금을 받게 됐습니다. 외국인 선원이 한국 어선에 처음 오른 지 30년 만입니다. 그동안 같은 배에서 같은 일을 해도 외국인 선원에게는 더 낮은 최저임금이 적용돼 왔습니다.<br><br>그런데 최저임금이 확정된 지 3주 만에, 수협중앙회와 선원노련은 외국인 선원의 임금에서 숙식비를 최저임금의 최대 8%까지 공제할 수 있도록 합의했습니다. 임금을 올려놓고, 도로 뺄 수 있는 방법을 만든 겁니다. 최대로 공제하면 선원이 손에 쥐는 돈은 지난해 최저임금보다도 5,074원 적습니다.<br><br>외국인 선원은 전체 연근해어선 선원의 절반 이상을 차지하지만, 정작 협상 자리에는 참여하지 못했습니다. 30년 만에 사라진 최저임금 차별. 그 뒤에서 한국인 노사가 합의하고 해수부가 받아들인 ‘줬다 뺐기’의 과정을 추적했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/fPdII</span>]]></content>
     </entry>
 </feed>
