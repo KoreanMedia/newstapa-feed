@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Nov 2026 03:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 12:31:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘중국 댓글 공작’ 카이스트 논문, ‘시드 계정’ 출처 거짓 표기]]></title>
+            <link>http://newstapa.org/article/FD5UH</link>
+            <guid>http://newstapa.org/article/FD5UH</guid>
+            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘중국 댓글 공작’ 카이스트 논문, ‘시드 계정’ 출처 거짓 표기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/10171631-E18F-3D48-6473-XQ4QNRNMGRO2RJLW6AJ8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['중국 댓글 공작' 카이스트 논문, 국정원 발주 연구 용역에서 나왔다]]></title>
+            <link>http://newstapa.org/article/5vJg8</link>
+            <guid>http://newstapa.org/article/5vJg8</guid>
+            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['중국 댓글 공작' 카이스트 논문, 국정원 발주 연구 용역에서 나왔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/10171452-A156-A5C4-3B1E-PG0YZU155FEK6T2APEDM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['인천항의 봉이 김선달' 인천항만공사가 뭉개고, 해경이 봐줬다]]></title>
             <link>http://newstapa.org/article/b0wJR</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사 4주기, '국가 부재' 순간의 목격자들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/29165727-DB5C-5BF9-9AB0-QH7QJKRQQGRPM5KYOTJ1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 첫 삽은 떴는데 전기는 어디서 옵니까?]]></title>
-            <link>http://newstapa.org/article/o89Rp</link>
-            <guid>http://newstapa.org/article/o89Rp</guid>
-            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 첫 삽은 떴는데 전기는 어디서 옵니까?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/02151521-2E0B-5DF5-D96D-W28Q0SCEWCKEUH0PR93D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[K-어업의 브로커들] ⑦30년 만의 평등? 한국인끼리 합의한 외국인 선원 최저임금 ‘꼼수’]]></title>
-            <link>http://newstapa.org/article/fPdII</link>
-            <guid>http://newstapa.org/article/fPdII</guid>
-            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[K-어업의 브로커들] ⑦30년 만의 평등? 한국인끼리 합의한 외국인 선원 최저임금 ‘꼼수’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/27161315-BE8E-30BA-836F-SFHESVKBI2HJI216KHTE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
