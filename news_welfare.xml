@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 보건복지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Nov 2026 01:04:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 08:58:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[목격자들] 투명인간과 살아가는 법]]></title>
+            <link>http://newstapa.org/article/kTA5e</link>
+            <guid>http://newstapa.org/article/kTA5e</guid>
+            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[목격자들] 투명인간과 살아가는 법]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/11141945-3E10-3640-AAFE-YZXUC2LHMUF7EB8U7M11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN][협찬방송 대해부]③ “홈쇼핑 먼저 잡고 방송 찾는다”…연계편성의 비밀]]></title>
             <link>http://newstapa.org/article/--Fhu</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[연금개혁의시간]③ 선제적 국고 투입...현시점 유일한 대안]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/30111959-1EF6-5C1C-38D1-43OUL97FU7R6W8JJXLI7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[연금개혁의 시간]② 기금 소진...가능은 할까?]]></title>
-            <link>http://newstapa.org/article/VY1BF</link>
-            <guid>http://newstapa.org/article/VY1BF</guid>
-            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[연금개혁의 시간]② 기금 소진...가능은 할까?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/01/21153410-708D-33C8-D56B-JIJ72XV106XHKMYMPECL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
