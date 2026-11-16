@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-11-16T05:06:20.318Z</updated>
+    <updated>2026-11-16T15:01:34.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/e88dd5e/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한강버스는 왜 운항을 서둘렀나…오세훈 시장과 불꽃축제]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115258159</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115258159"/>
+        <updated>2026-11-16T15:01:24.842Z</updated>
+        <content type="html"><![CDATA[지난달 뉴스타파 보도 이후 한강버스 선박 건조업체 가덕중공업의 리베이트 의혹 수사가 시작됐습니다. 그런데 리베이트 의혹과 별개로 의문이 드는 대목이 있습니다. 서울시는 왜 아무런 실적이 없는 조선소까지 끌어들이며 한강버스 운항을 서둘렀을까. <br><br>뉴스타파가 그 단서를 찾았습니다. 서울시 내부 문건에서 선박 건조 일정을 앞당기는 과정에 오세훈 시장이 관여한 정황이 드러났습니다. 서울시 감사위원회 조사에서는 9월 성수기와 불꽃축제에 맞추라는 시장의 지시가 있었다는 SH공사 내부 관계자 진술도 나왔습니다. 더 자세한 내용을 기사로 확인하세요.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/dqjzW5KAEww</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/iLfgj</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검찰 불법 행위 밝히자는데 저주 퍼붓는 주류 매체들]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115232836</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115125128"/>
         <updated>2026-11-04T08:46:30.467Z</updated>
         <content type="html"><![CDATA[뉴스타파 목격자들 심사위원회는 올해 마지막 &lt;목격자들&gt; 정기 공모에 접수된 총 18편 작품을 심사해 최종 2편을 선정했습니다.<br><br>🎬선정작<br>- 허욱 감독 &lt;1948, 사라진 병사들 3부: 빨갱이의 탄생&gt;<br>- 정진미 감독 &lt;간토대학살 3년 후, 키노모토에서&gt;<br><br>두 작품은 서로 다른 시대와 장소에서 벌어진 국가 폭력의 역사를 다룹니다. 폭력을 정당화하려는 권력의 시도를 추적하고, 잊힐 수 있는 학살의 진실을 기록했습니다.<br><br>두 작품은 2027년 상반기 뉴스타파 &lt;목격자들&gt; 프로그램을 통해 공개될 예정입니다. 이번에 선정된 두 작품을 비롯해, 소중한 작품을 보내주신 모든 창작자들께 감사드립니다.<br><br>독립 다큐멘터리스트들의 창작 활동을 지지하고 그 결과물을 세상에 전하는 것 역시 독립 언론 뉴스타파의 중요한 사명입니다. 다음 공모는 2027년 1월 예정입니다.<br><br>👉 뉴스타파 목격자들 바로가기 : <span class="link_url">https://withnewstapa.org/witness/</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[변화] 연세대, 횡령 의혹 의대 교수 직무정지·연구비 사용 전면 금지]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115122055</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115122055"/>
-        <updated>2026-11-04T01:58:20.562Z</updated>
-        <content type="html"><![CDATA[연세대학교가 연구비 횡령 의혹이 제기된 의과대학 정 모 교수의 직무를 정지하고 연구비 사용을 전면 금지했습니다. <br><br>뉴스타파가 정 교수 연구실의 5년간 거래 내역을 분석해 283건의 허위 명세서로 정부 연구비를 타낸 정황을 보도한 지 넉 달 만입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/jI4Qo</span><br>]]></content>
     </entry>
 </feed>
