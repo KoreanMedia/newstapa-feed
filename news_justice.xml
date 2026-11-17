@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Nov 2026 06:54:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 16:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘검찰범죄’ 특검이 밝혀야 할 50가지 의혹⑭ 구치감 2박3일, 아이 사진, 장기 협박]]></title>
+            <link>http://newstapa.org/article/e-tKd</link>
+            <guid>http://newstapa.org/article/e-tKd</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘검찰범죄’ 특검이 밝혀야 할 50가지 의혹⑭ 구치감 2박3일, 아이 사진, 장기 협박]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/17165211-DA15-5292-E4C7-LOV9880KEGCF3R1EULYU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰 불법 행위 밝히자는데 저주 퍼붓는 주류 매체들]]></title>
             <link>http://newstapa.org/article/iKKSJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ① ‘기부’와 ‘합의’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/23104255-FA99-F882-FF97-KMTVBQHY79SED8RYMVPF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘윤석열 당선 무효’ 재판장이 던진 5개 치명적 질문]]></title>
-            <link>http://newstapa.org/article/qze20</link>
-            <guid>http://newstapa.org/article/qze20</guid>
-            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘윤석열 당선 무효’ 재판장이 던진 5개 치명적 질문]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/21180930-0A01-6A66-0618-F891O825WU6FL5OG3AM1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
