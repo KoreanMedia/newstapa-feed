@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Nov 2026 23:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 06:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] 개인정보 노출사고가 정보공개의 축소로 이어져서는 안 된다]]></title>
+            <link>http://newstapa.org/article/yrbRH</link>
+            <guid>http://newstapa.org/article/yrbRH</guid>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[칼럼] 개인정보 노출사고가 정보공개의 축소로 이어져서는 안 된다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/18135830-3AFE-6E0E-9F28-NZUGO8PPE9A48VJG0MF6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배임혐의 방정오 피의자 신분 소환조사 확인, 공소청의 결론은?]]></title>
+            <link>http://newstapa.org/article/9O1r2</link>
+            <guid>http://newstapa.org/article/9O1r2</guid>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배임혐의 방정오 피의자 신분 소환조사 확인, 공소청의 결론은?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/18135304-DBC3-A587-F74F-D7SMV2VLDKGQTS8F98YU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘검찰범죄’ 특검이 밝혀야 할 50가지 의혹⑭ 구치감 2박3일, 아이 사진, 장기 협박]]></title>
             <link>http://newstapa.org/article/e-tKd</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['인천항의 봉이 김선달' 인천항만공사가 뭉개고, 해경이 봐줬다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/09170658-082E-DE18-1553-WWZTFT5WPFOMV3NHAZH5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 '대통령 당선 무효', 대법원 결정만 남았다]]></title>
-            <link>http://newstapa.org/article/-Sd0g</link>
-            <guid>http://newstapa.org/article/-Sd0g</guid>
-            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 '대통령 당선 무효', 대법원 결정만 남았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/09104358-BD01-2498-099A-G6JA9RMUTPJVYELBZGP9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과]]></title>
-            <link>http://newstapa.org/article/HxPrq</link>
-            <guid>http://newstapa.org/article/HxPrq</guid>
-            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/06201344-A425-2AA6-9B36-WMKQS24PSYXVIIF4ZYF2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Nov 2026 23:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 06:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배임혐의 방정오 피의자 신분 소환조사 확인, 공소청의 결론은?]]></title>
+            <link>http://newstapa.org/article/9O1r2</link>
+            <guid>http://newstapa.org/article/9O1r2</guid>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배임혐의 방정오 피의자 신분 소환조사 확인, 공소청의 결론은?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/18135304-DBC3-A587-F74F-D7SMV2VLDKGQTS8F98YU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘검찰범죄’ 특검이 밝혀야 할 50가지 의혹⑭ 구치감 2박3일, 아이 사진, 장기 협박]]></title>
             <link>http://newstapa.org/article/e-tKd</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ② 법리냐, 법감정이냐]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/23173913-B642-EC42-5B36-BPW5RREMJ4M410ELX6HN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ① ‘기부’와 ‘합의’]]></title>
-            <link>http://newstapa.org/article/5_RBV</link>
-            <guid>http://newstapa.org/article/5_RBV</guid>
-            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ① ‘기부’와 ‘합의’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/23104255-FA99-F882-FF97-KMTVBQHY79SED8RYMVPF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
