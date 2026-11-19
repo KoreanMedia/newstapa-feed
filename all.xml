@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Nov 2026 06:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 16:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 잡던 자가 꼼수도 안다, 전직 특급 검사들의 꿀알바 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/KBl0l</link>
+            <guid>http://newstapa.org/article/KBl0l</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 잡던 자가 꼼수도 안다, 전직 특급 검사들의 꿀알바]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/19174619-71A7-B013-9C22-OLOVNNRKLPQMY4BXCVGY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<벨트검사의 배신 ②> 윤석열 보좌 1급 벨트검사, 김건희 주가조작 주범 변호 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/UUi-h</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['검찰범죄' 특검이 밝혀야 할 50가지 의혹(번외편) 막는 자가 범인이다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/13152650-4C68-5B30-0C70-2AE5LY2UEYVGHFWGKONI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[목격자들] 투명인간과 살아가는 법 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/kTA5e</link>
-            <guid>http://newstapa.org/article/kTA5e</guid>
-            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[목격자들] 투명인간과 살아가는 법]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/11141945-3E10-3640-AAFE-YZXUC2LHMUF7EB8U7M11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<벨트검사의 배신 ②> 윤석열 보좌 1급 벨트검사, 김건희 주가조작 주범 변호 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/02174110-2B24-03B9-551C-YHCKM1LGSLQ4EX5EI926.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 잡던 자가 꼼수도 안다, 전직 특급 검사들의 꿀알바 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/KBl0l</link>
+            <guid>http://newstapa.org/article/KBl0l</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 잡던 자가 꼼수도 안다, 전직 특급 검사들의 꿀알바]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/19174619-71A7-B013-9C22-OLOVNNRKLPQMY4BXCVGY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<벨트검사의 배신 ②> 윤석열 보좌 1급 벨트검사, 김건희 주가조작 주범 변호 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/UUi-h</link>
             <guid>http://newstapa.org/article/UUi-h</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] '애니 엄마' 정유경 회장에게 지난 한 주간 벌어진 일]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/26171957-A0C5-5B91-7506-DZYCAPV863HH192C9I4W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“명태균, 과장은 좀 있지만... 오세훈, 운이 좋다” 김영선 전 의원 인터뷰 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/mtjF2</link>
-            <guid>http://newstapa.org/article/mtjF2</guid>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“명태균, 과장은 좀 있지만... 오세훈, 운이 좋다” 김영선 전 의원 인터뷰]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/26180431-63AB-E483-A608-9VITLEL98OL0LKG4TYLY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조희대 ‘허위 업무추진비’… 경찰도 수사 착수, 국회는 국정조사 추진 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3401,6 +3401,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/03173137-A722-84D6-E94B-YG83UN1SM9TZNMVTD7PX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 잡던 자가 꼼수도 안다, 전직 특급 검사들의 꿀알바 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/contents/posts/115297436</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/contents/posts/115297436</guid>
+            <pubDate>Thu, 19 Nov 2026 16:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[[🔴라이브 예고] 2013년 대검찰청은 공인 전문검사, 일명 '벨트 검사' 제도를 도입했습니다. 주가조작, 공정거래, 강력, 성범죄 등 40여 개 전문 분야에서 성과를 거둔 검사에게 검은 띠(블랙 벨트, 1급), 푸른 띠(블루 벨트, 2급)의 칭호를 주고 해당 분야에서 경험과 전문성을 쌓도록 지원하는 제도입니다. 지난 13년간 총 359명이 배출됐습니다.<br><br>시작은 좋았는데, '전관'이라는 기묘한 문화를 가진 법조계에서 이 제도는 의도치 않은 방향으로 흘러갔습니다. 359명 벨트 검사 세 명 중 한 명은 이미 검찰을 떠났고, 이 중 112명은 유명 로펌에서 변호사로 활동하고 있습니다. 뉴스타파가 이들의 수임 기록을 살펴봤더니 주요 의뢰인은 검사 시절 수사 대상이었던 사람들이었습니다. <br><br>연예인 마약 사건을 수사했던 벨트 검사는 유명 연예인의 변호인이 되어 나타나고, 사건 수임이 아쉬운 전직 벨트 검사는 자신의 이력을 미끼로 의뢰인을 끌어들입니다. 수많은 피해자를 낳는 다단계 사건, 주가조작 사건의 변호인 명단에도 국록을 맡으며 경험과 전문성을 키웠던 전직 벨트 검사의 이름이 등장합니다. 불법으로부터 국민을 지키라고 더 예리하고 단단하게 창과 방패를 단련해 놨더니, 오히려 '꿀알바' 자리를 찾아 무법자를 보호하고 있는 꼴입니다.<br><br>오늘 밤 8시 라이브로 진행되는 주간 뉴스타파에는 최근 '벨트 검사의 배신' 연속보도 이어가고 있는 강민수 기자, 그리고 이 문제가 우리 사회에 미칠 문제를 해설해 줄 유승익 참여연대 사법감시센터 소장이 출연합니다. 또 오늘 한덕수 전 총리, 김건희 씨에 대한 대법원 선고 결과에 대해서도 분석합니다. 이어 2부에서는 1500만 건이 넘는 대형 은행 도이체방크 유출 문건을 국제 협업 취재로 분석한 강혜인, 김지윤 기자가 출연합니다. 많은 시청과 관심 바랍니다.  <br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://www.youtube.com/watch?v=AJFvA_3MLeE</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[〈벨트검사의 배신 ②〉 윤석열 보좌 1급 벨트검사, 김건희 주가조작 주범 변호 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/contents/posts/115292624</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/contents/posts/115292624</guid>
@@ -3534,18 +3541,19 @@
             <content:encoded><![CDATA[지난달 30일 서울중앙지방법원 형사합의 38-2부(재판장 정수영 부장판사)가 12.3 비상계엄에 연루된 전직 고위 장교 8명에게 무죄를 선고한 사건이 파장을 일으키고 있습니다. 무죄 논리의 핵심은 내란죄 구성요건인 국헌문란 목적이 없었다는 겁니다. 내란특검 측은 “계엄 전후의 전체 행위와 상황 인식을 종합하면 내란 가담의 고의를 인정할 여지가 있다”면서 “무죄 판결은 계엄 권장 효과를 유발했다”고 반발했습니다. <br><br>한 가지 흥미로운 점은 사건 관련자 8명에 대한 수사 및 기소의 주체가 내란특검이 아니라는 점입니다. 대외적으로는 내란특검이 진행한 것으로 돼 있지만, 실제로는 군검찰 작품입니다. 조성식 전문위원이 내란특검의 특별한 속앓이를 취재했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/JMHCv</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[🔴라이브] "2만 해외 댓글 계정" 알고보니 '국정원발, 출처 무근' (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/contents/posts/115194004</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/contents/posts/115194004</guid>
-            <pubDate>Tue, 10 Nov 2026 12:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[[🔴지금 시청하세요] 지난 8월 카이스트의 한 연구진이 독일 막스플랑크 연구소와 함께 분석· 발표한 연구 결과가 온라인 공간에서 큰 이슈가 됐습니다. 지난 20년간 네이버 뉴스에 있는 댓글 1억여 건을 AI로 분석했더니 2만 개가 넘는 해외 여론 공작 의심 계정이 나왔다는 내용입니다. <br><br>과학적인 연구 방법으로 우리 온라인 공론장의 실태를 파악하는 것은 좋은데, 어쩐지 이 연구결과는 학술 이외의 목적으로 많이 인용됐습니다. 정치권에서는 이 연구 결과를 거론하며 온라인 댓글 국적 표시제 도입해야 한다는 주장이 나왔고, 일부 보수·극우 성향 커뮤니티에서는 혐중 정서와 연결 지었습니다. 자연스러운 공론장의 찬반 토론이 '댓글 부대', '여론 조작'으로 해석되는 경향도 더 짙어졌습니다. <br><br>뉴스타파는 이 연구의 출발점이 국정원이라는 사실을 확인했습니다. 국정원이 넘긴 기초자료를 토대로 연구가 진행했지만, 어떤 이유인지 이런 경위는 연구 결과에 담기지 않았습니다. 연구의 핵심 요소인 '시드 계정' 신뢰성도 의심스러운 상황입니다. 연구는 이 계정들의 해외 연관성이 검증됐다고 밝혔지만, 실제 확인해 보니 그 근거는 찾을 수 없었습니다.<br><br>오늘 밤 8시, 방송 시간대를 옮긴 뉴스타파 라이브가 첫선을 보입니다. 1부에서는 해외 여론조작 연구의 이면을 취재한 박종화 PD가 출연해 취재 후일담을 들려드릴 예정입니다. 이후 2부에서는 윤석열 명예훼손 사건의 당사자 김용진 기자가 출연해 지난주 검찰 조작 기소 특검법 통과에 대해 이야기 나눌 예정입니다. 많은 시청과 관심 부탁드립니다!  <br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://www.youtube.com/live/9sU0QYK_3_s</span>]]></content:encoded>
+            <title><![CDATA[[주간 뉴스타파] 잡던 자가 꼼수도 안다, 전직 특급 검사들의 꿀알바 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20261119175633400</link>
+            <guid>https://v.daum.net/v/20261119175633400</guid>
+            <pubDate>Thu, 19 Nov 2026 16:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261119175633400" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 잡던 자가 꼼수도 안다, 전직 특급 검사들의 꿀알바</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F19%2Fnewstapa%2F20261119175636765eyer.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F19%2Fnewstapa%2F20261119175636765eyer.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[<벨트검사의 배신 ②> 윤석열 보좌 1급 벨트검사, 김건희 주가조작 주범 변호 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20261119135120137</link>
             <guid>https://v.daum.net/v/20261119135120137</guid>
             <pubDate>Thu, 19 Nov 2026 06:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261119135120137" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;벨트검사의 배신 ②&gt; 윤석열 보좌 1급 벨트검사, 김건희 주가조작 주범 변호</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F19%2Fnewstapa%2F20261119135130447vemv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261119135120137" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;벨트검사의 배신 ②&gt; 윤석열 보좌 1급 벨트검사, 김건희 주가조작 주범 변호</strong><span class="info_txt"><span class="txt_info">11시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F19%2Fnewstapa%2F20261119135130447vemv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F19%2Fnewstapa%2F20261119135130447vemv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3553,7 +3561,7 @@
             <link>https://v.daum.net/v/20261118172118211</link>
             <guid>https://v.daum.net/v/20261118172118211</guid>
             <pubDate>Wed, 18 Nov 2026 16:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261118172118211" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[인사이드 도이체방크]'북한' 적힌 거래도 통과…도이체방크 대북 제재 감시 '구멍'</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F18%2Fnewstapa%2F20261118172119398tppc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261118172118211" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[인사이드 도이체방크]'북한' 적힌 거래도 통과…도이체방크 대북 제재 감시 '구멍'</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F18%2Fnewstapa%2F20261118172119398tppc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F18%2Fnewstapa%2F20261118172119398tppc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3561,7 +3569,7 @@
             <link>https://v.daum.net/v/20261118171622943</link>
             <guid>https://v.daum.net/v/20261118171622943</guid>
             <pubDate>Wed, 18 Nov 2026 16:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261118171622943" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[인사이드 도이체방크]하나은행 파나마 지점은 왜 도이체방크 결제망에서 퇴출됐나</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F18%2Fnewstapa%2F20261118171623930vdhv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261118171622943" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[인사이드 도이체방크]하나은행 파나마 지점은 왜 도이체방크 결제망에서 퇴출됐나</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F18%2Fnewstapa%2F20261118171623930vdhv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F18%2Fnewstapa%2F20261118171623930vdhv.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3569,7 +3577,7 @@
             <link>https://v.daum.net/v/20261118170622402</link>
             <guid>https://v.daum.net/v/20261118170622402</guid>
             <pubDate>Wed, 18 Nov 2026 16:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261118170622402" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;벨트검사의 배신①&gt; 한동훈이 기획한 '벨트검사'... 퇴직 이후 변호 이력 추적</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F18%2Fnewstapa%2F20261118170630544yapc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261118170622402" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;벨트검사의 배신①&gt; 한동훈이 기획한 '벨트검사'... 퇴직 이후 변호 이력 추적</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F18%2Fnewstapa%2F20261118170630544yapc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F18%2Fnewstapa%2F20261118170630544yapc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3593,7 +3601,7 @@
             <link>https://v.daum.net/v/20261117170118749</link>
             <guid>https://v.daum.net/v/20261117170118749</guid>
             <pubDate>Tue, 17 Nov 2026 16:46:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261117170118749" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘검찰범죄’ 특검이 밝혀야 할 50가지 의혹⑭ 구치감 2박3일, 아이 사진, 장기 협박</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F17%2Fnewstapa%2F20261117170119372iwif.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261117170118749" class="link_column"><div class="cont_thumb"><strong class="tit_txt">‘검찰범죄’ 특검이 밝혀야 할 50가지 의혹⑭ 구치감 2박3일, 아이 사진, 장기 협박</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F17%2Fnewstapa%2F20261117170119372iwif.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F17%2Fnewstapa%2F20261117170119372iwif.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3601,7 +3609,7 @@
             <link>https://v.daum.net/v/20261117164620065</link>
             <guid>https://v.daum.net/v/20261117164620065</guid>
             <pubDate>Tue, 17 Nov 2026 16:46:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261117164620065" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[인사이드 도이체방크]도이체방크 엡스타인 '의심 거래' 6억 달러…알려진 액수의 두 배 넘어</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F17%2Fnewstapa%2F20261117164622037ltev.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261117164620065" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[인사이드 도이체방크]도이체방크 엡스타인 '의심 거래' 6억 달러…알려진 액수의 두 배 넘어</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F17%2Fnewstapa%2F20261117164622037ltev.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F17%2Fnewstapa%2F20261117164622037ltev.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3609,7 +3617,7 @@
             <link>https://v.daum.net/v/20261117160122858</link>
             <guid>https://v.daum.net/v/20261117160122858</guid>
             <pubDate>Tue, 17 Nov 2026 16:46:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261117160122858" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[인사이드 도이체방크]트럼프 회사-러시아 자금세탁망 연결고리…도이체방크 내부 문서로 확인</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F17%2Fnewstapa%2F20261117160123838yenu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261117160122858" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[인사이드 도이체방크]트럼프 회사-러시아 자금세탁망 연결고리…도이체방크 내부 문서로 확인</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F17%2Fnewstapa%2F20261117160123838yenu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F17%2Fnewstapa%2F20261117160123838yenu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3617,7 +3625,7 @@
             <link>https://v.daum.net/v/20261117153122035</link>
             <guid>https://v.daum.net/v/20261117153122035</guid>
             <pubDate>Tue, 17 Nov 2026 06:54:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261117153122035" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[인사이드 도이체방크]도이체방크의 위험한 '러시아 커넥션'</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F17%2Fnewstapa%2F20261117153123657gfns.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261117153122035" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[인사이드 도이체방크]도이체방크의 위험한 '러시아 커넥션'</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F17%2Fnewstapa%2F20261117153123657gfns.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F17%2Fnewstapa%2F20261117153123657gfns.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3625,7 +3633,7 @@
             <link>https://v.daum.net/v/20261117152621704</link>
             <guid>https://v.daum.net/v/20261117152621704</guid>
             <pubDate>Tue, 17 Nov 2026 06:54:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261117152621704" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[인사이드 도이체방크]사상 최대 문건 유출...글로벌 금융의 민낯</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F17%2Fnewstapa%2F20261117161435145fpys.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261117152621704" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[인사이드 도이체방크]사상 최대 문건 유출...글로벌 금융의 민낯</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F17%2Fnewstapa%2F20261117161435145fpys.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F17%2Fnewstapa%2F20261117161435145fpys.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3633,7 +3641,7 @@
             <link>https://v.daum.net/v/20261116204621060</link>
             <guid>https://v.daum.net/v/20261116204621060</guid>
             <pubDate>Mon, 16 Nov 2026 15:01:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261116204621060" class="link_column"><div class="cont_thumb"><strong class="tit_txt">한강버스는 왜 운항을 서둘렀나…오세훈 시장과 불꽃축제</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F16%2Fnewstapa%2F20261116214525538zwwh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261116204621060" class="link_column"><div class="cont_thumb"><strong class="tit_txt">한강버스는 왜 운항을 서둘렀나…오세훈 시장과 불꽃축제</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F16%2Fnewstapa%2F20261116214525538zwwh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F16%2Fnewstapa%2F20261116214525538zwwh.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3641,7 +3649,7 @@
             <link>https://v.daum.net/v/20261113170621900</link>
             <guid>https://v.daum.net/v/20261113170621900</guid>
             <pubDate>Fri, 13 Nov 2026 11:56:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261113170621900" class="link_column"><div class="cont_thumb"><strong class="tit_txt">검찰 불법 행위 밝히자는데 저주 퍼붓는 주류 매체들</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F13%2Fnewstapa%2F20261113170622414lkwd.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261113170621900" class="link_column"><div class="cont_thumb"><strong class="tit_txt">검찰 불법 행위 밝히자는데 저주 퍼붓는 주류 매체들</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F13%2Fnewstapa%2F20261113170622414lkwd.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F13%2Fnewstapa%2F20261113170622414lkwd.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3649,7 +3657,7 @@
             <link>https://v.daum.net/v/20261112173120789</link>
             <guid>https://v.daum.net/v/20261112173120789</guid>
             <pubDate>Thu, 12 Nov 2026 15:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261112173120789" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 데이터 전문가들의 AI 뒷담화 '백수 개발자'</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F12%2Fnewstapa%2F20261112173123133ylkh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261112173120789" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 데이터 전문가들의 AI 뒷담화 '백수 개발자'</strong><span class="info_txt"><span class="txt_info">2026. 11. 12.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F12%2Fnewstapa%2F20261112173123133ylkh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F12%2Fnewstapa%2F20261112173123133ylkh.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3770,14 +3778,6 @@
             <pubDate>Tue, 03 Nov 2026 07:40:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261103143122869" class="link_column"><div class="cont_thumb"><strong class="tit_txt">“조우형은 박영수 영향력을 보고 찾아왔다”... &lt;뉴스타파 v. 윤석열&gt; 27차 공판</strong><span class="info_txt"><span class="txt_info">2026. 11. 3.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F03%2Fnewstapa%2F20261103143124134edbk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F03%2Fnewstapa%2F20261103143124134edbk.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[한강버스 공익신고자, 공수처에 오세훈 시장 고발 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20261103140118952</link>
-            <guid>https://v.daum.net/v/20261103140118952</guid>
-            <pubDate>Tue, 03 Nov 2026 07:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261103140118952" class="link_column"><div class="cont_thumb"><strong class="tit_txt">한강버스 공익신고자, 공수처에 오세훈 시장 고발</strong><span class="info_txt"><span class="txt_info">2026. 11. 3.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F03%2Fnewstapa%2F20261103140120816xkmq.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F03%2Fnewstapa%2F20261103140120816xkmq.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
