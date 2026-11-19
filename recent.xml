@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Nov 2026 23:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 06:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<벨트검사의 배신 ②> 윤석열 보좌 1급 벨트검사, 김건희 주가조작 주범 변호]]></title>
+            <link>http://newstapa.org/article/UUi-h</link>
+            <guid>http://newstapa.org/article/UUi-h</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;벨트검사의 배신 ②&gt; 윤석열 보좌 1급 벨트검사, 김건희 주가조작 주범 변호]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/19112315-1362-8249-F3BF-N3XR70QE9V6UN35WH990.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인사이드 도이체방크]'북한' 적힌 거래도 통과…도이체방크 대북 제재 감시 '구멍']]></title>
             <link>http://newstapa.org/article/W4Tvy</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[목격자들] 투명인간과 살아가는 법]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/11141945-3E10-3640-AAFE-YZXUC2LHMUF7EB8U7M11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘햄버거 회동’ 등 8명 전원 무죄, 내란특검의 특별한 속앓이]]></title>
-            <link>http://newstapa.org/article/JMHCv</link>
-            <guid>http://newstapa.org/article/JMHCv</guid>
-            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘햄버거 회동’ 등 8명 전원 무죄, 내란특검의 특별한 속앓이]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/11101908-8156-6579-AF63-B9CYKDUTNVP3XK4ADDTY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
