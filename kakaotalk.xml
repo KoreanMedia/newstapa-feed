@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-11-20T06:00:59.317Z</updated>
+    <updated>2026-11-20T15:18:18.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/e88dd5e/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴스만으로 담을 수 없는 이야기들, 2026년 목격자들]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115308280</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115308280"/>
+        <updated>2026-11-20T15:18:11.745Z</updated>
+        <content type="html"><![CDATA[뉴스로는 전하지 못하는 이야기들이 있습니다. 뉴스가 되지 못한 역사를 기록하고, 카메라가 닿지 않은 사각지대를 비추며, 평범한 사람들의 특별한 삶을 조명하는 일, 뉴스타파의 다큐멘터리 협업 프로그램 '목격자들'의 역할입니다.<br> <br>2026년 뉴스타파와 뉴스타파함께재단은 시민들의 후원으로 총 13개의 다큐멘터리 프로젝트를 지원했고, 이중 11편의 작품은 뉴스타파  '목격자들' 플랫폼을 통해 공개됐습니다. 특히 올해는 연대와 협업의 대상을 국경 너머까지 넓혔습니다.<br><br>2026년 뉴스타파 '목격자들'이 선보인 작품들과 그 연대와 협업의 현장을 영상으로 만나보세요.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/RxwQd3oe--E</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간 뉴스타파] 잡던 자가 꼼수도 안다, 전직 특급 검사들의 꿀알바]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115297436</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115206009"/>
         <updated>2026-11-11T08:58:27.575Z</updated>
         <content type="html"><![CDATA[화가 유선의 곁에는 13년째 함께 살아온 ‘투명인간들’이 있습니다. 조현병 때문에 생긴 환시와 환청입니다. 이 투명인간들은 때로는 자신을 위협하고 괴롭히지만, 유선은 그들을 없애기보다 함께 살아가는 방법을 찾고 싶어 합니다. 증상을 줄이는 약물 치료는 때로 그녀가 원하는 일상을 어렵게 만들기 때문입니다.<br><br>증상을 없애는 것만이 회복일까요? 장민경 감독의 다큐멘터리 &lt;투명인간과 살아가는 법&gt;는 조현병이라는 진단명 너머, 한 사람의 삶과 관계, 회복의 의미를 묻습니다. 이 영화가 정신적 어려움을 경험하는 당사자와 주변 사람들의 삶을 이해하는 계기가 되기를 바랍니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/CPiGaekDZKo</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/kTA5e</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘햄버거 회동’ 등 8명 전원 무죄, 내란특검의 특별한 속앓이]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115198758</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115198758"/>
-        <updated>2026-11-11T08:58:27.576Z</updated>
-        <content type="html"><![CDATA[지난달 30일 서울중앙지방법원 형사합의 38-2부(재판장 정수영 부장판사)가 12.3 비상계엄에 연루된 전직 고위 장교 8명에게 무죄를 선고한 사건이 파장을 일으키고 있습니다. 무죄 논리의 핵심은 내란죄 구성요건인 국헌문란 목적이 없었다는 겁니다. 내란특검 측은 “계엄 전후의 전체 행위와 상황 인식을 종합하면 내란 가담의 고의를 인정할 여지가 있다”면서 “무죄 판결은 계엄 권장 효과를 유발했다”고 반발했습니다. <br><br>한 가지 흥미로운 점은 사건 관련자 8명에 대한 수사 및 기소의 주체가 내란특검이 아니라는 점입니다. 대외적으로는 내란특검이 진행한 것으로 돼 있지만, 실제로는 군검찰 작품입니다. 조성식 전문위원이 내란특검의 특별한 속앓이를 취재했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/JMHCv</span>]]></content>
     </entry>
 </feed>
