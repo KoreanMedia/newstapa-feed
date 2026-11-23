@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Nov 2026 02:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 11:55:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기습질문은 유죄인가] ② 질문에 대한 경고처분 승인한 대법원]]></title>
+            <link>http://newstapa.org/article/KRNw9</link>
+            <guid>http://newstapa.org/article/KRNw9</guid>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기습질문은 유죄인가] ② 질문에 대한 경고처분 승인한 대법원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/23144925-1C6B-2E3B-B122-VJ6ZE2T3WOD7O6FPHJY6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 잡던 자가 꼼수도 안다, 전직 특급 검사들의 꿀알바]]></title>
             <link>http://newstapa.org/article/KBl0l</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 데이터 전문가들의 AI 뒷담화 '백수 개발자']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/12172616-FDBF-7B9E-0D29-HGSBUY0L59DYX8418C1M.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['검찰범죄' 특검이 밝혀야 할 50가지 의혹(번외편) 막는 자가 범인이다]]></title>
-            <link>http://newstapa.org/article/wtcZl</link>
-            <guid>http://newstapa.org/article/wtcZl</guid>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['검찰범죄' 특검이 밝혀야 할 50가지 의혹(번외편) 막는 자가 범인이다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/13152650-4C68-5B30-0C70-2AE5LY2UEYVGHFWGKONI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

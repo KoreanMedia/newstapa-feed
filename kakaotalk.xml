@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-11-23T02:20:38.980Z</updated>
+    <updated>2026-11-23T11:55:21.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/e88dd5e/assets/favicon-CmO6ClOa.ico</icon>
+    <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/e6da9c2/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기습질문은 유죄인가] ② 질문에 대한 경고처분 승인한 대법원]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115331438</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115331438"/>
+        <updated>2026-11-23T11:55:13.090Z</updated>
+        <content type="html"><![CDATA[주요 국정 사안 등에 관해 답변을 거부하는 고위공직자 등을 찾아가 현장에서 인터뷰하는 기습질문(Ambush Interview)에 대한 처벌 시도가 잇따르고 있습니다. 경기도는 최근 추미애 지사에게 예산 문제를 질문한 MBC 기자를 업무방해 혐의 등으로 고발했습니다. <br><br>앞서 국회사무처는 김장겸 국회의원에게 기습질문한 뉴스타파 피디에게 경고처분을 했는데, 최근 대법원이 이 경고처분을 합법으로 승인했습니다. 이처럼 언론의 질문을 두고 권력기관인 입법ㆍ행정ㆍ사법이 동시에 처벌을 시도하면서, 헌법이 강하게 보장하는 언론의 기능을 무력화하고 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/KRNw9</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스만으로 담을 수 없는 이야기들, 2026년 목격자들]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115308280</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115215689"/>
         <updated>2026-11-12T06:02:09.444Z</updated>
         <content type="html"><![CDATA[지난 11월 6일 조작 기소 특검법이 국회 본회의를 통과했습니다. 기존 '검찰 범죄 특검을 해야 하는 50가지 이유' 시리즈를 연재한 김용진 기자가 '검찰범죄 특검이 밝혀야 할 50가지 의혹'으로 이름을 바꿔 연재를 이어 갑니다. <br><br>특검법 국회 통과 이후 이 법에 반대하는 목소리가 국민의힘과 기성 언론을 통해 쏟아져 나오고 있는데요, 이들의 주장이 과연 얼마나 타당성과 근거가 있는지 살펴봤습니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/wtcZl</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투명인간과 살아가는 법 - 뉴스타파 목격자들]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115206009</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115206009"/>
-        <updated>2026-11-11T08:58:27.575Z</updated>
-        <content type="html"><![CDATA[화가 유선의 곁에는 13년째 함께 살아온 ‘투명인간들’이 있습니다. 조현병 때문에 생긴 환시와 환청입니다. 이 투명인간들은 때로는 자신을 위협하고 괴롭히지만, 유선은 그들을 없애기보다 함께 살아가는 방법을 찾고 싶어 합니다. 증상을 줄이는 약물 치료는 때로 그녀가 원하는 일상을 어렵게 만들기 때문입니다.<br><br>증상을 없애는 것만이 회복일까요? 장민경 감독의 다큐멘터리 &lt;투명인간과 살아가는 법&gt;는 조현병이라는 진단명 너머, 한 사람의 삶과 관계, 회복의 의미를 묻습니다. 이 영화가 정신적 어려움을 경험하는 당사자와 주변 사람들의 삶을 이해하는 계기가 되기를 바랍니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/CPiGaekDZKo</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/kTA5e</span>]]></content>
     </entry>
 </feed>
