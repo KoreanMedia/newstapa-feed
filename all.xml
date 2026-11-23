@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Nov 2026 21:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 02:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1520,11 +1520,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/12171425-810E-C5D8-4ACA-2IH3RKDB5FVDBUL5LH1O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[칼럼] 무소불위 검찰의 식민지 노스탤지어 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <title><![CDATA[[검찰 폐지] 무소불위 검찰의 식민지 노스탤지어 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/Qr9Nr</link>
             <guid>http://newstapa.org/article/Qr9Nr</guid>
             <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] 무소불위 검찰의 식민지 노스탤지어]]></content:encoded>
+            <content:encoded><![CDATA[[검찰 폐지] 무소불위 검찰의 식민지 노스탤지어]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/12173003-0B6E-A149-3CDF-DYLFK3FGYU7YB2R1XFEQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -3545,8 +3545,8 @@
             <link>https://v.daum.net/v/20261119175633400</link>
             <guid>https://v.daum.net/v/20261119175633400</guid>
             <pubDate>Thu, 19 Nov 2026 16:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261119175633400" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 잡던 자가 꼼수도 안다, 전직 특급 검사들의 꿀알바</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F19%2Fnewstapa%2F20261119175636765eyer.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F19%2Fnewstapa%2F20261119175636765eyer.jpg" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261119175633400" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 잡던 자가 꼼수도 안다, 전직 특급 검사들의 꿀알바</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F23%2Fnewstapa%2F20261123111837867ephi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F23%2Fnewstapa%2F20261123111837867ephi.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[<벨트검사의 배신 ②> 윤석열 보좌 1급 벨트검사, 김건희 주가조작 주범 변호 (뉴스타파 ─ 다음뉴스)]]></title>
