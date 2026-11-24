@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Nov 2026 23:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 08:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추경호가 어떻게 무죄? 윤석열과의 통화 내용은 핵심 쟁점 아니다]]></title>
+            <link>http://newstapa.org/article/CJGI_</link>
+            <guid>http://newstapa.org/article/CJGI_</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[추경호가 어떻게 무죄? 윤석열과의 통화 내용은 핵심 쟁점 아니다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/24105018-1565-D1B1-E3C4-T935UWGEY3A933Y6XIJQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 잡던 자가 꼼수도 안다, 전직 특급 검사들의 꿀알바]]></title>
             <link>http://newstapa.org/article/KBl0l</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['검찰범죄' 특검을 해야 하는 50가지 이유⑫ 문자 조작 등 뉴스타파 케이스(2)]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/30173405-0144-4A79-005A-42WAGUV3XRCCKTKO6493.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] '애니 엄마' 정유경 회장에게 지난 한 주간 벌어진 일]]></title>
-            <link>http://newstapa.org/article/eiU83</link>
-            <guid>http://newstapa.org/article/eiU83</guid>
-            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] '애니 엄마' 정유경 회장에게 지난 한 주간 벌어진 일]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/10/26171957-A0C5-5B91-7506-DZYCAPV863HH192C9I4W.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
