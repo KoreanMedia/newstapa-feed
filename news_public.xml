@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Nov 2026 08:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 20:01:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경찰, 김병기 송치... 뉴스타파 보도 1년 2개월 만]]></title>
+            <link>http://newstapa.org/article/YKhwz</link>
+            <guid>http://newstapa.org/article/YKhwz</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경찰, 김병기 송치... 뉴스타파 보도 1년 2개월 만]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/24181822-143A-31A0-9333-1STO0MPSJ297QD59CTGI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['인천항의 봉이 김선달' 불법전대 통로 만들어준 인천항만공사... '이면계약'까지 체결]]></title>
+            <link>http://newstapa.org/article/0ErN5</link>
+            <guid>http://newstapa.org/article/0ErN5</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['인천항의 봉이 김선달' 불법전대 통로 만들어준 인천항만공사... '이면계약'까지 체결]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/24180056-0F31-F3EC-9241-MB88T6ZFTKUBC5N1EEYT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추경호가 어떻게 무죄? 윤석열과의 통화 내용은 핵심 쟁점 아니다]]></title>
             <link>http://newstapa.org/article/CJGI_</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공수처, 법원 판단 무시하고 '한동훈 수사 방해'·'판사 사찰' 윤석열에 면죄부]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/03145529-5A4A-2EF5-9E05-T8VAVIADCDWUEBY6SB2C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“조우형은 박영수 영향력을 보고 찾아왔다”... <뉴스타파 v. 윤석열> 27차 공판]]></title>
-            <link>http://newstapa.org/article/sL54V</link>
-            <guid>http://newstapa.org/article/sL54V</guid>
-            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“조우형은 박영수 영향력을 보고 찾아왔다”... &lt;뉴스타파 v. 윤석열&gt; 27차 공판]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/03135536-3881-28BD-D1C7-MX4MPU14ENMHS1Z9UA5K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한강버스 공익신고자, 공수처에 오세훈 시장 고발]]></title>
-            <link>http://newstapa.org/article/cZAya</link>
-            <guid>http://newstapa.org/article/cZAya</guid>
-            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한강버스 공익신고자, 공수처에 오세훈 시장 고발]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/03110659-A6A9-5253-1E79-I9UOW097K9IQ0QNPTDN1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
