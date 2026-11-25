@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Nov 2026 03:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 13:59:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경찰이 외면한 이태원 참사 '추가 압사 신고'... 책임 축소하려 했나]]></title>
+            <link>http://newstapa.org/article/7sfER</link>
+            <guid>http://newstapa.org/article/7sfER</guid>
+            <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경찰이 외면한 이태원 참사 '추가 압사 신고'... 책임 축소하려 했나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/25155447-E7B1-AFFC-2436-QZZYJ5OH47OQ2N4SUKVG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이태원 참사 4주기] 이태원 참사 '미공개 파일'... 실패한 국가의 초상]]></title>
             <link>http://newstapa.org/article/RqjHb</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["녹조 키우고 메탄 내뿜는 보와 하굿둑, 온실가스 공장으로 전락"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/23150604-0542-4688-5AB8-845KFQKY4SW6NQBCJL7R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[세월호 참사 11주기 특집] 다큐 영화 '세 가지 안부' 공개]]></title>
-            <link>http://newstapa.org/article/sE25M</link>
-            <guid>http://newstapa.org/article/sE25M</guid>
-            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[세월호 참사 11주기 특집] 다큐 영화 '세 가지 안부' 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/14134132-D07D-785D-1567-27IVZW29TBF67TLJHJ6Q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
