@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Nov 2026 04:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 14:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 언론 장악의 이면, YTN 민영화에 비선 그림자]]></title>
+            <link>http://newstapa.org/article/2JqNP</link>
+            <guid>http://newstapa.org/article/2JqNP</guid>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 언론 장악의 이면, YTN 민영화에 비선 그림자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/26182522-8683-167C-2E31-89JG0S4QUFQYJ6BH9OBT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["유진의 YTN 인수 내가 도왔다"...윤 캠프 네트워크본부장 개입 의혹]]></title>
             <link>http://newstapa.org/article/hNFZe</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[칼럼] 개인정보 노출사고가 정보공개의 축소로 이어져서는 안 된다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/18135830-3AFE-6E0E-9F28-NZUGO8PPE9A48VJG0MF6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배임혐의 방정오 피의자 신분 소환조사 확인, 공소청의 결론은?]]></title>
-            <link>http://newstapa.org/article/9O1r2</link>
-            <guid>http://newstapa.org/article/9O1r2</guid>
-            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배임혐의 방정오 피의자 신분 소환조사 확인, 공소청의 결론은?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/18135304-DBC3-A587-F74F-D7SMV2VLDKGQTS8F98YU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

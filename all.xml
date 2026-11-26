@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Nov 2026 04:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 14:47:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 언론 장악의 이면, YTN 민영화에 비선 그림자 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/2JqNP</link>
+            <guid>http://newstapa.org/article/2JqNP</guid>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 언론 장악의 이면, YTN 민영화에 비선 그림자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/26182522-8683-167C-2E31-89JG0S4QUFQYJ6BH9OBT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["유진의 YTN 인수 내가 도왔다"...윤 캠프 네트워크본부장 개입 의혹 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/hNFZe</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[칼럼] 개인정보 노출사고가 정보공개의 축소로 이어져서는 안 된다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/18135830-3AFE-6E0E-9F28-NZUGO8PPE9A48VJG0MF6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배임혐의 방정오 피의자 신분 소환조사 확인, 공소청의 결론은? (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/9O1r2</link>
-            <guid>http://newstapa.org/article/9O1r2</guid>
-            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배임혐의 방정오 피의자 신분 소환조사 확인, 공소청의 결론은?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/18135304-DBC3-A587-F74F-D7SMV2VLDKGQTS8F98YU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["유진의 YTN 인수 내가 도왔다"...윤 캠프 네트워크본부장 개입 의혹 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/08/13155358-C217-1BC0-FEA2-QODEPL8UBIYR99MGQNZR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 언론 장악의 이면, YTN 민영화에 비선 그림자 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/2JqNP</link>
+            <guid>http://newstapa.org/article/2JqNP</guid>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 언론 장악의 이면, YTN 민영화에 비선 그림자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/26182522-8683-167C-2E31-89JG0S4QUFQYJ6BH9OBT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[다큐 뉴스타파] 이재명 정부의 '실용적' 4대강 재자연화 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/b-IbD</link>
             <guid>http://newstapa.org/article/b-IbD</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[UN '삼성 베트남 공장 환경·보건 우려' 서한 정부와 삼성에 발송]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/12/05112458-E6BB-34DF-3719-6G5JF0XHG93VJL0BY7G0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타파스] '개점 휴업'해도 국민 전기료 4800억 원 받는 재벌 석탄발전소 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/eiXJB</link>
-            <guid>http://newstapa.org/article/eiXJB</guid>
-            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타파스] '개점 휴업'해도 국민 전기료 4800억 원 받는 재벌 석탄발전소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/11/24141601-6557-74C0-4179-SY6BMWPLA00A5543TK4U.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경찰이 외면한 이태원 참사 '추가 압사 신고'... 책임 축소하려 했나 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -3401,6 +3401,27 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/04/03173137-A722-84D6-E94B-YG83UN1SM9TZNMVTD7PX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 언론 장악의 이면, YTN 민영화에 비선 그림자 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/contents/posts/115376991</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/contents/posts/115376991</guid>
+            <pubDate>Thu, 26 Nov 2026 14:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[[🔴라이브 예고] YTN 민영화, MBC 전용기 탑승 불허, 그리고 뉴스타파에 대한 명예훼손 강제 수사까지. 12.3 내란으로 자멸한 이후에도 윤석열 정부가 남긴 언론 장악 시도의 상처는 아물지 않고 있습니다. 뉴스타파 기자들은 3년 넘게 윤석열의 명예를 훼손했다는 혐의로 재판을 받고 있고, YTN 역시 지분 매각 이면의 절차적 문제를 밝히고 보도를 정상화하기 위한 싸움을 이어가고 있습니다.<br><br>뉴스타파는 YTN 지분 매각 과정에 윤석열 정부의 비선이 관여했다는 진술을 확보했습니다. 핵심 인물은 윤석열 캠프에서 네트워크본부장으로 활동한 이력이 있는 인물인 오을섭 씨. 제보자 증언에 따르면, 그는 유진그룹과 관계를 맺고 YTN 인수전에 개입했습니다. 이후 유진그룹은 YTN 인수에 성공했고, 오 씨는 유진그룹으로부터 사무실을 비롯한 금전적 지원을 받았다는 주장입니다.<br><br>뉴스타파가 직접 제보자의 말을 확인해 봤더니 상당 부분 실체가 드러났습니다. 유진그룹이 지원했다는 사무실, 오 씨가 주최했다는 행사에서 같은 이름의 단체가 등장했습니다. 이미 YTN 지분 매각 과정에 윤석열 대통령실과 방송통신위원회가 부당 개입한 사실이 감사원 감사와 수사를 통해 드러난 상황, 이번에 뉴스타파가 밝힌 단서는 아직 드러나지 않은 윤석열 정부 언론장악 시도의 전말을 드러내는 단초가 될 수 있습니다. <br><br>오늘 밤 8시 라이브로 진행되는 주간 뉴스타파에는 이 취재 진행한 최기훈 기자가 출연합니다. 이어 2부에서는 최근 결정문 채택이 불발된 COP31 소식, 현장을 다녀온 시민사회단체 활동가들이 직접 출연해 전해드립니다. 많은 시청과 관심 부탁드립니다!<br><br>👉 뉴스타파 라이브 바로가기 : <span class="link_url">https://www.youtube.com/live/SCkqi-5nrdw</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파 <서울시 한강버스 비위 내부 무마·은폐 의혹> 이달의 방송기자상 수상 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/contents/posts/115374216</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/contents/posts/115374216</guid>
+            <pubDate>Thu, 26 Nov 2026 14:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파의 &lt;서울시 한강버스 비위 내부 무마·은폐 의혹&gt; 보도가 방송기자연합회의 제217회 이달의 방송기자상(취재보도 부문)에 선정됐습니다.<br><br>이 보도는 공익제보를 검증해 한강버스 사업과 관련한 비위 의혹과 서울시의 내부 무마·은폐 의혹을 다뤘습니다. 보도 이후 서울시의 부실한 감사와 후속 조치가 국정감사 등에서 잇따라 문제로 제기됐습니다.<br><br>심사위원단은 "공익제보를 적극적으로 검증하고 확인해 관련 비위 의혹을 잘 파헤쳤다"며 "보도의 파급력과 영향력도 경쟁작에 비해 앞섰다"고 평가했습니다.<br><br>이 보도를 이끈 탐사4팀 김성수 기자는 "언론을 믿지 않던 공익신고자에게 뉴스타파가 그동안 내부고발자들과 어떤 일을 해왔고, 불이익에서 보호하려고 지금도 어떤 노력을 하는지 설명하며 설득했다"며 "공익신고자들이 용기를 낸 만큼 끝까지 챙기는 것이 기자가 해야 할 일이라고 생각하고, 그 일을 해나가겠다"고 수상 소감을 밝혔습니다.<br><br>👉'서울시 한강버스 비위 내부 무마·은폐 의혹' 보도 보러가기 : <span class="link_url">https://bit.ly/4AYXPSq</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파 <신세계 그룹 부당 내부거래 의혹> 이달의기자상 수상 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/contents/posts/115373379</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/contents/posts/115373379</guid>
+            <pubDate>Thu, 26 Nov 2026 14:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파의&lt;신세계 부당 내부거래 의혹 보도&gt;가 한국기자협회의 제434회 이달의기자상(경제보도 부문)에 선정됐습니다. <br><br>이 보도는 신세계 그룹 계열사인 신세계면세점이 정유경 회장과 4촌관계인 여행사에게 부당하게 지원하고, 이로 인해 기존 업체들이 밀려난 사실을 보도했습니다. 보도 이후 '대기업 저승사자'로 불리는 서울국세청 조사4국의 특별 세무조사로 이어졌습니다. <br><br>탐사1팀 강민수 기자는 "국가가 부여한 면세점 특허가 신세계 총수 일가의 사익 추구에 이용된 것은 아닌지, 실질적인 책임 규명과 제도적 개선으로 이어지는지 끝까지 추적하겠다"고 수상 소감을 밝혔습니다.<br><br>👉'신세계 그룹 부당 내부거래 의혹' 보도 보러가기 : <span class="link_url">https://bit.ly/4AaGbuR</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["유진의 YTN 인수 내가 도왔다"...윤 캠프 네트워크본부장 개입 의혹 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/contents/posts/115367478</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/contents/posts/115367478</guid>
@@ -3520,40 +3541,27 @@
             <content:encoded><![CDATA[독일 최대 은행이자 글로벌 대형 투자은행인 도이체방크(Deutsche Bank)의 내부 문서에는 국내 시중 은행 한 곳이 반복적으로 등장합니다. 바로 하나은행입니다. 특히 도이체방크가 하나은행의 해외 지점 중 하나인 '파나마 지점'에 대해 평가한 문서가 눈에 띕니다.<br><br>도이체방크는 지난 2019년 하나은행 파나마 지점에 대한 현장 실사를 벌인 뒤, 여러 문제점을 지적한 평가 보고서를 작성했습니다. 그리고 6개월 뒤, 파나마 지점은 도이체방크의 달러 결제망에서 결국 '리스크 엑시트(Risk Exit)' 조치를 받은 것으로 확인됐습니다. '리스크 엑시트'란 거래 관계를 계속 유지하는 것이 위험하다고 판단될 때, 글로벌 은행이 거래 은행과의 환거래 관계를 끊는 조치입니다.<br><br>도이체방크는 하나은행 파나마 지점에서 무엇을 봤던 걸까요. 뉴스타파가 유출 문건과 실제 거래 데이터를 함께 들여다봤습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/v1pLm</span><br>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[〈벨트검사의 배신①〉 한동훈이 기획한 '벨트검사'... 퇴직 이후 변호 이력 추적 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/contents/posts/115282893</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/contents/posts/115282893</guid>
-            <pubDate>Wed, 18 Nov 2026 16:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국 법조계의 반칙과 특권을 추적해온 뉴스타파가 검찰이 키워온 공인 전문 검사, 벨트검사를 추적해 왔습니다. 359명에 달하는 벨트검사들 중 퇴직 후 변호사가 된 112명을 중심으로 변호 이력을 확인했습니다. <br><br>취재 결과, 벨트검사 출신 변호사 112명 가운데 31명이 퇴직 후 2년 안에 자신의 전문 분야와 관련된 범죄를 변호한 것으로 확인됐습니다. 검찰과 경찰 수사 단계에서 변호한 이력은 아예 드러나지 않았습니다. <br><br>그럼에도 전체 비율로 치면 27퍼센트, 4명 중 1명꼴로 국가가 키워준 수사의 전문성을 도리어 범죄 수사를 방어하는 데 쓰고 있는 것으로 확인됐습니다. <br><br>주가조작, 강력, 마약, 노동, 다단계 등 40개가 넘는 분야의 벨트검사들이 퇴직 후에는 사익을 챙기고, 형사 사법 시스템을 교란하는 실태를 기획보도 &lt;벨트검사의 배신&gt;에서 공개합니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/Sq5zA58f43c</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/u9qfk</span><br>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] 개인정보 노출사고가 정보공개의 축소로 이어져서는 안 된다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/contents/posts/115279463</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/contents/posts/115279463</guid>
-            <pubDate>Wed, 18 Nov 2026 06:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[정부 정보공개포털에서 주민등록번호와 암 진단서 등 개인정보가 노출되는 사고가 일어났습니다. 행정안전부는 정보공개포털의 원문정보 다운로드를 일시 중단하고 전 공공기관에 전수 점검을 지시했습니다. 이튿날 낸 설명자료의 제목은 “철저히 관리하겠습니다”였습니다. <br><br>그런데 이번 사건이 정보공개의 축소로 이어질 수 있다는 우려나 나오고 있습니다. 기록전문가인 조해원 뉴스타파 전문위원(전 서울기록관장)은 "개인정보 노출사고가 정보공개의 축소로 이어진다면, 그것은 사고보다 더 큰 실패다"라고 지적합니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/yrbRH</span><br>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[배임혐의 방정오 피의자 신분 소환조사 확인, 공소청의 결론은? (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/contents/posts/115279313</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/contents/posts/115279313</guid>
-            <pubDate>Wed, 18 Nov 2026 06:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[TV조선 방정오 부사장은 총 2건(약 80억 원)의 업무상 배임 혐의로 검찰의 수사를 받았습니다. 모두 방 부사장이 대주주인 (주)하이그라운드(현 (주)티엠이그룹)와 관련된 것이었습니다. 첫 사건은 2020년 8월 시민단체의 고발로 시작됐는데, 검찰은 불기소 결정을 했고, 지난해 6월 정권이 바뀌고 나서야 재기수사명령을 내린 바 있습니다. <br><br>그런데 지난 4월 검찰이 방정오 부사장을 피의자로 불러 조사한 사실이 확인됐습니다. 방 부사장이 검사장 출신 전관 변호사, 대형 로펌 변호사들을 변호인으로 선임한 사실도 확인됐습니다. 하지만 검찰은 수사 결과를 내리지 않은 채 문을 닫았습니다. 지난 3월 시민단체(세금도둑잡아라)가 고발한 두번째 사건에 대해서도 검찰은 결론을 내지 않았습니다. 이 두 사건 고발을 주도한 하승수 뉴스타파 전문위원(변호사)이 이 사건의 시작과 진행과정을 정리했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/9O1r2</span>]]></content:encoded>
+            <title><![CDATA[[주간 뉴스타파] COP31 결정문 합의 불발, 부끄러움은 왜 우리의 몫인가 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20261126174604307</link>
+            <guid>https://v.daum.net/v/20261126174604307</guid>
+            <pubDate>Thu, 26 Nov 2026 14:47:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261126174604307" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] COP31 결정문 합의 불발, 부끄러움은 왜 우리의 몫인가</strong><span class="info_txt"><span class="txt_info">6시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F26%2Fnewstapa%2F20261126174607148vfvs.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F26%2Fnewstapa%2F20261126174607148vfvs.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA["유진의 YTN 인수 내가 도왔다"...윤 캠프 네트워크본부장 개입 의혹 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20261126100104689</link>
             <guid>https://v.daum.net/v/20261126100104689</guid>
             <pubDate>Thu, 26 Nov 2026 04:54:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261126100104689" class="link_column"><div class="cont_thumb"><strong class="tit_txt">"유진의 YTN 인수 내가 도왔다"...윤 캠프 네트워크본부장 개입 의혹</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F26%2Fnewstapa%2F20261126100118890jvhf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F26%2Fnewstapa%2F20261126100118890jvhf.jpg" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261126100104689" class="link_column"><div class="cont_thumb"><strong class="tit_txt">"유진의 YTN 인수 내가 도왔다"...윤 캠프 네트워크본부장 개입 의혹</strong><span class="info_txt"><span class="txt_info">13시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F26%2Fnewstapa%2F20261126135925781gkqk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F26%2Fnewstapa%2F20261126135925781gkqk.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[국정원 자료 제공 숨긴 카이스트 연구진 "논문 출처 수정하겠다" (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20261125175124922</link>
             <guid>https://v.daum.net/v/20261125175124922</guid>
             <pubDate>Wed, 25 Nov 2026 13:59:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261125175124922" class="link_column"><div class="cont_thumb"><strong class="tit_txt">국정원 자료 제공 숨긴 카이스트 연구진 "논문 출처 수정하겠다"</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F25%2Fnewstapa%2F20261125175125246xjms.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261125175124922" class="link_column"><div class="cont_thumb"><strong class="tit_txt">국정원 자료 제공 숨긴 카이스트 연구진 "논문 출처 수정하겠다"</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F25%2Fnewstapa%2F20261125175125246xjms.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F25%2Fnewstapa%2F20261125175125246xjms.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3561,7 +3569,7 @@
             <link>https://v.daum.net/v/20261125173122866</link>
             <guid>https://v.daum.net/v/20261125173122866</guid>
             <pubDate>Wed, 25 Nov 2026 13:59:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261125173122866" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;벨트검사의 배신③ &gt; 환경 범죄 전문 벨트검사, ‘최악 공해 기업’ 영풍 변호</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F25%2Fnewstapa%2F20261125173128287bwww.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261125173122866" class="link_column"><div class="cont_thumb"><strong class="tit_txt">&lt;벨트검사의 배신③ &gt; 환경 범죄 전문 벨트검사, ‘최악 공해 기업’ 영풍 변호</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F25%2Fnewstapa%2F20261125173128287bwww.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F25%2Fnewstapa%2F20261125173128287bwww.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3569,7 +3577,7 @@
             <link>https://v.daum.net/v/20261125160604297</link>
             <guid>https://v.daum.net/v/20261125160604297</guid>
             <pubDate>Wed, 25 Nov 2026 13:59:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261125160604297" class="link_column"><div class="cont_thumb"><strong class="tit_txt">경찰이 외면한 이태원 참사 '추가 압사 신고'... 책임 축소하려 했나</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F25%2Fnewstapa%2F20261125160613429jyat.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261125160604297" class="link_column"><div class="cont_thumb"><strong class="tit_txt">경찰이 외면한 이태원 참사 '추가 압사 신고'... 책임 축소하려 했나</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F25%2Fnewstapa%2F20261125160613429jyat.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F25%2Fnewstapa%2F20261125160613429jyat.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3585,14 +3593,14 @@
             <link>https://v.daum.net/v/20261124182122984</link>
             <guid>https://v.daum.net/v/20261124182122984</guid>
             <pubDate>Tue, 24 Nov 2026 20:01:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261124182122984" class="link_column"><div class="cont_thumb"><strong class="tit_txt">경찰, 김병기 송치... 뉴스타파 보도 1년 2개월 만</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261124182122984" class="link_column"><div class="cont_thumb"><strong class="tit_txt">경찰, 김병기 송치... 뉴스타파 보도 1년 2개월 만</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['인천항의 봉이 김선달' 불법전대 통로 만들어준 인천항만공사... '이면계약'까지 체결 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20261124180604521</link>
             <guid>https://v.daum.net/v/20261124180604521</guid>
             <pubDate>Tue, 24 Nov 2026 20:01:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261124180604521" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'인천항의 봉이 김선달' 불법전대 통로 만들어준 인천항만공사... '이면계약'까지 체결</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F24%2Fnewstapa%2F20261124180606045pikm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261124180604521" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'인천항의 봉이 김선달' 불법전대 통로 만들어준 인천항만공사... '이면계약'까지 체결</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F24%2Fnewstapa%2F20261124180606045pikm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F24%2Fnewstapa%2F20261124180606045pikm.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3608,7 +3616,7 @@
             <link>https://v.daum.net/v/20261123145106550</link>
             <guid>https://v.daum.net/v/20261123145106550</guid>
             <pubDate>Mon, 23 Nov 2026 11:55:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261123145106550" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[기습질문은 유죄인가] ② 질문에 대한 경고처분 승인한 대법원</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F23%2Fnewstapa%2F20261123145108272ehdq.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261123145106550" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[기습질문은 유죄인가] ② 질문에 대한 경고처분 승인한 대법원</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F23%2Fnewstapa%2F20261123145108272ehdq.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F23%2Fnewstapa%2F20261123145108272ehdq.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3616,7 +3624,7 @@
             <link>https://v.daum.net/v/20261119175633400</link>
             <guid>https://v.daum.net/v/20261119175633400</guid>
             <pubDate>Thu, 19 Nov 2026 16:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261119175633400" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 잡던 자가 꼼수도 안다, 전직 특급 검사들의 꿀알바</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F23%2Fnewstapa%2F20261123111837867ephi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261119175633400" class="link_column"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 잡던 자가 꼼수도 안다, 전직 특급 검사들의 꿀알바</strong><span class="info_txt"><span class="txt_info">2026. 11. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F23%2Fnewstapa%2F20261123111837867ephi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F23%2Fnewstapa%2F20261123111837867ephi.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3770,14 +3778,6 @@
             <pubDate>Tue, 10 Nov 2026 12:31:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261110172117206" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'중국 댓글 공작' 카이스트 논문, 국정원 발주 연구 용역에서 나왔다</strong><span class="info_txt"><span class="txt_info">2026. 11. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F10%2Fnewstapa%2F20261110172126948bdof.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F10%2Fnewstapa%2F20261110172126948bdof.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA['인천항의 봉이 김선달' 인천항만공사가 뭉개고, 해경이 봐줬다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20261109171130585</link>
-            <guid>https://v.daum.net/v/20261109171130585</guid>
-            <pubDate>Mon, 09 Nov 2026 09:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20261109171130585" class="link_column"><div class="cont_thumb"><strong class="tit_txt">'인천항의 봉이 김선달' 인천항만공사가 뭉개고, 해경이 봐줬다</strong><span class="info_txt"><span class="txt_info">2026. 11. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F09%2Fnewstapa%2F20261109171131486ytxp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202611%2F09%2Fnewstapa%2F20261109171131486ytxp.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
