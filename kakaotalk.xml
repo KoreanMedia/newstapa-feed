@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2026-11-26T23:32:59.108Z</updated>
+    <updated>2026-11-27T07:02:15.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/e6da9c2/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화]1366 보도 후, 정부 지침 개정...일부 센터 무기계약 전환]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115384008</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115384008"/>
+        <updated>2026-11-27T07:02:08.167Z</updated>
+        <content type="html"><![CDATA[성폭력·가정폭력 피해자가 한밤중에도 도움을 청할 수 있는 곳, 여성긴급전화 1366입니다. 한 해 30만 건이 넘는 상담이 이곳으로 들어옵니다. 365일 24시간, 누군가는 그 전화를 받기 위해 한 달에 6~8번 밤을 새웁니다.<br><br>지난 7월 뉴스타파 보도 이후, 성평등가족부가 지침을 고쳤습니다. 지자체에 직영을 적극 검토하라고 권고하고, 상담사 고용안정성을 높이라고 했습니다. 계약직으로 상담사를 뽑던 센터 5곳은 정규직이나 무기계약직으로 채용하기 시작했습니다.<br><br>하지만 지침은 '권고'에 그쳤습니다. 가장 많은 상담을 맡는 서울센터는 여전히 1년 계약직이고, 인력 공백도 그대로입니다. 지난해에만 상담사 정원의 4분의 1이 넘는 64명이 1366을 떠났습니다. 피해자의 전화를 받아줄 사람이 그 자리에 남을 수 있도록, 아직 바뀌어야 할 것이 많습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/iBTSJ</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간 뉴스타파] 윤석열 언론 장악의 이면, YTN 민영화에 비선 그림자]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115376991</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115283224"/>
         <updated>2026-11-18T16:16:12.606Z</updated>
         <content type="html"><![CDATA[도이체방크에서 유출된 1,500만 건의 문서에서, 독일 정보기관인 연방헌법수호청(BfV)이 도이체방크에 통보한 명단이 발견됐습니다. 북한과 이란의 '위장 기업'으로 의심되는 업체 50곳의 명단입니다. <br><br>위장 기업은 제재 대상국이 국제 금융망을 우회해 무기 개발 자금 등을 조달하는 통로로 쓰일 수 있어, 은행은 공식 제재 대상이 아니더라도 의심 거래를 걸러내야 합니다. <br><br>하지만 도이체방크는 이 명단을 받기 전까지 약 5년 동안 이 가운데 40곳의 거래 5,000건, 모두 약 7억 유로(약 1조 300억 원)를 처리했습니다. 2017년 내부 조사에서는 거래 목적란에 '북한'이라고 적힌 송금까지 걸러내지 못한 사실이 드러났습니다.<br><br>북한 '위장 기업' 의심 업체 25곳 가운데 2곳은 국내 주소지로 기재돼 있었습니다. 자세한 내용은 기사에서 확인하실 수 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/W4Tvy</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하나은행 파나마 지점은 왜 도이체방크 결제망에서 퇴출됐나]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/contents/posts/115283076</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/contents/posts/115283076"/>
-        <updated>2026-11-18T16:16:12.609Z</updated>
-        <content type="html"><![CDATA[독일 최대 은행이자 글로벌 대형 투자은행인 도이체방크(Deutsche Bank)의 내부 문서에는 국내 시중 은행 한 곳이 반복적으로 등장합니다. 바로 하나은행입니다. 특히 도이체방크가 하나은행의 해외 지점 중 하나인 '파나마 지점'에 대해 평가한 문서가 눈에 띕니다.<br><br>도이체방크는 지난 2019년 하나은행 파나마 지점에 대한 현장 실사를 벌인 뒤, 여러 문제점을 지적한 평가 보고서를 작성했습니다. 그리고 6개월 뒤, 파나마 지점은 도이체방크의 달러 결제망에서 결국 '리스크 엑시트(Risk Exit)' 조치를 받은 것으로 확인됐습니다. '리스크 엑시트'란 거래 관계를 계속 유지하는 것이 위험하다고 판단될 때, 글로벌 은행이 거래 은행과의 환거래 관계를 끊는 조치입니다.<br><br>도이체방크는 하나은행 파나마 지점에서 무엇을 봤던 걸까요. 뉴스타파가 유출 문건과 실제 거래 데이터를 함께 들여다봤습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/v1pLm</span><br>]]></content>
     </entry>
 </feed>

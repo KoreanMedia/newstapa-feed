@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Nov 2026 23:32:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 07:02:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화]1366 보도 후, 정부 지침 개정...일부 센터 무기계약 전환]]></title>
+            <link>http://newstapa.org/article/iBTSJ</link>
+            <guid>http://newstapa.org/article/iBTSJ</guid>
+            <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화]1366 보도 후, 정부 지침 개정...일부 센터 무기계약 전환]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/27110513-033C-C63C-3C8F-BNR4AIZ3TMFQZ741VOYE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 윤석열 언론 장악의 이면, YTN 민영화에 비선 그림자]]></title>
             <link>http://newstapa.org/article/2JqNP</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;벨트검사의 배신①&gt; 한동훈이 기획한 '벨트검사'... 퇴직 이후 변호 이력 추적]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/18170146-951D-30DB-F052-IWS08X1SAHQO079G90ZJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] 개인정보 노출사고가 정보공개의 축소로 이어져서는 안 된다]]></title>
-            <link>http://newstapa.org/article/yrbRH</link>
-            <guid>http://newstapa.org/article/yrbRH</guid>
-            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[칼럼] 개인정보 노출사고가 정보공개의 축소로 이어져서는 안 된다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/18135830-3AFE-6E0E-9F28-NZUGO8PPE9A48VJG0MF6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
