@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Nov 2026 07:02:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 17:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘검찰범죄’ 특검이 밝혀야 할 50가지 의혹⑮ ‘창고’에 불려간 공범, 146번 온 참고인, 검사의 전화]]></title>
+            <link>http://newstapa.org/article/Aq3oo</link>
+            <guid>http://newstapa.org/article/Aq3oo</guid>
+            <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘검찰범죄’ 특검이 밝혀야 할 50가지 의혹⑮ ‘창고’에 불려간 공범, 146번 온 참고인, 검사의 전화]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/27182035-E3A5-0BF4-A038-RSS6K2FFVLA4T2PQF46G.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["유진의 YTN 인수 내가 도왔다"...윤 캠프 네트워크본부장 개입 의혹]]></title>
             <link>http://newstapa.org/article/hNFZe</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 '대통령 당선 무효', 대법원 결정만 남았다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/09104358-BD01-2498-099A-G6JA9RMUTPJVYELBZGP9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과]]></title>
-            <link>http://newstapa.org/article/HxPrq</link>
-            <guid>http://newstapa.org/article/HxPrq</guid>
-            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2026/11/06201344-A425-2AA6-9B36-WMKQS24PSYXVIIF4ZYF2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
